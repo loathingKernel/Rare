@@ -18,6 +18,8 @@ __pycache__
 /System Volume Information/
 /test_files/
 rare/_version.py
+# Doxygen
+/docs/html
 # Nuitka build artifacts
 /rare.build
 /rare.dist
@@ -25,3 +27,4 @@ rare/_version.py
 /rare.cmd
 /rare.exe
 /poetry.lock
+
