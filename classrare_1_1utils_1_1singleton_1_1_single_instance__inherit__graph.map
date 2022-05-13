@@ -1,0 +1,4 @@
+<map id="SingleInstance" name="SingleInstance">
+<area shape="rect" id="node1" title="Class that can be instantiated only once per machine." alt="" coords="5,131,113,267"/>
+<area shape="rect" id="node2" title=" " alt="" coords="31,5,88,83"/>
+</map>

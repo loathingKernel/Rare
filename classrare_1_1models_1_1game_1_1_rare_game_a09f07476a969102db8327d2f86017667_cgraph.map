@@ -1,0 +1,4 @@
+<map id="needs_verification" name="needs_verification">
+<area shape="rect" id="node1" title="Sets the verification status of a game." alt="" coords="5,29,132,56"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a75a2e37cdbb1feeb806eb179a21fa568" title="Property to report if a games requires to be verified." alt="" coords="180,29,307,56"/>
+</map>

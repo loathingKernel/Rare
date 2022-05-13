@@ -1,0 +1,8 @@
+<map id="doLayout" name="doLayout">
+<area shape="rect" id="node1" title="Arranges the widgets for this layout." alt="" coords="5,82,80,109"/>
+<area shape="rect" id="node2" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a198240b6ed8eb4be3d26adb4ca03aa8d" title=" " alt="" coords="128,29,323,71"/>
+<area shape="rect" id="node6" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a339c0461a90b6d3b3eee250fbc47aefb" title=" " alt="" coords="135,119,316,160"/>
+<area shape="rect" id="node3" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a2e8d545883a85a6757198adec7da2731" title=" " alt="" coords="371,75,543,116"/>
+<area shape="rect" id="node4" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#a35061dd226fbf32b76578ca1f0759ce1" title=" " alt="" coords="591,29,751,71"/>
+<area shape="rect" id="node5" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#acbb44b417d59fdabb258afc05df6e499" title=" " alt="" coords="591,119,751,160"/>
+</map>

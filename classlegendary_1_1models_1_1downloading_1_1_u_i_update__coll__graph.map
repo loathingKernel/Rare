@@ -1,0 +1,3 @@
+<map id="UIUpdate" name="UIUpdate">
+<area shape="rect" id="node1" title="Status update object sent from the manager to the CLI/GUI to update status indicators." alt="" coords="5,5,185,303"/>
+</map>

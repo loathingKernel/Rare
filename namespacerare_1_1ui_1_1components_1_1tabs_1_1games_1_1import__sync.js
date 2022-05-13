@@ -1,0 +1,6 @@
+var namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1import__sync =
+[
+    [ "egl_sync_group", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group.html", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group" ],
+    [ "egl_sync_list_group", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__list__group.html", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__list__group" ],
+    [ "import_group", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1import__sync_1_1import__group.html", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1import__sync_1_1import__group" ]
+];

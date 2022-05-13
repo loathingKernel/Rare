@@ -1,0 +1,5 @@
+<map id="unpad" name="unpad">
+<area shape="rect" id="node1" title="Removes a PKCS#7 padding, returning the unpadded text and ensuring the padding was correct." alt="" coords="396,37,453,63"/>
+<area shape="rect" id="node2" href="$namespacelegendary_1_1utils_1_1egl__crypt.html#ac30323782bba4a75e98ce75fa9895dee" title=" " alt="" coords="221,37,348,63"/>
+<area shape="rect" id="node3" href="$classlegendary_1_1core_1_1_legendary_core.html#aa81847f392455e684a2d27bddcdf0170" title="Import refresh token from EGL installation and use it for logging in." alt="" coords="5,29,173,71"/>
+</map>

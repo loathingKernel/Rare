@@ -1,0 +1,3 @@
+<map id="get_chunk_by_guid" name="get_chunk_by_guid">
+<area shape="rect" id="node1" title="Get chunk by GUID string or number, creates index of chunks on first call." alt="" coords="5,29,139,56"/>
+</map>
