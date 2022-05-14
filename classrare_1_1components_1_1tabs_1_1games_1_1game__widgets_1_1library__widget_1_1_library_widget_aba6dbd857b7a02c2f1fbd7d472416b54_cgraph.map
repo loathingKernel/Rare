@@ -1,11 +1,12 @@
 <map id="updateProgress" name="updateProgress">
-<area shape="rect" id="node1" title=" " alt="" coords="5,171,119,197"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,119,152"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#a4561ff9fad441241d27e7fa9d57173cf" title="Paints the color image over the gray images based on progress percentage." alt="" coords="226,29,346,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a4561ff9fad441241d27e7fa9d57173cf" title="Paints the color image over the gray images based on progress percentage." alt="" coords="167,104,405,160"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#afe7221063d2a4d7b1e1f42fb85f5d06f" title=" " alt="" coords="167,208,405,264"/>
-<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#afe7221063d2a4d7b1e1f42fb85f5d06f" title=" " alt="" coords="181,313,391,354"/>
-<area shape="rect" id="node4" href="$classlegendary_1_1models_1_1downloading_1_1_shared_memory_segment.html#a6d620a10dad91cadcb542e6098ada619" title=" " alt="" coords="473,45,673,86"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset.html#a39bd2b8ea4e12bd297244ec77cb5a1fa" title=" " alt="" coords="481,134,665,175"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#aa136880b14cd8741ebe60fbcf4d29a2e" title=" " alt="" coords="453,245,692,301"/>
-<area shape="rect" id="node9" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#aa136880b14cd8741ebe60fbcf4d29a2e" title=" " alt="" coords="484,349,661,405"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a4561ff9fad441241d27e7fa9d57173cf" title="Paints the color image over the gray images based on progress percentage." alt="" coords="453,51,692,107"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#afe7221063d2a4d7b1e1f42fb85f5d06f" title=" " alt="" coords="167,155,405,211"/>
+<area shape="rect" id="node8" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#afe7221063d2a4d7b1e1f42fb85f5d06f" title=" " alt="" coords="181,266,391,307"/>
+<area shape="rect" id="node4" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#aff1e7c8521d73ca3ac484759bf2b7597" title=" " alt="" coords="740,110,897,151"/>
+<area shape="rect" id="node5" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#acd7a5b208d0d18ac43cc317209bd759c" title=" " alt="" coords="945,110,1116,151"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a7237f0ce0aaddf9396e9801066707c3e" title=" " alt="" coords="453,155,692,211"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#aa136880b14cd8741ebe60fbcf4d29a2e" title=" " alt="" coords="453,259,692,315"/>
+<area shape="rect" id="node10" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#aa136880b14cd8741ebe60fbcf4d29a2e" title=" " alt="" coords="484,363,661,419"/>
 </map>

@@ -1,5 +1,13 @@
 var NAVTREEINDEX21 =
 {
+"functions_func_p.html":[7,3,1,16],
+"functions_func_q.html":[7,3,1,17],
+"functions_func_r.html":[7,3,1,18],
+"functions_func_s.html":[7,3,1,19],
+"functions_func_t.html":[7,3,1,20],
+"functions_func_u.html":[7,3,1,21],
+"functions_func_v.html":[7,3,1,22],
+"functions_func_w.html":[7,3,1,23],
 "functions_g.html":[7,3,0,7],
 "functions_h.html":[7,3,0,8],
 "functions_i.html":[7,3,0,9],
@@ -241,13 +249,5 @@ var NAVTREEINDEX21 =
 "namespacelegendary_1_1utils_1_1cli.html#a5e8c34d0dce0b665a289cffe6b705fa9":[6,0,0,6,1,0],
 "namespacelegendary_1_1utils_1_1cli.html#a626ffecf7c08c0e8ba9f383b653628e4":[6,0,0,6,1,3],
 "namespacelegendary_1_1utils_1_1cli.html#a671ebfa84f3e2bd63da0d7fa8b30bfbb":[6,0,0,6,1,2],
-"namespacelegendary_1_1utils_1_1config.html":[6,0,0,6,2],
-"namespacelegendary_1_1utils_1_1crossover.html":[6,0,0,6,3],
-"namespacelegendary_1_1utils_1_1crossover.html#a1d98ed5dc4f8b67b5c28ed02ccb013dc":[6,0,0,6,3,4],
-"namespacelegendary_1_1utils_1_1crossover.html#a79316780c8fdab3118397fd892bea306":[6,0,0,6,3,3],
-"namespacelegendary_1_1utils_1_1crossover.html#a9aa9ea66321ce994ff013a726a7ec6c4":[6,0,0,6,3,1],
-"namespacelegendary_1_1utils_1_1crossover.html#aa0edbed7fe6c00fdf4885a6d544e3618":[6,0,0,6,3,2],
-"namespacelegendary_1_1utils_1_1crossover.html#ab0581e55936af2c92558b9a8ffdb906b":[6,0,0,6,3,0],
-"namespacelegendary_1_1utils_1_1crossover.html#afcb04a9cdcff5e94b0c53b7f92276795":[6,0,0,6,3,5],
-"namespacelegendary_1_1utils_1_1custom__parser.html":[6,0,0,6,4]
+"namespacelegendary_1_1utils_1_1config.html":[6,0,0,6,2]
 };

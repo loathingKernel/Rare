@@ -1,5 +1,5 @@
 <map id="progress_pixmap" name="progress_pixmap">
-<area shape="rect" id="node1" title="Paints the color image over the gray images based on progress percentage." alt="" coords="5,82,125,109"/>
-<area shape="rect" id="node2" href="$classlegendary_1_1models_1_1downloading_1_1_shared_memory_segment.html#a6d620a10dad91cadcb542e6098ada619" title=" " alt="" coords="173,29,373,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset.html#a39bd2b8ea4e12bd297244ec77cb5a1fa" title=" " alt="" coords="181,119,365,160"/>
+<area shape="rect" id="node1" title="Paints the color image over the gray images based on progress percentage." alt="" coords="5,37,125,63"/>
+<area shape="rect" id="node2" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#aff1e7c8521d73ca3ac484759bf2b7597" title=" " alt="" coords="173,29,331,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#acd7a5b208d0d18ac43cc317209bd759c" title=" " alt="" coords="379,29,549,71"/>
 </map>

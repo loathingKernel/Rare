@@ -1,5 +1,13 @@
 var NAVTREEINDEX22 =
 {
+"namespacelegendary_1_1utils_1_1crossover.html":[6,0,0,6,3],
+"namespacelegendary_1_1utils_1_1crossover.html#a1d98ed5dc4f8b67b5c28ed02ccb013dc":[6,0,0,6,3,4],
+"namespacelegendary_1_1utils_1_1crossover.html#a79316780c8fdab3118397fd892bea306":[6,0,0,6,3,3],
+"namespacelegendary_1_1utils_1_1crossover.html#a9aa9ea66321ce994ff013a726a7ec6c4":[6,0,0,6,3,1],
+"namespacelegendary_1_1utils_1_1crossover.html#aa0edbed7fe6c00fdf4885a6d544e3618":[6,0,0,6,3,2],
+"namespacelegendary_1_1utils_1_1crossover.html#ab0581e55936af2c92558b9a8ffdb906b":[6,0,0,6,3,0],
+"namespacelegendary_1_1utils_1_1crossover.html#afcb04a9cdcff5e94b0c53b7f92276795":[6,0,0,6,3,5],
+"namespacelegendary_1_1utils_1_1custom__parser.html":[6,0,0,6,4],
 "namespacelegendary_1_1utils_1_1egl__crypt.html":[6,0,0,6,5],
 "namespacelegendary_1_1utils_1_1egl__crypt.html#a0322663c85a2f4aea6b43ca1e6f14757":[6,0,0,6,5,12],
 "namespacelegendary_1_1utils_1_1egl__crypt.html#a147f48a2b94715ade8fd9de4cd6c3dc0":[6,0,0,6,5,2],
@@ -79,8 +87,8 @@ var NAVTREEINDEX22 =
 "namespacelegendary_1_1utils_1_1wine__helpers.html#a0efb8fe103453ef74f9904f9caae1e8e":[6,0,0,6,16,1],
 "namespacelegendary_1_1utils_1_1wine__helpers.html#a987c2dd450a6109f9c63f7b4bcec1614":[6,0,0,6,16,2],
 "namespacelegendary_1_1utils_1_1wine__helpers.html#adb0158ef1dac8577bbd41dbb5aec3bd3":[6,0,0,6,16,0],
-"namespacemembers.html":[6,1,0,0],
 "namespacemembers.html":[6,1,0],
+"namespacemembers.html":[6,1,0,0],
 "namespacemembers_b.html":[6,1,0,1],
 "namespacemembers_c.html":[6,1,0,2],
 "namespacemembers_d.html":[6,1,0,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX22 =
 "namespacerare_1_1components_1_1tabs_1_1shop_1_1shop__api__core.html":[6,0,1,2,3,4,4],
 "namespacerare_1_1components_1_1tabs_1_1shop_1_1shop__api__core.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,1,2,3,4,4,2],
 "namespacerare_1_1components_1_1tabs_1_1shop_1_1shop__api__core.html#a2ba63db98b4ef46ff3785bff3fc155fc":[6,0,1,2,3,4,4,1],
-"namespacerare_1_1components_1_1tabs_1_1shop_1_1shop__models.html":[6,0,1,2,3,4,5],
-"namespacerare_1_1components_1_1tabs_1_1shop_1_1shop__widget.html":[6,0,1,2,3,4,6],
-"namespacerare_1_1components_1_1tabs_1_1shop_1_1shop__widget.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,1,2,3,4,6,2],
-"namespacerare_1_1components_1_1tabs_1_1shop_1_1wishlist.html":[6,0,1,2,3,4,7],
-"namespacerare_1_1components_1_1tabs_1_1tab__utils.html":[6,0,1,2,3,5],
-"namespacerare_1_1components_1_1tray__icon.html":[6,0,1,2,4],
-"namespacerare_1_1models.html":[6,0,1,3],
-"namespacerare_1_1models_1_1game.html":[6,0,1,3,0],
-"namespacerare_1_1models_1_1game.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,1,3,0,1]
+"namespacerare_1_1components_1_1tabs_1_1shop_1_1shop__models.html":[6,0,1,2,3,4,5]
 };

@@ -1,5 +1,13 @@
 var NAVTREEINDEX20 =
 {
+"components_2dialogs_2login_2____init_____8py.html":[8,0,0,0,0,0,0],
+"components_2dialogs_2login_2____init_____8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,0,0,0,2],
+"components_2dialogs_2login_2____init_____8py_source.html":[8,0,0,0,0,0,0],
+"components_2dialogs_2login_2browser__login_8py.html":[8,0,0,0,0,0,1],
+"components_2dialogs_2login_2browser__login_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,0,0,1,1],
+"components_2dialogs_2login_2browser__login_8py_source.html":[8,0,0,0,0,0,1],
+"components_2dialogs_2login_2import__login_8py.html":[8,0,0,0,0,0,2],
+"components_2dialogs_2login_2import__login_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,0,0,2,1],
 "components_2dialogs_2login_2import__login_8py_source.html":[8,0,0,0,0,0,2],
 "components_2extra_2____init_____8py.html":[8,0,0,0,1,0],
 "components_2extra_2____init_____8py_source.html":[8,0,0,0,1,0],
@@ -217,8 +225,8 @@ var NAVTREEINDEX20 =
 "extra__widgets_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,5,2,14],
 "extra__widgets_8py_source.html":[8,0,0,5,2],
 "files.html":[8,0],
-"functions.html":[7,3,0],
 "functions.html":[7,3,0,0],
+"functions.html":[7,3,0],
 "functions_a.html":[7,3,0,1],
 "functions_b.html":[7,3,0,2],
 "functions_c.html":[7,3,0,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX20 =
 "functions_func_l.html":[7,3,1,12],
 "functions_func_m.html":[7,3,1,13],
 "functions_func_n.html":[7,3,1,14],
-"functions_func_o.html":[7,3,1,15],
-"functions_func_p.html":[7,3,1,16],
-"functions_func_q.html":[7,3,1,17],
-"functions_func_r.html":[7,3,1,18],
-"functions_func_s.html":[7,3,1,19],
-"functions_func_t.html":[7,3,1,20],
-"functions_func_u.html":[7,3,1,21],
-"functions_func_v.html":[7,3,1,22],
-"functions_func_w.html":[7,3,1,23]
+"functions_func_o.html":[7,3,1,15]
 };

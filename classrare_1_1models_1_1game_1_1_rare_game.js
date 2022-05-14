@@ -20,6 +20,7 @@ var classrare_1_1models_1_1game_1_1_rare_game =
     [ "is_win32", "classrare_1_1models_1_1game_1_1_rare_game.html#a8e715359c3ecbc7c4431eab18f52b604", null ],
     [ "needs_verification", "classrare_1_1models_1_1game_1_1_rare_game.html#a75a2e37cdbb1feeb806eb179a21fa568", null ],
     [ "needs_verification", "classrare_1_1models_1_1game_1_1_rare_game.html#a09f07476a969102db8327d2f86017667", null ],
+    [ "refresh_pixmap", "classrare_1_1models_1_1game_1_1_rare_game.html#a974efcc254c209206208ddd4d9f391a8", null ],
     [ "remote_version", "classrare_1_1models_1_1game_1_1_rare_game.html#adf94568f84b36f0c783d76df96936a8b", null ],
     [ "set_pixmap", "classrare_1_1models_1_1game_1_1_rare_game.html#ab97aa84611663113dd2196fb2661c60e", null ],
     [ "verify", "classrare_1_1models_1_1game_1_1_rare_game.html#a775459215a73feeb79dd64d82410ce98", null ],
