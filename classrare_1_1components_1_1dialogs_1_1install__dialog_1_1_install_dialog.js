@@ -3,6 +3,7 @@ var classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog =
     [ "__init__", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a5e2ef2c38a7be14482f5ad20e727b6db", null ],
     [ "cancel_clicked", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#ad983629da6604069e3e3f432ed5897f8", null ],
     [ "closeEvent", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#ac2059187ee3abe729fa7c41326035440", null ],
+    [ "error_box", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a138282883753fa5f7af306a3bb35ceaf", null ],
     [ "execute", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aa902973791e81c8c4542da337b86289b", null ],
     [ "get_download_info", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aca780d78b993a295a93507a4a6d12a69", null ],
     [ "get_options", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a004987011909ef3b326e6d95f6393ec0", null ],

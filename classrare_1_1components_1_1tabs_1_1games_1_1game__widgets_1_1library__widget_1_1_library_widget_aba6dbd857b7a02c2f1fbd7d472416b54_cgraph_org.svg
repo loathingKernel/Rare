@@ -27,26 +27,26 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#a4561ff9fad441241d27e7fa9d57173cf" target="_top" xlink:title="Paints the color image over the gray images based on progress percentage.">
-<polygon fill="white" stroke="black" points="165.5,-272.5 165.5,-291.5 255.5,-291.5 255.5,-272.5 165.5,-272.5"/>
-<text text-anchor="middle" x="210.5" y="-279.5" font-family="Helvetica,sans-Serif" font-size="10.00">progress_pixmap</text>
+<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#a98c2ca1fee1748cb4e89a7d2d45c23f7" target="_top" xlink:title="Paints the color image over the gray images based on progress percentage.">
+<polygon fill="white" stroke="black" points="167.5,-272.5 167.5,-291.5 253.5,-291.5 253.5,-272.5 167.5,-272.5"/>
+<text text-anchor="middle" x="210.5" y="-279.5" font-family="Helvetica,sans-Serif" font-size="10.00">progressPixmap</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M56.3,-219.55C71.16,-230.25 96.76,-247.47 121,-258 131.95,-262.76 144.08,-266.78 155.76,-270.1"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="154.86,-273.49 165.43,-272.73 156.69,-266.73 154.86,-273.49"/>
+<path fill="none" stroke="midnightblue" d="M56.3,-219.55C71.16,-230.25 96.76,-247.47 121,-258 132.41,-262.95 145.1,-267.12 157.22,-270.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="156.66,-273.99 167.23,-273.19 158.47,-267.23 156.66,-273.99"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a4561ff9fad441241d27e7fa9d57173cf" target="_top" xlink:title="Paints the color image over the gray images based on progress percentage.">
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a98c2ca1fee1748cb4e89a7d2d45c23f7" target="_top" xlink:title="Paints the color image over the gray images based on progress percentage.">
 <polygon fill="white" stroke="black" points="336,-234.5 336,-275.5 515,-275.5 515,-234.5 336,-234.5"/>
 <text text-anchor="start" x="344" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
 <text text-anchor="start" x="344" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">_widgets.list_game_widget.ListGame</text>
-<text text-anchor="middle" x="425.5" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">Widget.progress_pixmap</text>
+<text text-anchor="middle" x="425.5" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">Widget.progressPixmap</text>
 </a>
 </g>
 </g>

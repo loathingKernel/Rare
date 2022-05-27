@@ -111,9 +111,9 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#a4561ff9fad441241d27e7fa9d57173cf" target="_top" xlink:title="Paints the color image over the gray images based on progress percentage.">
-<polygon fill="white" stroke="black" points="326.5,-272.5 326.5,-291.5 416.5,-291.5 416.5,-272.5 326.5,-272.5"/>
-<text text-anchor="middle" x="371.5" y="-279.5" font-family="Helvetica,sans-Serif" font-size="10.00">progress_pixmap</text>
+<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#a98c2ca1fee1748cb4e89a7d2d45c23f7" target="_top" xlink:title="Paints the color image over the gray images based on progress percentage.">
+<polygon fill="white" stroke="black" points="328.5,-272.5 328.5,-291.5 414.5,-291.5 414.5,-272.5 328.5,-272.5"/>
+<text text-anchor="middle" x="371.5" y="-279.5" font-family="Helvetica,sans-Serif" font-size="10.00">progressPixmap</text>
 </a>
 </g>
 </g>
@@ -126,11 +126,11 @@
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a4561ff9fad441241d27e7fa9d57173cf" target="_top" xlink:title="Paints the color image over the gray images based on progress percentage.">
+<g id="a_node7"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a98c2ca1fee1748cb4e89a7d2d45c23f7" target="_top" xlink:title="Paints the color image over the gray images based on progress percentage.">
 <polygon fill="white" stroke="black" points="497,-234.5 497,-275.5 676,-275.5 676,-234.5 497,-234.5"/>
 <text text-anchor="start" x="505" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
 <text text-anchor="start" x="505" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">_widgets.list_game_widget.ListGame</text>
-<text text-anchor="middle" x="586.5" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">Widget.progress_pixmap</text>
+<text text-anchor="middle" x="586.5" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">Widget.progressPixmap</text>
 </a>
 </g>
 </g>

@@ -64,6 +64,7 @@ var hierarchy =
     [ "object", null, [
       [ "IconWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__widget_1_1_icon_widget.html", null ],
       [ "ListWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget.html", null ],
+      [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", null ],
       [ "Ui_InstallDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html", [
         [ "InstallDialog", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html", null ]
       ] ],
@@ -273,7 +274,7 @@ var hierarchy =
       [ "UbiGetInfoSignals", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1ubisoft__activation_1_1_ubi_get_info_signals.html", null ],
       [ "Constants", "classrare_1_1components_1_1tabs_1_1shop_1_1constants_1_1_constants.html", null ],
       [ "ShopApiCore", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html", null ],
-      [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", null ],
+      [ "RareGame.Signals", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals.html", null ],
       [ "GlobalSignals", "classrare_1_1models_1_1signals_1_1_global_signals.html", null ],
       [ "GlobalSignals.DownloadSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_download_signals.html", null ],
       [ "GlobalSignals.GameSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_game_signals.html", null ],

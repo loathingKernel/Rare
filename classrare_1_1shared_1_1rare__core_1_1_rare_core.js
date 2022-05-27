@@ -34,5 +34,5 @@ var classrare_1_1shared_1_1rare__core_1_1_rare_core =
     [ "image_manager", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aee5f66b42f4c40d2fbb8ee5c2aa32b8c", null ],
     [ "settings", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a6cddb5e40c21eadd2ded85bc51f79822", null ],
     [ "start_time", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a2530c3908f0179486a4c2255f792e27a", null ],
-    [ "thread_pool", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a935b42912b43f87438b825aa94ab099a", null ]
+    [ "threadpool", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#ad7d6a26c2b0e3239367e07430b368118", null ]
 ];

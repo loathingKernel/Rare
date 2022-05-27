@@ -10,7 +10,6 @@ var searchData=
   ['hasheightforwidth_7',['hasHeightForWidth',['../classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a2a4d6d113188f8a26c24db2883ef4446',1,'rare::utils::extra_widgets::FlowLayout']]],
   ['headerdata_8',['headerData',['../classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#a7dadeab95a39961860c43a9374fe6c13',1,'rare::utils::json_formatter::QJsonModel']]],
   ['heightforwidth_9',['heightForWidth',['../classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a79a95bc3b25357794eb45d452b5fa4c6',1,'rare::utils::extra_widgets::FlowLayout']]],
-  ['hide_5fprogress_10',['hide_progress',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#ac7a769a06e4fac62ea9e2eeaf15012bb',1,'rare::components::tabs::games::game_widgets::game_widget::GameWidget']]],
-  ['hideprogress_11',['hideProgress',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#a622af4e743e03c5e08339dc44ccf221d',1,'rare::components::tabs::games::game_widgets::library_widget::LibraryWidget']]],
-  ['horizontalspacing_12',['horizontalSpacing',['../classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a198240b6ed8eb4be3d26adb4ca03aa8d',1,'rare::utils::extra_widgets::FlowLayout']]]
+  ['hideprogress_10',['hideProgress',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#a622af4e743e03c5e08339dc44ccf221d',1,'rare::components::tabs::games::game_widgets::library_widget::LibraryWidget']]],
+  ['horizontalspacing_11',['horizontalSpacing',['../classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a198240b6ed8eb4be3d26adb4ca03aa8d',1,'rare::utils::extra_widgets::FlowLayout']]]
 ];

@@ -1,0 +1,3 @@
+<map id="progressPixmap" name="progressPixmap">
+<area shape="rect" id="node1" title="Paints the color image over the gray images based on progress percentage." alt="" coords="5,29,120,56"/>
+</map>
