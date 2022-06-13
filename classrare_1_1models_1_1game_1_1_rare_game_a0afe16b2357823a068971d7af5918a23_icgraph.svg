@@ -137,17 +137,17 @@ var sectionId = 'dynsection-5';
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1utils_1_1legendary__utils_1_1_verify_worker.html#ad22709b2e67308af35f55680d5a026e0" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="825,-481.5 825,-511.5 938,-511.5 938,-481.5 825,-481.5"/>
-<text text-anchor="start" x="833" y="-499.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.legendary</text>
-<text text-anchor="middle" x="881.5" y="-488.5" font-family="Helvetica,sans-Serif" font-size="10.00">_utils.VerifyWorker.run</text>
+<g id="a_node6"><a xlink:href="classrare_1_1utils_1_1legendary__utils_1_1_verification_worker.html#ad22709b2e67308af35f55680d5a026e0" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="813,-481.5 813,-511.5 950,-511.5 950,-481.5 813,-481.5"/>
+<text text-anchor="start" x="821" y="-499.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.legendary</text>
+<text text-anchor="middle" x="881.5" y="-488.5" font-family="Helvetica,sans-Serif" font-size="10.00">_utils.VerificationWorker.run</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge10" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M1047.2,-413.94C1035.78,-431.75 1016.1,-458.09 992,-472.5 975.8,-482.19 956.15,-487.98 938,-491.44"/>
+<path fill="none" stroke="midnightblue" d="M1047.2,-413.94C1035.78,-431.75 1016.1,-458.09 992,-472.5 979.39,-480.04 964.69,-485.22 950.24,-488.78"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1050.41,-415.4 1052.67,-405.05 1044.45,-411.73 1050.41,-415.4"/>
 </g>
 <!-- Node7 -->

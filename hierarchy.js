@@ -29,6 +29,7 @@ var hierarchy =
     [ "EGLManifest", "classlegendary_1_1models_1_1egl_1_1_e_g_l_manifest.html", null ],
     [ "EPCAPI", "classlegendary_1_1api_1_1egs_1_1_e_p_c_a_p_i.html", null ],
     [ "EPCLFS", "classlegendary_1_1lfs_1_1egl_1_1_e_p_c_l_f_s.html", null ],
+    [ "EventTypes", "classrare_1_1utils_1_1utils_1_1_event_types.html", null ],
     [ "Exception", null, [
       [ "InvalidCredentialsError", "classlegendary_1_1models_1_1exceptions_1_1_invalid_credentials_error.html", null ]
     ] ],
@@ -64,7 +65,6 @@ var hierarchy =
     [ "object", null, [
       [ "IconWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__widget_1_1_icon_widget.html", null ],
       [ "ListWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget.html", null ],
-      [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", null ],
       [ "Ui_InstallDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html", [
         [ "InstallDialog", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html", null ]
       ] ],
@@ -172,6 +172,7 @@ var hierarchy =
     [ "SaveGameHelper", "classlegendary_1_1utils_1_1savegame__helper_1_1_save_game_helper.html", null ],
     [ "SharedMemorySegment", "classlegendary_1_1models_1_1downloading_1_1_shared_memory_segment.html", null ],
     [ "ShopGame", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_shop_game.html", null ],
+    [ "RareGame.Signals", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals.html", null ],
     [ "TerminateWorkerTask", "classlegendary_1_1models_1_1downloading_1_1_terminate_worker_task.html", null ],
     [ "UIUpdate", "classlegendary_1_1models_1_1downloading_1_1_u_i_update.html", null ],
     [ "UploadModel", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_upload_model.html", null ],
@@ -188,6 +189,7 @@ var hierarchy =
       [ "TaskFlags", "classlegendary_1_1models_1_1downloading_1_1_task_flags.html", null ]
     ] ],
     [ "IntEnum", null, [
+      [ "RareGameState", "classrare_1_1models_1_1game_1_1_rare_game_state.html", null ],
       [ "RareCore.Worker.Result", "classrare_1_1shared_1_1rare__core_1_1_rare_core_1_1_worker_1_1_result.html", null ]
     ] ],
     [ "Process", null, [
@@ -274,7 +276,10 @@ var hierarchy =
       [ "UbiGetInfoSignals", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1ubisoft__activation_1_1_ubi_get_info_signals.html", null ],
       [ "Constants", "classrare_1_1components_1_1tabs_1_1shop_1_1constants_1_1_constants.html", null ],
       [ "ShopApiCore", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html", null ],
-      [ "RareGame.Signals", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals.html", null ],
+      [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", null ],
+      [ "RareGame.Signals.Game", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals_1_1_game.html", null ],
+      [ "RareGame.Signals.Progress", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals_1_1_progress.html", null ],
+      [ "RareGame.Signals.Widget", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals_1_1_widget.html", null ],
       [ "GlobalSignals", "classrare_1_1models_1_1signals_1_1_global_signals.html", null ],
       [ "GlobalSignals.DownloadSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_download_signals.html", null ],
       [ "GlobalSignals.GameSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_game_signals.html", null ],
@@ -283,7 +288,7 @@ var hierarchy =
       [ "ImageManager.Worker.Signals", "classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker_1_1_signals.html", null ],
       [ "RareCore", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html", null ],
       [ "RareCore.Worker.Signals", "classrare_1_1shared_1_1rare__core_1_1_rare_core_1_1_worker_1_1_signals.html", null ],
-      [ "VerifySignals", "classrare_1_1utils_1_1legendary__utils_1_1_verify_signals.html", null ],
+      [ "VerificationWorker.Signals", "classrare_1_1utils_1_1legendary__utils_1_1_verification_worker_1_1_signals.html", null ],
       [ "QtRequestManager", "classrare_1_1utils_1_1qt__requests_1_1_qt_request_manager.html", null ],
       [ "DiscordRPC", "classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html", null ],
       [ "SteamWorker.Signals", "classrare_1_1utils_1_1steam__grades_1_1_steam_worker_1_1_signals.html", null ],
@@ -315,7 +320,7 @@ var hierarchy =
         [ "RareCore.SavesWorker", "classrare_1_1shared_1_1rare__core_1_1_rare_core_1_1_saves_worker.html", null ],
         [ "RareCore.Win32Worker", "classrare_1_1shared_1_1rare__core_1_1_rare_core_1_1_win32_worker.html", null ]
       ] ],
-      [ "VerifyWorker", "classrare_1_1utils_1_1legendary__utils_1_1_verify_worker.html", null ],
+      [ "VerificationWorker", "classrare_1_1utils_1_1legendary__utils_1_1_verification_worker.html", null ],
       [ "SteamWorker", "classrare_1_1utils_1_1steam__grades_1_1_steam_worker.html", null ],
       [ "CloudWorker", "classrare_1_1utils_1_1utils_1_1_cloud_worker.html", null ],
       [ "WineResolver", "classrare_1_1utils_1_1utils_1_1_wine_resolver.html", null ]

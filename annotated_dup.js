@@ -347,7 +347,8 @@ var annotated_dup =
       ] ],
       [ "models", "namespacerare_1_1models.html", [
         [ "game", "namespacerare_1_1models_1_1game.html", [
-          [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", "classrare_1_1models_1_1game_1_1_rare_game" ]
+          [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", "classrare_1_1models_1_1game_1_1_rare_game" ],
+          [ "RareGameState", "classrare_1_1models_1_1game_1_1_rare_game_state.html", null ]
         ] ],
         [ "install", "namespacerare_1_1models_1_1install.html", [
           [ "InstallDownloadModel", "classrare_1_1models_1_1install_1_1_install_download_model.html", null ],
@@ -519,8 +520,7 @@ var annotated_dup =
           [ "QJsonTreeItem", "classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html", "classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item" ]
         ] ],
         [ "legendary_utils", "namespacerare_1_1utils_1_1legendary__utils.html", [
-          [ "VerifySignals", "classrare_1_1utils_1_1legendary__utils_1_1_verify_signals.html", null ],
-          [ "VerifyWorker", "classrare_1_1utils_1_1legendary__utils_1_1_verify_worker.html", "classrare_1_1utils_1_1legendary__utils_1_1_verify_worker" ]
+          [ "VerificationWorker", "classrare_1_1utils_1_1legendary__utils_1_1_verification_worker.html", "classrare_1_1utils_1_1legendary__utils_1_1_verification_worker" ]
         ] ],
         [ "qt_requests", "namespacerare_1_1utils_1_1qt__requests.html", [
           [ "QtRequestManager", "classrare_1_1utils_1_1qt__requests_1_1_qt_request_manager.html", "classrare_1_1utils_1_1qt__requests_1_1_qt_request_manager" ],
@@ -539,6 +539,7 @@ var annotated_dup =
         [ "utils", "namespacerare_1_1utils_1_1utils.html", [
           [ "CloudSignals", "classrare_1_1utils_1_1utils_1_1_cloud_signals.html", null ],
           [ "CloudWorker", "classrare_1_1utils_1_1utils_1_1_cloud_worker.html", "classrare_1_1utils_1_1utils_1_1_cloud_worker" ],
+          [ "EventTypes", "classrare_1_1utils_1_1utils_1_1_event_types.html", "classrare_1_1utils_1_1utils_1_1_event_types" ],
           [ "WineResolver", "classrare_1_1utils_1_1utils_1_1_wine_resolver.html", "classrare_1_1utils_1_1utils_1_1_wine_resolver" ],
           [ "WineResolverSignals", "classrare_1_1utils_1_1utils_1_1_wine_resolver_signals.html", null ]
         ] ]

@@ -16,8 +16,7 @@ var searchData=
   ['open_5fbrowser_13',['open_browser',['../classrare_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_browser_login.html#a86308e9b1d58a4dc965ba3fdb3769bc3',1,'rare::components::dialogs::login::browser_login::BrowserLogin']]],
   ['open_5fdir_14',['open_dir',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#aa0cf5bfa7b037eb698860e0a32da24d8',1,'rare::components::tabs::settings::rare::RareSettings']]],
   ['open_5furl_5fexternal_15',['open_url_external',['../classlegendary_1_1utils_1_1webview__login_1_1_mock_launcher.html#a1dd3ec598b5c8d8027f500cb4cf45c2a',1,'legendary::utils::webview_login::MockLauncher']]],
-  ['optimal_5ftext_5fbackground_16',['optimal_text_background',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#aec99b76fc067bfb4a28c73c9b20209c4',1,'rare::components::tabs::games::game_widgets::library_widget::LibraryWidget']]],
-  ['option_5fchanged_17',['option_changed',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aa51e6226cd56f521d72412361aba31ec',1,'rare::components::dialogs::install_dialog::InstallDialog']]],
-  ['output_5fprogress_18',['output_progress',['../classlegendary_1_1cli_1_1_legendary_c_l_i.html#aea2c55c5c2d86c3f3a918095c66fd117',1,'legendary::cli::LegendaryCLI']]],
-  ['overlay_5finstallation_5ffinished_19',['overlay_installation_finished',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1eos_1_1_eos_widget.html#a871a7af4a00cedf7965270c7bff34cca',1,'rare::components::tabs::settings::widgets::eos::EosWidget']]]
+  ['option_5fchanged_16',['option_changed',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aa51e6226cd56f521d72412361aba31ec',1,'rare::components::dialogs::install_dialog::InstallDialog']]],
+  ['output_5fprogress_17',['output_progress',['../classlegendary_1_1cli_1_1_legendary_c_l_i.html#aea2c55c5c2d86c3f3a918095c66fd117',1,'legendary::cli::LegendaryCLI']]],
+  ['overlay_5finstallation_5ffinished_18',['overlay_installation_finished',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1eos_1_1_eos_widget.html#a871a7af4a00cedf7965270c7bff34cca',1,'rare::components::tabs::settings::widgets::eos::EosWidget']]]
 ];

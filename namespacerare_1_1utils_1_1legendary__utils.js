@@ -1,7 +1,6 @@
 var namespacerare_1_1utils_1_1legendary__utils =
 [
-    [ "VerifySignals", "classrare_1_1utils_1_1legendary__utils_1_1_verify_signals.html", null ],
-    [ "VerifyWorker", "classrare_1_1utils_1_1legendary__utils_1_1_verify_worker.html", "classrare_1_1utils_1_1legendary__utils_1_1_verify_worker" ],
+    [ "VerificationWorker", "classrare_1_1utils_1_1legendary__utils_1_1_verification_worker.html", "classrare_1_1utils_1_1legendary__utils_1_1_verification_worker" ],
     [ "import_game", "namespacerare_1_1utils_1_1legendary__utils.html#ad046052bb3faec2a3852228f74e9056b", null ],
     [ "resolve_aliases", "namespacerare_1_1utils_1_1legendary__utils.html#a34a3a65d02415601d09da8dff9b9feed", null ],
     [ "uninstall", "namespacerare_1_1utils_1_1legendary__utils.html#a86ddeb0d360ade7ffb65b2d32dab5d19", null ],

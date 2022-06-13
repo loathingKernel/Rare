@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['game_0',['Game',['../classlegendary_1_1models_1_1game_1_1_game.html',1,'legendary::models::game']]],
+  ['game_0',['Game',['../classlegendary_1_1models_1_1game_1_1_game.html',1,'Game'],['../classrare_1_1models_1_1game_1_1_rare_game_1_1_signals_1_1_game.html',1,'RareGame.Signals.Game']]],
   ['gameasset_1',['GameAsset',['../classlegendary_1_1models_1_1game_1_1_game_asset.html',1,'legendary::models::game']]],
   ['gamedlc_2',['GameDlc',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html',1,'rare::components::tabs::games::game_info::game_dlc']]],
   ['gamedlcwidget_3',['GameDlcWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html',1,'rare::components::tabs::games::game_info::game_dlc']]],

@@ -1,7 +1,7 @@
 var classrare_1_1models_1_1game_1_1_rare_game =
 [
     [ "Metadata", "classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html", "classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata" ],
-    [ "Signals", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals.html", null ],
+    [ "Signals", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals.html", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals" ],
     [ "__init__", "classrare_1_1models_1_1game_1_1_rare_game.html#a15241683005a93933f9fd3eb5876eb8d", null ],
     [ "app_name", "classrare_1_1models_1_1game_1_1_rare_game.html#a0afe16b2357823a068971d7af5918a23", null ],
     [ "app_title", "classrare_1_1models_1_1game_1_1_rare_game.html#ae1cd35b1295fa44fd6906c1bcf28fd20", null ],
@@ -23,17 +23,21 @@ var classrare_1_1models_1_1game_1_1_rare_game =
     [ "needs_verification", "classrare_1_1models_1_1game_1_1_rare_game.html#a09f07476a969102db8327d2f86017667", null ],
     [ "refresh_pixmap", "classrare_1_1models_1_1game_1_1_rare_game.html#a974efcc254c209206208ddd4d9f391a8", null ],
     [ "remote_version", "classrare_1_1models_1_1game_1_1_rare_game.html#adf94568f84b36f0c783d76df96936a8b", null ],
+    [ "repair", "classrare_1_1models_1_1game_1_1_rare_game.html#a355f6c6c0e4751cd245486cbf1b9cde5", null ],
     [ "set_installed", "classrare_1_1models_1_1game_1_1_rare_game.html#a590836cea8227c1cb3994dabf184ecab", null ],
     [ "set_pixmap", "classrare_1_1models_1_1game_1_1_rare_game.html#ab97aa84611663113dd2196fb2661c60e", null ],
     [ "start_progress", "classrare_1_1models_1_1game_1_1_rare_game.html#a7452c15bd2987cd55fca73d67d8d25cd", null ],
+    [ "uninstall", "classrare_1_1models_1_1game_1_1_rare_game.html#aa4abbfd4db26f9f83c89521447d22de8", null ],
     [ "update_progress", "classrare_1_1models_1_1game_1_1_rare_game.html#a5939c68522d0e593cc0f8f283babc1bc", null ],
-    [ "verify", "classrare_1_1models_1_1game_1_1_rare_game.html#a775459215a73feeb79dd64d82410ce98", null ],
+    [ "verify", "classrare_1_1models_1_1game_1_1_rare_game.html#a225d2791689bbc1bf577ba9d298a425f", null ],
+    [ "verify_worker", "classrare_1_1models_1_1game_1_1_rare_game.html#a701e5a17df779dfe657325db272a6ef1", null ],
     [ "version", "classrare_1_1models_1_1game_1_1_rare_game.html#a1e436b61f937ea687fa3897d286899cf", null ],
     [ "core", "classrare_1_1models_1_1game_1_1_rare_game.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "game_running", "classrare_1_1models_1_1game_1_1_rare_game.html#a44c04b05a609a1bd875eff33e17192a2", null ],
     [ "igame", "classrare_1_1models_1_1game_1_1_rare_game.html#acdfba4fe3b3148ef92d436febd813c8c", null ],
     [ "image_manager", "classrare_1_1models_1_1game_1_1_rare_game.html#aee5f66b42f4c40d2fbb8ee5c2aa32b8c", null ],
     [ "pixmap", "classrare_1_1models_1_1game_1_1_rare_game.html#acffa85dc875ba8bc4c40e81486b82b47", null ],
+    [ "progress", "classrare_1_1models_1_1game_1_1_rare_game.html#a991fd2c404665f13f536fc7791e53504", null ],
     [ "signals", "classrare_1_1models_1_1game_1_1_rare_game.html#a0de0a2c91773619dac1660c29940c55e", null ],
     [ "threadpool", "classrare_1_1models_1_1game_1_1_rare_game.html#ad7d6a26c2b0e3239367e07430b368118", null ]
 ];

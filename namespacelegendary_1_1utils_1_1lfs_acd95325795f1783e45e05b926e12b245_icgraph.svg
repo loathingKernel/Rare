@@ -27,17 +27,17 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1utils_1_1legendary__utils_1_1_verify_worker.html#ad22709b2e67308af35f55680d5a026e0" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="199.5,-106.5 199.5,-136.5 312.5,-136.5 312.5,-106.5 199.5,-106.5"/>
-<text text-anchor="start" x="207.5" y="-124.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.legendary</text>
-<text text-anchor="middle" x="256" y="-113.5" font-family="Helvetica,sans-Serif" font-size="10.00">_utils.VerifyWorker.run</text>
+<g id="a_node2"><a xlink:href="classrare_1_1utils_1_1legendary__utils_1_1_verification_worker.html#ad22709b2e67308af35f55680d5a026e0" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="187.5,-106.5 187.5,-136.5 324.5,-136.5 324.5,-106.5 187.5,-106.5"/>
+<text text-anchor="start" x="195.5" y="-124.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.legendary</text>
+<text text-anchor="middle" x="256" y="-113.5" font-family="Helvetica,sans-Serif" font-size="10.00">_utils.VerificationWorker.run</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M375.91,-89.69C356.33,-94.93 333.26,-101.1 312.68,-106.61"/>
+<path fill="none" stroke="midnightblue" d="M376.01,-89.67C356.61,-94.86 333.77,-100.96 313.32,-106.43"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="377.05,-93.01 385.81,-87.05 375.24,-86.25 377.05,-93.01"/>
 </g>
 <!-- Node3 -->

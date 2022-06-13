@@ -9,5 +9,6 @@ var searchData=
   ['envvars_6',['EnvVars',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html',1,'rare::components::tabs::settings::widgets::env_vars']]],
   ['eoswidget_7',['EosWidget',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1eos_1_1_eos_widget.html',1,'rare::components::tabs::settings::widgets::eos']]],
   ['epcapi_8',['EPCAPI',['../classlegendary_1_1api_1_1egs_1_1_e_p_c_a_p_i.html',1,'legendary::api::egs']]],
-  ['epclfs_9',['EPCLFS',['../classlegendary_1_1lfs_1_1egl_1_1_e_p_c_l_f_s.html',1,'legendary::lfs::egl']]]
+  ['epclfs_9',['EPCLFS',['../classlegendary_1_1lfs_1_1egl_1_1_e_p_c_l_f_s.html',1,'legendary::lfs::egl']]],
+  ['eventtypes_10',['EventTypes',['../classrare_1_1utils_1_1utils_1_1_event_types.html',1,'rare::utils::utils']]]
 ];

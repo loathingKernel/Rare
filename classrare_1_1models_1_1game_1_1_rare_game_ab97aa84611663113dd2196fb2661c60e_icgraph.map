@@ -1,4 +1,6 @@
 <map id="set_pixmap" name="set_pixmap">
-<area shape="rect" id="node1" title=" " alt="" coords="164,29,252,56"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a974efcc254c209206208ddd4d9f391a8" title=" " alt="" coords="5,29,116,56"/>
+<area shape="rect" id="node1" title=" " alt="" coords="493,67,581,93"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a974efcc254c209206208ddd4d9f391a8" title=" " alt="" coords="335,29,445,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#aa4abbfd4db26f9f83c89521447d22de8" title=" " alt="" coords="355,104,425,131"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html#abdd961b44473ada4be0f40541ba4a27d" title=" " alt="" coords="5,97,287,138"/>
 </map>

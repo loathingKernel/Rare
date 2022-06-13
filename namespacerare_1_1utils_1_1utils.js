@@ -2,6 +2,7 @@ var namespacerare_1_1utils_1_1utils =
 [
     [ "CloudSignals", "classrare_1_1utils_1_1utils_1_1_cloud_signals.html", null ],
     [ "CloudWorker", "classrare_1_1utils_1_1utils_1_1_cloud_worker.html", "classrare_1_1utils_1_1utils_1_1_cloud_worker" ],
+    [ "EventTypes", "classrare_1_1utils_1_1utils_1_1_event_types.html", "classrare_1_1utils_1_1utils_1_1_event_types" ],
     [ "WineResolver", "classrare_1_1utils_1_1utils_1_1_wine_resolver.html", "classrare_1_1utils_1_1utils_1_1_wine_resolver" ],
     [ "WineResolverSignals", "classrare_1_1utils_1_1utils_1_1_wine_resolver_signals.html", null ],
     [ "create_desktop_link", "namespacerare_1_1utils_1_1utils.html#ab96cf969bbf9d9517221523ccc0bdcf6", null ],

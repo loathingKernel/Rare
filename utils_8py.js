@@ -4,6 +4,7 @@ var utils_8py =
     [ "WineResolver", "classrare_1_1utils_1_1utils_1_1_wine_resolver.html", "classrare_1_1utils_1_1utils_1_1_wine_resolver" ],
     [ "CloudSignals", "classrare_1_1utils_1_1utils_1_1_cloud_signals.html", null ],
     [ "CloudWorker", "classrare_1_1utils_1_1utils_1_1_cloud_worker.html", "classrare_1_1utils_1_1utils_1_1_cloud_worker" ],
+    [ "EventTypes", "classrare_1_1utils_1_1utils_1_1_event_types.html", "classrare_1_1utils_1_1utils_1_1_event_types" ],
     [ "create_desktop_link", "utils_8py.html#ab96cf969bbf9d9517221523ccc0bdcf6", null ],
     [ "get_color_schemes", "utils_8py.html#a00a2e2f5d0a7cc5a039c1bc84f6e233f", null ],
     [ "get_default_platform", "utils_8py.html#a826e4dea62c9c8c7c834c7f2d9c9484e", null ],
