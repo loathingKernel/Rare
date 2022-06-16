@@ -1,5 +1,11 @@
 <map id="edit_func_move_game" name="edit_func_move_game">
-<area shape="rect" id="node1" title=" " alt="" coords="5,71,159,97"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_move_game_pop_up.html#a614c8398938df17d95fc7267d37e579b" title=" " alt="" coords="287,29,373,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a9cd6944c3d7771f5c31c4c9ee47a7b4a" title=" " alt="" coords="207,105,453,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,73,159,99"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info.html#a69709039722e27e52d0b96d00a3e9b46" title=" " alt="" coords="501,29,724,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a81e7b67a8823a5172404a26579563a51" title=" " alt="" coords="207,107,453,148"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aa0f64085219d8e40254dd2d8b7da10cc" title=" " alt="" coords="772,93,995,149"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#af60941a3141b28229b3a5ac264ace394" title=" " alt="" coords="501,182,724,238"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a4347fa4fbbcc011ce833c800b31dda41" title=" " alt="" coords="1043,234,1265,290"/>
+<area shape="rect" id="node7" href="$namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" title=" " alt="" coords="835,197,932,223"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a68608db0a6ef818fc117f9fccbb0db81" title=" " alt="" coords="772,271,995,327"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aa16d30b659d94bef029314dd8bef2fd3" title=" " alt="" coords="772,375,995,431"/>
 </map>

@@ -18,6 +18,7 @@ var searchData=
   ['consoleedit_15',['ConsoleEdit',['../classrare_1_1components_1_1extra_1_1console_1_1_console_edit.html',1,'rare::components::extra::console']]],
   ['consoleenv_16',['ConsoleEnv',['../classrare_1_1components_1_1extra_1_1console_1_1_console_env.html',1,'rare::components::extra::console']]],
   ['constants_17',['Constants',['../classrare_1_1components_1_1tabs_1_1shop_1_1constants_1_1_constants.html',1,'rare::components::tabs::shop::constants']]],
-  ['customfields_18',['CustomFields',['../classlegendary_1_1models_1_1manifest_1_1_custom_fields.html',1,'legendary::models::manifest']]],
-  ['customoption_19',['CustomOption',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_custom_option.html',1,'rare::components::tabs::settings::widgets::overlay_settings']]]
+  ['copygameinstallation_18',['CopyGameInstallation',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_copy_game_installation.html',1,'rare::components::tabs::games::game_info::game_info']]],
+  ['customfields_19',['CustomFields',['../classlegendary_1_1models_1_1manifest_1_1_custom_fields.html',1,'legendary::models::manifest']]],
+  ['customoption_20',['CustomOption',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_custom_option.html',1,'rare::components::tabs::settings::widgets::overlay_settings']]]
 ];

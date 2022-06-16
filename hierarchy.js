@@ -267,6 +267,7 @@ var hierarchy =
       [ "InstallInfoWorker.Signals", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker_1_1_signals.html", null ],
       [ "CloudSaveUtils", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html", null ],
       [ "SaveSignals", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_save_signals.html", null ],
+      [ "CopyGameInstallation.Signals", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_copy_game_installation_1_1_signals.html", null ],
       [ "GameUtils", "classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html", null ],
       [ "LibraryWidgetController", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html", null ],
       [ "RefreshGameMetaSignals", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_signals.html", null ],
@@ -307,6 +308,7 @@ var hierarchy =
     [ "QRunnable", null, [
       [ "InstallInfoWorker", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker.html", null ],
       [ "SaveWorker", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_save_worker.html", null ],
+      [ "CopyGameInstallation", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_copy_game_installation.html", null ],
       [ "EGLSyncWorker", "classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_worker.html", null ],
       [ "RefreshGameMetaWorker", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html", null ],
       [ "CheckForUpdateWorker", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1eos_1_1_check_for_update_worker.html", null ],

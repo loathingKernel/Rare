@@ -174,6 +174,7 @@ var annotated_dup =
                 [ "GameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget" ]
               ] ],
               [ "game_info", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info.html", [
+                [ "CopyGameInstallation", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_copy_game_installation.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_copy_game_installation" ],
                 [ "GameInfo", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info" ],
                 [ "MoveGamePopUp", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_move_game_pop_up.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_move_game_pop_up" ]
               ] ],

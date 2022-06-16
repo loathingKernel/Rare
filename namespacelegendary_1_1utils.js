@@ -40,6 +40,7 @@ var namespacelegendary_1_1utils =
       [ "WINE_EOS_OVERLAY_KEY", "namespacelegendary_1_1utils_1_1eos.html#a256bbbf11444ef18cee52a944ed4769d", null ]
     ] ],
     [ "game_workarounds", "namespacelegendary_1_1utils_1_1game__workarounds.html", [
+      [ "get_exe_override", "namespacelegendary_1_1utils_1_1game__workarounds.html#a62d5a08ef8fb4971a8d0d9efb124aea8", null ],
       [ "is_opt_enabled", "namespacelegendary_1_1utils_1_1game__workarounds.html#a2df519de24409e7ad7070318993e39e2", null ],
       [ "update_workarounds", "namespacelegendary_1_1utils_1_1game__workarounds.html#a949b636adceec35a0c88d9c62cb01b70", null ]
     ] ],

@@ -89,32 +89,51 @@ $(document).ready(function(){initNavTree('game__workarounds_8py_source.html','')
 <div class="contents">
 <a href="game__workarounds_8py.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno"><a class="line" href="namespacelegendary_1_1utils_1_1game__workarounds.html">    1</a></span><span class="comment"># coding: utf-8</span></div>
 <div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span> </div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="comment"># games where the download order optimizations are enabled by default</span></div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="comment"># a set() of versions can be specified, empty set means all versions.</span></div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span>_optimize_default = {</div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span>    <span class="stringliteral">&#39;wombat&#39;</span>: {},  <span class="comment"># world war z</span></div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span>    <span class="stringliteral">&#39;snapdragon&#39;</span>: {},  <span class="comment"># metro exodus</span></div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>    <span class="stringliteral">&#39;honeycreeper&#39;</span>: {},  <span class="comment"># diabotical</span></div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span>    <span class="stringliteral">&#39;bcc75c246fe04e45b0c1f1c3fd52503a&#39;</span>: {  <span class="comment"># pillars of eternity</span></div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>        <span class="stringliteral">&#39;1.0.2&#39;</span>  <span class="comment"># problematic version</span></div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>    }</div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>}</div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span> </div>
-<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span> </div>
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno"><a class="line" href="namespacelegendary_1_1utils_1_1game__workarounds.html#a2df519de24409e7ad7070318993e39e2">   15</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacelegendary_1_1utils_1_1game__workarounds.html#a2df519de24409e7ad7070318993e39e2">is_opt_enabled</a>(app_name, version):</div>
-<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    <span class="keywordflow">if</span> (versions := _optimize_default.get(app_name.lower())) <span class="keywordflow">is</span> <span class="keywordflow">not</span> <span class="keywordtype">None</span>:</div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>        <span class="keywordflow">if</span> version <span class="keywordflow">in</span> versions <span class="keywordflow">or</span> <span class="keywordflow">not</span> versions:</div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>            <span class="keywordflow">return</span> <span class="keyword">True</span></div>
-<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>    <span class="keywordflow">return</span> <span class="keyword">False</span></div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span> </div>
-<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span> </div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno"><a class="line" href="namespacelegendary_1_1utils_1_1game__workarounds.html#a949b636adceec35a0c88d9c62cb01b70">   22</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacelegendary_1_1utils_1_1game__workarounds.html#a949b636adceec35a0c88d9c62cb01b70">update_workarounds</a>(api_data):</div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>    <span class="keywordflow">if</span> <span class="stringliteral">&#39;reorder_optimization&#39;</span> <span class="keywordflow">in</span> api_data:</div>
-<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>        _optimize_default.clear()</div>
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>        _optimize_default.update(api_data[<span class="stringliteral">&#39;reorder_optimization&#39;</span>])</div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span> </div>
-<div class="ttc" id="anamespacelegendary_1_1utils_1_1game__workarounds_html_a2df519de24409e7ad7070318993e39e2"><div class="ttname"><a href="namespacelegendary_1_1utils_1_1game__workarounds.html#a2df519de24409e7ad7070318993e39e2">legendary.utils.game_workarounds.is_opt_enabled</a></div><div class="ttdeci">def is_opt_enabled(app_name, version)</div><div class="ttdef"><b>Definition:</b> <a href="game__workarounds_8py_source.html#l00015">game_workarounds.py:15</a></div></div>
-<div class="ttc" id="anamespacelegendary_1_1utils_1_1game__workarounds_html_a949b636adceec35a0c88d9c62cb01b70"><div class="ttname"><a href="namespacelegendary_1_1utils_1_1game__workarounds.html#a949b636adceec35a0c88d9c62cb01b70">legendary.utils.game_workarounds.update_workarounds</a></div><div class="ttdeci">def update_workarounds(api_data)</div><div class="ttdef"><b>Definition:</b> <a href="game__workarounds_8py_source.html#l00022">game_workarounds.py:22</a></div></div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">from</span> sys <span class="keyword">import</span> platform</div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span> </div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="comment"># games where the download order optimizations are enabled by default</span></div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="comment"># a set() of versions can be specified, empty set means all versions.</span></div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span>_optimize_default = {</div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>    <span class="stringliteral">&#39;wombat&#39;</span>: {},  <span class="comment"># world war z</span></div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span>    <span class="stringliteral">&#39;snapdragon&#39;</span>: {},  <span class="comment"># metro exodus</span></div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>    <span class="stringliteral">&#39;honeycreeper&#39;</span>: {},  <span class="comment"># diabotical</span></div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>    <span class="stringliteral">&#39;bcc75c246fe04e45b0c1f1c3fd52503a&#39;</span>: {  <span class="comment"># pillars of eternity</span></div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>        <span class="stringliteral">&#39;1.0.2&#39;</span>  <span class="comment"># problematic version</span></div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>    }</div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>}</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span> </div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span><span class="comment"># Some games use launchers that don&#39;t work with Legendary, these are overriden here</span></div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>_exe_overrides = {</div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>    <span class="stringliteral">&#39;kinglet&#39;</span>:  {</div>
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>        <span class="stringliteral">&#39;darwin&#39;</span>: <span class="stringliteral">&#39;Base/Binaries/Win64EOS/CivilizationVI.exe&#39;</span>,</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>        <span class="stringliteral">&#39;linux&#39;</span>: <span class="stringliteral">&#39;Base/Binaries/Win64EOS/CivilizationVI.exe&#39;</span>,</div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>        <span class="stringliteral">&#39;win32&#39;</span>: <span class="stringliteral">&#39;LaunchPad/LaunchPad.exe&#39;</span></div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>    }</div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>}</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span> </div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span> </div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno"><a class="line" href="namespacelegendary_1_1utils_1_1game__workarounds.html#a2df519de24409e7ad7070318993e39e2">   26</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacelegendary_1_1utils_1_1game__workarounds.html#a2df519de24409e7ad7070318993e39e2">is_opt_enabled</a>(app_name, version):</div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>    <span class="keywordflow">if</span> (versions := _optimize_default.get(app_name.lower())) <span class="keywordflow">is</span> <span class="keywordflow">not</span> <span class="keywordtype">None</span>:</div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>        <span class="keywordflow">if</span> version <span class="keywordflow">in</span> versions <span class="keywordflow">or</span> <span class="keywordflow">not</span> versions:</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>            <span class="keywordflow">return</span> <span class="keyword">True</span></div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>    <span class="keywordflow">return</span> <span class="keyword">False</span></div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span> </div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span> </div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno"><a class="line" href="namespacelegendary_1_1utils_1_1game__workarounds.html#a62d5a08ef8fb4971a8d0d9efb124aea8">   33</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacelegendary_1_1utils_1_1game__workarounds.html#a62d5a08ef8fb4971a8d0d9efb124aea8">get_exe_override</a>(app_name):</div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>    <span class="keywordflow">return</span> _exe_overrides.get(app_name.lower(), {}).get(platform, <span class="keywordtype">None</span>)</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span> </div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span> </div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno"><a class="line" href="namespacelegendary_1_1utils_1_1game__workarounds.html#a949b636adceec35a0c88d9c62cb01b70">   37</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacelegendary_1_1utils_1_1game__workarounds.html#a949b636adceec35a0c88d9c62cb01b70">update_workarounds</a>(api_data):</div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>    <span class="keywordflow">if</span> <span class="stringliteral">&#39;reorder_optimization&#39;</span> <span class="keywordflow">in</span> api_data:</div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>        _optimize_default.clear()</div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>        _optimize_default.update(api_data[<span class="stringliteral">&#39;reorder_optimization&#39;</span>])</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    <span class="keywordflow">if</span> <span class="stringliteral">&#39;executable_override&#39;</span> <span class="keywordflow">in</span> api_data:</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>        _exe_overrides.clear()</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>        _exe_overrides.update(api_data[<span class="stringliteral">&#39;executable_override&#39;</span>])</div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span> </div>
+<div class="ttc" id="anamespacelegendary_1_1utils_1_1game__workarounds_html_a2df519de24409e7ad7070318993e39e2"><div class="ttname"><a href="namespacelegendary_1_1utils_1_1game__workarounds.html#a2df519de24409e7ad7070318993e39e2">legendary.utils.game_workarounds.is_opt_enabled</a></div><div class="ttdeci">def is_opt_enabled(app_name, version)</div><div class="ttdef"><b>Definition:</b> <a href="game__workarounds_8py_source.html#l00026">game_workarounds.py:26</a></div></div>
+<div class="ttc" id="anamespacelegendary_1_1utils_1_1game__workarounds_html_a62d5a08ef8fb4971a8d0d9efb124aea8"><div class="ttname"><a href="namespacelegendary_1_1utils_1_1game__workarounds.html#a62d5a08ef8fb4971a8d0d9efb124aea8">legendary.utils.game_workarounds.get_exe_override</a></div><div class="ttdeci">def get_exe_override(app_name)</div><div class="ttdef"><b>Definition:</b> <a href="game__workarounds_8py_source.html#l00033">game_workarounds.py:33</a></div></div>
+<div class="ttc" id="anamespacelegendary_1_1utils_1_1game__workarounds_html_a949b636adceec35a0c88d9c62cb01b70"><div class="ttname"><a href="namespacelegendary_1_1utils_1_1game__workarounds.html#a949b636adceec35a0c88d9c62cb01b70">legendary.utils.game_workarounds.update_workarounds</a></div><div class="ttdeci">def update_workarounds(api_data)</div><div class="ttdef"><b>Definition:</b> <a href="game__workarounds_8py_source.html#l00037">game_workarounds.py:37</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
