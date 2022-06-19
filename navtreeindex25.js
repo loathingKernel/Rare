@@ -1,8 +1,5 @@
 var NAVTREEINDEX25 =
 {
-"path__input__dialog_8py_source.html":[8,0,0,0,0,4],
-"pathedit_8py.html":[8,0,0,5,1,1],
-"pathedit_8py.html#a514a837c880830fc5090e5084ba61bc6":[8,0,0,5,1,1,2],
 "pathedit_8py.html#ac492f8de2d00b6c4282e766bfadaf2e7":[8,0,0,5,1,1,3],
 "pathedit_8py.html#afe63fea7be31b0200b496d08bc6b517d":[8,0,0,5,1,1,1],
 "pathedit_8py_source.html":[8,0,0,5,1,1],
@@ -14,8 +11,8 @@ var NAVTREEINDEX25 =
 "paths_8py.html#aaaef1244e0a05abda3f6d56d6831953e":[8,0,0,6,5,1],
 "paths_8py.html#acb6c1e7263db3bfb5739c8e7b04448cd":[8,0,0,6,5,3],
 "paths_8py_source.html":[8,0,0,6,5],
-"pathspec_8py.html":[8,0,0,3,4],
-"pathspec_8py_source.html":[8,0,0,3,4],
+"pathspec_8py.html":[8,0,0,3,3],
+"pathspec_8py_source.html":[8,0,0,3,3],
 "pre__launch_8py.html":[8,0,0,0,2,3,0,7],
 "pre__launch_8py_source.html":[8,0,0,0,2,3,0,7],
 "qt__requests_8py.html":[8,0,0,6,6],
@@ -75,8 +72,8 @@ var NAVTREEINDEX25 =
 "shop__widget_8py.html":[8,0,0,0,2,4,7],
 "shop__widget_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,2,4,7,2],
 "shop__widget_8py_source.html":[8,0,0,0,2,4,7],
-"signals_8py.html":[8,0,0,3,5],
-"signals_8py_source.html":[8,0,0,3,5],
+"signals_8py.html":[8,0,0,3,4],
+"signals_8py_source.html":[8,0,0,3,4],
 "singleton_8py.html":[8,0,0,6,8],
 "singleton_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,6,8,2],
 "singleton_8py_source.html":[8,0,0,6,8],
@@ -249,5 +246,8 @@ var NAVTREEINDEX25 =
 "utils_8py.html":[8,0,0,6,10],
 "utils_8py.html#a00a2e2f5d0a7cc5a039c1bc84f6e233f":[8,0,0,6,10,6],
 "utils_8py.html#a061878c45fdf6145c9278d680b02de31":[8,0,0,6,10,13],
-"utils_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,6,10,20]
+"utils_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,6,10,20],
+"utils_8py.html#a11c0f7e5400d1d4ab3bba82e24ae476f":[8,0,0,6,10,9],
+"utils_8py.html#a1cb4b41d139090ec167011904697693d":[8,0,0,6,10,14],
+"utils_8py.html#a2abd397fa0df0f4971d76fbe9ec18a3c":[8,0,0,6,10,17]
 };

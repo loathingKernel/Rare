@@ -1,7 +1,5 @@
 var NAVTREEINDEX21 =
 {
-"components_2tabs_2games_2import__sync_2egl__sync__group_8py_source.html":[8,0,0,0,2,2,2,1],
-"components_2tabs_2games_2import__sync_2import__group_8py.html":[8,0,0,0,2,2,2,2],
 "components_2tabs_2games_2import__sync_2import__group_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,2,2,2,2,2],
 "components_2tabs_2games_2import__sync_2import__group_8py_source.html":[8,0,0,0,2,2,2,2],
 "components_2tabs_2settings_2____init_____8py.html":[8,0,0,0,2,3,1],
@@ -238,8 +236,8 @@ var NAVTREEINDEX21 =
 "functions_t.html":[7,3,0,20],
 "functions_u.html":[7,3,0,21],
 "functions_v.html":[7,3,0,22],
-"functions_vars.html":[7,3,2,0],
 "functions_vars.html":[7,3,2],
+"functions_vars.html":[7,3,2,0],
 "functions_vars_b.html":[7,3,2,1],
 "functions_vars_c.html":[7,3,2,2],
 "functions_vars_d.html":[7,3,2,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX21 =
 "functions_vars_h.html":[7,3,2,7],
 "functions_vars_i.html":[7,3,2,8],
 "functions_vars_j.html":[7,3,2,9],
-"functions_vars_k.html":[7,3,2,10]
+"functions_vars_k.html":[7,3,2,10],
+"functions_vars_l.html":[7,3,2,11],
+"functions_vars_m.html":[7,3,2,12]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX24 =
 {
-"namespacerare_1_1shared.html":[6,0,1,5],
-"namespacerare_1_1shared.html#ab04adc7782d07f6272f9b769c4d338a6":[6,0,1,5,4],
-"namespacerare_1_1shared.html#ab8b2bcdccfec5ead23d65c0ae8999625":[6,0,1,5,3],
 "namespacerare_1_1shared.html#acfdfb4195f8ff9bc0acd929ba6d98380":[6,0,1,5,2],
 "namespacerare_1_1shared_1_1image__manager.html":[6,0,1,5,0],
 "namespacerare_1_1shared_1_1image__manager.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,1,5,0,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX24 =
 "overlay__settings_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,2,3,0,6,5],
 "overlay__settings_8py_source.html":[8,0,0,0,2,3,0,6],
 "pages.html":[],
-"path__input__dialog_8py.html":[8,0,0,0,0,4]
+"path__input__dialog_8py.html":[8,0,0,0,0,4],
+"path__input__dialog_8py_source.html":[8,0,0,0,0,4],
+"pathedit_8py.html":[8,0,0,5,1,1],
+"pathedit_8py.html#a514a837c880830fc5090e5084ba61bc6":[8,0,0,5,1,1,2]
 };

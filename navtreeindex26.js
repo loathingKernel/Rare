@@ -1,8 +1,5 @@
 var NAVTREEINDEX26 =
 {
-"utils_8py.html#a11c0f7e5400d1d4ab3bba82e24ae476f":[8,0,0,6,10,9],
-"utils_8py.html#a1cb4b41d139090ec167011904697693d":[8,0,0,6,10,14],
-"utils_8py.html#a2abd397fa0df0f4971d76fbe9ec18a3c":[8,0,0,6,10,17],
 "utils_8py.html#a5bc2e6b3a22f954f1c3138cf7b24d83a":[8,0,0,6,10,16],
 "utils_8py.html#a6cddb5e40c21eadd2ded85bc51f79822":[8,0,0,6,10,21],
 "utils_8py.html#a76b25bb1934f2b8bad17a35703027a9a":[8,0,0,6,10,11],

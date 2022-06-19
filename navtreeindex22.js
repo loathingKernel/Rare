@@ -1,7 +1,5 @@
 var NAVTREEINDEX22 =
 {
-"functions_vars_l.html":[7,3,2,11],
-"functions_vars_m.html":[7,3,2,12],
 "functions_vars_n.html":[7,3,2,13],
 "functions_vars_o.html":[7,3,2,14],
 "functions_vars_p.html":[7,3,2,15],
@@ -75,8 +73,8 @@ var NAVTREEINDEX22 =
 "index.html#autotoc_md7":[3,1,0],
 "index.html#autotoc_md8":[3,1,1],
 "index.html#autotoc_md9":[3,1,2],
-"install_8py.html":[8,0,0,3,3],
-"install_8py_source.html":[8,0,0,3,3],
+"install_8py.html":[8,0,0,3,2],
+"install_8py_source.html":[8,0,0,3,2],
 "json__formatter_8py.html":[8,0,0,6,3],
 "json__formatter_8py.html#a36bb54e5ac7884da695062ef35a50f93":[8,0,0,6,3,5],
 "json__formatter_8py.html#a508cc3106d2c29fe07dc87cbe3ea6927":[8,0,0,6,3,4],
@@ -179,9 +177,9 @@ var NAVTREEINDEX22 =
 "models_2____init_____8py_source.html":[8,0,0,3,0],
 "models_2egl_8py.html":[8,0,0,2,0,3,3],
 "models_2egl_8py_source.html":[8,0,0,2,0,3,3],
-"models_2game_8py.html":[8,0,0,3,2],
-"models_2game_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,3,2,7],
-"models_2game_8py_source.html":[8,0,0,3,2],
+"models_2game_8py.html":[8,0,0,3,1],
+"models_2game_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,3,1,7],
+"models_2game_8py_source.html":[8,0,0,3,1],
 "namespacelegendary.html":[6,0,0],
 "namespacelegendary_1_1api.html":[6,0,0,0],
 "namespacelegendary_1_1api_1_1egs.html":[6,0,0,0,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX22 =
 "namespacelegendary_1_1utils_1_1egl__crypt.html#a9faec3ed0b4f91075dd347c8e649db4c":[6,0,0,6,5,6],
 "namespacelegendary_1_1utils_1_1egl__crypt.html#ab51aa19c1af6b70212e6b73ba4f6b90d":[6,0,0,6,5,7],
 "namespacelegendary_1_1utils_1_1egl__crypt.html#ac30323782bba4a75e98ce75fa9895dee":[6,0,0,6,5,3],
-"namespacelegendary_1_1utils_1_1egl__crypt.html#acfc65e83e103c4d48b6d32f604ec0625":[6,0,0,6,5,4]
+"namespacelegendary_1_1utils_1_1egl__crypt.html#acfc65e83e103c4d48b6d32f604ec0625":[6,0,0,6,5,4],
+"namespacelegendary_1_1utils_1_1egl__crypt.html#ade9794dba0eaaca308cd84675c1825a6":[6,0,0,6,5,5],
+"namespacelegendary_1_1utils_1_1egl__crypt.html#ae439a52191b7ee66ff54b11c15afa4c1":[6,0,0,6,5,1]
 };

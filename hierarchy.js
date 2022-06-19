@@ -6,7 +6,6 @@ var hierarchy =
     [ "Actions", "classrare_1_1game__launch__helper_1_1message__models_1_1_actions.html", null ],
     [ "AES", "classlegendary_1_1utils_1_1egl__crypt_1_1_a_e_s.html", null ],
     [ "AnalysisResult", "classlegendary_1_1models_1_1downloading_1_1_analysis_result.html", null ],
-    [ "ApiResults", "classrare_1_1models_1_1apiresults_1_1_api_results.html", null ],
     [ "BaseException", null, [
       [ "SingleInstanceException", "classrare_1_1utils_1_1singleton_1_1_single_instance_exception.html", null ]
     ] ],

@@ -363,9 +363,6 @@ var annotated_dup =
         [ "PreLaunchThread", "classrare_1_1game__launch__helper_1_1_pre_launch_thread.html", "classrare_1_1game__launch__helper_1_1_pre_launch_thread" ]
       ] ],
       [ "models", "namespacerare_1_1models.html", [
-        [ "apiresults", "namespacerare_1_1models_1_1apiresults.html", [
-          [ "ApiResults", "classrare_1_1models_1_1apiresults_1_1_api_results.html", "classrare_1_1models_1_1apiresults_1_1_api_results" ]
-        ] ],
         [ "game", "namespacerare_1_1models_1_1game.html", [
           [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", "classrare_1_1models_1_1game_1_1_rare_game" ],
           [ "RareGameState", "classrare_1_1models_1_1game_1_1_rare_game_state.html", null ]
