@@ -1,13 +1,5 @@
 var NAVTREEINDEX20 =
 {
-"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#ace74ae4d06abde4ac5ded927ff7ecd7d":[7,0,1,6,1,0,12],
-"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#ad149341d7d849ff957baee565b19c123":[7,0,1,6,1,0,1],
-"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#ad149341d7d849ff957baee565b19c123":[6,0,1,7,2,0,1],
-"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#adeb452ff6a94f4ba3a740b5d79ed6055":[7,0,1,6,1,0,2],
-"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#adeb452ff6a94f4ba3a740b5d79ed6055":[6,0,1,7,2,0,2],
-"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#af4eeafe773437e494d54ce4a1fe650f1":[6,0,1,7,2,0,11],
-"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#af4eeafe773437e494d54ce4a1fe650f1":[7,0,1,6,1,0,11],
-"classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html":[7,0,1,6,1,1],
 "classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html":[6,0,1,7,2,1],
 "classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#a35061dd226fbf32b76578ca1f0759ce1":[6,0,1,7,2,1,7],
 "classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#a35061dd226fbf32b76578ca1f0759ce1":[7,0,1,6,1,1,7],
@@ -249,5 +241,13 @@ var NAVTREEINDEX20 =
 "components_2tabs_2games_2game__info_2game__info_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,2,2,0,2,5],
 "components_2tabs_2games_2game__info_2game__info_8py.html#a69709039722e27e52d0b96d00a3e9b46":[8,0,0,0,2,2,0,2,4],
 "components_2tabs_2games_2game__info_2game__info_8py_source.html":[8,0,0,0,2,2,0,2],
-"components_2tabs_2games_2game__info_2game__settings_8py.html":[8,0,0,0,2,2,0,3]
+"components_2tabs_2games_2game__info_2game__settings_8py.html":[8,0,0,0,2,2,0,3],
+"components_2tabs_2games_2game__info_2game__settings_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,2,2,0,3,1],
+"components_2tabs_2games_2game__info_2game__settings_8py_source.html":[8,0,0,0,2,2,0,3],
+"components_2tabs_2games_2game__widgets_2____init_____8py.html":[8,0,0,0,2,2,1,0],
+"components_2tabs_2games_2game__widgets_2____init_____8py_source.html":[8,0,0,0,2,2,1,0],
+"components_2tabs_2games_2import__sync_2____init_____8py.html":[8,0,0,0,2,2,2,0],
+"components_2tabs_2games_2import__sync_2____init_____8py_source.html":[8,0,0,0,2,2,2,0],
+"components_2tabs_2games_2import__sync_2egl__sync__group_8py.html":[8,0,0,0,2,2,2,1],
+"components_2tabs_2games_2import__sync_2egl__sync__group_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,2,2,2,1,4]
 };

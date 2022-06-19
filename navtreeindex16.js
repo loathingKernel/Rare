@@ -1,13 +1,5 @@
 var NAVTREEINDEX16 =
 {
-"classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#ac75b0b6bb443225c42528ec531857a43":[7,0,1,5,0,2,1,0,2,0,0],
-"classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#acb04907980c04abdd51834fa4e2bb713":[7,0,1,5,0,2,1,0,2,0,21],
-"classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#acb04907980c04abdd51834fa4e2bb713":[6,0,1,6,0,2,1,0,2,0,21],
-"classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#ad2d6ad647b14282b12200ecd84cb6e9b":[7,0,1,5,0,2,1,0,2,0,14],
-"classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#ad2d6ad647b14282b12200ecd84cb6e9b":[6,0,1,6,0,2,1,0,2,0,14],
-"classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#adc3a21ccb616231a81529950cab007f4":[6,0,1,6,0,2,1,0,2,0,30],
-"classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#adc3a21ccb616231a81529950cab007f4":[7,0,1,5,0,2,1,0,2,0,30],
-"classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#ae4b0e133560245aa85027f86c79c7a01":[7,0,1,5,0,2,1,0,2,0,11],
 "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#ae4b0e133560245aa85027f86c79c7a01":[6,0,1,6,0,2,1,0,2,0,11],
 "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#aeec04dfac495e48b76873e4528f82960":[7,0,1,5,0,2,1,0,2,0,5],
 "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#aeec04dfac495e48b76873e4528f82960":[6,0,1,6,0,2,1,0,2,0,5],
@@ -249,5 +241,13 @@ var NAVTREEINDEX16 =
 "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html#a0634d130a67e0f568cb2273706a4a1c6":[6,0,1,6,0,2,2,2,0,6],
 "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html#a1ed54cae5d640c1ef1adc36db7a27622":[7,0,1,5,0,2,2,2,0,0],
 "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html#a1ed54cae5d640c1ef1adc36db7a27622":[6,0,1,6,0,2,2,2,0,0],
-"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html#a5d3f610bd5f6017b27624ac4c93f0479":[6,0,1,6,0,2,2,2,0,4]
+"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html#a5d3f610bd5f6017b27624ac4c93f0479":[6,0,1,6,0,2,2,2,0,4],
+"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html#a5d3f610bd5f6017b27624ac4c93f0479":[7,0,1,5,0,2,2,2,0,4],
+"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html#a67a4238acada237e239022bb4047dd6d":[7,0,1,5,0,2,2,2,0,9],
+"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html#a67a4238acada237e239022bb4047dd6d":[6,0,1,6,0,2,2,2,0,9],
+"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html#a9d3af1adb5433ee2b61f8aa3c8521f89":[6,0,1,6,0,2,2,2,0,7],
+"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html#a9d3af1adb5433ee2b61f8aa3c8521f89":[7,0,1,5,0,2,2,2,0,7],
+"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html#aae034f291f52cf553119d36830c5c857":[6,0,1,6,0,2,2,2,0,5],
+"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html#aae034f291f52cf553119d36830c5c857":[7,0,1,5,0,2,2,2,0,5],
+"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html#ab37ed192689b991bb7d59164be83aa75":[7,0,1,5,0,2,2,2,0,1]
 };

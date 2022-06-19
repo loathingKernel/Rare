@@ -1,13 +1,5 @@
 var NAVTREEINDEX19 =
 {
-"classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html#a9569d6f2d6ba723ec0814044053e24b1":[6,0,1,6,0,2,3,4,0,5],
-"classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html#a96538b4ef47509b3671a67a6ff73c882":[7,0,1,5,0,2,3,4,0,6],
-"classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html#a96538b4ef47509b3671a67a6ff73c882":[6,0,1,6,0,2,3,4,0,6],
-"classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html#a9bb2ba9086e9253f8cddc7ea3b705ce5":[7,0,1,5,0,2,3,4,0,4],
-"classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html#a9bb2ba9086e9253f8cddc7ea3b705ce5":[6,0,1,6,0,2,3,4,0,4],
-"classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html#acea329ae0b94f562a9e86fdeedf1e93f":[6,0,1,6,0,2,3,4,0,2],
-"classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html#acea329ae0b94f562a9e86fdeedf1e93f":[7,0,1,5,0,2,3,4,0,2],
-"classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html#ae423460a54e07f91785a6ef59dd09e6b":[7,0,1,5,0,2,3,4,0,8],
 "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html#ae423460a54e07f91785a6ef59dd09e6b":[6,0,1,6,0,2,3,4,0,8],
 "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html#aeb4325cdc713f45c320d04f6b18d7ea0":[7,0,1,5,0,2,3,4,0,1],
 "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html#aeb4325cdc713f45c320d04f6b18d7ea0":[6,0,1,6,0,2,3,4,0,1],
@@ -249,5 +241,13 @@ var NAVTREEINDEX19 =
 "classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#aade18d42e1856e6cd2eaeeaf30faef41":[6,0,1,7,2,0,8],
 "classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#acbb44b417d59fdabb258afc05df6e499":[7,0,1,6,1,0,10],
 "classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#acbb44b417d59fdabb258afc05df6e499":[6,0,1,7,2,0,10],
-"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#ace74ae4d06abde4ac5ded927ff7ecd7d":[6,0,1,7,2,0,12]
+"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#ace74ae4d06abde4ac5ded927ff7ecd7d":[6,0,1,7,2,0,12],
+"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#ace74ae4d06abde4ac5ded927ff7ecd7d":[7,0,1,6,1,0,12],
+"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#ad149341d7d849ff957baee565b19c123":[7,0,1,6,1,0,1],
+"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#ad149341d7d849ff957baee565b19c123":[6,0,1,7,2,0,1],
+"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#adeb452ff6a94f4ba3a740b5d79ed6055":[7,0,1,6,1,0,2],
+"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#adeb452ff6a94f4ba3a740b5d79ed6055":[6,0,1,7,2,0,2],
+"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#af4eeafe773437e494d54ce4a1fe650f1":[6,0,1,7,2,0,11],
+"classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#af4eeafe773437e494d54ce4a1fe650f1":[7,0,1,6,1,0,11],
+"classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html":[7,0,1,6,1,1]
 };
