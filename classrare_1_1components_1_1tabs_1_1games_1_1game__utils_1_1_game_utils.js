@@ -10,6 +10,5 @@ var classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils =
     [ "cloud_save_utils", "classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#ab77952f4355d31f58026ac9fd0957a53", null ],
     [ "console", "classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#a59b27486da7ae78f25305f338b4b2fce", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#ab65a1cfe05166d06195718a9587d7b86", null ],
-    [ "rare_core", "classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#abf1b7b7fb11f7497658983c36e24cd81", null ],
     [ "signals", "classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#a0de0a2c91773619dac1660c29940c55e", null ]
 ];
