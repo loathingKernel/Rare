@@ -346,7 +346,26 @@ var annotated_dup =
           [ "TrayIcon", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html", "classrare_1_1components_1_1tray__icon_1_1_tray_icon" ]
         ] ]
       ] ],
+      [ "game_launch_helper", "namespacerare_1_1game__launch__helper.html", [
+        [ "lgd_helper", "namespacerare_1_1game__launch__helper_1_1lgd__helper.html", [
+          [ "GameArgsError", "classrare_1_1game__launch__helper_1_1lgd__helper_1_1_game_args_error.html", null ],
+          [ "InitArgs", "classrare_1_1game__launch__helper_1_1lgd__helper_1_1_init_args.html", "classrare_1_1game__launch__helper_1_1lgd__helper_1_1_init_args" ],
+          [ "LaunchArgs", "classrare_1_1game__launch__helper_1_1lgd__helper_1_1_launch_args.html", "classrare_1_1game__launch__helper_1_1lgd__helper_1_1_launch_args" ]
+        ] ],
+        [ "message_models", "namespacerare_1_1game__launch__helper_1_1message__models.html", [
+          [ "Actions", "classrare_1_1game__launch__helper_1_1message__models_1_1_actions.html", null ],
+          [ "BaseModel", "classrare_1_1game__launch__helper_1_1message__models_1_1_base_model.html", "classrare_1_1game__launch__helper_1_1message__models_1_1_base_model" ],
+          [ "ErrorModel", "classrare_1_1game__launch__helper_1_1message__models_1_1_error_model.html", "classrare_1_1game__launch__helper_1_1message__models_1_1_error_model" ],
+          [ "FinishedModel", "classrare_1_1game__launch__helper_1_1message__models_1_1_finished_model.html", "classrare_1_1game__launch__helper_1_1message__models_1_1_finished_model" ],
+          [ "StateChangedModel", "classrare_1_1game__launch__helper_1_1message__models_1_1_state_changed_model.html", "classrare_1_1game__launch__helper_1_1message__models_1_1_state_changed_model" ]
+        ] ],
+        [ "GameProcessHelper", "classrare_1_1game__launch__helper_1_1_game_process_helper.html", "classrare_1_1game__launch__helper_1_1_game_process_helper" ],
+        [ "PreLaunchThread", "classrare_1_1game__launch__helper_1_1_pre_launch_thread.html", "classrare_1_1game__launch__helper_1_1_pre_launch_thread" ]
+      ] ],
       [ "models", "namespacerare_1_1models.html", [
+        [ "apiresults", "namespacerare_1_1models_1_1apiresults.html", [
+          [ "ApiResults", "classrare_1_1models_1_1apiresults_1_1_api_results.html", "classrare_1_1models_1_1apiresults_1_1_api_results" ]
+        ] ],
         [ "game", "namespacerare_1_1models_1_1game.html", [
           [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", "classrare_1_1models_1_1game_1_1_rare_game" ],
           [ "RareGameState", "classrare_1_1models_1_1game_1_1_rare_game_state.html", null ]
@@ -546,8 +565,8 @@ var annotated_dup =
         ] ]
       ] ],
       [ "widgets", "namespacerare_1_1widgets.html", [
-        [ "elided_label", "namespacerare_1_1widgets_1_1elided__label.html", [
-          [ "ElidedLabel", "classrare_1_1widgets_1_1elided__label_1_1_elided_label.html", "classrare_1_1widgets_1_1elided__label_1_1_elided_label" ]
+        [ "elide_label", "namespacerare_1_1widgets_1_1elide__label.html", [
+          [ "ElideLabel", "classrare_1_1widgets_1_1elide__label_1_1_elide_label.html", "classrare_1_1widgets_1_1elide__label_1_1_elide_label" ]
         ] ],
         [ "image_widget", "namespacerare_1_1widgets_1_1image__widget.html", [
           [ "ImageWidget", "classrare_1_1widgets_1_1image__widget_1_1_image_widget.html", "classrare_1_1widgets_1_1image__widget_1_1_image_widget" ]

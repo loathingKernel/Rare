@@ -1,8 +1,52 @@
 <map id="launch_game" name="launch_game">
-<area shape="rect" id="node1" title=" " alt="" coords="5,107,104,133"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#a70fca93772b830bb721b371a81c5fee4" title=" " alt="" coords="192,5,292,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#a3681d90fed5c5591e66e16f21f8bbd53" title=" " alt="" coords="189,56,295,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#a7cdf5fdee61d4cb8e8c23deea2daed95" title=" " alt="" coords="189,107,295,133"/>
-<area shape="rect" id="node5" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#a8874ae9686caf8e5f7ada83bf16d3502" title=" " alt="" coords="152,158,332,199"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#a6ef370be8503a3ae91f5161c66eaf2a6" title=" " alt="" coords="164,224,320,251"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,1129,104,1156"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#a970c7d031af196eae774c1e0fa78daab" title=" " alt="" coords="327,488,550,544"/>
+<area shape="rect" id="node45" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a3cbe35dede264f9829404d25b4a4592d" title=" " alt="" coords="305,1081,572,1137"/>
+<area shape="rect" id="node46" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget_1_1_icon_game_widget.html#a3cbe35dede264f9829404d25b4a4592d" title=" " alt="" coords="315,1236,563,1292"/>
+<area shape="rect" id="node47" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a3cbe35dede264f9829404d25b4a4592d" title=" " alt="" coords="319,1340,558,1396"/>
+<area shape="rect" id="node49" href="$classrare_1_1game__launch__helper_1_1_game_process_helper.html#a570becd3013927cf4b1cb32cf798d7e8" title=" " alt="" coords="1628,1147,1807,1203"/>
+<area shape="rect" id="node50" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#a1ff6997393d84b07e97a057126c415f7" title=" " alt="" coords="152,1167,257,1193"/>
+<area shape="rect" id="node3" href="$classlegendary_1_1core_1_1_legendary_core.html#a9e63a45de31a1de8c5dfdff84ac0ab13" title=" " alt="" coords="677,777,845,818"/>
+<area shape="rect" id="node12" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#a7ef5cfe5910b87654ad404e0d48935f9" title=" " alt="" coords="2267,554,2502,595"/>
+<area shape="rect" id="node14" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#a398a7b51391d4f2b1854e3d8cda2f9a3" title=" " alt="" coords="620,406,901,447"/>
+<area shape="rect" id="node20" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#aa5166679a6b1c69dd24d2e6faa34dc7b" title=" " alt="" coords="1364,191,1464,217"/>
+<area shape="rect" id="node39" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#aa5166679a6b1c69dd24d2e6faa34dc7b" title=" " alt="" coords="1283,265,1545,321"/>
+<area shape="rect" id="node40" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget_1_1_icon_game_widget.html#aa5166679a6b1c69dd24d2e6faa34dc7b" title=" " alt="" coords="1290,81,1538,137"/>
+<area shape="rect" id="node44" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#aabe920f2c8b262a0d16df2ef0ceafad8" title=" " alt="" coords="629,495,893,537"/>
+<area shape="rect" id="node4" href="$namespacelegendary_1_1utils_1_1lfs.html#a38e08f798409e7535568c4b7254bef93" title=" " alt="" coords="1013,866,1171,907"/>
+<area shape="rect" id="node5" href="$classlegendary_1_1core_1_1_legendary_core.html#a45ae944c9a1f1c79eee44cc8789a8220" title=" " alt="" coords="1003,955,1181,997"/>
+<area shape="rect" id="node6" href="$classlegendary_1_1core_1_1_legendary_core.html#a89bcbbe946094e459c8d331cb6bf89dd" title=" " alt="" coords="1008,777,1176,818"/>
+<area shape="rect" id="node7" href="$classlegendary_1_1lfs_1_1lgndry_1_1_l_g_d_l_f_s.html#a89296d6f503604b74250a6b39ba6a6d2" title=" " alt="" coords="985,687,1199,729"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1extra_1_1console_1_1_console.html#a4db0e98c238d6a69bdbf4b8cc59be732" title=" " alt="" coords="1314,637,1514,678"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1extra_1_1console_1_1_console_edit.html#ac05aadedf6e1be5c365c818989f98d50" title=" " alt="" coords="1314,1006,1514,1047"/>
+<area shape="rect" id="node8" href="$classlegendary_1_1lfs_1_1lgndry_1_1_l_g_d_l_f_s.html#a08d9b2afb8cc286235f801be197f369c" title=" " alt="" coords="1319,702,1509,743"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1extra_1_1console_1_1_console_edit.html#ad89ca21019805240d01e41fe61cdbb56" title=" " alt="" coords="1617,1006,1817,1047"/>
+<area shape="rect" id="node13" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#a8f1867fc20fc1dd8a0a8d3491b049504" title=" " alt="" coords="2853,503,3033,545"/>
+<area shape="rect" id="node15" href="$namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" title=" " alt="" coords="1043,511,1141,537"/>
+<area shape="rect" id="node16" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1ubisoft__activation_1_1_ubi_link_widget.html#a4f1fc3fc743e9e74ae4d1c677928ef3f" title=" " alt="" coords="949,421,1235,462"/>
+<area shape="rect" id="node18" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#a305cbdbdf1c59aacea30610a562ac40d" title=" " alt="" coords="981,316,1203,372"/>
+<area shape="rect" id="node17" href="$namespacerare_1_1utils_1_1utils.html#a1cb4b41d139090ec167011904697693d" title=" " alt="" coords="1351,473,1477,500"/>
+<area shape="rect" id="node19" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#a2156cf89d0ec4acb619d120dc8a13b2d" title=" " alt="" coords="1303,369,1525,425"/>
+<area shape="rect" id="node21" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#aaa446a5a3dd51ddb063bbd7f3fc99bb5" title=" " alt="" coords="2256,364,2513,391"/>
+<area shape="rect" id="node31" href="$classrare_1_1game__launch__helper_1_1_game_process_helper.html#a62864ecc73de3f9e4a009737d0c01f01" title=" " alt="" coords="1606,917,1829,958"/>
+<area shape="rect" id="node22" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#a7cdf5fdee61d4cb8e8c23deea2daed95" title=" " alt="" coords="2627,393,2733,420"/>
+<area shape="rect" id="node23" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#a8874ae9686caf8e5f7ada83bf16d3502" title=" " alt="" coords="2590,445,2770,486"/>
+<area shape="rect" id="node24" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#a36b3fa477ce9c95dcbabbe0981b6ce5c" title=" " alt="" coords="2590,149,2770,190"/>
+<area shape="rect" id="node25" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#af4fbd273910cd54acfef28e15b69d6ef" title=" " alt="" coords="2561,238,2799,279"/>
+<area shape="rect" id="node30" href="$namespacelegendary_1_1utils_1_1crossover.html#afcb04a9cdcff5e94b0c53b7f92276795" title=" " alt="" coords="2584,327,2776,369"/>
+<area shape="rect" id="node26" href="$namespacelegendary_1_1utils_1_1lfs.html#a46950c517bb47a4dbf895890512fcd10" title=" " alt="" coords="2865,283,3020,325"/>
+<area shape="rect" id="node27" href="$namespacelegendary_1_1utils_1_1cli.html#a5e8c34d0dce0b665a289cffe6b705fa9" title=" " alt="" coords="2872,373,3013,414"/>
+<area shape="rect" id="node28" href="$namespacelegendary_1_1utils_1_1cli.html#a56171997f5fe14d47b31556172fe0044" title=" " alt="" coords="2872,105,3013,146"/>
+<area shape="rect" id="node29" href="$namespacelegendary_1_1utils_1_1crossover.html#ab0581e55936af2c92558b9a8ffdb906b" title=" " alt="" coords="2847,194,3039,235"/>
+<area shape="rect" id="node32" href="$classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="1889,1129,2208,1170"/>
+<area shape="rect" id="node33" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="1923,949,2175,976"/>
+<area shape="rect" id="node34" href="$classrare_1_1game__launch__helper_1_1_game_process_helper.html#a1ad309148fd22e4786258dc4a79ec7af" title=" " alt="" coords="1961,1024,2136,1080"/>
+<area shape="rect" id="node35" href="$classrare_1_1game__launch__helper_1_1_game_process_helper.html#a711d1d7df9874db34971779c941c4e5e" title=" " alt="" coords="1963,859,2135,901"/>
+<area shape="rect" id="node36" href="$classrare_1_1game__launch__helper_1_1_game_process_helper.html#a26ca7c1c7fcdd35378e7be97727047a6" title=" " alt="" coords="1963,1218,2134,1259"/>
+<area shape="rect" id="node37" href="$classrare_1_1app_1_1_app.html#a9e2b856eeb4aa53cc7ec5d10626fc41a" title=" " alt="" coords="2312,1225,2457,1252"/>
+<area shape="rect" id="node38" href="$classlegendary_1_1core_1_1_legendary_core.html#a3ac98d0ca6e229126e4707d45c2f5071" title="Do cleanup, config saving, and exit." alt="" coords="2596,1218,2764,1259"/>
+<area shape="rect" id="node41" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget_1_1_icon_game_widget.html#ac9598940a0d04d2961aa445b09bc9d50" title=" " alt="" coords="1593,29,1841,85"/>
+<area shape="rect" id="node43" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#ac9598940a0d04d2961aa445b09bc9d50" title=" " alt="" coords="1598,133,1837,189"/>
+<area shape="rect" id="node42" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#ae522151c6b7af5e1b83262172bad557f" title=" " alt="" coords="1915,81,2182,137"/>
+<area shape="rect" id="node48" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a982778417e427c66b762f2e20cefc5f9" title=" " alt="" coords="641,1340,880,1396"/>
 </map>

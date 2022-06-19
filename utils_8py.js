@@ -9,6 +9,7 @@ var utils_8py =
     [ "get_color_schemes", "utils_8py.html#a00a2e2f5d0a7cc5a039c1bc84f6e233f", null ],
     [ "get_default_platform", "utils_8py.html#a826e4dea62c9c8c7c834c7f2d9c9484e", null ],
     [ "get_latest_version", "utils_8py.html#a7bee518d7078b4e0fa1758ce387ee3d4", null ],
+    [ "get_rare_executable", "utils_8py.html#a11c0f7e5400d1d4ab3bba82e24ae476f", null ],
     [ "get_raw_save_path", "utils_8py.html#aaac95efc53f67a21bfd4b8b48f595830", null ],
     [ "get_size", "utils_8py.html#a76b25bb1934f2b8bad17a35703027a9a", null ],
     [ "get_style_sheets", "utils_8py.html#ac4406ebf1ca48389a050679f374983b4", null ],

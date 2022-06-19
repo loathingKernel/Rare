@@ -13,11 +13,12 @@ var searchData=
   ['importsyncwidget_10',['ImportSyncWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1_import_sync_widget.html',1,'rare::components::tabs::games::import_sync']]],
   ['indicatorlineedit_11',['IndicatorLineEdit',['../classrare_1_1utils_1_1extra__widgets_1_1_indicator_line_edit.html',1,'rare::utils::extra_widgets']]],
   ['indicatorreasons_12',['IndicatorReasons',['../classrare_1_1utils_1_1extra__widgets_1_1_indicator_reasons.html',1,'rare::utils::extra_widgets']]],
-  ['installdialog_13',['InstallDialog',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html',1,'rare::components::dialogs::install_dialog']]],
-  ['installdownloadmodel_14',['InstallDownloadModel',['../classrare_1_1models_1_1install_1_1_install_download_model.html',1,'rare::models::install']]],
-  ['installedgame_15',['InstalledGame',['../classlegendary_1_1models_1_1game_1_1_installed_game.html',1,'legendary::models::game']]],
-  ['installinfoworker_16',['InstallInfoWorker',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker.html',1,'rare::components::dialogs::install_dialog']]],
-  ['installoptionsmodel_17',['InstallOptionsModel',['../classrare_1_1models_1_1install_1_1_install_options_model.html',1,'rare::models::install']]],
-  ['installqueueitemmodel_18',['InstallQueueItemModel',['../classrare_1_1models_1_1install_1_1_install_queue_item_model.html',1,'rare::models::install']]],
-  ['invalidcredentialserror_19',['InvalidCredentialsError',['../classlegendary_1_1models_1_1exceptions_1_1_invalid_credentials_error.html',1,'legendary::models::exceptions']]]
+  ['initargs_13',['InitArgs',['../classrare_1_1game__launch__helper_1_1lgd__helper_1_1_init_args.html',1,'rare::game_launch_helper::lgd_helper']]],
+  ['installdialog_14',['InstallDialog',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html',1,'rare::components::dialogs::install_dialog']]],
+  ['installdownloadmodel_15',['InstallDownloadModel',['../classrare_1_1models_1_1install_1_1_install_download_model.html',1,'rare::models::install']]],
+  ['installedgame_16',['InstalledGame',['../classlegendary_1_1models_1_1game_1_1_installed_game.html',1,'legendary::models::game']]],
+  ['installinfoworker_17',['InstallInfoWorker',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker.html',1,'rare::components::dialogs::install_dialog']]],
+  ['installoptionsmodel_18',['InstallOptionsModel',['../classrare_1_1models_1_1install_1_1_install_options_model.html',1,'rare::models::install']]],
+  ['installqueueitemmodel_19',['InstallQueueItemModel',['../classrare_1_1models_1_1install_1_1_install_queue_item_model.html',1,'rare::models::install']]],
+  ['invalidcredentialserror_20',['InvalidCredentialsError',['../classlegendary_1_1models_1_1exceptions_1_1_invalid_credentials_error.html',1,'legendary::models::exceptions']]]
 ];

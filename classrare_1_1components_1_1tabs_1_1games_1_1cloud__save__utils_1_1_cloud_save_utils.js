@@ -3,7 +3,7 @@ var classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_sav
     [ "__init__", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#ae64f0875afe3067b97ba370b354b9213", null ],
     [ "download_saves", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#a398a7b51391d4f2b1854e3d8cda2f9a3", null ],
     [ "game_finished", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#a970c7d031af196eae774c1e0fa78daab", null ],
-    [ "get_latest_saves", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#a79020ced32dfb0a8446a3728e2991ef2", null ],
+    [ "get_latest_saves", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#a2156cf89d0ec4acb619d120dc8a13b2d", null ],
     [ "sync_before_launch_game", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#abb078ea24f03a8b8317000d4af7416de", null ],
     [ "upload_saves", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#aabe920f2c8b262a0d16df2ef0ceafad8", null ],
     [ "worker_finished", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#a305cbdbdf1c59aacea30610a562ac40d", null ],
