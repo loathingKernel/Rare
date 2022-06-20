@@ -88,13 +88,13 @@ var NAVTREEINDEX =
 "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html#abcce2884a1bb90377370a95c3e4f95b6",
 "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_ui___wrapper_settings.html#ab918d12b006c981a544fdbd27cff00ed",
 "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html#aeb4325cdc713f45c320d04f6b18d7ea0",
-"classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#a35061dd226fbf32b76578ca1f0759ce1",
+"classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#a7ff5b6dfcc795121c5d7692a99307a9a",
 "components_2tabs_2games_2import__sync_2import__group_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d",
 "functions_vars_n.html",
-"namespacelegendary_1_1utils_1_1egl__crypt.html#aef18be6ecf8bf02c35576c2bfd75cb0a",
-"namespacerare_1_1shared.html#acfdfb4195f8ff9bc0acd929ba6d98380",
-"pathedit_8py.html#ac492f8de2d00b6c4282e766bfadaf2e7",
-"utils_8py.html#a5bc2e6b3a22f954f1c3138cf7b24d83a"
+"namespacelegendary_1_1utils_1_1egl__crypt.html#ade9794dba0eaaca308cd84675c1825a6",
+"namespacerare_1_1shared.html#ab04adc7782d07f6272f9b769c4d338a6",
+"path__input__dialog_8py_source.html",
+"utils_8py.html#a11c0f7e5400d1d4ab3bba82e24ae476f"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

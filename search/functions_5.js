@@ -30,5 +30,5 @@ var searchData=
   ['execute_27',['execute',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aa902973791e81c8c4542da337b86289b',1,'rare::components::dialogs::install_dialog::InstallDialog']]],
   ['exit_28',['exit',['../classlegendary_1_1core_1_1_legendary_core.html#a3ac98d0ca6e229126e4707d45c2f5071',1,'legendary::core::LegendaryCore']]],
   ['exit_5fapp_29',['exit_app',['../classrare_1_1app_1_1_app.html#a9e2b856eeb4aa53cc7ec5d10626fc41a',1,'rare::app::App']]],
-  ['expandingdirections_30',['expandingDirections',['../classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a811069ce948867797e049cffb9674e47',1,'rare.utils.extra_widgets.FlowLayout.expandingDirections()'],['../classrare_1_1utils_1_1extra__widgets_1_1_library_layout.html#a811069ce948867797e049cffb9674e47',1,'rare.utils.extra_widgets.LibraryLayout.expandingDirections()']]]
+  ['expandingdirections_30',['expandingDirections',['../classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a811069ce948867797e049cffb9674e47',1,'rare.utils.extra_widgets.FlowLayout.expandingDirections()'],['../classrare_1_1widgets_1_1library__layout_1_1_library_layout.html#a811069ce948867797e049cffb9674e47',1,'rare.widgets.library_layout.LibraryLayout.expandingDirections()']]]
 ];

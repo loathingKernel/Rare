@@ -1,7 +1,6 @@
 var extra__widgets_8py =
 [
     [ "FlowLayout", "classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html", "classrare_1_1utils_1_1extra__widgets_1_1_flow_layout" ],
-    [ "LibraryLayout", "classrare_1_1utils_1_1extra__widgets_1_1_library_layout.html", "classrare_1_1utils_1_1extra__widgets_1_1_library_layout" ],
     [ "IndicatorReasons", "classrare_1_1utils_1_1extra__widgets_1_1_indicator_reasons.html", null ],
     [ "IndicatorLineEdit", "classrare_1_1utils_1_1extra__widgets_1_1_indicator_line_edit.html", "classrare_1_1utils_1_1extra__widgets_1_1_indicator_line_edit" ],
     [ "PathEditIconProvider", "classrare_1_1utils_1_1extra__widgets_1_1_path_edit_icon_provider.html", "classrare_1_1utils_1_1extra__widgets_1_1_path_edit_icon_provider" ],

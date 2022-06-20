@@ -260,7 +260,7 @@ var hierarchy =
     ] ],
     [ "QLayout", null, [
       [ "FlowLayout", "classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html", [
-        [ "LibraryLayout", "classrare_1_1utils_1_1extra__widgets_1_1_library_layout.html", null ]
+        [ "LibraryLayout", "classrare_1_1widgets_1_1library__layout_1_1_library_layout.html", null ]
       ] ]
     ] ],
     [ "QLineEdit", null, [

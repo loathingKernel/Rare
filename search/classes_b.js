@@ -9,7 +9,7 @@ var searchData=
   ['lgdapi_6',['LGDAPI',['../classlegendary_1_1api_1_1lgd_1_1_l_g_d_a_p_i.html',1,'legendary::api::lgd']]],
   ['lgdconf_7',['LGDConf',['../classlegendary_1_1utils_1_1config_1_1_l_g_d_conf.html',1,'legendary::utils::config']]],
   ['lgdlfs_8',['LGDLFS',['../classlegendary_1_1lfs_1_1lgndry_1_1_l_g_d_l_f_s.html',1,'legendary::lfs::lgndry']]],
-  ['librarylayout_9',['LibraryLayout',['../classrare_1_1utils_1_1extra__widgets_1_1_library_layout.html',1,'rare::utils::extra_widgets']]],
+  ['librarylayout_9',['LibraryLayout',['../classrare_1_1widgets_1_1library__layout_1_1_library_layout.html',1,'rare::widgets::library_layout']]],
   ['librarywidget_10',['LibraryWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html',1,'rare::components::tabs::games::game_widgets::library_widget']]],
   ['librarywidgetcontroller_11',['LibraryWidgetController',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html',1,'rare::components::tabs::games::game_widgets']]],
   ['linuxappsettings_12',['LinuxAppSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1default__game__settings_1_1_linux_app_settings.html',1,'rare::components::tabs::settings::default_game_settings']]],

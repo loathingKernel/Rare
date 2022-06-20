@@ -1,10 +1,10 @@
 <map id="setGeometry" name="setGeometry">
 <area shape="rect" id="node1" title=" " alt="" coords="5,82,101,109"/>
-<area shape="rect" id="node2" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#aea5fef774da86c1a120b393f7d8cdd6a" title=" " alt="" coords="191,41,265,67"/>
-<area shape="rect" id="node8" href="$classrare_1_1utils_1_1extra__widgets_1_1_library_layout.html#aea5fef774da86c1a120b393f7d8cdd6a" title="Arranges the widgets for this layout." alt="" coords="149,116,307,157"/>
-<area shape="rect" id="node3" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a198240b6ed8eb4be3d26adb4ca03aa8d" title=" " alt="" coords="355,45,479,71"/>
-<area shape="rect" id="node7" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a339c0461a90b6d3b3eee250fbc47aefb" title=" " alt="" coords="361,119,472,146"/>
-<area shape="rect" id="node4" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a2e8d545883a85a6757198adec7da2731" title=" " alt="" coords="527,82,629,109"/>
-<area shape="rect" id="node5" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#a35061dd226fbf32b76578ca1f0759ce1" title=" " alt="" coords="677,29,837,71"/>
-<area shape="rect" id="node6" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#acbb44b417d59fdabb258afc05df6e499" title=" " alt="" coords="677,119,837,160"/>
+<area shape="rect" id="node2" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#aea5fef774da86c1a120b393f7d8cdd6a" title=" " alt="" coords="212,41,287,67"/>
+<area shape="rect" id="node8" href="$classrare_1_1widgets_1_1library__layout_1_1_library_layout.html#aea5fef774da86c1a120b393f7d8cdd6a" title="Arranges the widgets for this layout." alt="" coords="149,116,349,157"/>
+<area shape="rect" id="node3" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a198240b6ed8eb4be3d26adb4ca03aa8d" title=" " alt="" coords="397,45,521,71"/>
+<area shape="rect" id="node7" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a339c0461a90b6d3b3eee250fbc47aefb" title=" " alt="" coords="404,119,515,146"/>
+<area shape="rect" id="node4" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a2e8d545883a85a6757198adec7da2731" title=" " alt="" coords="569,82,672,109"/>
+<area shape="rect" id="node5" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#a35061dd226fbf32b76578ca1f0759ce1" title=" " alt="" coords="720,29,880,71"/>
+<area shape="rect" id="node6" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#acbb44b417d59fdabb258afc05df6e499" title=" " alt="" coords="720,119,880,160"/>
 </map>

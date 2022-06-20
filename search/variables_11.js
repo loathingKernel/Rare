@@ -48,12 +48,13 @@ var searchData=
   ['roman_45',['roman',['../namespacelegendary_1_1utils_1_1aliasing.html#a1a98bd2318788540b2aa519de82e9da7',1,'legendary::utils::aliasing']]],
   ['rounded_46',['Rounded',['../classrare_1_1widgets_1_1image__widget_1_1_image_widget_1_1_border.html#ae208e92d49884d66764bb9a81f10d750',1,'rare::widgets::image_widget::ImageWidget::Border']]],
   ['rounds_5fby_5fkey_5fsize_47',['rounds_by_key_size',['../classlegendary_1_1utils_1_1egl__crypt_1_1_a_e_s.html#aa3ebdd5b228686f1d6a53a32952baf6f',1,'legendary::utils::egl_crypt::AES']]],
-  ['rpc_48',['rpc',['../classrare_1_1components_1_1main__window_1_1_main_window.html#a0ab21f4419a1405b21abd8a77d54c110',1,'rare.components.main_window.MainWindow.rpc()'],['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a0ab21f4419a1405b21abd8a77d54c110',1,'rare.components.tabs.settings.rare.RareSettings.rpc()']]],
+  ['rpc_48',['rpc',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a0ab21f4419a1405b21abd8a77d54c110',1,'rare::components::tabs::settings::rare::RareSettings']]],
   ['rpc_49',['RPC',['../classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html#a63cb1cbf43eafd1c08c70f48b08db9db',1,'rare::utils::rpc::DiscordRPC']]],
-  ['rpc_5fsettings_5fupdated_50',['rpc_settings_updated',['../classrare_1_1models_1_1signals_1_1_global_signals.html#a3acd7075a71b5ff14c407ccbe05de919',1,'rare::models::signals::GlobalSignals']]],
-  ['rpcsettings_51',['RPCSettings',['../namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc.html#a1e8e83cbd1aaeaa3729b27e32990f6ea',1,'rare::ui::components::tabs::settings::widgets::rpc']]],
-  ['running_52',['RUNNING',['../classrare_1_1models_1_1game_1_1_rare_game_state.html#aa00a8e9e1acea29817da05ab4682fe4c',1,'rare::models::game::RareGameState']]],
-  ['running_53',['running',['../classlegendary_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#a1a015fe02c9cea18a5cf62656e257c97',1,'legendary::downloader::mp::manager::DLManager']]],
-  ['running_5fgames_54',['running_games',['../classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#aaf4afa1f7c700bdaf5f9cf6f8a239d72',1,'rare::components::tabs::games::game_utils::GameUtils']]],
-  ['runtime_55',['runtime',['../classlegendary_1_1models_1_1downloading_1_1_u_i_update.html#aaca40adbdaefd717dec8cd204e5e59ea',1,'legendary::models::downloading::UIUpdate']]]
+  ['rpc_50',['rpc',['../classrare_1_1components_1_1main__window_1_1_main_window.html#a0ab21f4419a1405b21abd8a77d54c110',1,'rare::components::main_window::MainWindow']]],
+  ['rpc_5fsettings_5fupdated_51',['rpc_settings_updated',['../classrare_1_1models_1_1signals_1_1_global_signals.html#a3acd7075a71b5ff14c407ccbe05de919',1,'rare::models::signals::GlobalSignals']]],
+  ['rpcsettings_52',['RPCSettings',['../namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc.html#a1e8e83cbd1aaeaa3729b27e32990f6ea',1,'rare::ui::components::tabs::settings::widgets::rpc']]],
+  ['running_53',['RUNNING',['../classrare_1_1models_1_1game_1_1_rare_game_state.html#aa00a8e9e1acea29817da05ab4682fe4c',1,'rare::models::game::RareGameState']]],
+  ['running_54',['running',['../classlegendary_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#a1a015fe02c9cea18a5cf62656e257c97',1,'legendary::downloader::mp::manager::DLManager']]],
+  ['running_5fgames_55',['running_games',['../classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#aaf4afa1f7c700bdaf5f9cf6f8a239d72',1,'rare::components::tabs::games::game_utils::GameUtils']]],
+  ['runtime_56',['runtime',['../classlegendary_1_1models_1_1downloading_1_1_u_i_update.html#aaca40adbdaefd717dec8cd204e5e59ea',1,'legendary::models::downloading::UIUpdate']]]
 ];

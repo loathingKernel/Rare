@@ -142,6 +142,8 @@ var NAVTREEINDEX22 =
 "lgd__helper_8py_source.html":[8,0,0,1,1],
 "lgndry_8py.html":[8,0,0,2,0,2,2],
 "lgndry_8py_source.html":[8,0,0,2,0,2,2],
+"library__layout_8py.html":[8,0,0,7,3],
+"library__layout_8py_source.html":[8,0,0,7,3],
 "library__widget_8py.html":[8,0,0,0,2,2,1,4],
 "library__widget_8py_source.html":[8,0,0,0,2,2,1,4],
 "list__game__widget_8py.html":[8,0,0,0,2,2,1,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX22 =
 "namespacelegendary_1_1utils_1_1egl__crypt.html#a9faec3ed0b4f91075dd347c8e649db4c":[6,0,0,6,5,6],
 "namespacelegendary_1_1utils_1_1egl__crypt.html#ab51aa19c1af6b70212e6b73ba4f6b90d":[6,0,0,6,5,7],
 "namespacelegendary_1_1utils_1_1egl__crypt.html#ac30323782bba4a75e98ce75fa9895dee":[6,0,0,6,5,3],
-"namespacelegendary_1_1utils_1_1egl__crypt.html#acfc65e83e103c4d48b6d32f604ec0625":[6,0,0,6,5,4],
-"namespacelegendary_1_1utils_1_1egl__crypt.html#ade9794dba0eaaca308cd84675c1825a6":[6,0,0,6,5,5],
-"namespacelegendary_1_1utils_1_1egl__crypt.html#ae439a52191b7ee66ff54b11c15afa4c1":[6,0,0,6,5,1]
+"namespacelegendary_1_1utils_1_1egl__crypt.html#acfc65e83e103c4d48b6d32f604ec0625":[6,0,0,6,5,4]
 };

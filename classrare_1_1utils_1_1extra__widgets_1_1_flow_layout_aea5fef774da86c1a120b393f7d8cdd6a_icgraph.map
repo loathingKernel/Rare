@@ -1,8 +1,8 @@
 <map id="doLayout" name="doLayout">
-<area shape="rect" id="node1" title=" " alt="" coords="479,112,553,139"/>
-<area shape="rect" id="node2" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a79a95bc3b25357794eb45d452b5fa4c6" title=" " alt="" coords="287,29,397,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#af87928df2c164a948da59b9e41bcc8e3" title=" " alt="" coords="294,195,390,221"/>
-<area shape="rect" id="node6" href="$classrare_1_1utils_1_1extra__widgets_1_1_library_layout.html#af87928df2c164a948da59b9e41bcc8e3" title=" " alt="" coords="253,105,431,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="523,112,597,139"/>
+<area shape="rect" id="node2" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a79a95bc3b25357794eb45d452b5fa4c6" title=" " alt="" coords="309,29,419,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#af87928df2c164a948da59b9e41bcc8e3" title=" " alt="" coords="316,195,412,221"/>
+<area shape="rect" id="node6" href="$classrare_1_1widgets_1_1library__layout_1_1_library_layout.html#af87928df2c164a948da59b9e41bcc8e3" title=" " alt="" coords="253,105,475,146"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1extra_1_1console_1_1_console.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="5,101,205,142"/>
-<area shape="rect" id="node5" href="$classrare_1_1utils_1_1extra__widgets_1_1_library_layout.html#ac9632f6438f5820ccb6a0b04991a4e7d" title=" " alt="" coords="27,190,184,231"/>
+<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1library__layout_1_1_library_layout.html#ac9632f6438f5820ccb6a0b04991a4e7d" title=" " alt="" coords="21,190,190,231"/>
 </map>

@@ -35,7 +35,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1utils_1_1extra__widgets_1_1_library_layout.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1widgets_1_1library__layout_1_1_library_layout.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-101.5 118,-101.5 118,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="59" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00">LibraryLayout</text>
 <polyline fill="none" stroke="black" points="0,-82.5 118,-82.5 "/>

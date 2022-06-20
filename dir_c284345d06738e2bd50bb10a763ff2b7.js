@@ -4,5 +4,8 @@ var dir_c284345d06738e2bd50bb10a763ff2b7 =
     [ "elide_label.py", "elide__label_8py.html", [
       [ "ElideLabel", "classrare_1_1widgets_1_1elide__label_1_1_elide_label.html", "classrare_1_1widgets_1_1elide__label_1_1_elide_label" ]
     ] ],
-    [ "image_widget.py", "image__widget_8py.html", "image__widget_8py" ]
+    [ "image_widget.py", "image__widget_8py.html", "image__widget_8py" ],
+    [ "library_layout.py", "library__layout_8py.html", [
+      [ "LibraryLayout", "classrare_1_1widgets_1_1library__layout_1_1_library_layout.html", "classrare_1_1widgets_1_1library__layout_1_1_library_layout" ]
+    ] ]
 ];
