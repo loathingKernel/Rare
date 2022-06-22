@@ -73,9 +73,9 @@ var sectionId = 'dynsection-4';
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a198240b6ed8eb4be3d26adb4ca03aa8d" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a198240b6ed8eb4be3d26adb4ca03aa8d" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="92,-67.5 92,-97.5 238,-97.5 238,-67.5 92,-67.5"/>
-<text text-anchor="start" x="100" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.extra_widgets.</text>
+<text text-anchor="start" x="100" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.flow_layout.</text>
 <text text-anchor="middle" x="165" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">FlowLayout.horizontalSpacing</text>
 </a>
 </g>
@@ -89,9 +89,9 @@ var sectionId = 'dynsection-4';
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a339c0461a90b6d3b3eee250fbc47aefb" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a339c0461a90b6d3b3eee250fbc47aefb" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="97,-0.5 97,-30.5 233,-30.5 233,-0.5 97,-0.5"/>
-<text text-anchor="start" x="105" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.extra_widgets.</text>
+<text text-anchor="start" x="105" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.flow_layout.</text>
 <text text-anchor="middle" x="165" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">FlowLayout.verticalSpacing</text>
 </a>
 </g>
@@ -111,9 +111,9 @@ var sectionId = 'dynsection-4';
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a2e8d545883a85a6757198adec7da2731" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a2e8d545883a85a6757198adec7da2731" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="274,-33.5 274,-63.5 403,-63.5 403,-33.5 274,-33.5"/>
-<text text-anchor="start" x="282" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.extra_widgets.</text>
+<text text-anchor="start" x="282" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.flow_layout.</text>
 <text text-anchor="middle" x="338.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">FlowLayout.smartSpacing</text>
 </a>
 </g>

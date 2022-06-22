@@ -1,5 +1,13 @@
 var NAVTREEINDEX21 =
 {
+"components_2tabs_2games_2game__widgets_2____init_____8py.html":[8,0,0,0,2,2,1,0],
+"components_2tabs_2games_2game__widgets_2____init_____8py_source.html":[8,0,0,0,2,2,1,0],
+"components_2tabs_2games_2import__sync_2____init_____8py.html":[8,0,0,0,2,2,2,0],
+"components_2tabs_2games_2import__sync_2____init_____8py_source.html":[8,0,0,0,2,2,2,0],
+"components_2tabs_2games_2import__sync_2egl__sync__group_8py.html":[8,0,0,0,2,2,2,1],
+"components_2tabs_2games_2import__sync_2egl__sync__group_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,2,2,2,1,4],
+"components_2tabs_2games_2import__sync_2egl__sync__group_8py_source.html":[8,0,0,0,2,2,2,1],
+"components_2tabs_2games_2import__sync_2import__group_8py.html":[8,0,0,0,2,2,2,2],
 "components_2tabs_2games_2import__sync_2import__group_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,2,2,2,2,2],
 "components_2tabs_2games_2import__sync_2import__group_8py_source.html":[8,0,0,0,2,2,2,2],
 "components_2tabs_2settings_2____init_____8py.html":[8,0,0,0,2,3,1],
@@ -184,9 +192,11 @@ var NAVTREEINDEX21 =
 "exceptions_8py.html":[8,0,0,2,0,3,4],
 "exceptions_8py_source.html":[8,0,0,2,0,3,4],
 "extra__widgets_8py.html":[8,0,0,6,2],
-"extra__widgets_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,6,2,13],
+"extra__widgets_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,6,2,11],
 "extra__widgets_8py_source.html":[8,0,0,6,2],
 "files.html":[8,0],
+"flow__layout_8py.html":[8,0,0,7,2],
+"flow__layout_8py_source.html":[8,0,0,7,2],
 "functions.html":[7,3,0,0],
 "functions.html":[7,3,0],
 "functions_a.html":[7,3,0,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX21 =
 "functions_vars.html":[7,3,2,0],
 "functions_vars.html":[7,3,2],
 "functions_vars_b.html":[7,3,2,1],
-"functions_vars_c.html":[7,3,2,2],
-"functions_vars_d.html":[7,3,2,3],
-"functions_vars_e.html":[7,3,2,4],
-"functions_vars_f.html":[7,3,2,5],
-"functions_vars_g.html":[7,3,2,6],
-"functions_vars_h.html":[7,3,2,7],
-"functions_vars_i.html":[7,3,2,8],
-"functions_vars_j.html":[7,3,2,9],
-"functions_vars_k.html":[7,3,2,10],
-"functions_vars_l.html":[7,3,2,11],
-"functions_vars_m.html":[7,3,2,12]
+"functions_vars_c.html":[7,3,2,2]
 };

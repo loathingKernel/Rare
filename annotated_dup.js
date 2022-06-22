@@ -518,7 +518,6 @@ var annotated_dup =
       [ "utils", "namespacerare_1_1utils.html", [
         [ "extra_widgets", "namespacerare_1_1utils_1_1extra__widgets.html", [
           [ "ButtonLineEdit", "classrare_1_1utils_1_1extra__widgets_1_1_button_line_edit.html", "classrare_1_1utils_1_1extra__widgets_1_1_button_line_edit" ],
-          [ "FlowLayout", "classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html", "classrare_1_1utils_1_1extra__widgets_1_1_flow_layout" ],
           [ "ImageLabel", "classrare_1_1utils_1_1extra__widgets_1_1_image_label.html", "classrare_1_1utils_1_1extra__widgets_1_1_image_label" ],
           [ "IndicatorLineEdit", "classrare_1_1utils_1_1extra__widgets_1_1_indicator_line_edit.html", "classrare_1_1utils_1_1extra__widgets_1_1_indicator_line_edit" ],
           [ "IndicatorReasons", "classrare_1_1utils_1_1extra__widgets_1_1_indicator_reasons.html", null ],
@@ -528,7 +527,6 @@ var annotated_dup =
           [ "SideTabBar", "classrare_1_1utils_1_1extra__widgets_1_1_side_tab_bar.html", "classrare_1_1utils_1_1extra__widgets_1_1_side_tab_bar" ],
           [ "SideTabContainer", "classrare_1_1utils_1_1extra__widgets_1_1_side_tab_container.html", "classrare_1_1utils_1_1extra__widgets_1_1_side_tab_container" ],
           [ "SideTabWidget", "classrare_1_1utils_1_1extra__widgets_1_1_side_tab_widget.html", "classrare_1_1utils_1_1extra__widgets_1_1_side_tab_widget" ],
-          [ "SlidingStackedWidget", "classrare_1_1utils_1_1extra__widgets_1_1_sliding_stacked_widget.html", "classrare_1_1utils_1_1extra__widgets_1_1_sliding_stacked_widget" ],
           [ "WaitingSpinner", "classrare_1_1utils_1_1extra__widgets_1_1_waiting_spinner.html", "classrare_1_1utils_1_1extra__widgets_1_1_waiting_spinner" ]
         ] ],
         [ "json_formatter", "namespacerare_1_1utils_1_1json__formatter.html", [
@@ -564,11 +562,17 @@ var annotated_dup =
         [ "elide_label", "namespacerare_1_1widgets_1_1elide__label.html", [
           [ "ElideLabel", "classrare_1_1widgets_1_1elide__label_1_1_elide_label.html", "classrare_1_1widgets_1_1elide__label_1_1_elide_label" ]
         ] ],
+        [ "flow_layout", "namespacerare_1_1widgets_1_1flow__layout.html", [
+          [ "FlowLayout", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout" ]
+        ] ],
         [ "image_widget", "namespacerare_1_1widgets_1_1image__widget.html", [
           [ "ImageWidget", "classrare_1_1widgets_1_1image__widget_1_1_image_widget.html", "classrare_1_1widgets_1_1image__widget_1_1_image_widget" ]
         ] ],
         [ "library_layout", "namespacerare_1_1widgets_1_1library__layout.html", [
           [ "LibraryLayout", "classrare_1_1widgets_1_1library__layout_1_1_library_layout.html", "classrare_1_1widgets_1_1library__layout_1_1_library_layout" ]
+        ] ],
+        [ "sliding_stack", "namespacerare_1_1widgets_1_1sliding__stack.html", [
+          [ "SlidingStackedWidget", "classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html", "classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget" ]
         ] ]
       ] ]
     ] ]

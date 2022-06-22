@@ -8,7 +8,7 @@ var searchData=
   ['tabwidget_5',['TabWidget',['../classrare_1_1components_1_1tabs_1_1_tab_widget.html',1,'rare::components::tabs']]],
   ['tag_6',['tag',['../classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_check_box.html#ae0502737ad7fe2f269d967e86f43ca90',1,'rare::components::tabs::shop::shop_widget::CheckBox']]],
   ['tags_7',['tags',['../classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_shop_game.html#a4ccc9b09cd5009aceaa248cf636be51d',1,'rare.components.tabs.shop.shop_models.ShopGame.tags()'],['../classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#a4ccc9b09cd5009aceaa248cf636be51d',1,'rare.components.tabs.shop.shop_widget.ShopWidget.tags()'],['../classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1shop__game__info_1_1_ui__shop__info.html#a4ccc9b09cd5009aceaa248cf636be51d',1,'rare.ui.components.tabs.store.shop_game_info.Ui_shop_info.tags()']]],
-  ['takeat_8',['takeAt',['../classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#aeafb968e227de44a6c8d1d9535c28b2c',1,'rare::utils::extra_widgets::FlowLayout']]],
+  ['takeat_8',['takeAt',['../classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#aeafb968e227de44a6c8d1d9535c28b2c',1,'rare::widgets::flow_layout::FlowLayout']]],
   ['taskflags_9',['TaskFlags',['../classlegendary_1_1models_1_1downloading_1_1_task_flags.html',1,'legendary::models::downloading']]],
   ['tasks_10',['tasks',['../classlegendary_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#a7ddd3fcaeb82420d050fb527c788314f',1,'legendary::downloader::mp::manager::DLManager']]],
   ['terminateworkertask_11',['TerminateWorkerTask',['../classlegendary_1_1models_1_1downloading_1_1_terminate_worker_task.html',1,'legendary::models::downloading']]],

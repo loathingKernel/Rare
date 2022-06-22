@@ -1,52 +1,52 @@
 <map id="add_update" name="add_update">
-<area shape="rect" id="node1" title=" " alt="" coords="5,621,95,647"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a34dfac3ae00e55c098b07fd107a14daa" title=" " alt="" coords="197,575,327,602"/>
-<area shape="rect" id="node50" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a982778417e427c66b762f2e20cefc5f9" title=" " alt="" coords="143,650,381,706"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ae7c3da1b257767f97a06a0f0f679036e" title=" " alt="" coords="429,575,592,602"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,569,95,595"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a34dfac3ae00e55c098b07fd107a14daa" title=" " alt="" coords="197,523,327,550"/>
+<area shape="rect" id="node50" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a982778417e427c66b762f2e20cefc5f9" title=" " alt="" coords="143,598,381,654"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ae7c3da1b257767f97a06a0f0f679036e" title=" " alt="" coords="429,523,592,550"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html#abb32e37b8ffc3927ad711556854f45cb" title=" " alt="" coords="941,119,1224,160"/>
 <area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1uninstalled__info_1_1_uninstalled_info.html#abb32e37b8ffc3927ad711556854f45cb" title=" " alt="" coords="971,209,1194,265"/>
-<area shape="rect" id="node9" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#ab6e93bcf0f1422e16132188b8f93af70" title=" " alt="" coords="640,575,893,602"/>
+<area shape="rect" id="node9" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#ab6e93bcf0f1422e16132188b8f93af70" title=" " alt="" coords="640,523,893,550"/>
 <area shape="rect" id="node17" href="$classlegendary_1_1core_1_1_legendary_core.html#a44321822fb934fa3265d521e6e1dbbc2" title=" " alt="" coords="999,853,1167,895"/>
 <area shape="rect" id="node47" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a66eac4632760c14c4544b244b2108e93" title=" " alt="" coords="1035,943,1130,970"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a0ac02141fcf00adc3945e2ccb01fb2c1" title=" " alt="" coords="1272,29,1541,71"/>
 <area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html#ad3e66f623ddf8df77ec747a6f860526d" title=" " alt="" coords="1295,119,1518,160"/>
 <area shape="rect" id="node7" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a0ac02141fcf00adc3945e2ccb01fb2c1" title=" " alt="" coords="1293,209,1520,235"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1download__thread_1_1_download_thread.html#ab63faaa5812facc4f678cdb623dc4902" title=" " alt="" coords="948,633,1217,689"/>
-<area shape="rect" id="node11" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#a49dc690074a905bc7a6f24122e2b6257" title=" " alt="" coords="993,712,1173,753"/>
-<area shape="rect" id="node12" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#a8f1867fc20fc1dd8a0a8d3491b049504" title=" " alt="" coords="1317,571,1497,612"/>
-<area shape="rect" id="node13" href="$namespacelegendary_1_1utils_1_1cli.html#a5e8c34d0dce0b665a289cffe6b705fa9" title=" " alt="" coords="1012,313,1153,355"/>
-<area shape="rect" id="node14" href="$namespacelegendary_1_1utils_1_1selective__dl.html#ae5a52be6648e64bbbaa0816f9a00145b" title=" " alt="" coords="1003,403,1162,444"/>
-<area shape="rect" id="node15" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#aafa244dd3acd26b75df3612770ccecab" title=" " alt="" coords="982,493,1183,519"/>
-<area shape="rect" id="node49" href="$namespacelegendary_1_1utils_1_1cli.html#a671ebfa84f3e2bd63da0d7fa8b30bfbb" title=" " alt="" coords="1013,568,1153,609"/>
-<area shape="rect" id="node16" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#a36b3fa477ce9c95dcbabbe0981b6ce5c" title=" " alt="" coords="1317,485,1497,527"/>
-<area shape="rect" id="node18" href="$classlegendary_1_1core_1_1_legendary_core.html#a8f21c474f3085d01469ec2a50862c198" title=" " alt="" coords="1597,268,1765,309"/>
-<area shape="rect" id="node19" href="$classlegendary_1_1core_1_1_legendary_core.html#af7515f96f174207e59d14b1e1c288aad" title=" " alt="" coords="1323,832,1491,873"/>
-<area shape="rect" id="node42" href="$classlegendary_1_1core_1_1_legendary_core.html#a1b8f3b41ea51b5c97dfa7e91d64e89be" title=" " alt="" coords="2810,841,2978,883"/>
-<area shape="rect" id="node20" href="$classlegendary_1_1core_1_1_legendary_core.html#a0e3e7ee9c5647f695f53ee861b4e65bd" title=" " alt="" coords="3060,428,3231,469"/>
-<area shape="rect" id="node21" href="$classlegendary_1_1core_1_1_legendary_core.html#ade5d8c8f28d886b75f06818173f72439" title=" " alt="" coords="1597,832,1765,873"/>
-<area shape="rect" id="node26" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a7b45e18a683fd26a3f645bc0fd2a4db9" title=" " alt="" coords="2291,1095,2465,1136"/>
-<area shape="rect" id="node27" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html#a18df16bb6b4cfeaea982421770cce754" title=" " alt="" coords="2269,1184,2487,1225"/>
-<area shape="rect" id="node35" href="$classrare_1_1components_1_1extra_1_1console_1_1_console.html#a4db0e98c238d6a69bdbf4b8cc59be732" title=" " alt="" coords="3045,1012,3245,1053"/>
-<area shape="rect" id="node36" href="$classrare_1_1components_1_1extra_1_1console_1_1_console_edit.html#ac05aadedf6e1be5c365c818989f98d50" title=" " alt="" coords="3045,621,3245,663"/>
-<area shape="rect" id="node45" href="$classlegendary_1_1core_1_1_legendary_core.html#a433f769f23e2a4253363d4a664bfe2a8" title=" " alt="" coords="1589,460,1772,501"/>
-<area shape="rect" id="node22" href="$classlegendary_1_1core_1_1_legendary_core.html#af3d3c0bc12d5c34eaea1d16c62b400ca" title=" " alt="" coords="1820,873,1988,915"/>
-<area shape="rect" id="node23" href="$classlegendary_1_1core_1_1_legendary_core.html#a9d951e740eb66c73c62e200669f9e819" title=" " alt="" coords="2036,832,2221,873"/>
-<area shape="rect" id="node24" href="$classlegendary_1_1core_1_1_legendary_core.html#acfe9c4ea1a42bb21bd5a5ab37e954076" title=" " alt="" coords="2294,864,2462,905"/>
-<area shape="rect" id="node25" href="$classlegendary_1_1core_1_1_legendary_core.html#a4aa95f666152599f30fe233c0d0cfae4" title=" " alt="" coords="2294,953,2462,995"/>
-<area shape="rect" id="node29" href="$classlegendary_1_1core_1_1_legendary_core.html#a2088818eb2a6ad9ac951f33c444bdbd6" title=" " alt="" coords="2801,752,2987,793"/>
-<area shape="rect" id="node31" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a823ab7286cb07208f430cc54252c82bb" title="Property to report if a game is installed." alt="" coords="2277,516,2479,557"/>
-<area shape="rect" id="node33" href="$classlegendary_1_1core_1_1_legendary_core.html#a8ab54612b142f9a9733bc557567b1728" title=" " alt="" coords="2294,657,2462,699"/>
-<area shape="rect" id="node43" href="$classlegendary_1_1core_1_1_legendary_core.html#a897dcda5dba8301b3b6a9fb94abfb9c4" title=" " alt="" coords="2294,799,2462,840"/>
-<area shape="rect" id="node28" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html#a04736802f608b1210509878271aa0392" title=" " alt="" coords="2535,1119,2743,1175"/>
-<area shape="rect" id="node30" href="$classlegendary_1_1core_1_1_legendary_core.html#a2f034f3467d13d4ffac685345dd0ee2a" title=" " alt="" coords="3061,740,3229,781"/>
-<area shape="rect" id="node32" href="$classrare_1_1models_1_1game_1_1_rare_game.html#aff330cd3e3495874fbccb325e0c95236" title="Property to report if a Game doesn&#39;t have assets." alt="" coords="2537,516,2740,557"/>
-<area shape="rect" id="node34" href="$classlegendary_1_1lfs_1_1lgndry_1_1_l_g_d_l_f_s.html#a9f886cd6a5ea3aaf4fe8068081e3c057" title=" " alt="" coords="2791,931,2997,972"/>
-<area shape="rect" id="node40" href="$classlegendary_1_1core_1_1_legendary_core.html#a05f6dd83ad472e402b9251fd06f8fb57" title=" " alt="" coords="2555,708,2723,749"/>
-<area shape="rect" id="node38" href="$classlegendary_1_1models_1_1manifest_1_1_chunk_info.html#a6b1e32f2c123c71cc748a37d174cbd0a" title=" " alt="" coords="3056,923,3235,964"/>
-<area shape="rect" id="node37" href="$classrare_1_1components_1_1extra_1_1console_1_1_console_edit.html#ad89ca21019805240d01e41fe61cdbb56" title=" " alt="" coords="3293,621,3493,663"/>
-<area shape="rect" id="node39" href="$namespacelegendary_1_1models_1_1manifest.html#a221860029661c07ad8ce093079cf09ac" title=" " alt="" coords="3295,923,3491,964"/>
-<area shape="rect" id="node41" href="$classlegendary_1_1core_1_1_legendary_core.html#a989b9bc897ba25d6d660df7df57512d1" title="Sync game installs between Legendary and the Epic Games Launcher." alt="" coords="2810,663,2978,704"/>
-<area shape="rect" id="node44" href="$namespacelegendary_1_1utils_1_1aliasing.html#adbcf18e9863d6cc232f25fda0fa2f89c" title=" " alt="" coords="2537,900,2741,941"/>
-<area shape="rect" id="node46" href="$classlegendary_1_1core_1_1_legendary_core.html#a89bcbbe946094e459c8d331cb6bf89dd" title=" " alt="" coords="1820,460,1988,501"/>
-<area shape="rect" id="node48" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad220cc0780ac6b0d74f99652344b4e3a" title=" " alt="" coords="1348,1375,1465,1402"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1download__thread_1_1_download_thread.html#ab63faaa5812facc4f678cdb623dc4902" title=" " alt="" coords="948,378,1217,434"/>
+<area shape="rect" id="node11" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#a49dc690074a905bc7a6f24122e2b6257" title=" " alt="" coords="993,457,1173,499"/>
+<area shape="rect" id="node12" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#a8f1867fc20fc1dd8a0a8d3491b049504" title=" " alt="" coords="1317,581,1497,623"/>
+<area shape="rect" id="node13" href="$namespacelegendary_1_1utils_1_1cli.html#a5e8c34d0dce0b665a289cffe6b705fa9" title=" " alt="" coords="1012,599,1153,640"/>
+<area shape="rect" id="node14" href="$namespacelegendary_1_1utils_1_1selective__dl.html#ae5a52be6648e64bbbaa0816f9a00145b" title=" " alt="" coords="1003,688,1162,729"/>
+<area shape="rect" id="node15" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#aafa244dd3acd26b75df3612770ccecab" title=" " alt="" coords="982,778,1183,805"/>
+<area shape="rect" id="node49" href="$namespacelegendary_1_1utils_1_1cli.html#a671ebfa84f3e2bd63da0d7fa8b30bfbb" title=" " alt="" coords="1013,313,1153,355"/>
+<area shape="rect" id="node16" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#a36b3fa477ce9c95dcbabbe0981b6ce5c" title=" " alt="" coords="1317,712,1497,753"/>
+<area shape="rect" id="node18" href="$classlegendary_1_1core_1_1_legendary_core.html#a8f21c474f3085d01469ec2a50862c198" title=" " alt="" coords="1597,197,1765,239"/>
+<area shape="rect" id="node19" href="$classlegendary_1_1core_1_1_legendary_core.html#af7515f96f174207e59d14b1e1c288aad" title=" " alt="" coords="1323,853,1491,895"/>
+<area shape="rect" id="node42" href="$classlegendary_1_1core_1_1_legendary_core.html#a1b8f3b41ea51b5c97dfa7e91d64e89be" title=" " alt="" coords="2872,1036,3040,1077"/>
+<area shape="rect" id="node20" href="$classlegendary_1_1core_1_1_legendary_core.html#a0e3e7ee9c5647f695f53ee861b4e65bd" title=" " alt="" coords="2871,616,3041,657"/>
+<area shape="rect" id="node21" href="$classlegendary_1_1core_1_1_legendary_core.html#ade5d8c8f28d886b75f06818173f72439" title=" " alt="" coords="1597,853,1765,895"/>
+<area shape="rect" id="node26" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a7b45e18a683fd26a3f645bc0fd2a4db9" title=" " alt="" coords="2305,1199,2479,1240"/>
+<area shape="rect" id="node27" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html#a18df16bb6b4cfeaea982421770cce754" title=" " alt="" coords="2283,389,2501,431"/>
+<area shape="rect" id="node37" href="$classrare_1_1components_1_1extra_1_1console_1_1_console.html#a4db0e98c238d6a69bdbf4b8cc59be732" title=" " alt="" coords="2856,1339,3056,1380"/>
+<area shape="rect" id="node38" href="$classrare_1_1components_1_1extra_1_1console_1_1_console_edit.html#ac05aadedf6e1be5c365c818989f98d50" title=" " alt="" coords="2856,1160,3056,1201"/>
+<area shape="rect" id="node45" href="$classlegendary_1_1core_1_1_legendary_core.html#a433f769f23e2a4253363d4a664bfe2a8" title=" " alt="" coords="1589,537,1772,579"/>
+<area shape="rect" id="node22" href="$classlegendary_1_1core_1_1_legendary_core.html#af3d3c0bc12d5c34eaea1d16c62b400ca" title=" " alt="" coords="1820,895,1988,936"/>
+<area shape="rect" id="node23" href="$classlegendary_1_1core_1_1_legendary_core.html#a9d951e740eb66c73c62e200669f9e819" title=" " alt="" coords="2036,828,2221,869"/>
+<area shape="rect" id="node24" href="$classlegendary_1_1core_1_1_legendary_core.html#acfe9c4ea1a42bb21bd5a5ab37e954076" title=" " alt="" coords="2308,739,2476,780"/>
+<area shape="rect" id="node25" href="$classlegendary_1_1core_1_1_legendary_core.html#a4aa95f666152599f30fe233c0d0cfae4" title=" " alt="" coords="2308,828,2476,869"/>
+<area shape="rect" id="node29" href="$classlegendary_1_1core_1_1_legendary_core.html#a2088818eb2a6ad9ac951f33c444bdbd6" title=" " alt="" coords="2299,917,2485,959"/>
+<area shape="rect" id="node31" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a823ab7286cb07208f430cc54252c82bb" title="Property to report if a game is installed." alt="" coords="2269,569,2515,625"/>
+<area shape="rect" id="node34" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a823ab7286cb07208f430cc54252c82bb" title="Property to report if a game is installed." alt="" coords="2291,673,2493,715"/>
+<area shape="rect" id="node35" href="$classlegendary_1_1core_1_1_legendary_core.html#a8ab54612b142f9a9733bc557567b1728" title=" " alt="" coords="2308,1007,2476,1048"/>
+<area shape="rect" id="node43" href="$classlegendary_1_1core_1_1_legendary_core.html#a897dcda5dba8301b3b6a9fb94abfb9c4" title=" " alt="" coords="2308,479,2476,520"/>
+<area shape="rect" id="node28" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html#a04736802f608b1210509878271aa0392" title=" " alt="" coords="2581,374,2789,430"/>
+<area shape="rect" id="node30" href="$classlegendary_1_1core_1_1_legendary_core.html#a2f034f3467d13d4ffac685345dd0ee2a" title=" " alt="" coords="2601,865,2769,907"/>
+<area shape="rect" id="node32" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#aff330cd3e3495874fbccb325e0c95236" title="Property to report if a Game doesn&#39;t have assets." alt="" coords="2563,569,2808,625"/>
+<area shape="rect" id="node33" href="$classrare_1_1models_1_1game_1_1_rare_game.html#aff330cd3e3495874fbccb325e0c95236" title="Property to report if a Game doesn&#39;t have assets." alt="" coords="2584,673,2787,715"/>
+<area shape="rect" id="node36" href="$classlegendary_1_1lfs_1_1lgndry_1_1_l_g_d_l_f_s.html#a9f886cd6a5ea3aaf4fe8068081e3c057" title=" " alt="" coords="2582,1249,2789,1291"/>
+<area shape="rect" id="node41" href="$classlegendary_1_1core_1_1_legendary_core.html#a05f6dd83ad472e402b9251fd06f8fb57" title=" " alt="" coords="2601,1007,2769,1048"/>
+<area shape="rect" id="node40" href="$classlegendary_1_1models_1_1manifest_1_1_chunk_info.html#a6b1e32f2c123c71cc748a37d174cbd0a" title=" " alt="" coords="2867,1249,3045,1291"/>
+<area shape="rect" id="node39" href="$classrare_1_1components_1_1extra_1_1console_1_1_console_edit.html#ad89ca21019805240d01e41fe61cdbb56" title=" " alt="" coords="3104,1160,3304,1201"/>
+<area shape="rect" id="node44" href="$namespacelegendary_1_1utils_1_1aliasing.html#adbcf18e9863d6cc232f25fda0fa2f89c" title=" " alt="" coords="2583,479,2787,520"/>
+<area shape="rect" id="node46" href="$classlegendary_1_1core_1_1_legendary_core.html#a89bcbbe946094e459c8d331cb6bf89dd" title=" " alt="" coords="1820,537,1988,579"/>
+<area shape="rect" id="node48" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad220cc0780ac6b0d74f99652344b4e3a" title=" " alt="" coords="1348,1339,1465,1366"/>
 </map>

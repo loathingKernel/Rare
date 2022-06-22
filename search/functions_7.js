@@ -9,7 +9,7 @@ var searchData=
   ['games_5fand_5fdlcs_6',['games_and_dlcs',['../classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a844056ea6564ca86dbcb79b8c5c53302',1,'rare::shared::rare_core::RareCore']]],
   ['generate_5faliases_7',['generate_aliases',['../namespacelegendary_1_1utils_1_1aliasing.html#adbcf18e9863d6cc232f25fda0fa2f89c',1,'legendary.utils.aliasing.generate_aliases()'],['../classlegendary_1_1lfs_1_1lgndry_1_1_l_g_d_l_f_s.html#a60a28b684199e372f0eda4d8a29ddc89',1,'legendary.lfs.lgndry.LGDLFS.generate_aliases()']]],
   ['genjson_8',['genJson',['../classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#a91c27517f3ce824342174e3fc6303348',1,'rare::utils::json_formatter::QJsonModel']]],
-  ['gestureevent_9',['gestureEvent',['../classrare_1_1utils_1_1extra__widgets_1_1_sliding_stacked_widget.html#af1c90ce9b058b5510a83e2dc63009e3a',1,'rare::utils::extra_widgets::SlidingStackedWidget']]],
+  ['gestureevent_9',['gestureEvent',['../classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#af1c90ce9b058b5510a83e2dc63009e3a',1,'rare::widgets::sliding_stack::SlidingStackedWidget']]],
   ['get_10',['get',['../classrare_1_1utils_1_1qt__requests_1_1_qt_request_manager.html#a5e28a148630df37ec29df28968b28534',1,'rare::utils::qt_requests::QtRequestManager']]],
   ['get_5faction_11',['get_action',['../classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_dialog.html#ac0dc8bacd7d672a4a9963c685dd0ab9a',1,'rare::components::tabs::games::cloud_save_utils::CloudSaveDialog']]],
   ['get_5fapp_5fenvironment_12',['get_app_environment',['../classlegendary_1_1core_1_1_legendary_core.html#afcbf087e01866e570d328c5affed9c16',1,'legendary::core::LegendaryCore']]],

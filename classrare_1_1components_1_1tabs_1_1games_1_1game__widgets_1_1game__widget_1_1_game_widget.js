@@ -1,10 +1,13 @@
 var classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget =
 [
     [ "__init__", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#abd1122820e93a9a9ea147054ccc31fb3", null ],
+    [ "app_title", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#ae1cd35b1295fa44fd6906c1bcf28fd20", null ],
     [ "create_desktop_link", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a0a69ce49a87287033ba1c4859c6fa7c4", null ],
     [ "enterEventText", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#acff0d2528e4744b0be03e5571a3223a1", null ],
     [ "game_finished", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a3cbe35dede264f9829404d25b4a4592d", null ],
     [ "install", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a0ac02141fcf00adc3945e2ccb01fb2c1", null ],
+    [ "is_installed", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a823ab7286cb07208f430cc54252c82bb", null ],
+    [ "is_non_asset", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#aff330cd3e3495874fbccb325e0c95236", null ],
     [ "launch", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a3313d5dfccfe4d6dd6f3ad0c5e1bf8cd", null ],
     [ "leaveEventText", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#ae522151c6b7af5e1b83262172bad557f", null ],
     [ "mousePressEvent", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5", null ],

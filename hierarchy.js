@@ -259,7 +259,7 @@ var hierarchy =
       [ "ElideLabel", "classrare_1_1widgets_1_1elide__label_1_1_elide_label.html", null ]
     ] ],
     [ "QLayout", null, [
-      [ "FlowLayout", "classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html", [
+      [ "FlowLayout", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html", [
         [ "LibraryLayout", "classrare_1_1widgets_1_1library__layout_1_1_library_layout.html", null ]
       ] ]
     ] ],
@@ -346,7 +346,7 @@ var hierarchy =
       [ "Shop", "classrare_1_1components_1_1tabs_1_1shop_1_1_shop.html", null ],
       [ "SearchResults", "classrare_1_1components_1_1tabs_1_1shop_1_1search__results_1_1_search_results.html", null ],
       [ "Wishlist", "classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist.html", null ],
-      [ "SlidingStackedWidget", "classrare_1_1utils_1_1extra__widgets_1_1_sliding_stacked_widget.html", null ]
+      [ "SlidingStackedWidget", "classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html", null ]
     ] ],
     [ "QSystemTrayIcon", null, [
       [ "TrayIcon", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html", null ]

@@ -1,7 +1,8 @@
 <map id="__dict__" name="__dict__">
-<area shape="rect" id="node1" title="This is just here so asset_infos gets turned into a dict as well." alt="" coords="16,161,86,187"/>
+<area shape="rect" id="node1" title="This is just here so asset_infos gets turned into a dict as well." alt="" coords="16,202,86,229"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="134,29,453,71"/>
 <area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="168,119,420,146"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#acb705002d1644acc800066bdad566cd8" title=" " alt="" coords="140,195,447,236"/>
-<area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ae1cd35b1295fa44fd6906c1bcf28fd20" title=" " alt="" coords="187,284,400,325"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#ae1cd35b1295fa44fd6906c1bcf28fd20" title=" " alt="" coords="152,195,436,236"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#acb705002d1644acc800066bdad566cd8" title=" " alt="" coords="140,284,447,325"/>
+<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ae1cd35b1295fa44fd6906c1bcf28fd20" title=" " alt="" coords="187,373,400,415"/>
 </map>

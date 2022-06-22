@@ -12,5 +12,5 @@ var searchData=
   ['verify_5fworker_9',['verify_worker',['../classrare_1_1models_1_1game_1_1_rare_game.html#a701e5a17df779dfe657325db272a6ef1',1,'rare::models::game::RareGame']]],
   ['version_10',['version',['../classrare_1_1models_1_1game_1_1_rare_game.html#a1e436b61f937ea687fa3897d286899cf',1,'rare::models::game::RareGame']]],
   ['versiontuple_11',['versiontuple',['../namespacerare_1_1components_1_1tabs_1_1settings_1_1about.html#ac1dbb48f4b91b2a65eb3fb6310d83a14',1,'rare::components::tabs::settings::about']]],
-  ['verticalspacing_12',['verticalSpacing',['../classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a339c0461a90b6d3b3eee250fbc47aefb',1,'rare::utils::extra_widgets::FlowLayout']]]
+  ['verticalspacing_12',['verticalSpacing',['../classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a339c0461a90b6d3b3eee250fbc47aefb',1,'rare::widgets::flow_layout::FlowLayout']]]
 ];

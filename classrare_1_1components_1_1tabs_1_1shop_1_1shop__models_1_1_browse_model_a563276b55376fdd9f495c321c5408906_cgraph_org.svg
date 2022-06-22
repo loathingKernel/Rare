@@ -27,9 +27,9 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#a5eb880efb244834d39c062297388252b" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="94.5,-1381.58 94.5,-1411.58 212.5,-1411.58 212.5,-1381.58 94.5,-1381.58"/>
-<text text-anchor="start" x="102.5" y="-1399.58" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.extra_widgets.</text>
+<g id="a_node2"><a xlink:href="classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a5eb880efb244834d39c062297388252b" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="92.5,-1381.58 92.5,-1411.58 214.5,-1411.58 214.5,-1381.58 92.5,-1381.58"/>
+<text text-anchor="start" x="100.5" y="-1399.58" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.flow_layout.</text>
 <text text-anchor="middle" x="153.5" y="-1388.58" font-family="Helvetica,sans-Serif" font-size="10.00">FlowLayout.count</text>
 </a>
 </g>

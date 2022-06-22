@@ -13,7 +13,7 @@ var searchData=
   ['matrix2bytes_10',['matrix2bytes',['../namespacelegendary_1_1utils_1_1egl__crypt.html#ab51aa19c1af6b70212e6b73ba4f6b90d',1,'legendary::utils::egl_crypt']]],
   ['max_5fmemory_5fsave_11',['max_memory_save',['../classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#ab6276c2802a986965145a98b3a647097',1,'rare::components::tabs::settings::legendary::LegendarySettings']]],
   ['max_5fworker_5fsave_12',['max_worker_save',['../classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#a53ecc4e91487eff3501140063d492cb1',1,'rare::components::tabs::settings::legendary::LegendarySettings']]],
-  ['minimumsize_13',['minimumSize',['../classrare_1_1utils_1_1extra__widgets_1_1_flow_layout.html#acd7a5b208d0d18ac43cc317209bd759c',1,'rare::utils::extra_widgets::FlowLayout']]],
+  ['minimumsize_13',['minimumSize',['../classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#acd7a5b208d0d18ac43cc317209bd759c',1,'rare::widgets::flow_layout::FlowLayout']]],
   ['mix_5fcolumns_14',['mix_columns',['../namespacelegendary_1_1utils_1_1egl__crypt.html#a59b17c091ac7873aa2febf2866bf91b1',1,'legendary::utils::egl_crypt']]],
   ['mix_5fsingle_5fcolumn_15',['mix_single_column',['../namespacelegendary_1_1utils_1_1egl__crypt.html#a6475292b2f5f4757f02d245487238856',1,'legendary::utils::egl_crypt']]],
   ['mouse_5fclicked_16',['mouse_clicked',['../classrare_1_1components_1_1tabs_1_1_tab_widget.html#af43797dc7cba0cee045a8885c77eac91',1,'rare::components::tabs::TabWidget']]],
