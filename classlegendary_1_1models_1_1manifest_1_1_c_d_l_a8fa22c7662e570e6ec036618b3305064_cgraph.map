@@ -1,5 +1,0 @@
-<map id="get_chunk_by_guid" name="get_chunk_by_guid">
-<area shape="rect" id="node1" title="Get chunk by GUID string or number, creates index of chunks on first call." alt="" coords="5,67,139,93"/>
-<area shape="rect" id="node2" href="$classlegendary_1_1models_1_1manifest_1_1_c_d_l.html#a0ebf7ad61dc25b16da6aeb2dbe9f7b38" title=" " alt="" coords="187,29,352,56"/>
-<area shape="rect" id="node3" href="$classlegendary_1_1models_1_1manifest_1_1_c_d_l.html#a99772418f5c87b4dccb643c097b7263c" title=" " alt="" coords="192,104,347,131"/>
-</map>

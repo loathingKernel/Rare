@@ -1,9 +1,0 @@
-<map id="game_finished" name="game_finished">
-<area shape="rect" id="node1" title=" " alt="" coords="5,157,111,183"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="159,29,477,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="192,119,444,146"/>
-<area shape="rect" id="node4" href="$classrare_1_1game__launch__helper_1_1_game_process_helper.html#a1ad309148fd22e4786258dc4a79ec7af" title=" " alt="" coords="263,194,373,221"/>
-<area shape="rect" id="node5" href="$classrare_1_1game__launch__helper_1_1_game_process_helper.html#a26ca7c1c7fcdd35378e7be97727047a6" title=" " alt="" coords="295,269,341,295"/>
-<area shape="rect" id="node6" href="$classrare_1_1app_1_1_app.html#a9e2b856eeb4aa53cc7ec5d10626fc41a" title=" " alt="" coords="525,269,671,295"/>
-<area shape="rect" id="node7" href="$classlegendary_1_1core_1_1_legendary_core.html#a3ac98d0ca6e229126e4707d45c2f5071" title="Do cleanup, config saving, and exit." alt="" coords="719,261,887,303"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="package_savegame" name="package_savegame">
-<area shape="rect" id="node1" title=":param input_folder: Folder to be packaged into chunks/manifest :param app_name: App name for savegam..." alt="" coords="5,112,144,139"/>
-<area shape="rect" id="node2" href="$classlegendary_1_1utils_1_1savegame__helper_1_1_save_game_helper.html#a8af9eeaaa4379d8efe3fec4699ae92fe" title=" " alt="" coords="241,29,343,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1extra_1_1console_1_1_console.html#a4db0e98c238d6a69bdbf4b8cc59be732" title=" " alt="" coords="192,105,392,146"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1extra_1_1console_1_1_console_edit.html#ac05aadedf6e1be5c365c818989f98d50" title=" " alt="" coords="192,194,392,235"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1extra_1_1console_1_1_console_edit.html#ad89ca21019805240d01e41fe61cdbb56" title=" " alt="" coords="440,194,640,235"/>
-</map>

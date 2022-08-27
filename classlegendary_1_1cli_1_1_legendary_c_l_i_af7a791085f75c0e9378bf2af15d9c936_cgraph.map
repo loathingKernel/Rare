@@ -1,5 +1,0 @@
-<map id="verify_game" name="verify_game">
-<area shape="rect" id="node1" title=" " alt="" coords="5,47,97,73"/>
-<area shape="rect" id="node2" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#a8f1867fc20fc1dd8a0a8d3491b049504" title=" " alt="" coords="171,5,289,32"/>
-<area shape="rect" id="node3" href="$namespacelegendary_1_1utils_1_1lfs.html#acd95325795f1783e45e05b926e12b245" title="Validates the files in filelist in path against the provided hashes." alt="" coords="145,81,315,122"/>
-</map>

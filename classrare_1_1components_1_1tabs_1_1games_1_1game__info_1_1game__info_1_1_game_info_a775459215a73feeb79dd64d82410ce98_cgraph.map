@@ -1,6 +1,12 @@
 <map id="verify" name="verify">
-<area shape="rect" id="node1" title=" " alt="" coords="5,104,59,131"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" title=" " alt="" coords="115,29,212,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#abffc2c7354963eef06fa445240fb3a0c" title=" " alt="" coords="115,104,211,131"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a109f7b4d63b30a3ad1aa06f778f3080c" title=" " alt="" coords="107,179,220,205"/>
+<area shape="rect" id="node1" title="This function is to be called from the button only." alt="" coords="7,183,61,209"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a1a0b83359be6ee5329685e3bf7d3d128" title=" " alt="" coords="140,141,232,168"/>
+<area shape="rect" id="node10" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a94921a35f33d553ff01281b05fa2428d" title=" " alt="" coords="109,217,263,258"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" title=" " alt="" coords="311,29,409,56"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a04532ec2038b9def2938797769224a3e" title=" " alt="" coords="317,104,403,131"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a420a031186cf41f7c0e43c8a4b524af0" title=" " alt="" coords="314,179,406,205"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a80b10cb47735ce4554d99ae328d3fd31" title=" " alt="" coords="312,253,408,280"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a86d20d91662c2b5a14081824308d958c" title=" " alt="" coords="505,104,611,131"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a6f329e2a98231bcaf8ec9b217a67c280" title=" " alt="" coords="511,179,605,205"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#ad294a24e02944fbfad0a6120efef7d81" title=" " alt="" coords="457,254,659,295"/>
 </map>

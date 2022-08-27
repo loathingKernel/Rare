@@ -1,10 +1,9 @@
 <map id="LegendaryCoreSingleton" name="LegendaryCoreSingleton">
-<area shape="rect" id="node1" title=" " alt="" coords="660,161,823,187"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html#aa2736b0e5b36ea03f685c5fe4342bb71" title=" " alt="" coords="339,29,597,71"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1app.html#a938c7182b0c44921f1089bdfe1ec24eb" title=" " alt="" coords="399,119,537,146"/>
-<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1steam__grades.html#a74cd7f3d3b3c2ee1ceb8831d22c047b9" title=" " alt="" coords="379,195,557,236"/>
-<area shape="rect" id="node7" href="$namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1eos.html#a12e2cbf0724dd454c5f1ec543a7d57f5" title=" " alt="" coords="324,284,612,325"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1game__launch__helper.html#a82c7246b0e4557e01f0dac14783baa38" title=" " alt="" coords="23,119,258,146"/>
-<area shape="rect" id="node6" href="$classrare_1_1utils_1_1steam__grades_1_1_steam_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="61,195,220,236"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1eos_1_1_eos_widget.html#ae51350a186f0277d85d4e0e7fd5a8518" title=" " alt="" coords="5,284,276,325"/>
+<area shape="rect" id="node1" title=" " alt="" coords="660,112,823,139"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1app.html#a938c7182b0c44921f1089bdfe1ec24eb" title=" " alt="" coords="399,29,537,56"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1steam__grades.html#a74cd7f3d3b3c2ee1ceb8831d22c047b9" title=" " alt="" coords="379,105,557,146"/>
+<area shape="rect" id="node6" href="$namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1eos.html#a12e2cbf0724dd454c5f1ec543a7d57f5" title=" " alt="" coords="324,194,612,235"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1game__launch__helper.html#a82c7246b0e4557e01f0dac14783baa38" title=" " alt="" coords="23,29,258,56"/>
+<area shape="rect" id="node5" href="$classrare_1_1utils_1_1steam__grades_1_1_steam_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="61,105,220,146"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1eos_1_1_eos_widget.html#ae51350a186f0277d85d4e0e7fd5a8518" title=" " alt="" coords="5,194,276,235"/>
 </map>

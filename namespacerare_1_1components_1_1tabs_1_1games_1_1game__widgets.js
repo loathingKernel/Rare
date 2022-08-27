@@ -1,10 +1,11 @@
 var namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets =
 [
-    [ "game_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget.html", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget" ],
-    [ "icon_game_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget.html", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget" ],
-    [ "icon_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__widget.html", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__widget" ],
+    [ "base_installed_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed__widget.html", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed__widget" ],
+    [ "base_uninstalled_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__uninstalled__widget.html", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__uninstalled__widget" ],
+    [ "installed_icon_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1installed__icon__widget.html", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1installed__icon__widget" ],
+    [ "installed_list_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1installed__list__widget.html", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1installed__list__widget" ],
+    [ "installing_game_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1installing__game__widget.html", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1installing__game__widget" ],
     [ "library_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget.html", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget" ],
-    [ "list_game_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget.html", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget" ],
-    [ "list_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget.html", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget" ],
-    [ "LibraryWidgetController", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller" ]
+    [ "uninstalled_icon_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1uninstalled__icon__widget.html", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1uninstalled__icon__widget" ],
+    [ "uninstalled_list_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1uninstalled__list__widget.html", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1uninstalled__list__widget" ]
 ];

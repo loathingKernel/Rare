@@ -1,0 +1,4 @@
+var classrare_1_1components_1_1tabs_1_1downloads_1_1download__thread_1_1_download_thread_1_1_return_status =
+[
+    [ "ReturnCode", "classrare_1_1components_1_1tabs_1_1downloads_1_1download__thread_1_1_download_thread_1_1_return_status_1_1_return_code.html", null ]
+];

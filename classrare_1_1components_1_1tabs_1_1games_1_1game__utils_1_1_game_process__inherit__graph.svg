@@ -18,8 +18,8 @@
 <polyline fill="none" stroke="black" points="0,-148.5 111,-148.5 "/>
 <text text-anchor="start" x="8" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ app_name</text>
 <text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ on_startup</text>
-<text text-anchor="start" x="8" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rare_core</text>
-<text text-anchor="start" x="8" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ game</text>
+<text text-anchor="start" x="8" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ game</text>
+<text text-anchor="start" x="8" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ game_meta</text>
 <text text-anchor="start" x="8" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ socket</text>
 <text text-anchor="start" x="8" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ always_ask_sync</text>
 <text text-anchor="start" x="8" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ timer</text>

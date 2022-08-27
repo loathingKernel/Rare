@@ -1,7 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,81,69,108"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_progress_label.html" title=" " alt="" coords="119,5,225,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1utils_1_1extra__widgets_1_1_image_label.html" title=" " alt="" coords="127,56,217,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1utils_1_1extra__widgets_1_1_waiting_spinner.html" title=" " alt="" coords="117,107,227,133"/>
-<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1elide__label_1_1_elide_label.html" title=" " alt="" coords="131,157,213,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,84,57"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_text_input_field.html" title=" " alt="" coords="133,5,237,32"/>
+<area shape="rect" id="node3" href="$classrare_1_1utils_1_1extra__widgets_1_1_button_line_edit.html" title=" " alt="" coords="132,56,239,83"/>
 </map>

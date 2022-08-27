@@ -27,9 +27,9 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="namespacerare_1_1utils_1_1utils.html#a1cb4b41d139090ec167011904697693d" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="101,-135 101,-154 195,-154 195,-135 101,-135"/>
-<text text-anchor="middle" x="148" y="-142" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.utils.icon</text>
+<g id="a_node2"><a xlink:href="namespacerare_1_1utils_1_1misc.html#a5b215592bbad86ea6d2c3b46280baae8" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="99.5,-135 99.5,-154 196.5,-154 196.5,-135 99.5,-135"/>
+<text text-anchor="middle" x="148" y="-142" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.misc.icon</text>
 </a>
 </g>
 </g>

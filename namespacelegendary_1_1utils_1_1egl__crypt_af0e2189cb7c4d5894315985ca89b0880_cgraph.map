@@ -1,3 +1,0 @@
-<map id="unpad" name="unpad">
-<area shape="rect" id="node1" title="Removes a PKCS#7 padding, returning the unpadded text and ensuring the padding was correct." alt="" coords="5,29,63,56"/>
-</map>

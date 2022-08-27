@@ -1,17 +1,13 @@
 <map id="update_wishlist" name="update_wishlist">
-<area shape="rect" id="node1" title=" " alt="" coords="5,175,117,202"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist.html#a7121fb58d29cad3edf2ebb23d073256a" title=" " alt="" coords="165,213,256,239"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist.html#af3c7e539406b02c61ba2f2217a5cdf17" title=" " alt="" coords="329,134,470,161"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1shop_1_1_shop.html#adce81273b921608423370102d510bcab" title=" " alt="" coords="309,209,489,251"/>
-<area shape="rect" id="node15" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a256be1948e948e73da955932336ef6b9" title=" " alt="" coords="304,299,495,340"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,126,117,153"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist.html#a7121fb58d29cad3edf2ebb23d073256a" title=" " alt="" coords="165,163,256,190"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist.html#af3c7e539406b02c61ba2f2217a5cdf17" title=" " alt="" coords="329,85,470,111"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a0b2329db4df141f4c93ea860e7b482ba" title=" " alt="" coords="304,160,495,201"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1shop_1_1_shop.html#adce81273b921608423370102d510bcab" title=" " alt="" coords="309,249,489,291"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1shop_1_1_shop.html#a1588283f05f1e5890f0e0dab63904ece" title=" " alt="" coords="557,29,737,71"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#a1588283f05f1e5890f0e0dab63904ece" title=" " alt="" coords="543,119,751,175"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_shop_game_info.html#a3fc8c31e9c09c30d1480d83be79cd5bd" title=" " alt="" coords="1101,49,1356,91"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#a3fc8c31e9c09c30d1480d83be79cd5bd" title=" " alt="" coords="799,132,1053,173"/>
-<area shape="rect" id="node8" href="$classlegendary_1_1models_1_1manifest_1_1_chunk_info.html#a6b1e32f2c123c71cc748a37d174cbd0a" title=" " alt="" coords="1139,139,1318,180"/>
-<area shape="rect" id="node9" href="$namespacelegendary_1_1models_1_1manifest.html#a221860029661c07ad8ce093079cf09ac" title=" " alt="" coords="1404,93,1600,135"/>
-<area shape="rect" id="node10" href="$classlegendary_1_1models_1_1manifest_1_1_chunk_info.html#ae98d4cfdc3a64178222b88d61255a5ad" title=" " alt="" coords="1413,183,1591,224"/>
-<area shape="rect" id="node12" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#aafa244dd3acd26b75df3612770ccecab" title=" " alt="" coords="546,223,747,250"/>
-<area shape="rect" id="node13" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#a36b3fa477ce9c95dcbabbe0981b6ce5c" title=" " alt="" coords="836,209,1016,251"/>
-<area shape="rect" id="node14" href="$classlegendary_1_1cli_1_1_legendary_c_l_i.html#a8f1867fc20fc1dd8a0a8d3491b049504" title=" " alt="" coords="836,275,1016,316"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_shop_game_info.html#a3fc8c31e9c09c30d1480d83be79cd5bd" title=" " alt="" coords="1101,115,1356,156"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#a3fc8c31e9c09c30d1480d83be79cd5bd" title=" " alt="" coords="799,156,1053,197"/>
+<area shape="rect" id="node10" href="$classrare_1_1lgndr_1_1api__monkeys_1_1_lgndr_indirect_logger.html#a98a895468c8036bb8122dd2c568d91e7" title=" " alt="" coords="551,249,742,291"/>
+<area shape="rect" id="node11" href="$classrare_1_1lgndr_1_1api__monkeys_1_1_lgndr_indirect_logger.html#a66bb1af90088807e5445bcf242390463" title=" " alt="" coords="831,249,1021,291"/>
 </map>

@@ -6,6 +6,5 @@ var classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worke
     [ "core", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "dl_item", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker.html#a0bbcb656541d035cc22509222d9bc63f", null ],
     [ "game", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker.html#ab587deac2ae34c126e6222afedb790ea", null ],
-    [ "is_overlay_install", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker.html#a3ef1f9bf8aa4176820c6e45997765d09", null ],
     [ "signals", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker.html#a0de0a2c91773619dac1660c29940c55e", null ]
 ];

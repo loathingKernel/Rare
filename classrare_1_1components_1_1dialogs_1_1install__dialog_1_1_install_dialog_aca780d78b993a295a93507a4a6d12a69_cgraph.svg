@@ -141,9 +141,9 @@
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="namespacerare_1_1utils_1_1utils.html#a76b25bb1934f2b8bad17a35703027a9a" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="291.5,-28.5 291.5,-47.5 403.5,-47.5 403.5,-28.5 291.5,-28.5"/>
-<text text-anchor="middle" x="347.5" y="-35.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.utils.get_size</text>
+<g id="a_node7"><a xlink:href="namespacerare_1_1utils_1_1misc.html#a1316c13802b7e0cd9c6301199c789346" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="290,-28.5 290,-47.5 405,-47.5 405,-28.5 290,-28.5"/>
+<text text-anchor="middle" x="347.5" y="-35.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.misc.get_size</text>
 </a>
 </g>
 </g>

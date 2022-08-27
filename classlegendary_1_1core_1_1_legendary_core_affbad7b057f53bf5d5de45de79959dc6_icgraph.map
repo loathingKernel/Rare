@@ -1,3 +1,0 @@
-<map id="auth_sid" name="auth_sid">
-<area shape="rect" id="node1" title="Handles getting an exchange code from a session id :param sid: session id :return: exchange code." alt="" coords="5,29,76,56"/>
-</map>

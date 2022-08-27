@@ -1,14 +1,12 @@
 var searchData=
 [
-  ['macosworker_0',['MacOSWorker',['../classrare_1_1shared_1_1rare__core_1_1_rare_core_1_1_mac_o_s_worker.html',1,'rare::shared::rare_core::RareCore']]],
-  ['maintabbar_1',['MainTabBar',['../classrare_1_1components_1_1tabs_1_1tab__utils_1_1_main_tab_bar.html',1,'rare::components::tabs::tab_utils']]],
-  ['mainwindow_2',['MainWindow',['../classrare_1_1components_1_1main__window_1_1_main_window.html',1,'rare::components::main_window']]],
-  ['mangohudsettings_3',['MangoHudSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1mangohud_1_1_mango_hud_settings.html',1,'rare::components::tabs::settings::widgets::mangohud']]],
-  ['manifest_4',['Manifest',['../classlegendary_1_1models_1_1manifest_1_1_manifest.html',1,'legendary::models::manifest']]],
-  ['manifestcomparison_5',['ManifestComparison',['../classlegendary_1_1models_1_1manifest_1_1_manifest_comparison.html',1,'legendary::models::manifest']]],
-  ['manifestmeta_6',['ManifestMeta',['../classlegendary_1_1models_1_1manifest_1_1_manifest_meta.html',1,'legendary::models::manifest']]],
-  ['metadata_7',['Metadata',['../classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html',1,'rare::models::game::RareGame']]],
-  ['miniwidget_8',['MiniWidget',['../classrare_1_1components_1_1tabs_1_1account_1_1_mini_widget.html',1,'rare::components::tabs::account']]],
-  ['mocklauncher_9',['MockLauncher',['../classlegendary_1_1utils_1_1webview__login_1_1_mock_launcher.html',1,'legendary::utils::webview_login']]],
-  ['movegamepopup_10',['MoveGamePopUp',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_move_game_pop_up.html',1,'rare::components::tabs::games::game_info::game_info']]]
+  ['pathedit_0',['PathEdit',['../classrare_1_1utils_1_1extra__widgets_1_1_path_edit.html',1,'rare::utils::extra_widgets']]],
+  ['pathediticonprovider_1',['PathEditIconProvider',['../classrare_1_1utils_1_1extra__widgets_1_1_path_edit_icon_provider.html',1,'rare::utils::extra_widgets']]],
+  ['pathinputdialog_2',['PathInputDialog',['../classrare_1_1components_1_1dialogs_1_1path__input__dialog_1_1_path_input_dialog.html',1,'rare::components::dialogs::path_input_dialog']]],
+  ['pathspec_3',['PathSpec',['../classrare_1_1utils_1_1models_1_1_path_spec.html',1,'rare::utils::models']]],
+  ['prelaunchsettings_4',['PreLaunchSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1pre__launch_1_1_pre_launch_settings.html',1,'rare::components::tabs::settings::widgets::pre_launch']]],
+  ['prelaunchthread_5',['PreLaunchThread',['../classrare_1_1game__launch__helper_1_1_pre_launch_thread.html',1,'rare::game_launch_helper']]],
+  ['preset_6',['Preset',['../classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset.html',1,'rare::shared::image_manager::ImageSize']]],
+  ['progresslabel_7',['ProgressLabel',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_progress_label.html',1,'rare::components::tabs::games::game_widgets::library_widget']]],
+  ['protonsettings_8',['ProtonSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html',1,'rare::components::tabs::settings::widgets::proton']]]
 ];

@@ -6,6 +6,7 @@ var namespacerare =
     [ "app", "namespacerare_1_1app.html", "namespacerare_1_1app" ],
     [ "components", "namespacerare_1_1components.html", "namespacerare_1_1components" ],
     [ "game_launch_helper", "namespacerare_1_1game__launch__helper.html", "namespacerare_1_1game__launch__helper" ],
+    [ "lgndr", "namespacerare_1_1lgndr.html", "namespacerare_1_1lgndr" ],
     [ "models", "namespacerare_1_1models.html", "namespacerare_1_1models" ],
     [ "shared", "namespacerare_1_1shared.html", "namespacerare_1_1shared" ],
     [ "ui", "namespacerare_1_1ui.html", "namespacerare_1_1ui" ],

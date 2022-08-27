@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['jsoncdl_0',['JSONCDL',['../classlegendary_1_1models_1_1json__manifest_1_1_j_s_o_n_c_d_l.html',1,'legendary::models::json_manifest']]],
-  ['jsonfml_1',['JSONFML',['../classlegendary_1_1models_1_1json__manifest_1_1_j_s_o_n_f_m_l.html',1,'legendary::models::json_manifest']]],
-  ['jsonmanifest_2',['JSONManifest',['../classlegendary_1_1models_1_1json__manifest_1_1_j_s_o_n_manifest.html',1,'legendary::models::json_manifest']]],
-  ['jsonmanifestmeta_3',['JSONManifestMeta',['../classlegendary_1_1models_1_1json__manifest_1_1_j_s_o_n_manifest_meta.html',1,'legendary::models::json_manifest']]]
+  ['maintabbar_0',['MainTabBar',['../classrare_1_1components_1_1tabs_1_1tab__utils_1_1_main_tab_bar.html',1,'rare::components::tabs::tab_utils']]],
+  ['mainwindow_1',['MainWindow',['../classrare_1_1components_1_1main__window_1_1_main_window.html',1,'rare::components::main_window']]],
+  ['mangohudsettings_2',['MangoHudSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1mangohud_1_1_mango_hud_settings.html',1,'rare::components::tabs::settings::widgets::mangohud']]],
+  ['movegamepopup_3',['MoveGamePopUp',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_game_pop_up.html',1,'rare::components::tabs::games::game_info::move_game']]]
 ];

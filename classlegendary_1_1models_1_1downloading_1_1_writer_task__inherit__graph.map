@@ -1,4 +1,0 @@
-<map id="WriterTask" name="WriterTask">
-<area shape="rect" id="node1" title="Task for FileWriter worker process, describing an operation on the filesystem." alt="" coords="24,5,109,83"/>
-<area shape="rect" id="node2" href="$classlegendary_1_1models_1_1downloading_1_1_writer_task_result.html" title="Result from the FileWriter worker." alt="" coords="5,131,128,223"/>
-</map>

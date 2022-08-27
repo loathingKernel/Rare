@@ -6,7 +6,7 @@ var dir_18cbd76dd1c6c7aa3caca2c4bbf73923 =
       [ "InstallDialog", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog" ],
       [ "InstallInfoWorker", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker" ],
       [ "InstallInfoWorker.Signals", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker_1_1_signals.html", null ],
-      [ "QDataCheckBox", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_q_data_check_box.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_q_data_check_box" ]
+      [ "TagCheckBox", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box" ]
     ] ],
     [ "launch_dialog.py", "components_2dialogs_2launch__dialog_8py.html", "components_2dialogs_2launch__dialog_8py" ],
     [ "path_input_dialog.py", "path__input__dialog_8py.html", [

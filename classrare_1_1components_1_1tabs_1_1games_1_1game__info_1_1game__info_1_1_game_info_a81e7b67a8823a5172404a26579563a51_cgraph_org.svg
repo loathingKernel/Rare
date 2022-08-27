@@ -27,10 +27,10 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info.html#a69709039722e27e52d0b96d00a3e9b46" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game.html#a37429d7a03b6c10fbf0ab0eafd491d01" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="106,-207 106,-237 273,-237 273,-207 106,-207"/>
 <text text-anchor="start" x="114" y="-225" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
-<text text-anchor="middle" x="189.5" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00">_info.game_info.is_game_dir</text>
+<text text-anchor="middle" x="189.5" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00">_info.move_game.is_game_dir</text>
 </a>
 </g>
 </g>

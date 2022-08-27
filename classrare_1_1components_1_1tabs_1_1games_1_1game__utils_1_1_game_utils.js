@@ -8,7 +8,7 @@ var classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils =
     [ "uninstall_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#afa94b9774ff08ce2f0a53aded643221e", null ],
     [ "args", "classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
     [ "cloud_save_utils", "classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#ab77952f4355d31f58026ac9fd0957a53", null ],
-    [ "console", "classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#a59b27486da7ae78f25305f338b4b2fce", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#ab65a1cfe05166d06195718a9587d7b86", null ],
+    [ "game_meta", "classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#a36ffd571d3adf171b2978b0020f00bbd", null ],
     [ "signals", "classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#a0de0a2c91773619dac1660c29940c55e", null ]
 ];

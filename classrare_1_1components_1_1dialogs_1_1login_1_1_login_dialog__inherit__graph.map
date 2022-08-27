@@ -1,6 +1,4 @@
 <map id="LoginDialog" name="LoginDialog">
-<area shape="rect" id="node1" title=" " alt="" coords="35,461,174,685"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,233,73,311"/>
-<area shape="rect" id="node3" href="$classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog_1_1_ui___login_dialog.html" title=" " alt="" coords="97,131,245,413"/>
-<area shape="rect" id="node4" title=" " alt="" coords="143,5,200,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,131,144,399"/>
+<area shape="rect" id="node2" title=" " alt="" coords="41,5,109,83"/>
 </map>

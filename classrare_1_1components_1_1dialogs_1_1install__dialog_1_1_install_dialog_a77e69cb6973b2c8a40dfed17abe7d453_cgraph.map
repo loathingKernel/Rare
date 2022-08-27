@@ -1,12 +1,14 @@
 <map id="verify_clicked" name="verify_clicked">
-<area shape="rect" id="node1" title=" " alt="" coords="5,141,107,168"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a138282883753fa5f7af306a3bb35ceaf" title=" " alt="" coords="581,29,655,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aca780d78b993a295a93507a4a6d12a69" title=" " alt="" coords="155,141,285,168"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a004987011909ef3b326e6d95f6393ec0" title=" " alt="" coords="175,216,265,243"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a36bb64fa9d259feffe5871168f96c4df" title=" " alt="" coords="340,67,460,93"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a0e948650b87686717868c3ee60c2c910" title=" " alt="" coords="333,141,467,168"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#affdc8bae01bd071a92392ce437a43bf9" title=" " alt="" coords="339,216,461,243"/>
-<area shape="rect" id="node9" href="$namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" title=" " alt="" coords="351,291,449,317"/>
-<area shape="rect" id="node7" href="$namespacerare_1_1shared.html#acfdfb4195f8ff9bc0acd929ba6d98380" title=" " alt="" coords="515,179,721,205"/>
-<area shape="rect" id="node8" href="$namespacerare_1_1utils_1_1utils.html#a76b25bb1934f2b8bad17a35703027a9a" title=" " alt="" coords="543,253,693,280"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,216,107,243"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a138282883753fa5f7af306a3bb35ceaf" title=" " alt="" coords="763,29,838,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aca780d78b993a295a93507a4a6d12a69" title=" " alt="" coords="201,179,331,205"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a004987011909ef3b326e6d95f6393ec0" title=" " alt="" coords="221,253,311,280"/>
+<area shape="rect" id="node12" href="$classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html#ae1375c7c84ae9c095d26a26d20c73d24" title=" " alt="" coords="155,329,377,370"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a36bb64fa9d259feffe5871168f96c4df" title=" " alt="" coords="477,67,597,93"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a0e948650b87686717868c3ee60c2c910" title=" " alt="" coords="471,141,604,168"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#affdc8bae01bd071a92392ce437a43bf9" title=" " alt="" coords="477,216,598,243"/>
+<area shape="rect" id="node9" href="$namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" title=" " alt="" coords="489,291,586,317"/>
+<area shape="rect" id="node7" href="$namespacerare_1_1shared.html#acfdfb4195f8ff9bc0acd929ba6d98380" title=" " alt="" coords="697,179,904,205"/>
+<area shape="rect" id="node8" href="$namespacerare_1_1utils_1_1misc.html#a1316c13802b7e0cd9c6301199c789346" title=" " alt="" coords="724,253,877,280"/>
+<area shape="rect" id="node11" href="$classrare_1_1lgndr_1_1api__monkeys_1_1_d_l_manager_signals.html#a2e157b8a54419ee393d56143a3260aa9" title=" " alt="" coords="425,366,649,407"/>
 </map>

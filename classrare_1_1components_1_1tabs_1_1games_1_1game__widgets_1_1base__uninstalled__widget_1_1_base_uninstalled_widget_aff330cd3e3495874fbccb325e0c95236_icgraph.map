@@ -1,0 +1,5 @@
+<map id="is_non_asset" name="is_non_asset">
+<area shape="rect" id="node1" title="Property to report if a Game doesn&#39;t have assets." alt="" coords="292,89,391,116"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed__widget_1_1_base_installed_widget.html#a823ab7286cb07208f430cc54252c82bb" title="Property to report if a game is installed." alt="" coords="5,29,244,85"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__uninstalled__widget_1_1_base_uninstalled_widget.html#a823ab7286cb07208f430cc54252c82bb" title="Property to report if a game is installed." alt="" coords="81,133,168,160"/>
+</map>

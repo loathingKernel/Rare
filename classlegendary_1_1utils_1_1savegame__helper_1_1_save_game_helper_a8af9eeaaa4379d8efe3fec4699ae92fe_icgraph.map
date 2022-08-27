@@ -1,4 +1,0 @@
-<map id="finalize_chunk" name="finalize_chunk">
-<area shape="rect" id="node1" title=" " alt="" coords="192,29,295,56"/>
-<area shape="rect" id="node2" href="$classlegendary_1_1utils_1_1savegame__helper_1_1_save_game_helper.html#a2841e913e6c5bef440a3bc90f7f02c55" title=":param input_folder: Folder to be packaged into chunks/manifest :param app_name: App name for savegam..." alt="" coords="5,29,144,56"/>
-</map>

@@ -1,4 +1,6 @@
 <map id="main" name="main">
-<area shape="rect" id="node1" title=" " alt="" coords="5,29,56,56"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" title=" " alt="" coords="104,29,201,56"/>
+<area shape="rect" id="node1" title=" " alt="" coords="7,78,58,105"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1misc.html#a16c76ff467d8aa0bf5b3a9060d65733e" title=" " alt="" coords="106,29,247,71"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" title=" " alt="" coords="128,119,225,146"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1misc.html#aedda7d17c0e979c3c3f8a094b9ff0f08" title=" " alt="" coords="295,29,418,71"/>
 </map>

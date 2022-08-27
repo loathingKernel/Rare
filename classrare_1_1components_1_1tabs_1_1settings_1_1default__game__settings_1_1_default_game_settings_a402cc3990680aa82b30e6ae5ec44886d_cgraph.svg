@@ -96,9 +96,9 @@ var sectionId = 'dynsection-6';
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="namespacerare_1_1utils_1_1utils.html#aaac95efc53f67a21bfd4b8b48f595830" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="410,-135 410,-165 499,-165 499,-135 410,-135"/>
-<text text-anchor="start" x="418" y="-153" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.utils.get</text>
+<g id="a_node3"><a xlink:href="namespacerare_1_1utils_1_1misc.html#a7b7390f7db51dab9166f0a25aeddbb51" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="408.5,-135 408.5,-165 500.5,-165 500.5,-135 408.5,-135"/>
+<text text-anchor="start" x="416.5" y="-153" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.misc.get</text>
 <text text-anchor="middle" x="454.5" y="-142" font-family="Helvetica,sans-Serif" font-size="10.00">_raw_save_path</text>
 </a>
 </g>
@@ -106,8 +106,8 @@ var sectionId = 'dynsection-6';
 <!-- Node2&#45;&gt;Node3 -->
 <g id="edge3" class="edge">
 <title>Node2&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M297.19,-108.57C317.31,-113.93 338.97,-119.68 359,-125 372.2,-128.5 386.44,-132.27 399.77,-135.8"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="399.18,-139.26 409.74,-138.44 400.97,-132.5 399.18,-139.26"/>
+<path fill="none" stroke="midnightblue" d="M297.19,-108.57C317.31,-113.93 338.97,-119.68 359,-125 371.81,-128.4 385.6,-132.05 398.58,-135.49"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="397.75,-138.89 408.31,-138.06 399.54,-132.12 397.75,-138.89"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">

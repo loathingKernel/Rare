@@ -1,12 +1,5 @@
 <map id="handle_toggle" name="handle_toggle">
-<area shape="rect" id="node1" title=" " alt="" coords="5,244,108,271"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_q_data_check_box.html#a5ff6323ce25317c7925d5a8012b1f6ea" title=" " alt="" coords="156,191,383,233"/>
-<area shape="rect" id="node10" href="$classrare_1_1utils_1_1extra__widgets_1_1_select_view_widget.html#a5ff6323ce25317c7925d5a8012b1f6ea" title=" " alt="" coords="173,281,365,322"/>
-<area shape="rect" id="node3" href="$classlegendary_1_1models_1_1chunk_1_1_chunk.html#a5819dc329e23039232a8920a90508ea3" title=" " alt="" coords="431,157,659,184"/>
-<area shape="rect" id="node9" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#a4e4c22d807e3917e7df173503e85bdb7" title=" " alt="" coords="465,233,625,274"/>
-<area shape="rect" id="node4" href="$classlegendary_1_1models_1_1chunk_1_1_chunk.html#a6813edf8ebe1032140f887ee56913b76" title=" " alt="" coords="707,29,981,56"/>
-<area shape="rect" id="node5" href="$classlegendary_1_1models_1_1manifest_1_1_manifest.html#a6813edf8ebe1032140f887ee56913b76" title=" " alt="" coords="755,105,933,146"/>
-<area shape="rect" id="node6" href="$classlegendary_1_1models_1_1manifest_1_1_file_manifest.html#a6813edf8ebe1032140f887ee56913b76" title=" " alt="" coords="755,194,933,235"/>
-<area shape="rect" id="node8" href="$classlegendary_1_1models_1_1chunk_1_1_chunk.html#a8f69e2cc4e2b243f7439dfe030cc5458" title=" " alt="" coords="730,284,958,311"/>
-<area shape="rect" id="node7" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#a7d491e435bf3631508f0a7c084acd162" title=" " alt="" coords="1029,194,1189,235"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,82,108,109"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box.html#acf3a93e2b0705f28b833cc1031b949a6" title=" " alt="" coords="156,29,367,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1utils_1_1extra__widgets_1_1_select_view_widget.html#a5ff6323ce25317c7925d5a8012b1f6ea" title=" " alt="" coords="165,119,357,160"/>
 </map>

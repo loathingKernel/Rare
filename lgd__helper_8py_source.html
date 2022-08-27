@@ -92,11 +92,11 @@ $(document).ready(function(){initNavTree('lgd__helper_8py_source.html',''); init
 <div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">import</span> shutil</div>
 <div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">from</span> dataclasses <span class="keyword">import</span> dataclass</div>
 <div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">from</span> logging <span class="keyword">import</span> getLogger</div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">from</span> typing <span class="keyword">import</span> List, Tuple</div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">from</span> typing <span class="keyword">import</span> List</div>
 <div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span> </div>
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="keyword">from</span> PyQt5.QtCore <span class="keyword">import</span> QProcess, QProcessEnvironment</div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacelegendary_1_1core.html">legendary.core</a> <span class="keyword">import</span> LegendaryCore</div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacelegendary_1_1models_1_1game.html">legendary.models.game</a> <span class="keyword">import</span> InstalledGame, LaunchParameters</div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="keyword">from</span> legendary.core <span class="keyword">import</span> LegendaryCore</div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">from</span> legendary.models.game <span class="keyword">import</span> InstalledGame, LaunchParameters</div>
 <div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span> </div>
 <div class="line"><a id="l00012" name="l00012"></a><span class="lineno"><a class="line" href="namespacerare_1_1game__launch__helper_1_1lgd__helper.html#a0b14e488ae28d98d262453f3e9cd6e4d">   12</a></span>logger = getLogger(<span class="stringliteral">&quot;Helper&quot;</span>)</div>
 <div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span> </div>
@@ -155,7 +155,7 @@ $(document).ready(function(){initNavTree('lgd__helper_8py_source.html',''); init
 <div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span> </div>
 <div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>    env = core.get_app_environment(app_name)</div>
 <div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>    launch_args.env = QProcessEnvironment.systemEnvironment()</div>
-<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>    <span class="keywordflow">for</span> name, value <span class="keywordflow">in</span> env:</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>    <span class="keywordflow">for</span> name, value <span class="keywordflow">in</span> env.items():</div>
 <div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>        launch_args.env.insert(name, value)</div>
 <div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span> </div>
 <div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>    launch_args.executable = command[0]</div>
@@ -237,31 +237,25 @@ $(document).ready(function(){initNavTree('lgd__helper_8py_source.html',''); init
 <div class="line"><a id="l00148" name="l00148"></a><span class="lineno">  148</span> </div>
 <div class="line"><a id="l00149" name="l00149"></a><span class="lineno"><a class="line" href="namespacerare_1_1game__launch__helper_1_1lgd__helper.html#aa0440824a5319b735f814f49e44389bd">  149</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacerare_1_1game__launch__helper_1_1lgd__helper.html#aa0440824a5319b735f814f49e44389bd">get_configured_process</a>(env: dict = <span class="keywordtype">None</span>):</div>
 <div class="line"><a id="l00150" name="l00150"></a><span class="lineno">  150</span>    proc = QProcess()</div>
-<div class="line"><a id="l00151" name="l00151"></a><span class="lineno">  151</span>    proc.readyReadStandardOutput.connect(</div>
-<div class="line"><a id="l00152" name="l00152"></a><span class="lineno">  152</span>        <span class="keyword">lambda</span>: logger.info(</div>
-<div class="line"><a id="l00153" name="l00153"></a><span class="lineno">  153</span>            str(proc.readAllStandardOutput().data(), <span class="stringliteral">&quot;utf-8&quot;</span>, <span class="stringliteral">&quot;ignore&quot;</span>)</div>
-<div class="line"><a id="l00154" name="l00154"></a><span class="lineno">  154</span>        )</div>
-<div class="line"><a id="l00155" name="l00155"></a><span class="lineno">  155</span>    )</div>
-<div class="line"><a id="l00156" name="l00156"></a><span class="lineno">  156</span>    proc.readyReadStandardError.connect(</div>
-<div class="line"><a id="l00157" name="l00157"></a><span class="lineno">  157</span>        <span class="keyword">lambda</span>: logger.info(</div>
-<div class="line"><a id="l00158" name="l00158"></a><span class="lineno">  158</span>            str(proc.readAllStandardError().data(), <span class="stringliteral">&quot;utf-8&quot;</span>, <span class="stringliteral">&quot;ignore&quot;</span>)</div>
-<div class="line"><a id="l00159" name="l00159"></a><span class="lineno">  159</span>        )</div>
-<div class="line"><a id="l00160" name="l00160"></a><span class="lineno">  160</span>    )</div>
-<div class="line"><a id="l00161" name="l00161"></a><span class="lineno">  161</span>    environment = QProcessEnvironment.systemEnvironment()</div>
-<div class="line"><a id="l00162" name="l00162"></a><span class="lineno">  162</span>    <span class="keywordflow">if</span> env:</div>
-<div class="line"><a id="l00163" name="l00163"></a><span class="lineno">  163</span>        <span class="keywordflow">for</span> e <span class="keywordflow">in</span> env:</div>
-<div class="line"><a id="l00164" name="l00164"></a><span class="lineno">  164</span>            environment.insert(e, env[e])</div>
-<div class="line"><a id="l00165" name="l00165"></a><span class="lineno">  165</span>    proc.setProcessEnvironment(environment)</div>
-<div class="line"><a id="l00166" name="l00166"></a><span class="lineno">  166</span> </div>
-<div class="line"><a id="l00167" name="l00167"></a><span class="lineno">  167</span>    <span class="keywordflow">return</span> proc</div>
+<div class="line"><a id="l00151" name="l00151"></a><span class="lineno">  151</span>    proc.setProcessChannelMode(QProcess.MergedChannels)</div>
+<div class="line"><a id="l00152" name="l00152"></a><span class="lineno">  152</span>    proc.readyReadStandardOutput.connect(</div>
+<div class="line"><a id="l00153" name="l00153"></a><span class="lineno">  153</span>        <span class="keyword">lambda</span>: logger.info(</div>
+<div class="line"><a id="l00154" name="l00154"></a><span class="lineno">  154</span>            str(proc.readAllStandardOutput().data(), <span class="stringliteral">&quot;utf-8&quot;</span>, <span class="stringliteral">&quot;ignore&quot;</span>)</div>
+<div class="line"><a id="l00155" name="l00155"></a><span class="lineno">  155</span>        )</div>
+<div class="line"><a id="l00156" name="l00156"></a><span class="lineno">  156</span>    )</div>
+<div class="line"><a id="l00157" name="l00157"></a><span class="lineno">  157</span>    environment = QProcessEnvironment.systemEnvironment()</div>
+<div class="line"><a id="l00158" name="l00158"></a><span class="lineno">  158</span>    <span class="keywordflow">if</span> env:</div>
+<div class="line"><a id="l00159" name="l00159"></a><span class="lineno">  159</span>        <span class="keywordflow">for</span> e <span class="keywordflow">in</span> env:</div>
+<div class="line"><a id="l00160" name="l00160"></a><span class="lineno">  160</span>            environment.insert(e, env[e])</div>
+<div class="line"><a id="l00161" name="l00161"></a><span class="lineno">  161</span>    proc.setProcessEnvironment(environment)</div>
+<div class="line"><a id="l00162" name="l00162"></a><span class="lineno">  162</span> </div>
+<div class="line"><a id="l00163" name="l00163"></a><span class="lineno">  163</span>    <span class="keywordflow">return</span> proc</div>
 <div class="ttc" id="aclassrare_1_1game__launch__helper_1_1lgd__helper_1_1_game_args_error_html"><div class="ttname"><a href="classrare_1_1game__launch__helper_1_1lgd__helper_1_1_game_args_error.html">rare.game_launch_helper.lgd_helper.GameArgsError</a></div><div class="ttdef"><b>Definition:</b> <a href="lgd__helper_8py_source.html#l00015">lgd_helper.py:15</a></div></div>
 <div class="ttc" id="aclassrare_1_1game__launch__helper_1_1lgd__helper_1_1_init_args_html"><div class="ttname"><a href="classrare_1_1game__launch__helper_1_1lgd__helper_1_1_init_args.html">rare.game_launch_helper.lgd_helper.InitArgs</a></div><div class="ttdef"><b>Definition:</b> <a href="lgd__helper_8py_source.html#l00020">lgd_helper.py:20</a></div></div>
 <div class="ttc" id="aclassrare_1_1game__launch__helper_1_1lgd__helper_1_1_init_args_html_a5582d10ce41b2c166c346be29395f7c0"><div class="ttname"><a href="classrare_1_1game__launch__helper_1_1lgd__helper_1_1_init_args.html#a5582d10ce41b2c166c346be29395f7c0">rare.game_launch_helper.lgd_helper.InitArgs.from_argparse</a></div><div class="ttdeci">def from_argparse(cls, args)</div><div class="ttdef"><b>Definition:</b> <a href="lgd__helper_8py_source.html#l00028">lgd_helper.py:28</a></div></div>
 <div class="ttc" id="aclassrare_1_1game__launch__helper_1_1lgd__helper_1_1_launch_args_html"><div class="ttname"><a href="classrare_1_1game__launch__helper_1_1lgd__helper_1_1_launch_args.html">rare.game_launch_helper.lgd_helper.LaunchArgs</a></div><div class="ttdef"><b>Definition:</b> <a href="lgd__helper_8py_source.html#l00039">lgd_helper.py:39</a></div></div>
 <div class="ttc" id="aclassrare_1_1game__launch__helper_1_1lgd__helper_1_1_launch_args_html_a3dd81f64b703eff31446b257a4628090"><div class="ttname"><a href="classrare_1_1game__launch__helper_1_1lgd__helper_1_1_launch_args.html#a3dd81f64b703eff31446b257a4628090">rare.game_launch_helper.lgd_helper.LaunchArgs.__bool__</a></div><div class="ttdeci">def __bool__(self)</div><div class="ttdef"><b>Definition:</b> <a href="lgd__helper_8py_source.html#l00048">lgd_helper.py:48</a></div></div>
 <div class="ttc" id="aclassrare_1_1game__launch__helper_1_1lgd__helper_1_1_launch_args_html_af6a258d8f3ee5206d682d799316314b1"><div class="ttname"><a href="classrare_1_1game__launch__helper_1_1lgd__helper_1_1_launch_args.html#af6a258d8f3ee5206d682d799316314b1">rare.game_launch_helper.lgd_helper.LaunchArgs.bool</a></div><div class="ttdeci">bool</div><div class="ttdef"><b>Definition:</b> <a href="lgd__helper_8py_source.html#l00045">lgd_helper.py:45</a></div></div>
-<div class="ttc" id="anamespacelegendary_1_1core_html"><div class="ttname"><a href="namespacelegendary_1_1core.html">legendary.core</a></div><div class="ttdef"><b>Definition:</b> <a href="core_8py_source.html#l00001">core.py:1</a></div></div>
-<div class="ttc" id="anamespacelegendary_1_1models_1_1game_html"><div class="ttname"><a href="namespacelegendary_1_1models_1_1game.html">legendary.models.game</a></div><div class="ttdef"><b>Definition:</b> <a href="legendary_2legendary_2models_2game_8py_source.html#l00001">game.py:1</a></div></div>
 <div class="ttc" id="anamespacerare_1_1game__launch__helper_1_1lgd__helper_html_a779675eb6724f70a5f10f2806fcfb3e4"><div class="ttname"><a href="namespacerare_1_1game__launch__helper_1_1lgd__helper.html#a779675eb6724f70a5f10f2806fcfb3e4">rare.game_launch_helper.lgd_helper.get_origin_params</a></div><div class="ttdeci">LaunchArgs get_origin_params(LegendaryCore core, app_name, bool offline, LaunchArgs launch_args)</div><div class="ttdef"><b>Definition:</b> <a href="lgd__helper_8py_source.html#l00052">lgd_helper.py:53</a></div></div>
 <div class="ttc" id="anamespacerare_1_1game__launch__helper_1_1lgd__helper_html_aa0440824a5319b735f814f49e44389bd"><div class="ttname"><a href="namespacerare_1_1game__launch__helper_1_1lgd__helper.html#aa0440824a5319b735f814f49e44389bd">rare.game_launch_helper.lgd_helper.get_configured_process</a></div><div class="ttdeci">def get_configured_process(dict env=None)</div><div class="ttdef"><b>Definition:</b> <a href="lgd__helper_8py_source.html#l00149">lgd_helper.py:149</a></div></div>
 <div class="ttc" id="anamespacerare_1_1game__launch__helper_1_1lgd__helper_html_aa5748a23f875c01d08622ea777ad8e9e"><div class="ttname"><a href="namespacerare_1_1game__launch__helper_1_1lgd__helper.html#aa5748a23f875c01d08622ea777ad8e9e">rare.game_launch_helper.lgd_helper.get_game_params</a></div><div class="ttdeci">LaunchArgs get_game_params(LegendaryCore core, InstalledGame igame, InitArgs args, LaunchArgs launch_args)</div><div class="ttdef"><b>Definition:</b> <a href="lgd__helper_8py_source.html#l00077">lgd_helper.py:78</a></div></div>

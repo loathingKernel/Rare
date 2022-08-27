@@ -1,14 +1,5 @@
 <map id="minimumSize" name="minimumSize">
-<area shape="rect" id="node1" title=" " alt="" coords="1344,181,1444,208"/>
-<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#aff1e7c8521d73ca3ac484759bf2b7597" title=" " alt="" coords="1227,181,1296,208"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#ae089d7ae22c0aaa736078f3096734077" title=" " alt="" coords="940,29,1179,85"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a7237f0ce0aaddf9396e9801066707c3e" title=" " alt="" coords="940,133,1179,189"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a98c2ca1fee1748cb4e89a7d2d45c23f7" title="Paints the color image over the gray images based on progress percentage." alt="" coords="653,217,892,273"/>
-<area shape="rect" id="node12" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a14597602626c51a5eb6f7ab6b39ceb38" title=" " alt="" coords="940,288,1179,344"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#afe7221063d2a4d7b1e1f42fb85f5d06f" title=" " alt="" coords="653,113,892,169"/>
-<area shape="rect" id="node6" href="$classrare_1_1utils_1_1extra__widgets_1_1_image_label.html#a29f0251454b3bdbf53b196a41cfb5c44" title=" " alt="" coords="382,34,549,75"/>
-<area shape="rect" id="node8" href="$classrare_1_1utils_1_1extra__widgets_1_1_image_label.html#aab3809d017e8e9a18638a2b3caf6e7b5" title=" " alt="" coords="382,123,549,165"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#aba6dbd857b7a02c2f1fbd7d472416b54" title=" " alt="" coords="325,215,605,271"/>
-<area shape="rect" id="node7" href="$classrare_1_1utils_1_1extra__widgets_1_1_image_label.html#a6eb1e8d66d898e3ef05c7a7cc9a3a116" title=" " alt="" coords="54,81,229,122"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#a1990ae73849da7538f16b24becb60023" title=" " alt="" coords="5,215,277,271"/>
+<area shape="rect" id="node1" title=" " alt="" coords="409,44,509,71"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#aff1e7c8521d73ca3ac484759bf2b7597" title=" " alt="" coords="292,44,361,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1collabsible__widget_1_1_collabsible_widget.html#a2123f5ade1d446b41dfaf01ab3a289d2" title=" " alt="" coords="5,29,244,85"/>
 </map>

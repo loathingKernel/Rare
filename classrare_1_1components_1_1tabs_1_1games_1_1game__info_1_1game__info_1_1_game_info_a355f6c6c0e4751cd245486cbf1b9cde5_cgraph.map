@@ -1,3 +1,4 @@
 <map id="repair" name="repair">
-<area shape="rect" id="node1" title=" " alt="" coords="5,29,60,56"/>
+<area shape="rect" id="node1" title="This function is to be called from the button only." alt="" coords="5,29,60,56"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a6f329e2a98231bcaf8ec9b217a67c280" title=" " alt="" coords="108,29,201,56"/>
 </map>

@@ -10,6 +10,9 @@ var namespacerare_1_1utils =
     [ "extra_widgets", "namespacerare_1_1utils_1_1extra__widgets.html", "namespacerare_1_1utils_1_1extra__widgets" ],
     [ "json_formatter", "namespacerare_1_1utils_1_1json__formatter.html", "namespacerare_1_1utils_1_1json__formatter" ],
     [ "legendary_utils", "namespacerare_1_1utils_1_1legendary__utils.html", "namespacerare_1_1utils_1_1legendary__utils" ],
+    [ "meta", "namespacerare_1_1utils_1_1meta.html", "namespacerare_1_1utils_1_1meta" ],
+    [ "misc", "namespacerare_1_1utils_1_1misc.html", "namespacerare_1_1utils_1_1misc" ],
+    [ "models", "namespacerare_1_1utils_1_1models.html", "namespacerare_1_1utils_1_1models" ],
     [ "paths", "namespacerare_1_1utils_1_1paths.html", [
       [ "cache_dir", "namespacerare_1_1utils_1_1paths.html#a7385f8a30d843420e355409fbe67e966", null ],
       [ "data_dir", "namespacerare_1_1utils_1_1paths.html#aaaef1244e0a05abda3f6d56d6831953e", null ],
@@ -21,6 +24,5 @@ var namespacerare_1_1utils =
     [ "qt_requests", "namespacerare_1_1utils_1_1qt__requests.html", "namespacerare_1_1utils_1_1qt__requests" ],
     [ "rpc", "namespacerare_1_1utils_1_1rpc.html", "namespacerare_1_1utils_1_1rpc" ],
     [ "singleton", "namespacerare_1_1utils_1_1singleton.html", "namespacerare_1_1utils_1_1singleton" ],
-    [ "steam_grades", "namespacerare_1_1utils_1_1steam__grades.html", "namespacerare_1_1utils_1_1steam__grades" ],
-    [ "utils", "namespacerare_1_1utils_1_1utils.html", "namespacerare_1_1utils_1_1utils" ]
+    [ "steam_grades", "namespacerare_1_1utils_1_1steam__grades.html", "namespacerare_1_1utils_1_1steam__grades" ]
 ];

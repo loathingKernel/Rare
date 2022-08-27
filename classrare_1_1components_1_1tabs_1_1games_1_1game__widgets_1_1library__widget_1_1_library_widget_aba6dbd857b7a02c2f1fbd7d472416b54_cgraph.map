@@ -1,12 +1,7 @@
 <map id="updateProgress" name="updateProgress">
-<area shape="rect" id="node1" title=" " alt="" coords="5,125,119,152"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#a98c2ca1fee1748cb4e89a7d2d45c23f7" title="Paints the color image over the gray images based on progress percentage." alt="" coords="229,29,343,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a98c2ca1fee1748cb4e89a7d2d45c23f7" title="Paints the color image over the gray images based on progress percentage." alt="" coords="453,51,692,107"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#afe7221063d2a4d7b1e1f42fb85f5d06f" title=" " alt="" coords="167,155,405,211"/>
-<area shape="rect" id="node8" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#afe7221063d2a4d7b1e1f42fb85f5d06f" title=" " alt="" coords="181,266,391,307"/>
-<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#aff1e7c8521d73ca3ac484759bf2b7597" title=" " alt="" coords="740,110,903,151"/>
-<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#acd7a5b208d0d18ac43cc317209bd759c" title=" " alt="" coords="951,110,1121,151"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#a7237f0ce0aaddf9396e9801066707c3e" title=" " alt="" coords="453,155,692,211"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#aa136880b14cd8741ebe60fbcf4d29a2e" title=" " alt="" coords="453,259,692,315"/>
-<area shape="rect" id="node10" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#aa136880b14cd8741ebe60fbcf4d29a2e" title=" " alt="" coords="484,363,661,419"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,119,97"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#a98c2ca1fee1748cb4e89a7d2d45c23f7" title="Paints the color image over the gray images based on progress percentage." alt="" coords="215,29,329,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#afe7221063d2a4d7b1e1f42fb85f5d06f" title=" " alt="" coords="167,105,377,146"/>
+<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#aa136880b14cd8741ebe60fbcf4d29a2e" title=" " alt="" coords="449,48,626,104"/>
+<area shape="rect" id="node5" href="$classrare_1_1lgndr_1_1api__monkeys_1_1_d_l_manager_signals.html#a2e157b8a54419ee393d56143a3260aa9" title=" " alt="" coords="425,153,649,194"/>
 </map>

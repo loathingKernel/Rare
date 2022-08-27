@@ -1,7 +1,7 @@
 var classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_item =
 [
     [ "__init__", "classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#aeb49e6baaee6244447c902cb02dec86a", null ],
-    [ "action", "classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#afb98620e5c3e93764e3a474baf06aa6a", null ],
+    [ "action", "classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a2151f2883083315c55a51486834375ef", null ],
     [ "app_name", "classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712", null ],
     [ "app_title", "classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#acb705002d1644acc800066bdad566cd8", null ],
     [ "is_checked", "classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#ae6aa7ba22ad4f55b002eca461180a6bf", null ],

@@ -1,4 +1,0 @@
-<map id="DownloaderTask" name="DownloaderTask">
-<area shape="rect" id="node1" title="Task submitted to the download worker." alt="" coords="24,5,143,83"/>
-<area shape="rect" id="node2" href="$classlegendary_1_1models_1_1downloading_1_1_downloader_task_result.html" title="Result of DownloaderTask provided by download workers." alt="" coords="5,131,161,208"/>
-</map>
