@@ -328,6 +328,9 @@ var annotated_dup =
             [ "install_dialog", "namespacerare_1_1ui_1_1components_1_1dialogs_1_1install__dialog.html", [
               [ "Ui_InstallDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog" ]
             ] ],
+            [ "install_dialog_advanced", "namespacerare_1_1ui_1_1components_1_1dialogs_1_1install__dialog__advanced.html", [
+              [ "Ui_InstallDialogAdvanced", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog__advanced_1_1_ui___install_dialog_advanced.html", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog__advanced_1_1_ui___install_dialog_advanced" ]
+            ] ],
             [ "launch_dialog", "namespacerare_1_1ui_1_1components_1_1dialogs_1_1launch__dialog.html", [
               [ "Ui_LaunchDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1launch__dialog_1_1_ui___launch_dialog.html", "classrare_1_1ui_1_1components_1_1dialogs_1_1launch__dialog_1_1_ui___launch_dialog" ]
             ] ],

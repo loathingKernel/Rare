@@ -9,9 +9,9 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 948)">
 <title>Graphical Class Hierarchy</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-948 244,-948 244,4 -4,4"/>
-<!-- Node184 -->
+<!-- Node185 -->
 <g id="node1" class="node">
-<title>Node184</title>
+<title>Node185</title>
 <g id="a_node1"><a xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="0,-456.5 0,-475.5 53,-475.5 53,-456.5 0,-456.5"/>
 <text text-anchor="middle" x="26.5" y="-463.5" font-family="Helvetica,sans-Serif" font-size="10.00">QObject</text>
@@ -27,135 +27,135 @@
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node0 -->
+<!-- Node185&#45;&gt;Node0 -->
 <g id="edge1" class="edge">
-<title>Node184&#45;&gt;Node0</title>
+<title>Node185&#45;&gt;Node0</title>
 <path fill="none" stroke="midnightblue" d="M27.39,-486.1C27.37,-564.73 31.32,-850.37 89,-915 92.64,-919.08 97.03,-922.35 101.83,-924.95"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="30.89,-485.69 27.42,-475.68 23.89,-485.67 30.89,-485.69"/>
 </g>
-<!-- Node186 -->
+<!-- Node187 -->
 <g id="node3" class="node">
-<title>Node186</title>
+<title>Node187</title>
 <g id="a_node3"><a xlink:href="classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_worker_1_1_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="107.5,-886.5 107.5,-905.5 221.5,-905.5 221.5,-886.5 107.5,-886.5"/>
 <text text-anchor="middle" x="164.5" y="-893.5" font-family="Helvetica,sans-Serif" font-size="10.00">LaunchWorker.Signals</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node186 -->
+<!-- Node185&#45;&gt;Node187 -->
 <g id="edge2" class="edge">
-<title>Node184&#45;&gt;Node186</title>
+<title>Node185&#45;&gt;Node187</title>
 <path fill="none" stroke="midnightblue" d="M27.67,-485.81C28.7,-559.76 36.08,-818.44 89,-877 94.01,-882.55 100.4,-886.57 107.31,-889.48"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="31.16,-485.54 27.55,-475.59 24.16,-485.62 31.16,-485.54"/>
 </g>
-<!-- Node187 -->
+<!-- Node188 -->
 <g id="node4" class="node">
-<title>Node187</title>
+<title>Node188</title>
 <g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="122.5,-848.5 122.5,-867.5 206.5,-867.5 206.5,-848.5 122.5,-848.5"/>
 <text text-anchor="middle" x="164.5" y="-855.5" font-family="Helvetica,sans-Serif" font-size="10.00">CloudSaveUtils</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node187 -->
+<!-- Node185&#45;&gt;Node188 -->
 <g id="edge3" class="edge">
-<title>Node184&#45;&gt;Node187</title>
+<title>Node185&#45;&gt;Node188</title>
 <path fill="none" stroke="midnightblue" d="M28,-485.75C30.15,-555.16 40.88,-786.54 89,-839 97.57,-848.35 110.04,-853.37 122.33,-856"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="31.5,-485.62 27.71,-475.72 24.5,-485.82 31.5,-485.62"/>
 </g>
-<!-- Node188 -->
+<!-- Node189 -->
 <g id="node5" class="node">
-<title>Node188</title>
+<title>Node189</title>
 <g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_save_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="129,-810.5 129,-829.5 200,-829.5 200,-810.5 129,-810.5"/>
 <text text-anchor="middle" x="164.5" y="-817.5" font-family="Helvetica,sans-Serif" font-size="10.00">SaveSignals</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node188 -->
+<!-- Node185&#45;&gt;Node189 -->
 <g id="edge4" class="edge">
-<title>Node184&#45;&gt;Node188</title>
+<title>Node185&#45;&gt;Node189</title>
 <path fill="none" stroke="midnightblue" d="M28.41,-485.8C31.77,-550.57 45.69,-754.63 89,-801 99.2,-811.93 114.74,-816.93 128.99,-819.1"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="31.9,-485.52 27.91,-475.7 24.91,-485.86 31.9,-485.52"/>
 </g>
-<!-- Node189 -->
+<!-- Node190 -->
 <g id="node6" class="node">
-<title>Node189</title>
+<title>Node190</title>
 <g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_copy_game_installation_1_1_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="91.5,-772.5 91.5,-791.5 237.5,-791.5 237.5,-772.5 91.5,-772.5"/>
 <text text-anchor="middle" x="164.5" y="-779.5" font-family="Helvetica,sans-Serif" font-size="10.00">CopyGameInstallation.Signals</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node189 -->
+<!-- Node185&#45;&gt;Node190 -->
 <g id="edge5" class="edge">
-<title>Node184&#45;&gt;Node189</title>
+<title>Node185&#45;&gt;Node190</title>
 <path fill="none" stroke="midnightblue" d="M28.92,-485.83C33.59,-545.66 50.46,-722.67 89,-763 92.69,-766.86 97.04,-769.98 101.77,-772.49"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="32.38,-485.22 28.14,-475.51 25.4,-485.74 32.38,-485.22"/>
 </g>
-<!-- Node190 -->
+<!-- Node191 -->
 <g id="node7" class="node">
-<title>Node190</title>
+<title>Node191</title>
 <g id="a_node7"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_process.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="125,-734.5 125,-753.5 204,-753.5 204,-734.5 125,-734.5"/>
 <text text-anchor="middle" x="164.5" y="-741.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameProcess</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node190 -->
+<!-- Node185&#45;&gt;Node191 -->
 <g id="edge6" class="edge">
-<title>Node184&#45;&gt;Node190</title>
+<title>Node185&#45;&gt;Node191</title>
 <path fill="none" stroke="midnightblue" d="M29.56,-485.77C35.64,-540.22 55.19,-690.62 89,-725 98.36,-734.52 111.78,-739.5 124.65,-742.03"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="33.03,-485.25 28.47,-475.68 26.07,-486 33.03,-485.25"/>
 </g>
-<!-- Node191 -->
+<!-- Node192 -->
 <g id="node8" class="node">
-<title>Node191</title>
+<title>Node192</title>
 <g id="a_node8"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="133,-696.5 133,-715.5 196,-715.5 196,-696.5 133,-696.5"/>
 <text text-anchor="middle" x="164.5" y="-703.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameUtils</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node191 -->
+<!-- Node185&#45;&gt;Node192 -->
 <g id="edge7" class="edge">
-<title>Node184&#45;&gt;Node191</title>
+<title>Node185&#45;&gt;Node192</title>
 <path fill="none" stroke="midnightblue" d="M26.87,-485.62C26.6,-528.57 32.3,-631.52 89,-687 100.54,-698.3 117.82,-703.16 132.83,-705.15"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="30.36,-485.68 27.05,-475.62 23.37,-485.55 30.36,-485.68"/>
 </g>
-<!-- Node192 -->
+<!-- Node193 -->
 <g id="node9" class="node">
-<title>Node192</title>
+<title>Node193</title>
 <g id="a_node9"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1import__group_1_1_import_worker_1_1_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="109.5,-658.5 109.5,-677.5 219.5,-677.5 219.5,-658.5 109.5,-658.5"/>
 <text text-anchor="middle" x="164.5" y="-665.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImportWorker.Signals</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node192 -->
+<!-- Node185&#45;&gt;Node193 -->
 <g id="edge8" class="edge">
-<title>Node184&#45;&gt;Node192</title>
+<title>Node185&#45;&gt;Node193</title>
 <path fill="none" stroke="midnightblue" d="M28.23,-485.78C30.71,-523.3 41.58,-604.99 89,-649 94.77,-654.36 101.84,-658.25 109.3,-661.08"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="31.71,-485.45 27.69,-475.64 24.72,-485.81 31.71,-485.45"/>
 </g>
-<!-- Node193 -->
+<!-- Node194 -->
 <g id="node10" class="node">
-<title>Node193</title>
+<title>Node194</title>
 <g id="a_node10"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="99,-620.5 99,-639.5 230,-639.5 230,-620.5 99,-620.5"/>
 <text text-anchor="middle" x="164.5" y="-627.5" font-family="Helvetica,sans-Serif" font-size="10.00">RefreshGameMetaSignals</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node193 -->
+<!-- Node185&#45;&gt;Node194 -->
 <g id="edge9" class="edge">
-<title>Node184&#45;&gt;Node193</title>
+<title>Node185&#45;&gt;Node194</title>
 <path fill="none" stroke="midnightblue" d="M30.27,-485.99C35.7,-517.42 50.76,-578.15 89,-611 93.46,-614.83 98.58,-617.9 104.01,-620.36"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="33.69,-485.19 28.68,-475.85 26.77,-486.27 33.69,-485.19"/>
 </g>
-<!-- Node194 -->
+<!-- Node195 -->
 <g id="node11" class="node">
-<title>Node194</title>
+<title>Node195</title>
 <g id="a_node11"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1eos_1_1_check_for_update_worker_1_1_check_for_update_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="89,-571 89,-601 240,-601 240,-571 89,-571"/>
 <text text-anchor="start" x="97" y="-589" font-family="Helvetica,sans-Serif" font-size="10.00">CheckForUpdateWorker.Check</text>
@@ -163,234 +163,234 @@
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node194 -->
+<!-- Node185&#45;&gt;Node195 -->
 <g id="edge10" class="edge">
-<title>Node184&#45;&gt;Node194</title>
+<title>Node185&#45;&gt;Node195</title>
 <path fill="none" stroke="midnightblue" d="M35.13,-484.95C44.68,-506.35 62.99,-540.81 89,-561 93.96,-564.85 99.54,-568.12 105.36,-570.9"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="38.3,-483.44 31.16,-475.61 31.86,-486.18 38.3,-483.44"/>
 </g>
-<!-- Node195 -->
+<!-- Node196 -->
 <g id="node12" class="node">
-<title>Node195</title>
+<title>Node196</title>
 <g id="a_node12"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1ubisoft__activation_1_1_ubi_activation_helper.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="112.5,-532.5 112.5,-551.5 216.5,-551.5 216.5,-532.5 112.5,-532.5"/>
 <text text-anchor="middle" x="164.5" y="-539.5" font-family="Helvetica,sans-Serif" font-size="10.00">UbiActivationHelper</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node195 -->
+<!-- Node185&#45;&gt;Node196 -->
 <g id="edge11" class="edge">
-<title>Node184&#45;&gt;Node195</title>
+<title>Node185&#45;&gt;Node196</title>
 <path fill="none" stroke="midnightblue" d="M41.85,-483.33C53.34,-496.11 70.54,-512.95 89,-523 96.15,-526.89 104.12,-530.01 112.12,-532.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="44.37,-480.89 35.17,-475.63 39.08,-485.48 44.37,-480.89"/>
 </g>
-<!-- Node196 -->
+<!-- Node197 -->
 <g id="node13" class="node">
-<title>Node196</title>
+<title>Node197</title>
 <g id="a_node13"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1ubisoft__activation_1_1_ubi_connect_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="114.5,-494.5 114.5,-513.5 214.5,-513.5 214.5,-494.5 114.5,-494.5"/>
 <text text-anchor="middle" x="164.5" y="-501.5" font-family="Helvetica,sans-Serif" font-size="10.00">UbiConnectSignals</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node196 -->
+<!-- Node185&#45;&gt;Node197 -->
 <g id="edge12" class="edge">
-<title>Node184&#45;&gt;Node196</title>
+<title>Node185&#45;&gt;Node197</title>
 <path fill="none" stroke="midnightblue" d="M62.84,-477.25C71.38,-479.88 80.5,-482.6 89,-485 100.43,-488.22 112.92,-491.5 124.35,-494.41"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="63.74,-473.86 53.15,-474.24 61.66,-480.55 63.74,-473.86"/>
 </g>
-<!-- Node197 -->
+<!-- Node198 -->
 <g id="node14" class="node">
-<title>Node197</title>
+<title>Node198</title>
 <g id="a_node14"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1ubisoft__activation_1_1_ubi_get_info_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="116.5,-456.5 116.5,-475.5 212.5,-475.5 212.5,-456.5 116.5,-456.5"/>
 <text text-anchor="middle" x="164.5" y="-463.5" font-family="Helvetica,sans-Serif" font-size="10.00">UbiGetInfoSignals</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node197 -->
+<!-- Node185&#45;&gt;Node198 -->
 <g id="edge13" class="edge">
-<title>Node184&#45;&gt;Node197</title>
+<title>Node185&#45;&gt;Node198</title>
 <path fill="none" stroke="midnightblue" d="M63.23,-466C79.46,-466 98.88,-466 116.29,-466"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="63.08,-462.5 53.08,-466 63.08,-469.5 63.08,-462.5"/>
 </g>
-<!-- Node198 -->
+<!-- Node199 -->
 <g id="node15" class="node">
-<title>Node198</title>
+<title>Node199</title>
 <g id="a_node15"><a xlink:href="classrare_1_1components_1_1tabs_1_1shop_1_1constants_1_1_constants.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="134,-418.5 134,-437.5 195,-437.5 195,-418.5 134,-418.5"/>
 <text text-anchor="middle" x="164.5" y="-425.5" font-family="Helvetica,sans-Serif" font-size="10.00">Constants</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node198 -->
+<!-- Node185&#45;&gt;Node199 -->
 <g id="edge14" class="edge">
-<title>Node184&#45;&gt;Node198</title>
+<title>Node185&#45;&gt;Node199</title>
 <path fill="none" stroke="midnightblue" d="M62.84,-454.75C71.38,-452.12 80.5,-449.4 89,-447 103.65,-442.87 120.02,-438.65 133.68,-435.24"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="61.66,-451.45 53.15,-457.76 63.74,-458.14 61.66,-451.45"/>
 </g>
-<!-- Node199 -->
+<!-- Node200 -->
 <g id="node16" class="node">
-<title>Node199</title>
+<title>Node200</title>
 <g id="a_node16"><a xlink:href="classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="127.5,-380.5 127.5,-399.5 201.5,-399.5 201.5,-380.5 127.5,-380.5"/>
 <text text-anchor="middle" x="164.5" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00">ShopApiCore</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node199 -->
+<!-- Node185&#45;&gt;Node200 -->
 <g id="edge15" class="edge">
-<title>Node184&#45;&gt;Node199</title>
+<title>Node185&#45;&gt;Node200</title>
 <path fill="none" stroke="midnightblue" d="M41.85,-448.67C53.34,-435.89 70.54,-419.05 89,-409 100.72,-402.62 114.66,-398.32 127.28,-395.46"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="39.08,-446.52 35.17,-456.37 44.37,-451.11 39.08,-446.52"/>
 </g>
-<!-- Node200 -->
+<!-- Node201 -->
 <g id="node17" class="node">
-<title>Node200</title>
+<title>Node201</title>
 <g id="a_node17"><a xlink:href="classrare_1_1game__launch__helper_1_1_pre_launch_thread_1_1_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="100.5,-342.5 100.5,-361.5 228.5,-361.5 228.5,-342.5 100.5,-342.5"/>
 <text text-anchor="middle" x="164.5" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00">PreLaunchThread.Signals</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node200 -->
+<!-- Node185&#45;&gt;Node201 -->
 <g id="edge16" class="edge">
-<title>Node184&#45;&gt;Node200</title>
+<title>Node185&#45;&gt;Node201</title>
 <path fill="none" stroke="midnightblue" d="M34.73,-447.04C43.99,-425.34 62.12,-390.31 89,-371 94.42,-367.11 100.57,-364.01 106.94,-361.54"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="31.41,-445.91 30.9,-456.49 37.9,-448.54 31.41,-445.91"/>
 </g>
-<!-- Node201 -->
+<!-- Node202 -->
 <g id="node18" class="node">
-<title>Node201</title>
+<title>Node202</title>
 <g id="a_node18"><a xlink:href="classrare_1_1models_1_1signals_1_1_global_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="126,-304.5 126,-323.5 203,-323.5 203,-304.5 126,-304.5"/>
 <text text-anchor="middle" x="164.5" y="-311.5" font-family="Helvetica,sans-Serif" font-size="10.00">GlobalSignals</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node201 -->
+<!-- Node185&#45;&gt;Node202 -->
 <g id="edge17" class="edge">
-<title>Node184&#45;&gt;Node201</title>
+<title>Node185&#45;&gt;Node202</title>
 <path fill="none" stroke="midnightblue" d="M31.04,-446.4C37.37,-417.2 53.44,-362.57 89,-333 99.26,-324.47 112.88,-319.7 125.66,-317.06"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="27.61,-445.75 29.08,-456.24 34.47,-447.12 27.61,-445.75"/>
 </g>
-<!-- Node202 -->
+<!-- Node203 -->
 <g id="node19" class="node">
-<title>Node202</title>
+<title>Node203</title>
 <g id="a_node19"><a xlink:href="classrare_1_1shared_1_1image__manager_1_1_image_manager.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="124,-266.5 124,-285.5 205,-285.5 205,-266.5 124,-266.5"/>
 <text text-anchor="middle" x="164.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageManager</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node202 -->
+<!-- Node185&#45;&gt;Node203 -->
 <g id="edge18" class="edge">
-<title>Node184&#45;&gt;Node202</title>
+<title>Node185&#45;&gt;Node203</title>
 <path fill="none" stroke="midnightblue" d="M28.79,-446.02C32.2,-410.29 44.55,-335.4 89,-295 98.48,-286.38 111.33,-281.56 123.69,-278.89"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="25.29,-445.91 27.97,-456.16 32.26,-446.47 25.29,-445.91"/>
 </g>
-<!-- Node203 -->
+<!-- Node204 -->
 <g id="node20" class="node">
-<title>Node203</title>
+<title>Node204</title>
 <g id="a_node20"><a xlink:href="classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker_1_1_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="90,-228.5 90,-247.5 239,-247.5 239,-228.5 90,-228.5"/>
 <text text-anchor="middle" x="164.5" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageManager.Worker.Signals</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node203 -->
+<!-- Node185&#45;&gt;Node204 -->
 <g id="edge19" class="edge">
-<title>Node184&#45;&gt;Node203</title>
+<title>Node185&#45;&gt;Node204</title>
 <path fill="none" stroke="midnightblue" d="M27.24,-446.33C27.82,-405.03 35.24,-308.83 89,-257 92.94,-253.2 97.53,-250.13 102.46,-247.66"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="23.74,-446.43 27.23,-456.44 30.74,-446.45 23.74,-446.43"/>
 </g>
-<!-- Node204 -->
+<!-- Node205 -->
 <g id="node21" class="node">
-<title>Node204</title>
+<title>Node205</title>
 <g id="a_node21"><a xlink:href="classrare_1_1utils_1_1legendary__utils_1_1_verify_worker_1_1_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="111,-190.5 111,-209.5 218,-209.5 218,-190.5 111,-190.5"/>
 <text text-anchor="middle" x="164.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">VerifyWorker.Signals</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node204 -->
+<!-- Node185&#45;&gt;Node205 -->
 <g id="edge20" class="edge">
-<title>Node184&#45;&gt;Node204</title>
+<title>Node185&#45;&gt;Node205</title>
 <path fill="none" stroke="midnightblue" d="M29.78,-446.46C36.3,-393.95 56.63,-251.55 89,-219 95.02,-212.94 102.69,-208.73 110.81,-205.81"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="26.29,-446.14 28.57,-456.49 33.24,-446.98 26.29,-446.14"/>
 </g>
-<!-- Node205 -->
+<!-- Node206 -->
 <g id="node22" class="node">
-<title>Node205</title>
+<title>Node206</title>
 <g id="a_node22"><a xlink:href="classrare_1_1utils_1_1misc_1_1_cloud_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="127.5,-152.5 127.5,-171.5 201.5,-171.5 201.5,-152.5 127.5,-152.5"/>
 <text text-anchor="middle" x="164.5" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00">CloudSignals</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node205 -->
+<!-- Node185&#45;&gt;Node206 -->
 <g id="edge21" class="edge">
-<title>Node184&#45;&gt;Node205</title>
+<title>Node185&#45;&gt;Node206</title>
 <path fill="none" stroke="midnightblue" d="M29.1,-446.19C34.21,-388.03 51.96,-219.44 89,-181 98.91,-170.71 113.55,-165.71 127.24,-163.36"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="25.6,-446.02 28.25,-456.28 32.58,-446.61 25.6,-446.02"/>
 </g>
-<!-- Node206 -->
+<!-- Node207 -->
 <g id="node23" class="node">
-<title>Node206</title>
+<title>Node207</title>
 <g id="a_node23"><a xlink:href="classrare_1_1utils_1_1misc_1_1_wine_resolver_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="110,-114.5 110,-133.5 219,-133.5 219,-114.5 110,-114.5"/>
 <text text-anchor="middle" x="164.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">WineResolverSignals</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node206 -->
+<!-- Node185&#45;&gt;Node207 -->
 <g id="edge22" class="edge">
-<title>Node184&#45;&gt;Node206</title>
+<title>Node185&#45;&gt;Node207</title>
 <path fill="none" stroke="midnightblue" d="M28.56,-446.1C32.34,-382.76 47.22,-187.44 89,-143 94.67,-136.97 101.96,-132.75 109.76,-129.81"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="25.05,-446.14 27.98,-456.32 32.04,-446.54 25.05,-446.14"/>
 </g>
-<!-- Node207 -->
+<!-- Node208 -->
 <g id="node24" class="node">
-<title>Node207</title>
+<title>Node208</title>
 <g id="a_node24"><a xlink:href="classrare_1_1utils_1_1qt__requests_1_1_qt_request_manager.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="114,-76.5 114,-95.5 215,-95.5 215,-76.5 114,-76.5"/>
 <text text-anchor="middle" x="164.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">QtRequestManager</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node207 -->
+<!-- Node185&#45;&gt;Node208 -->
 <g id="edge23" class="edge">
-<title>Node184&#45;&gt;Node207</title>
+<title>Node185&#45;&gt;Node208</title>
 <path fill="none" stroke="midnightblue" d="M28.13,-446.01C30.67,-377.78 42.45,-155.48 89,-105 95.61,-97.84 104.5,-93.21 113.85,-90.26"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="24.62,-446.13 27.77,-456.25 31.62,-446.37 24.62,-446.13"/>
 </g>
-<!-- Node208 -->
+<!-- Node209 -->
 <g id="node25" class="node">
-<title>Node208</title>
+<title>Node209</title>
 <g id="a_node25"><a xlink:href="classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="129.5,-38.5 129.5,-57.5 199.5,-57.5 199.5,-38.5 129.5,-38.5"/>
 <text text-anchor="middle" x="164.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">DiscordRPC</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node208 -->
+<!-- Node185&#45;&gt;Node209 -->
 <g id="edge24" class="edge">
-<title>Node184&#45;&gt;Node208</title>
+<title>Node185&#45;&gt;Node209</title>
 <path fill="none" stroke="midnightblue" d="M27.76,-446.29C29.13,-373.87 37.58,-123.65 89,-67 99.14,-55.83 114.84,-50.82 129.22,-48.71"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="24.26,-446.28 27.6,-456.34 31.26,-446.39 24.26,-446.28"/>
 </g>
-<!-- Node209 -->
+<!-- Node210 -->
 <g id="node26" class="node">
-<title>Node209</title>
+<title>Node210</title>
 <g id="a_node26"><a xlink:href="classrare_1_1utils_1_1steam__grades_1_1_steam_worker_1_1_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="109.5,-0.5 109.5,-19.5 219.5,-19.5 219.5,-0.5 109.5,-0.5"/>
 <text text-anchor="middle" x="164.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">SteamWorker.Signals</text>
 </a>
 </g>
 </g>
-<!-- Node184&#45;&gt;Node209 -->
+<!-- Node185&#45;&gt;Node210 -->
 <g id="edge25" class="edge">
-<title>Node184&#45;&gt;Node209</title>
+<title>Node185&#45;&gt;Node210</title>
 <path fill="none" stroke="midnightblue" d="M27.47,-445.94C27.78,-368.69 32.84,-91.7 89,-29 94.43,-22.94 101.51,-18.68 109.13,-15.72"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="23.97,-446.19 27.46,-456.2 30.97,-446.2 23.97,-446.19"/>
 </g>
