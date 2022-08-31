@@ -1,5 +1,7 @@
 var NAVTREEINDEX19 =
 {
+"namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets.html":[6,0,0,2,2,2,3],
+"namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed__widget.html":[6,0,0,2,2,2,3,0],
 "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed__widget.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,2,2,2,3,0,1],
 "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__uninstalled__widget.html":[6,0,0,2,2,2,3,1],
 "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__uninstalled__widget.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,2,2,2,3,1,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX19 =
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1store.html":[6,0,0,7,0,2,3,2],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1store.html#ac492f8de2d00b6c4282e766bfadaf2e7":[6,0,0,7,0,2,3,2,3],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1store.html#ad27a0115f5770889db8b3fb8ec2ad3c1":[6,0,0,7,0,2,3,2,2],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1store.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,3,2,1],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist.html":[6,0,0,7,0,2,3,3],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist.html#a1f67ae00a73002f678b605255c9b1a0e":[6,0,0,7,0,2,3,3,3]
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1store.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,3,2,1]
 };

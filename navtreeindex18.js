@@ -1,5 +1,7 @@
 var NAVTREEINDEX18 =
 {
+"functions_func_q.html":[7,3,1,17],
+"functions_func_r.html":[7,3,1,18],
 "functions_func_s.html":[7,3,1,19],
 "functions_func_t.html":[7,3,1,20],
 "functions_func_u.html":[7,3,1,21],
@@ -247,7 +249,5 @@ var NAVTREEINDEX18 =
 "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game.html#a37429d7a03b6c10fbf0ab0eafd491d01":[6,0,0,2,2,2,1,3,2],
 "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1uninstalled__info.html":[6,0,0,2,2,2,1,4],
 "namespacerare_1_1components_1_1tabs_1_1games_1_1game__utils.html":[6,0,0,2,2,2,2],
-"namespacerare_1_1components_1_1tabs_1_1games_1_1game__utils.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,2,2,2,2,2],
-"namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets.html":[6,0,0,2,2,2,3],
-"namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed__widget.html":[6,0,0,2,2,2,3,0]
+"namespacerare_1_1components_1_1tabs_1_1games_1_1game__utils.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,2,2,2,2,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX21 =
 {
+"ui_2components_2tabs_2settings_2legendary_8py_source.html":[8,0,0,5,0,2,2,3],
+"ui_2components_2tabs_2settings_2linux_8py.html":[8,0,0,5,0,2,2,4],
 "ui_2components_2tabs_2settings_2linux_8py.html#a3679547037c89c927a2760bbb9f54be9":[8,0,0,5,0,2,2,4,2],
 "ui_2components_2tabs_2settings_2linux_8py.html#ac492f8de2d00b6c4282e766bfadaf2e7":[8,0,0,5,0,2,2,4,3],
 "ui_2components_2tabs_2settings_2linux_8py.html#afe63fea7be31b0200b496d08bc6b517d":[8,0,0,5,0,2,2,4,1],

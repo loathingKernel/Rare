@@ -30,6 +30,7 @@ var classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog =
     [ "repair", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a432694da940da0b49d2ddc2b96518da4", null ],
     [ "silent", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#ad3b30a4c790299b3affccd8a9bf9bd17", null ],
     [ "threadpool", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#ad7d6a26c2b0e3239367e07430b368118", null ],
+    [ "ui", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#ac492f8de2d00b6c4282e766bfadaf2e7", null ],
     [ "update", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a1586ef54a6e26a57539d06db6e6c78b5", null ],
     [ "worker_running", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#afa840e8ba756bab79513acaaa59d2259", null ]
 ];

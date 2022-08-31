@@ -50,9 +50,7 @@ var hierarchy =
     [ "LgndrVerifyGameArgs", "classrare_1_1lgndr_1_1api__arguments_1_1_lgndr_verify_game_args.html", null ],
     [ "LoginPages", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_pages.html", null ],
     [ "object", null, [
-      [ "Ui_InstallDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html", [
-        [ "InstallDialog", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html", null ]
-      ] ],
+      [ "Ui_InstallDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html", null ],
       [ "Ui_InstallDialogAdvanced", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog__advanced_1_1_ui___install_dialog_advanced.html", null ],
       [ "Ui_LaunchDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1launch__dialog_1_1_ui___launch_dialog.html", [
         [ "LaunchDialog", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html", null ]
