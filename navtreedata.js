@@ -87,10 +87,10 @@ var NAVTREEINDEX =
 "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist.html#ae423460a54e07f91785a6ef59dd09e6b",
 "classrare_1_1utils_1_1misc_1_1_cloud_worker.html#a670fe67276cb94775a042958fe2c79d4",
 "classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#a791d4da80b286e1f5b3c0459a5d1a3f7",
-"functions_func_t.html",
-"namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__uninstalled__widget.html",
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget.html",
-"ui_2components_2tabs_2settings_2linux_8py.html#afe63fea7be31b0200b496d08bc6b517d"
+"functions_func_s.html",
+"namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed__widget.html#a0b14e488ae28d98d262453f3e9cd6e4d",
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist.html#ac492f8de2d00b6c4282e766bfadaf2e7",
+"ui_2components_2tabs_2settings_2linux_8py.html#a3679547037c89c927a2760bbb9f54be9"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

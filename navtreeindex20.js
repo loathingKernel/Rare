@@ -1,5 +1,7 @@
 var NAVTREEINDEX20 =
 {
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist.html#ac492f8de2d00b6c4282e766bfadaf2e7":[6,0,0,7,0,2,3,3,2],
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,3,3,1],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget.html":[6,0,0,7,0,2,3,4],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget.html#a5088e64139e7a571ccc472210494efc2":[6,0,0,7,0,2,3,4,3],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget.html#ac492f8de2d00b6c4282e766bfadaf2e7":[6,0,0,7,0,2,3,4,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX20 =
 "ui_2components_2tabs_2settings_2legendary_8py.html#ace257ef10d5d3c02722900c5e1b76a72":[8,0,0,5,0,2,2,3,2],
 "ui_2components_2tabs_2settings_2legendary_8py.html#afe63fea7be31b0200b496d08bc6b517d":[8,0,0,5,0,2,2,3,1],
 "ui_2components_2tabs_2settings_2legendary_8py_source.html":[8,0,0,5,0,2,2,3],
-"ui_2components_2tabs_2settings_2linux_8py.html":[8,0,0,5,0,2,2,4],
-"ui_2components_2tabs_2settings_2linux_8py.html#a3679547037c89c927a2760bbb9f54be9":[8,0,0,5,0,2,2,4,2],
-"ui_2components_2tabs_2settings_2linux_8py.html#ac492f8de2d00b6c4282e766bfadaf2e7":[8,0,0,5,0,2,2,4,3]
+"ui_2components_2tabs_2settings_2linux_8py.html":[8,0,0,5,0,2,2,4]
 };

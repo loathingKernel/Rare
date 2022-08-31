@@ -20,9 +20,7 @@ var dir_01cfa1ef80866eb85044b0bfe46e07c9 =
     [ "cli.py", "cli_8py.html", [
       [ "LegendaryCLI", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i" ]
     ] ],
-    [ "core.py", "core_8py.html", [
-      [ "LegendaryCore", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html", "classrare_1_1lgndr_1_1core_1_1_legendary_core" ]
-    ] ],
+    [ "core.py", "core_8py.html", "core_8py" ],
     [ "downloading.py", "downloading_8py.html", [
       [ "UIUpdate", "classrare_1_1lgndr_1_1downloading_1_1_u_i_update.html", null ]
     ] ],

@@ -691,25 +691,26 @@ $(document).ready(function(){initNavTree('cli_8py_source.html',''); initResizabl
 <div class="line"><a id="l00602" name="l00602"></a><span class="lineno">  602</span> </div>
 <div class="line"><a id="l00603" name="l00603"></a><span class="lineno">  603</span>                os.rename(igame.install_path, new_path)</div>
 <div class="line"><a id="l00604" name="l00604"></a><span class="lineno">  604</span>            <span class="keywordflow">except</span> Exception <span class="keyword">as</span> e:</div>
-<div class="line"><a id="l00605" name="l00605"></a><span class="lineno">  605</span>                <span class="keywordflow">if</span> isinstance(e, OSError) <span class="keywordflow">and</span> e.errno == 18:</div>
-<div class="line"><a id="l00606" name="l00606"></a><span class="lineno">  606</span>                    logger.error(f<span class="stringliteral">&#39;Moving to a different drive is not supported. Move the folder manually to &#39;</span></div>
-<div class="line"><a id="l00607" name="l00607"></a><span class="lineno">  607</span>                                 f<span class="stringliteral">&#39;&quot;{new_path}&quot; and run &quot;legendary move {app_name} &quot;{args.new_path}&quot; --skip-move&quot;&#39;</span>)</div>
-<div class="line"><a id="l00608" name="l00608"></a><span class="lineno">  608</span>                <span class="keywordflow">elif</span> isinstance(e, FileExistsError):</div>
-<div class="line"><a id="l00609" name="l00609"></a><span class="lineno">  609</span>                    logger.error(f<span class="stringliteral">&#39;The target path already contains a folder called &quot;{game_folder}&quot;, &#39;</span></div>
-<div class="line"><a id="l00610" name="l00610"></a><span class="lineno">  610</span>                                 f<span class="stringliteral">&#39;please remove or rename it first.&#39;</span>)</div>
-<div class="line"><a id="l00611" name="l00611"></a><span class="lineno">  611</span>                <span class="keywordflow">else</span>:</div>
-<div class="line"><a id="l00612" name="l00612"></a><span class="lineno">  612</span>                    logger.error(f<span class="stringliteral">&#39;Moving failed with unknown error {e!r}.&#39;</span>)</div>
-<div class="line"><a id="l00613" name="l00613"></a><span class="lineno">  613</span>                    logger.info(f<span class="stringliteral">&#39;Try moving the folder manually to &quot;{new_path}&quot; and running &#39;</span></div>
-<div class="line"><a id="l00614" name="l00614"></a><span class="lineno">  614</span>                                f<span class="stringliteral">&#39;&quot;legendary move {app_name} &quot;{args.new_path}&quot; --skip-move&quot;&#39;</span>)</div>
-<div class="line"><a id="l00615" name="l00615"></a><span class="lineno">  615</span>                <span class="keywordflow">return</span></div>
-<div class="line"><a id="l00616" name="l00616"></a><span class="lineno">  616</span>        <span class="keywordflow">else</span>:</div>
-<div class="line"><a id="l00617" name="l00617"></a><span class="lineno">  617</span>            logger.info(f<span class="stringliteral">&#39;Not moving, just rewriting legendary metadata...&#39;</span>)</div>
-<div class="line"><a id="l00618" name="l00618"></a><span class="lineno">  618</span> </div>
-<div class="line"><a id="l00619" name="l00619"></a><span class="lineno">  619</span>        igame.install_path = new_path</div>
-<div class="line"><a id="l00620" name="l00620"></a><span class="lineno">  620</span>        self.<a class="code hl_variable" href="classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#ab65a1cfe05166d06195718a9587d7b86">core</a>core.<a class="code hl_function" href="classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a4aaa726f3b4643dc9fc5f027294fc9c9">install_game</a>(igame)</div>
-<div class="line"><a id="l00621" name="l00621"></a><span class="lineno">  621</span>        logger.info(<span class="stringliteral">&#39;Finished.&#39;</span>)</div>
-<div class="line"><a id="l00622" name="l00622"></a><span class="lineno">  622</span> </div>
-<div class="line"><a id="l00623" name="l00623"></a><span class="lineno">  623</span><span class="comment"># fmt: on</span></div>
+<div class="line"><a id="l00605" name="l00605"></a><span class="lineno">  605</span>                <span class="comment"># pylint: disable=E1101</span></div>
+<div class="line"><a id="l00606" name="l00606"></a><span class="lineno">  606</span>                <span class="keywordflow">if</span> isinstance(e, OSError) <span class="keywordflow">and</span> e.errno == 18:</div>
+<div class="line"><a id="l00607" name="l00607"></a><span class="lineno">  607</span>                    logger.error(f<span class="stringliteral">&#39;Moving to a different drive is not supported. Move the folder manually to &#39;</span></div>
+<div class="line"><a id="l00608" name="l00608"></a><span class="lineno">  608</span>                                 f<span class="stringliteral">&#39;&quot;{new_path}&quot; and run &quot;legendary move {app_name} &quot;{args.new_path}&quot; --skip-move&quot;&#39;</span>)</div>
+<div class="line"><a id="l00609" name="l00609"></a><span class="lineno">  609</span>                <span class="keywordflow">elif</span> isinstance(e, FileExistsError):</div>
+<div class="line"><a id="l00610" name="l00610"></a><span class="lineno">  610</span>                    logger.error(f<span class="stringliteral">&#39;The target path already contains a folder called &quot;{game_folder}&quot;, &#39;</span></div>
+<div class="line"><a id="l00611" name="l00611"></a><span class="lineno">  611</span>                                 f<span class="stringliteral">&#39;please remove or rename it first.&#39;</span>)</div>
+<div class="line"><a id="l00612" name="l00612"></a><span class="lineno">  612</span>                <span class="keywordflow">else</span>:</div>
+<div class="line"><a id="l00613" name="l00613"></a><span class="lineno">  613</span>                    logger.error(f<span class="stringliteral">&#39;Moving failed with unknown error {e!r}.&#39;</span>)</div>
+<div class="line"><a id="l00614" name="l00614"></a><span class="lineno">  614</span>                    logger.info(f<span class="stringliteral">&#39;Try moving the folder manually to &quot;{new_path}&quot; and running &#39;</span></div>
+<div class="line"><a id="l00615" name="l00615"></a><span class="lineno">  615</span>                                f<span class="stringliteral">&#39;&quot;legendary move {app_name} &quot;{args.new_path}&quot; --skip-move&quot;&#39;</span>)</div>
+<div class="line"><a id="l00616" name="l00616"></a><span class="lineno">  616</span>                <span class="keywordflow">return</span></div>
+<div class="line"><a id="l00617" name="l00617"></a><span class="lineno">  617</span>        <span class="keywordflow">else</span>:</div>
+<div class="line"><a id="l00618" name="l00618"></a><span class="lineno">  618</span>            logger.info(f<span class="stringliteral">&#39;Not moving, just rewriting legendary metadata...&#39;</span>)</div>
+<div class="line"><a id="l00619" name="l00619"></a><span class="lineno">  619</span> </div>
+<div class="line"><a id="l00620" name="l00620"></a><span class="lineno">  620</span>        igame.install_path = new_path</div>
+<div class="line"><a id="l00621" name="l00621"></a><span class="lineno">  621</span>        self.<a class="code hl_variable" href="classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#ab65a1cfe05166d06195718a9587d7b86">core</a>core.<a class="code hl_function" href="classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a4aaa726f3b4643dc9fc5f027294fc9c9">install_game</a>(igame)</div>
+<div class="line"><a id="l00622" name="l00622"></a><span class="lineno">  622</span>        logger.info(<span class="stringliteral">&#39;Finished.&#39;</span>)</div>
+<div class="line"><a id="l00623" name="l00623"></a><span class="lineno">  623</span> </div>
+<div class="line"><a id="l00624" name="l00624"></a><span class="lineno">  624</span><span class="comment"># fmt: on</span></div>
 <div class="ttc" id="aclassrare_1_1lgndr_1_1api__arguments_1_1_lgndr_install_game_real_ret_html"><div class="ttname"><a href="classrare_1_1lgndr_1_1api__arguments_1_1_lgndr_install_game_real_ret.html">rare.lgndr.api_arguments.LgndrInstallGameRealRet</a></div><div class="ttdef"><b>Definition:</b> <a href="api__arguments_8py_source.html#l00124">api_arguments.py:124</a></div></div>
 <div class="ttc" id="aclassrare_1_1lgndr_1_1api__monkeys_1_1_lgndr_indirect_logger_html"><div class="ttname"><a href="classrare_1_1lgndr_1_1api__monkeys_1_1_lgndr_indirect_logger.html">rare.lgndr.api_monkeys.LgndrIndirectLogger</a></div><div class="ttdef"><b>Definition:</b> <a href="api__monkeys_8py_source.html#l00070">api_monkeys.py:70</a></div></div>
 <div class="ttc" id="aclassrare_1_1lgndr_1_1api__monkeys_1_1_lgndr_indirect_status_html"><div class="ttname"><a href="classrare_1_1lgndr_1_1api__monkeys_1_1_lgndr_indirect_status.html">rare.lgndr.api_monkeys.LgndrIndirectStatus</a></div><div class="ttdef"><b>Definition:</b> <a href="api__monkeys_8py_source.html#l00042">api_monkeys.py:42</a></div></div>
