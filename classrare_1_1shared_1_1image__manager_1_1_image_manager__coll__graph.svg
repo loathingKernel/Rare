@@ -16,8 +16,8 @@
 <polygon fill="#bfbfbf" stroke="black" points="0,-0.5 0,-156.5 145,-156.5 145,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="72.5" y="-144.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageManager</text>
 <polyline fill="none" stroke="black" points="0,-137.5 145,-137.5 "/>
-<text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="8" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
+<text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
+<text text-anchor="start" x="8" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
 <text text-anchor="start" x="8" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ image_dir</text>
 <text text-anchor="start" x="8" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ device</text>
 <text text-anchor="start" x="8" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ threadpool</text>

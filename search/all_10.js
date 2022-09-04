@@ -83,5 +83,6 @@ var searchData=
   ['proton_5fsettings_5flayout_80',['proton_settings_layout',['../classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1proton_1_1_ui___proton_settings.html#a987688e88b52b1f5b4570e7ea6e0b5c8',1,'rare::ui::components::tabs::settings::proton::Ui_ProtonSettings']]],
   ['proton_5fwrapper_5flabel_81',['proton_wrapper_label',['../classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1proton_1_1_ui___proton_settings.html#adeb69cedabe19d3867530df37ed1e9bd',1,'rare::ui::components::tabs::settings::proton::Ui_ProtonSettings']]],
   ['protonsettings_82',['ProtonSettings',['../namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1proton.html#a25e11c9444fb64c857b69395d04366c1',1,'rare.ui.components.tabs.settings.proton.ProtonSettings()'],['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html',1,'ProtonSettings']]],
-  ['publisher_83',['publisher',['../classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_shop_game.html#a7277d205751fbcdc6753d41e2d151ee3',1,'rare::components::tabs::shop::shop_models::ShopGame']]]
+  ['publisher_83',['publisher',['../classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_shop_game.html#a7277d205751fbcdc6753d41e2d151ee3',1,'rare::components::tabs::shop::shop_models::ShopGame']]],
+  ['pyqtsignal_84',['pyqtSignal',['../classrare_1_1components_1_1main__window_1_1_main_window.html#a6048a33e56a91f9c9586fa6c8b6f7391',1,'rare::components::main_window::MainWindow']]]
 ];

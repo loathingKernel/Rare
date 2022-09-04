@@ -120,7 +120,7 @@ $(document).ready(function(){initNavTree('install_8py_source.html',''); initResi
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>    overlay: bool = <span class="keyword">False</span></div>
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>    update: bool = <span class="keyword">False</span></div>
 <div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>    silent: bool = <span class="keyword">False</span></div>
-<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>    install_preqs: bool = pf.system() == <span class="stringliteral">&quot;Windows&quot;</span></div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>    install_prereqs: bool = pf.system() == <span class="stringliteral">&quot;Windows&quot;</span></div>
 <div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span> </div>
 <div class="line"><a id="l00036" name="l00036"></a><span class="lineno"><a class="line" href="classrare_1_1models_1_1install_1_1_install_options_model.html#a41013be3459e5a9118b4aa276100034d">   36</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1models_1_1install_1_1_install_options_model.html#a41013be3459e5a9118b4aa276100034d">__post_init__</a>(self):</div>
 <div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>        self.sdl_prompt: Callable[[str, str], list] = \</div>
@@ -130,7 +130,7 @@ $(document).ready(function(){initNavTree('install_8py_source.html',''); initResi
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        <span class="keywordflow">return</span> {</div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>            k: getattr(self, k)</div>
 <div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>            <span class="keywordflow">for</span> k <span class="keywordflow">in</span> self.__dict__</div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>            <span class="keywordflow">if</span> k <span class="keywordflow">not</span> <span class="keywordflow">in</span> [<span class="stringliteral">&quot;update&quot;</span>, <span class="stringliteral">&quot;silent&quot;</span>, <span class="stringliteral">&quot;create_shortcut&quot;</span>, <span class="stringliteral">&quot;overlay&quot;</span>, <span class="stringliteral">&quot;install_preqs&quot;</span>]</div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>            <span class="keywordflow">if</span> k <span class="keywordflow">not</span> <span class="keywordflow">in</span> [<span class="stringliteral">&quot;update&quot;</span>, <span class="stringliteral">&quot;silent&quot;</span>, <span class="stringliteral">&quot;create_shortcut&quot;</span>, <span class="stringliteral">&quot;overlay&quot;</span>, <span class="stringliteral">&quot;install_prereqs&quot;</span>]</div>
 <div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>        }</div>
 <div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span> </div>
 <div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span> </div>

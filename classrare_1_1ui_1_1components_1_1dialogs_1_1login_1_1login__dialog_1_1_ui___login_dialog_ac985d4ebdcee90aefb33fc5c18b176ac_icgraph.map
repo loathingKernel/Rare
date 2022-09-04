@@ -1,5 +1,5 @@
 <map id="setupUi" name="setupUi">
-<area shape="rect" id="node1" title=" " alt="" coords="365,975,432,1002"/>
+<area shape="rect" id="node1" title=" " alt="" coords="365,930,432,957"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1about_1_1_about.html#ae64f0875afe3067b97ba370b354b9213" title=" " alt="" coords="45,29,278,71"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#ae64f0875afe3067b97ba370b354b9213" title=" " alt="" coords="50,119,273,160"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1eos_1_1_eos_widget.html#ae64f0875afe3067b97ba370b354b9213" title=" " alt="" coords="26,208,297,249"/>
@@ -17,9 +17,8 @@
 <area shape="rect" id="node16" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html#a75020e7f3888d6f837fae592b305add8" title=" " alt="" coords="28,1280,295,1321"/>
 <area shape="rect" id="node17" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings.html#a75020e7f3888d6f837fae592b305add8" title=" " alt="" coords="28,1369,295,1411"/>
 <area shape="rect" id="node18" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#ab52f70808bdaa354bd28106dba98a828" title=" " alt="" coords="50,1459,273,1500"/>
-<area shape="rect" id="node19" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="60,1548,263,1589"/>
-<area shape="rect" id="node20" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1uninstalled__info_1_1_uninstalled_info.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="50,1638,273,1694"/>
-<area shape="rect" id="node21" href="$classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_group.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="16,1743,307,1784"/>
-<area shape="rect" id="node22" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="33,1832,289,1873"/>
-<area shape="rect" id="node23" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#a8bc04b4161e827e1383dfb3803cc57a3" title=" " alt="" coords="57,1921,265,1963"/>
+<area shape="rect" id="node19" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1uninstalled__info_1_1_uninstalled_info.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="50,1549,273,1605"/>
+<area shape="rect" id="node20" href="$classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_group.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="16,1653,307,1695"/>
+<area shape="rect" id="node21" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="33,1743,289,1784"/>
+<area shape="rect" id="node22" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#a8bc04b4161e827e1383dfb3803cc57a3" title=" " alt="" coords="57,1832,265,1873"/>
 </map>

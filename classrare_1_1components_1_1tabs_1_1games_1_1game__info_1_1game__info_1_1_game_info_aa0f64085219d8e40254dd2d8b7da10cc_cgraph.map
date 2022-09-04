@@ -1,4 +1,5 @@
 <map id="set_new_game" name="set_new_game">
-<area shape="rect" id="node1" title=" " alt="" coords="5,29,116,56"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a4347fa4fbbcc011ce833c800b31dda41" title=" " alt="" coords="164,29,319,56"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,116,105"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="164,29,337,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a4347fa4fbbcc011ce833c800b31dda41" title=" " alt="" coords="173,119,328,146"/>
 </map>

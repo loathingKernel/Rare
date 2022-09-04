@@ -15,7 +15,7 @@ var searchData=
   ['widgets_12',['widgets',['../classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist.html#a036d9dedd47a464c5bb15ed62c833a16',1,'rare::components::tabs::shop::wishlist::Wishlist']]],
   ['width_13',['width',['../classrare_1_1components_1_1tabs_1_1shop_1_1game__widgets_1_1_game_widget.html#a5558ace5433f9aabbf0a0ec059900d94',1,'rare::components::tabs::shop::game_widgets::GameWidget']]],
   ['win32_5fcb_14',['win32_cb',['../classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#aca94d26f3566e10675a0466aba14d20a',1,'rare::ui::components::tabs::settings::legendary::Ui_LegendarySettings']]],
-  ['window_5flaunched_15',['window_launched',['../classrare_1_1app_1_1_app.html#af9c2e483e369cc0816c96ba1ab994194',1,'rare::app::App']]],
+  ['window_5flaunched_15',['window_launched',['../classrare_1_1components_1_1main__window_1_1_main_window.html#af9c2e483e369cc0816c96ba1ab994194',1,'rare::components::main_window::MainWindow']]],
   ['wine_5fbinary_16',['wine_binary',['../classrare_1_1utils_1_1misc_1_1_wine_resolver.html#ab8a353b6c58a3b79aad6a816ed9e7746',1,'rare::utils::misc::WineResolver']]],
   ['wine_5fegl_5fprefixes_17',['wine_egl_prefixes',['../classrare_1_1utils_1_1models_1_1_path_spec.html#a8795eaf4441ba83f50256225b98acfff',1,'rare::utils::models::PathSpec']]],
   ['wine_5fegl_5fprogramdata_18',['wine_egl_programdata',['../classrare_1_1utils_1_1models_1_1_path_spec.html#a98553bf999445361089b009826390279',1,'rare::utils::models::PathSpec']]],

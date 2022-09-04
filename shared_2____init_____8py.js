@@ -1,7 +1,9 @@
 var shared_2____init_____8py =
 [
     [ "ApiResultsSingleton", "shared_2____init_____8py.html#a85c0c971674daed7d514febc1ef18eb2", null ],
-    [ "ArgumentsSingleton", "shared_2____init_____8py.html#acfdfb4195f8ff9bc0acd929ba6d98380", null ],
-    [ "GlobalSignalsSingleton", "shared_2____init_____8py.html#ab8b2bcdccfec5ead23d65c0ae8999625", null ],
-    [ "LegendaryCoreSingleton", "shared_2____init_____8py.html#ab04adc7782d07f6272f9b769c4d338a6", null ]
+    [ "ArgumentsSingleton", "shared_2____init_____8py.html#a5acede398e4ceb67fa3e6bc1c91734d0", null ],
+    [ "GlobalSignalsSingleton", "shared_2____init_____8py.html#a5c4b5128e813abfb9c7a2dc4a3e8c35d", null ],
+    [ "ImageManagerSingleton", "shared_2____init_____8py.html#a9ede1cb472ad937e545caee0dd2a69d2", null ],
+    [ "LegendaryCoreSingleton", "shared_2____init_____8py.html#a52b1260023417715f12fb6f691549bab", null ],
+    [ "logger", "shared_2____init_____8py.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ]
 ];

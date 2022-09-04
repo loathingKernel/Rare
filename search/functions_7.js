@@ -39,5 +39,5 @@ var searchData=
   ['get_5fwishlist_36',['get_wishlist',['../classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html#a2e3694d07bca6bf1881efb793b833e92',1,'rare::components::tabs::shop::shop_api_core::ShopApiCore']]],
   ['get_5fwrapper_5flist_37',['get_wrapper_list',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#af704077af9c417ed9938e7b3f271faa5',1,'rare::components::tabs::settings::widgets::wrapper::WrapperSettings']]],
   ['get_5fwrapper_5fstring_38',['get_wrapper_string',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#ab720efcdbf6d746c9008125db4703236',1,'rare::components::tabs::settings::widgets::wrapper::WrapperSettings']]],
-  ['globalsignalssingleton_39',['GlobalSignalsSingleton',['../namespacerare_1_1shared.html#ab8b2bcdccfec5ead23d65c0ae8999625',1,'rare::shared']]]
+  ['globalsignalssingleton_39',['GlobalSignalsSingleton',['../namespacerare_1_1shared.html#a5c4b5128e813abfb9c7a2dc4a3e8c35d',1,'rare::shared']]]
 ];

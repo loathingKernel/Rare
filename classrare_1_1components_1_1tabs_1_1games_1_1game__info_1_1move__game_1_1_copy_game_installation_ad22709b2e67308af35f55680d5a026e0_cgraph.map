@@ -1,4 +1,6 @@
 <map id="run" name="run">
-<area shape="rect" id="node1" title=" " alt="" coords="11,37,51,63"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_copy_game_installation.html#ad3a504c09eb5784029088895abef640a" title=" " alt="" coords="99,29,238,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="15,82,55,109"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_copy_game_installation.html#ad3a504c09eb5784029088895abef640a" title=" " alt="" coords="120,29,259,71"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="103,119,276,160"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="324,29,497,71"/>
 </map>

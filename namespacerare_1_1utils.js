@@ -5,7 +5,7 @@ var namespacerare_1_1utils =
       [ "init_config_handler", "namespacerare_1_1utils_1_1config__helper.html#a688422411d3c7d2c17a4406f5bb1d7ef", null ],
       [ "remove_option", "namespacerare_1_1utils_1_1config__helper.html#a87e50ba35630552f07ee5f47fbe64b4a", null ],
       [ "remove_section", "namespacerare_1_1utils_1_1config__helper.html#a82afa338b29e9daeb329b3f9dcc9500d", null ],
-      [ "LGDConf", "namespacerare_1_1utils_1_1config__helper.html#ac3cd25e9a207627e5599a9197fda39d3", null ]
+      [ "save_config", "namespacerare_1_1utils_1_1config__helper.html#a9c8e0fb7cc40aeb2668c9df41056429b", null ]
     ] ],
     [ "extra_widgets", "namespacerare_1_1utils_1_1extra__widgets.html", "namespacerare_1_1utils_1_1extra__widgets" ],
     [ "json_formatter", "namespacerare_1_1utils_1_1json__formatter.html", "namespacerare_1_1utils_1_1json__formatter" ],

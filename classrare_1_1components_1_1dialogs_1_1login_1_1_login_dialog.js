@@ -2,6 +2,8 @@ var classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog =
 [
     [ "__init__", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#a3dfe1ea760d4511fba031c7d70ee3813", null ],
     [ "back_clicked", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#a24f265d0ef5609d54a66b7915440d1fe", null ],
+    [ "browser_radio_clicked", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#a758ff13995a2c10935e4c331a5929bbd", null ],
+    [ "import_radio_clicked", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#ada4eae5e65c8b447151dd7c2c9955ace", null ],
     [ "login", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d", null ],
     [ "login_successful", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#ae180ea6e1d2b446b4890e6f2d0256e53", null ],
     [ "next_clicked", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#a599106eab566632f08e4bbf9f02322ff", null ],

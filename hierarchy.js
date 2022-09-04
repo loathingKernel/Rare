@@ -52,9 +52,7 @@ var hierarchy =
     [ "object", null, [
       [ "Ui_InstallDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html", null ],
       [ "Ui_InstallDialogAdvanced", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog__advanced_1_1_ui___install_dialog_advanced.html", null ],
-      [ "Ui_LaunchDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1launch__dialog_1_1_ui___launch_dialog.html", [
-        [ "LaunchDialog", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html", null ]
-      ] ],
+      [ "Ui_LaunchDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1launch__dialog_1_1_ui___launch_dialog.html", null ],
       [ "Ui_BrowserLogin", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_ui___browser_login.html", null ],
       [ "Ui_ImportLogin", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_ui___import_login.html", null ],
       [ "Ui_LandingPage", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1landing__page_1_1_ui___landing_page.html", null ],
@@ -272,6 +270,7 @@ var hierarchy =
       [ "GlobalSignals", "classrare_1_1models_1_1signals_1_1_global_signals.html", null ],
       [ "ImageManager", "classrare_1_1shared_1_1image__manager_1_1_image_manager.html", null ],
       [ "ImageManager.Worker.Signals", "classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker_1_1_signals.html", null ],
+      [ "RareCore", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html", null ],
       [ "VerifyWorker.Signals", "classrare_1_1utils_1_1legendary__utils_1_1_verify_worker_1_1_signals.html", null ],
       [ "CloudSignals", "classrare_1_1utils_1_1misc_1_1_cloud_signals.html", null ],
       [ "WineResolverSignals", "classrare_1_1utils_1_1misc_1_1_wine_resolver_signals.html", null ],

@@ -1,6 +1,7 @@
 <map id="import_game" name="import_game">
-<area shape="rect" id="node1" title=" " alt="" coords="5,78,103,105"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1lgndr_1_1api__monkeys.html#a0db88ac2b3440e67681920e042e2c47f" title=" " alt="" coords="151,29,325,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a4aaa726f3b4643dc9fc5f027294fc9c9" title=" " alt="" coords="191,119,285,146"/>
-<area shape="rect" id="node4" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a7de93b9e2b51b491d5c70be49680f66d" title=" " alt="" coords="373,119,520,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,66,103,93"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="568,67,741,108"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1lgndr_1_1api__monkeys.html#a0db88ac2b3440e67681920e042e2c47f" title=" " alt="" coords="151,59,325,100"/>
+<area shape="rect" id="node4" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a4aaa726f3b4643dc9fc5f027294fc9c9" title=" " alt="" coords="191,149,285,175"/>
+<area shape="rect" id="node5" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a7de93b9e2b51b491d5c70be49680f66d" title=" " alt="" coords="373,149,520,175"/>
 </map>

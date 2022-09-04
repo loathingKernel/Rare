@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,629,76,656"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,655,76,681"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker_1_1_signals.html" title=" " alt="" coords="141,5,308,32"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_worker_1_1_signals.html" title=" " alt="" coords="149,56,301,83"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html" title=" " alt="" coords="169,107,281,133"/>
@@ -19,10 +19,11 @@
 <area shape="rect" id="node18" href="$classrare_1_1models_1_1signals_1_1_global_signals.html" title=" " alt="" coords="173,832,276,859"/>
 <area shape="rect" id="node19" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html" title=" " alt="" coords="171,883,279,909"/>
 <area shape="rect" id="node20" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker_1_1_signals.html" title=" " alt="" coords="125,933,324,960"/>
-<area shape="rect" id="node21" href="$classrare_1_1utils_1_1legendary__utils_1_1_verify_worker_1_1_signals.html" title=" " alt="" coords="153,984,296,1011"/>
-<area shape="rect" id="node22" href="$classrare_1_1utils_1_1misc_1_1_cloud_signals.html" title=" " alt="" coords="175,1035,274,1061"/>
-<area shape="rect" id="node23" href="$classrare_1_1utils_1_1misc_1_1_wine_resolver_signals.html" title=" " alt="" coords="152,1085,297,1112"/>
-<area shape="rect" id="node24" href="$classrare_1_1utils_1_1qt__requests_1_1_qt_request_manager.html" title=" " alt="" coords="157,1136,292,1163"/>
-<area shape="rect" id="node25" href="$classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html" title=" " alt="" coords="178,1187,271,1213"/>
-<area shape="rect" id="node26" href="$classrare_1_1utils_1_1steam__grades_1_1_steam_worker_1_1_signals.html" title=" " alt="" coords="151,1237,298,1264"/>
+<area shape="rect" id="node21" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html" title=" " alt="" coords="187,984,263,1011"/>
+<area shape="rect" id="node22" href="$classrare_1_1utils_1_1legendary__utils_1_1_verify_worker_1_1_signals.html" title=" " alt="" coords="153,1035,296,1061"/>
+<area shape="rect" id="node23" href="$classrare_1_1utils_1_1misc_1_1_cloud_signals.html" title=" " alt="" coords="175,1085,274,1112"/>
+<area shape="rect" id="node24" href="$classrare_1_1utils_1_1misc_1_1_wine_resolver_signals.html" title=" " alt="" coords="152,1136,297,1163"/>
+<area shape="rect" id="node25" href="$classrare_1_1utils_1_1qt__requests_1_1_qt_request_manager.html" title=" " alt="" coords="157,1187,292,1213"/>
+<area shape="rect" id="node26" href="$classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html" title=" " alt="" coords="178,1237,271,1264"/>
+<area shape="rect" id="node27" href="$classrare_1_1utils_1_1steam__grades_1_1_steam_worker_1_1_signals.html" title=" " alt="" coords="151,1288,298,1315"/>
 </map>

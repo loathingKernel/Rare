@@ -1,8 +1,10 @@
 <map id="start_api_requests" name="start_api_requests">
-<area shape="rect" id="node1" title=" " alt="" coords="5,104,135,131"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#aee4569ca4c897dc7267f45b238710288" title=" " alt="" coords="183,67,352,93"/>
-<area shape="rect" id="node6" href="$namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" title=" " alt="" coords="219,141,316,168"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#aef61a46ee0001482844bc4bd4a210663" title=" " alt="" coords="400,67,452,93"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1shared.html#a85c0c971674daed7d514febc1ef18eb2" title=" " alt="" coords="500,29,707,56"/>
-<area shape="rect" id="node5" href="$classrare_1_1app_1_1_app.html#a00347c5912221be99bd702b4fc741d29" title=" " alt="" coords="528,104,679,131"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,135,130"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#aee4569ca4c897dc7267f45b238710288" title=" " alt="" coords="183,66,352,93"/>
+<area shape="rect" id="node8" href="$namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" title=" " alt="" coords="219,141,316,168"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aabbe79631981014e737e83fa4e978346" title=" " alt="" coords="517,59,690,100"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="755,96,928,138"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#aef61a46ee0001482844bc4bd4a210663" title=" " alt="" coords="400,145,452,172"/>
+<area shape="rect" id="node6" href="$namespacerare_1_1shared.html#a85c0c971674daed7d514febc1ef18eb2" title=" " alt="" coords="500,149,707,176"/>
+<area shape="rect" id="node7" href="$classrare_1_1app_1_1_app.html#a00347c5912221be99bd702b4fc741d29" title=" " alt="" coords="528,224,679,250"/>
 </map>

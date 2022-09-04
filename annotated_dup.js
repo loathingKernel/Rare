@@ -320,6 +320,9 @@ var annotated_dup =
         [ "image_manager", "namespacerare_1_1shared_1_1image__manager.html", [
           [ "ImageManager", "classrare_1_1shared_1_1image__manager_1_1_image_manager.html", "classrare_1_1shared_1_1image__manager_1_1_image_manager" ],
           [ "ImageSize", "classrare_1_1shared_1_1image__manager_1_1_image_size.html", "classrare_1_1shared_1_1image__manager_1_1_image_size" ]
+        ] ],
+        [ "rare_core", "namespacerare_1_1shared_1_1rare__core.html", [
+          [ "RareCore", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html", "classrare_1_1shared_1_1rare__core_1_1_rare_core" ]
         ] ]
       ] ],
       [ "ui", "namespacerare_1_1ui.html", [

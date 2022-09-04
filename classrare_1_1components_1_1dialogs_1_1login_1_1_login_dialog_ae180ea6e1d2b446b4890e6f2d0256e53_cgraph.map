@@ -1,4 +1,6 @@
 <map id="login_successful" name="login_successful">
-<area shape="rect" id="node1" title=" " alt="" coords="5,29,124,56"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" title=" " alt="" coords="172,29,221,56"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,124,105"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="172,29,345,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" title=" " alt="" coords="234,119,283,146"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4" title=" " alt="" coords="393,112,567,153"/>
 </map>

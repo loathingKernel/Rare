@@ -12,5 +12,7 @@ var classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog =
     [ "args", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
     [ "completed", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a5fd2693b43ceb7c5b415600614d1f0d2", null ],
     [ "core", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#ab65a1cfe05166d06195718a9587d7b86", null ],
-    [ "thread_pool", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a935b42912b43f87438b825aa94ab099a", null ]
+    [ "login_dialog", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a574938bf31c29a6324c8fecf1e136f1a", null ],
+    [ "thread_pool", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a935b42912b43f87438b825aa94ab099a", null ],
+    [ "ui", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#ac492f8de2d00b6c4282e766bfadaf2e7", null ]
 ];
