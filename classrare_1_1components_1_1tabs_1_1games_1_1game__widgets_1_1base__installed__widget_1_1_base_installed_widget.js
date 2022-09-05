@@ -6,6 +6,7 @@ var classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed
     [ "game_finished", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed__widget_1_1_base_installed_widget.html#a3cbe35dede264f9829404d25b4a4592d", null ],
     [ "is_installed", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed__widget_1_1_base_installed_widget.html#a823ab7286cb07208f430cc54252c82bb", null ],
     [ "is_non_asset", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed__widget_1_1_base_installed_widget.html#aff330cd3e3495874fbccb325e0c95236", null ],
+    [ "is_origin", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed__widget_1_1_base_installed_widget.html#a278563422a00c7eb39dfc65d0b71f51a", null ],
     [ "launch", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed__widget_1_1_base_installed_widget.html#a3313d5dfccfe4d6dd6f3ad0c5e1bf8cd", null ],
     [ "reload_image", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed__widget_1_1_base_installed_widget.html#a3fdce2211a138329cf0f3414a044218a", null ],
     [ "sync_finished", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed__widget_1_1_base_installed_widget.html#aa5166679a6b1c69dd24d2e6faa34dc7b", null ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX11 =
 {
+"classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog__advanced_1_1_ui___install_dialog_advanced.html#a654411cd42e9568a772c2d6907ec80e0":[6,0,0,7,0,0,1,0,19],
+"classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog__advanced_1_1_ui___install_dialog_advanced.html#a654411cd42e9568a772c2d6907ec80e0":[7,0,0,6,0,0,1,0,19],
 "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog__advanced_1_1_ui___install_dialog_advanced.html#a6560a923922ac3738923d100555b0e78":[6,0,0,7,0,0,1,0,18],
 "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog__advanced_1_1_ui___install_dialog_advanced.html#a6560a923922ac3738923d100555b0e78":[7,0,0,6,0,0,1,0,18],
 "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog__advanced_1_1_ui___install_dialog_advanced.html#a75e8d347493d2886989bcb2c450059cc":[7,0,0,6,0,0,1,0,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX11 =
 "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html#a268d47c9d5c9719ad90299f627f87132":[6,0,0,7,0,2,1,0,1,0,3],
 "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html#a268d47c9d5c9719ad90299f627f87132":[7,0,0,6,0,2,1,0,1,0,3],
 "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html#a4c7a521b8f1a0769c09bfa4a1fca7dab":[7,0,0,6,0,2,1,0,1,0,10],
-"classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html#a4c7a521b8f1a0769c09bfa4a1fca7dab":[6,0,0,7,0,2,1,0,1,0,10],
-"classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html#a5c07bdc1035f798d04980b02065e62ca":[7,0,0,6,0,2,1,0,1,0,11],
-"classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html#a5c07bdc1035f798d04980b02065e62ca":[6,0,0,7,0,2,1,0,1,0,11]
+"classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html#a4c7a521b8f1a0769c09bfa4a1fca7dab":[6,0,0,7,0,2,1,0,1,0,10]
 };

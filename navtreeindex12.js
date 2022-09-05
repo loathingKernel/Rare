@@ -1,5 +1,7 @@
 var NAVTREEINDEX12 =
 {
+"classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html#a5c07bdc1035f798d04980b02065e62ca":[7,0,0,6,0,2,1,0,1,0,11],
+"classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html#a5c07bdc1035f798d04980b02065e62ca":[6,0,0,7,0,2,1,0,1,0,11],
 "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html#a6f8ed924366deb27094d5dd8c56085bc":[6,0,0,7,0,2,1,0,1,0,8],
 "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html#a6f8ed924366deb27094d5dd8c56085bc":[7,0,0,6,0,2,1,0,1,0,8],
 "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html#a71bf0b5917375c29d3538def2a483868":[7,0,0,6,0,2,1,0,1,0,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX12 =
 "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a09dc9400af76883674428db2688697b8":[7,0,0,6,0,2,2,1,0,11],
 "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a09dc9400af76883674428db2688697b8":[6,0,0,7,0,2,2,1,0,11],
 "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a0cbbb5223ceb36a0dec92eb4ce65b4d2":[7,0,0,6,0,2,2,1,0,30],
-"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a0cbbb5223ceb36a0dec92eb4ce65b4d2":[6,0,0,7,0,2,2,1,0,30],
-"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a13451baf34084fa217b63be78b499d08":[6,0,0,7,0,2,2,1,0,1],
-"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a13451baf34084fa217b63be78b499d08":[7,0,0,6,0,2,2,1,0,1]
+"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a0cbbb5223ceb36a0dec92eb4ce65b4d2":[6,0,0,7,0,2,2,1,0,30]
 };
