@@ -1,6 +1,6 @@
 var classrare_1_1game__launch__helper_1_1_game_process_app =
 [
-    [ "__init__", "classrare_1_1game__launch__helper_1_1_game_process_app.html#ac501a2849b11a559b0ebd32659396b71", null ],
+    [ "__init__", "classrare_1_1game__launch__helper_1_1_game_process_app.html#aef5087eda294b25d77daf490e4bf4f9e", null ],
     [ "error_occurred", "classrare_1_1game__launch__helper_1_1_game_process_app.html#ac2d7fc08d8189d84d207151df722ee19", null ],
     [ "game_finished", "classrare_1_1game__launch__helper_1_1_game_process_app.html#a570becd3013927cf4b1cb32cf798d7e8", null ],
     [ "launch_game", "classrare_1_1game__launch__helper_1_1_game_process_app.html#a62864ecc73de3f9e4a009737d0c01f01", null ],

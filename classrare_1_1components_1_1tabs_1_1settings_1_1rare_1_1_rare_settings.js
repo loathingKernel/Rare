@@ -14,7 +14,6 @@ var classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings =
     [ "checkboxes", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a1f3d583d421b1f81dfb46e6482a010c2", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "desktop_file", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a7e189715474434b19dcb355bd273113d", null ],
-    [ "logdir", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#aa542a1445832e3e0af7728ad3c9eab0f", null ],
     [ "rpc", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a0ab21f4419a1405b21abd8a77d54c110", null ],
     [ "settings", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a6cddb5e40c21eadd2ded85bc51f79822", null ],
     [ "start_menu_link", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#ae5318663a28c2f8537dde4731b43333b", null ]

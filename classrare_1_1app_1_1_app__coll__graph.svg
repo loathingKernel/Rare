@@ -20,8 +20,8 @@
 <text text-anchor="start" x="13.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
 <text text-anchor="start" x="13.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
 <text text-anchor="start" x="13.5" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="13.5" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ launch_dialog</text>
-<text text-anchor="start" x="13.5" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ timer</text>
+<text text-anchor="start" x="13.5" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ timer</text>
+<text text-anchor="start" x="13.5" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ launch_dialog</text>
 <text text-anchor="start" x="13.5" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ mainwindow</text>
 <polyline fill="none" stroke="black" points="5.5,-52.5 89.5,-52.5 "/>
 <text text-anchor="start" x="13.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>

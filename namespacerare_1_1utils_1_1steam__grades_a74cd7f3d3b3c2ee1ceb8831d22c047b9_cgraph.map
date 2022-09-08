@@ -1,7 +1,9 @@
 <map id="get_rating" name="get_rating">
-<area shape="rect" id="node1" title=" " alt="" coords="5,141,84,168"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,179,84,205"/>
 <area shape="rect" id="node2" href="$namespacerare_1_1shared.html#a5acede398e4ceb67fa3e6bc1c91734d0" title=" " alt="" coords="132,29,339,56"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1steam__grades.html#afb84b77f9ccf4f2f47fe022771e9b7b4" title=" " alt="" coords="196,104,275,131"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1steam__grades.html#ade992fd4116df6a33372a2a1b2d2df61" title=" " alt="" coords="185,179,285,205"/>
-<area shape="rect" id="node5" href="$namespacerare_1_1shared.html#a52b1260023417715f12fb6f691549bab" title=" " alt="" coords="147,254,323,295"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b" title=" " alt="" coords="158,104,313,131"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1steam__grades.html#afb84b77f9ccf4f2f47fe022771e9b7b4" title=" " alt="" coords="196,179,275,205"/>
+<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1steam__grades.html#ade992fd4116df6a33372a2a1b2d2df61" title=" " alt="" coords="185,253,285,280"/>
+<area shape="rect" id="node7" href="$namespacerare_1_1shared.html#a52b1260023417715f12fb6f691549bab" title=" " alt="" coords="147,329,323,370"/>
+<area shape="rect" id="node6" href="$namespacerare_1_1utils_1_1paths.html#a967cf7dd54d6f29434b1b44099984396" title=" " alt="" coords="387,253,552,280"/>
 </map>

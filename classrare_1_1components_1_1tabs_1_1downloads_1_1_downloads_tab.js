@@ -1,6 +1,6 @@
 var classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab =
 [
-    [ "__init__", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad905fa808e62fee122350ebc50a59286", null ],
+    [ "__init__", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ac7626e2a7c0638c3f0d62ae996a2aa2c", null ],
     [ "add_update", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a5b1b8c18cd3c7bb3fac72567db6d4f1e", null ],
     [ "game_uninstalled", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#af127439f1e8c25c4b6fe5dcf178ae3f7", null ],
     [ "get_install_options", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a34dfac3ae00e55c098b07fd107a14daa", null ],

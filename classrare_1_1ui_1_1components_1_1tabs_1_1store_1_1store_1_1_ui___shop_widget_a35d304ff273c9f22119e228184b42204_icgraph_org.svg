@@ -203,10 +203,10 @@
 <!-- Node13 -->
 <g id="node13" class="node">
 <title>Node13</title>
-<g id="a_node13"><a xlink:href="classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad905fa808e62fee122350ebc50a59286" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="36.5,-615.5 36.5,-645.5 197.5,-645.5 197.5,-615.5 36.5,-615.5"/>
-<text text-anchor="start" x="44.5" y="-633.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.downloads.</text>
-<text text-anchor="middle" x="117" y="-622.5" font-family="Helvetica,sans-Serif" font-size="10.00">DownloadsTab.__init__</text>
+<g id="a_node13"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_overlay_settings.html#a6f26ef1656cf7931a8d70e3edf907235" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="9.5,-615.5 9.5,-645.5 224.5,-645.5 224.5,-615.5 9.5,-615.5"/>
+<text text-anchor="start" x="17.5" y="-633.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.widgets.overlay</text>
+<text text-anchor="middle" x="117" y="-622.5" font-family="Helvetica,sans-Serif" font-size="10.00">_settings.OverlaySettings.__init__</text>
 </a>
 </g>
 </g>
@@ -219,10 +219,10 @@
 <!-- Node14 -->
 <g id="node14" class="node">
 <title>Node14</title>
-<g id="a_node14"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_overlay_settings.html#a6f26ef1656cf7931a8d70e3edf907235" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="9.5,-548.5 9.5,-578.5 224.5,-578.5 224.5,-548.5 9.5,-548.5"/>
-<text text-anchor="start" x="17.5" y="-566.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.widgets.overlay</text>
-<text text-anchor="middle" x="117" y="-555.5" font-family="Helvetica,sans-Serif" font-size="10.00">_settings.OverlaySettings.__init__</text>
+<g id="a_node14"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux_1_1_linux_settings.html#a4bb0326e5ca4145a7ec09aaf06680f24" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="14,-548.5 14,-578.5 220,-578.5 220,-548.5 14,-548.5"/>
+<text text-anchor="start" x="22" y="-566.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.widgets.linux.</text>
+<text text-anchor="middle" x="117" y="-555.5" font-family="Helvetica,sans-Serif" font-size="10.00">LinuxSettings.__init__</text>
 </a>
 </g>
 </g>
@@ -235,10 +235,10 @@
 <!-- Node15 -->
 <g id="node15" class="node">
 <title>Node15</title>
-<g id="a_node15"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux_1_1_linux_settings.html#a4bb0326e5ca4145a7ec09aaf06680f24" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="14,-481.5 14,-511.5 220,-511.5 220,-481.5 14,-481.5"/>
-<text text-anchor="start" x="22" y="-499.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.widgets.linux.</text>
-<text text-anchor="middle" x="117" y="-488.5" font-family="Helvetica,sans-Serif" font-size="10.00">LinuxSettings.__init__</text>
+<g id="a_node15"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html#a75020e7f3888d6f837fae592b305add8" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="17,-481.5 17,-511.5 217,-511.5 217,-481.5 17,-481.5"/>
+<text text-anchor="start" x="25" y="-499.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.widgets.env</text>
+<text text-anchor="middle" x="117" y="-488.5" font-family="Helvetica,sans-Serif" font-size="10.00">_vars.EnvVars.__init__</text>
 </a>
 </g>
 </g>
@@ -251,10 +251,10 @@
 <!-- Node16 -->
 <g id="node16" class="node">
 <title>Node16</title>
-<g id="a_node16"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html#a75020e7f3888d6f837fae592b305add8" target="_top" xlink:title=" ">
+<g id="a_node16"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings.html#a75020e7f3888d6f837fae592b305add8" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="17,-414.5 17,-444.5 217,-444.5 217,-414.5 17,-414.5"/>
-<text text-anchor="start" x="25" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.widgets.env</text>
-<text text-anchor="middle" x="117" y="-421.5" font-family="Helvetica,sans-Serif" font-size="10.00">_vars.EnvVars.__init__</text>
+<text text-anchor="start" x="25" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.widgets.rpc.</text>
+<text text-anchor="middle" x="117" y="-421.5" font-family="Helvetica,sans-Serif" font-size="10.00">RPCSettings.__init__</text>
 </a>
 </g>
 </g>
@@ -267,10 +267,10 @@
 <!-- Node17 -->
 <g id="node17" class="node">
 <title>Node17</title>
-<g id="a_node17"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings.html#a75020e7f3888d6f837fae592b305add8" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="17,-347.5 17,-377.5 217,-377.5 217,-347.5 17,-347.5"/>
-<text text-anchor="start" x="25" y="-365.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.widgets.rpc.</text>
-<text text-anchor="middle" x="117" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">RPCSettings.__init__</text>
+<g id="a_node17"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#ab52f70808bdaa354bd28106dba98a828" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="33.5,-347.5 33.5,-377.5 200.5,-377.5 200.5,-347.5 33.5,-347.5"/>
+<text text-anchor="start" x="41.5" y="-365.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
+<text text-anchor="middle" x="117" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">_info.game_info.GameInfo.__init__</text>
 </a>
 </g>
 </g>
@@ -283,43 +283,43 @@
 <!-- Node18 -->
 <g id="node18" class="node">
 <title>Node18</title>
-<g id="a_node18"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#ab52f70808bdaa354bd28106dba98a828" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="33.5,-280.5 33.5,-310.5 200.5,-310.5 200.5,-280.5 33.5,-280.5"/>
-<text text-anchor="start" x="41.5" y="-298.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
-<text text-anchor="middle" x="117" y="-287.5" font-family="Helvetica,sans-Serif" font-size="10.00">_info.game_info.GameInfo.__init__</text>
+<g id="a_node18"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1uninstalled__info_1_1_uninstalled_info.html#a39d165427992dd2720f91929a88cde17" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="33.5,-269 33.5,-310 200.5,-310 200.5,-269 33.5,-269"/>
+<text text-anchor="start" x="41.5" y="-298" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
+<text text-anchor="start" x="41.5" y="-287" font-family="Helvetica,sans-Serif" font-size="10.00">_info.uninstalled_info.Uninstalled</text>
+<text text-anchor="middle" x="117" y="-276" font-family="Helvetica,sans-Serif" font-size="10.00">Info.__init__</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node18 -->
 <g id="edge33" class="edge">
 <title>Node1&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M293.25,-677.8C290.3,-610.52 277.48,-391.1 234,-338.5 223.53,-325.84 208.96,-316.9 193.68,-310.6"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="289.75,-678.04 293.66,-687.89 296.75,-677.75 289.75,-678.04"/>
+<path fill="none" stroke="midnightblue" d="M293.16,-677.87C289.93,-610.82 276.29,-392.06 234,-338.5 224.31,-326.23 210.99,-316.99 196.81,-310.05"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="289.67,-678.09 293.62,-687.92 296.66,-677.77 289.67,-678.09"/>
 </g>
 <!-- Node19 -->
 <g id="node19" class="node">
 <title>Node19</title>
-<g id="a_node19"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1uninstalled__info_1_1_uninstalled_info.html#a39d165427992dd2720f91929a88cde17" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="33.5,-202 33.5,-243 200.5,-243 200.5,-202 33.5,-202"/>
-<text text-anchor="start" x="41.5" y="-231" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
-<text text-anchor="start" x="41.5" y="-220" font-family="Helvetica,sans-Serif" font-size="10.00">_info.uninstalled_info.Uninstalled</text>
-<text text-anchor="middle" x="117" y="-209" font-family="Helvetica,sans-Serif" font-size="10.00">Info.__init__</text>
+<g id="a_node19"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_group.html#a39d165427992dd2720f91929a88cde17" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="8,-201.5 8,-231.5 226,-231.5 226,-201.5 8,-201.5"/>
+<text text-anchor="start" x="16" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.import</text>
+<text text-anchor="middle" x="117" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">_sync.egl_sync_group.EGLSyncGroup.__init__</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node19 -->
 <g id="edge35" class="edge">
 <title>Node1&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M293.73,-677.69C292.34,-602.59 283.91,-336.4 234,-271.5 224.54,-259.2 211.4,-249.95 197.36,-243.01"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="290.23,-677.75 293.89,-687.69 297.23,-677.64 290.23,-677.75"/>
+<path fill="none" stroke="midnightblue" d="M293.91,-677.57C293.15,-600.8 286.76,-325.28 234,-259.5 223.85,-246.85 209.6,-237.92 194.55,-231.62"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="290.41,-677.79 293.98,-687.76 297.41,-677.74 290.41,-677.79"/>
 </g>
 <!-- Node20 -->
 <g id="node20" class="node">
 <title>Node20</title>
-<g id="a_node20"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_group.html#a39d165427992dd2720f91929a88cde17" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="8,-134.5 8,-164.5 226,-164.5 226,-134.5 8,-134.5"/>
-<text text-anchor="start" x="16" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.import</text>
-<text text-anchor="middle" x="117" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">_sync.egl_sync_group.EGLSyncGroup.__init__</text>
+<g id="a_node20"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#a39d165427992dd2720f91929a88cde17" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="21,-134.5 21,-164.5 213,-164.5 213,-134.5 21,-134.5"/>
+<text text-anchor="start" x="29" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.legendary.</text>
+<text text-anchor="middle" x="117" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">LegendarySettings.__init__</text>
 </a>
 </g>
 </g>
@@ -332,10 +332,10 @@
 <!-- Node21 -->
 <g id="node21" class="node">
 <title>Node21</title>
-<g id="a_node21"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#a39d165427992dd2720f91929a88cde17" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="21,-67.5 21,-97.5 213,-97.5 213,-67.5 21,-67.5"/>
-<text text-anchor="start" x="29" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.legendary.</text>
-<text text-anchor="middle" x="117" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">LegendarySettings.__init__</text>
+<g id="a_node21"><a xlink:href="classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#a8bc04b4161e827e1383dfb3803cc57a3" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="39,-67.5 39,-97.5 195,-97.5 195,-67.5 39,-67.5"/>
+<text text-anchor="start" x="47" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.shop.shop</text>
+<text text-anchor="middle" x="117" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">_widget.ShopWidget.__init__</text>
 </a>
 </g>
 </g>
@@ -348,17 +348,17 @@
 <!-- Node22 -->
 <g id="node22" class="node">
 <title>Node22</title>
-<g id="a_node22"><a xlink:href="classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#a8bc04b4161e827e1383dfb3803cc57a3" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="39,-0.5 39,-30.5 195,-30.5 195,-0.5 39,-0.5"/>
-<text text-anchor="start" x="47" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.shop.shop</text>
-<text text-anchor="middle" x="117" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_widget.ShopWidget.__init__</text>
+<g id="a_node22"><a xlink:href="classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ac7626e2a7c0638c3f0d62ae996a2aa2c" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="36.5,-0.5 36.5,-30.5 197.5,-30.5 197.5,-0.5 36.5,-0.5"/>
+<text text-anchor="start" x="44.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.downloads.</text>
+<text text-anchor="middle" x="117" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">DownloadsTab.__init__</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node22 -->
 <g id="edge41" class="edge">
 <title>Node1&#45;&gt;Node22</title>
-<path fill="none" stroke="midnightblue" d="M293.38,-677.68C290.01,-575.25 272.63,-108.82 234,-58.5 224.19,-45.72 210.17,-36.74 195.25,-30.43"/>
+<path fill="none" stroke="midnightblue" d="M293.38,-677.68C290.01,-575.25 272.63,-108.82 234,-58.5 224.26,-45.81 210.36,-36.86 195.55,-30.55"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="289.89,-677.97 293.71,-687.85 296.88,-677.74 289.89,-677.97"/>
 </g>
 <!-- Node2&#45;&gt;Node2 -->
@@ -460,14 +460,14 @@
 <!-- Node18&#45;&gt;Node18 -->
 <g id="edge34" class="edge">
 <title>Node18&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M148.63,-320.96C144.7,-325.68 134.16,-329 117,-329 88.84,-329 78.5,-320.06 85.98,-310.66"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="152.1,-320.44 148.02,-310.66 145.12,-320.85 152.1,-320.44"/>
+<path fill="none" stroke="midnightblue" d="M147.62,-320.36C143.07,-325.2 132.86,-328.5 117,-328.5 91.62,-328.5 80.72,-320.04 84.29,-310.36"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="151.09,-320.87 149.71,-310.36 144.24,-319.44 151.09,-320.87"/>
 </g>
 <!-- Node19&#45;&gt;Node19 -->
 <g id="edge36" class="edge">
 <title>Node19&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M147.62,-253.36C143.07,-258.2 132.86,-261.5 117,-261.5 91.62,-261.5 80.72,-253.04 84.29,-243.36"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="151.09,-253.87 149.71,-243.36 144.24,-252.44 151.09,-253.87"/>
+<path fill="none" stroke="midnightblue" d="M148.63,-241.96C144.7,-246.68 134.16,-250 117,-250 88.84,-250 78.5,-241.06 85.98,-231.66"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="152.1,-241.44 148.02,-231.66 145.12,-241.85 152.1,-241.44"/>
 </g>
 <!-- Node20&#45;&gt;Node20 -->
 <g id="edge38" class="edge">
