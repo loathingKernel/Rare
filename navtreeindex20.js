@@ -1,5 +1,11 @@
 var NAVTREEINDEX20 =
 {
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux.html":[6,0,0,7,0,2,2,2],
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux.html#a3679547037c89c927a2760bbb9f54be9":[6,0,0,7,0,2,2,2,2],
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux.html#ac492f8de2d00b6c4282e766bfadaf2e7":[6,0,0,7,0,2,2,2,3],
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,2,2,1],
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1proton.html":[6,0,0,7,0,2,2,3],
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1proton.html#a25e11c9444fb64c857b69395d04366c1":[6,0,0,7,0,2,2,3,2],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1proton.html#ac492f8de2d00b6c4282e766bfadaf2e7":[6,0,0,7,0,2,2,3,3],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1proton.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,2,3,1],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare.html":[6,0,0,7,0,2,2,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX20 =
 "ui_2components_2dialogs_2launch__dialog_8py.html":[8,0,0,5,0,0,4],
 "ui_2components_2dialogs_2launch__dialog_8py.html#ac492f8de2d00b6c4282e766bfadaf2e7":[8,0,0,5,0,0,4,3],
 "ui_2components_2dialogs_2launch__dialog_8py.html#aec9effe948cc3ad444a54f0fdf208cf6":[8,0,0,5,0,0,4,2],
-"ui_2components_2dialogs_2launch__dialog_8py.html#afe63fea7be31b0200b496d08bc6b517d":[8,0,0,5,0,0,4,1],
-"ui_2components_2dialogs_2launch__dialog_8py_source.html":[8,0,0,5,0,0,4],
-"ui_2components_2dialogs_2login_2____init_____8py.html":[8,0,0,5,0,0,0,0],
-"ui_2components_2dialogs_2login_2____init_____8py_source.html":[8,0,0,5,0,0,0,0],
-"ui_2components_2dialogs_2login_2browser__login_8py.html":[8,0,0,5,0,0,0,1],
-"ui_2components_2dialogs_2login_2browser__login_8py.html#a1192942068031f3811d728b364beae39":[8,0,0,5,0,0,0,1,2],
-"ui_2components_2dialogs_2login_2browser__login_8py.html#ac492f8de2d00b6c4282e766bfadaf2e7":[8,0,0,5,0,0,0,1,3]
+"ui_2components_2dialogs_2launch__dialog_8py.html#afe63fea7be31b0200b496d08bc6b517d":[8,0,0,5,0,0,4,1]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX18 =
 {
+"egl__sync__list__group_8py.html":[8,0,0,5,0,2,1,1,2],
+"egl__sync__list__group_8py.html#a13dfdac334032ef32c4e0d3fa2dfe1f3":[8,0,0,5,0,2,1,1,2,2],
+"egl__sync__list__group_8py.html#ac492f8de2d00b6c4282e766bfadaf2e7":[8,0,0,5,0,2,1,1,2,3],
+"egl__sync__list__group_8py.html#afe63fea7be31b0200b496d08bc6b517d":[8,0,0,5,0,2,1,1,2,1],
 "egl__sync__list__group_8py_source.html":[8,0,0,5,0,2,1,1,2],
 "elide__label_8py.html":[8,0,0,7,2],
 "elide__label_8py_source.html":[8,0,0,7,2],
@@ -67,8 +71,8 @@ var NAVTREEINDEX18 =
 "functions_t.html":[7,3,0,20],
 "functions_u.html":[7,3,0,21],
 "functions_v.html":[7,3,0,22],
-"functions_vars.html":[7,3,2],
 "functions_vars.html":[7,3,2,0],
+"functions_vars.html":[7,3,2],
 "functions_vars_b.html":[7,3,2,1],
 "functions_vars_c.html":[7,3,2,2],
 "functions_vars_d.html":[7,3,2,3],
@@ -98,6 +102,7 @@ var NAVTREEINDEX18 =
 "game__dlc__widget_8py.html#afe63fea7be31b0200b496d08bc6b517d":[8,0,0,5,0,2,1,0,2,1],
 "game__dlc__widget_8py_source.html":[8,0,0,5,0,2,1,0,2],
 "game__launch__helper_2____init_____8py.html":[8,0,0,1,0],
+"game__launch__helper_2____init_____8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,1,0,4],
 "game__launch__helper_2____init_____8py.html#a82c7246b0e4557e01f0dac14783baa38":[8,0,0,1,0,3],
 "game__launch__helper_2____init_____8py_source.html":[8,0,0,1,0],
 "game__utils_8py.html":[8,0,0,0,1,2,5],
@@ -244,10 +249,5 @@ var NAVTREEINDEX18 =
 "namespacemembers_vars.html":[6,1,2],
 "namespacemembers_w.html":[6,1,0,17],
 "namespacerare.html":[6,0,0],
-"namespacerare.html#aa19420c12586b7fc41c10b58631a6c30":[6,0,0,10],
-"namespacerare_1_1____main____.html":[6,0,0,0],
-"namespacerare_1_1____main____.html#add42217d54476fc931cfda4d8515bf43":[6,0,0,0,0],
-"namespacerare_1_1app.html":[6,0,0,1],
-"namespacerare_1_1app.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,1,3],
-"namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76":[6,0,0,1,2]
+"namespacerare.html#aa19420c12586b7fc41c10b58631a6c30":[6,0,0,10]
 };

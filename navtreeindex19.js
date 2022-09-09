@@ -1,5 +1,10 @@
 var NAVTREEINDEX19 =
 {
+"namespacerare_1_1____main____.html":[6,0,0,0],
+"namespacerare_1_1____main____.html#add42217d54476fc931cfda4d8515bf43":[6,0,0,0,0],
+"namespacerare_1_1app.html":[6,0,0,1],
+"namespacerare_1_1app.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,1,3],
+"namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76":[6,0,0,1,2],
 "namespacerare_1_1app.html#a938c7182b0c44921f1089bdfe1ec24eb":[6,0,0,1,1],
 "namespacerare_1_1components.html":[6,0,0,2],
 "namespacerare_1_1components_1_1dialogs.html":[6,0,0,2,0],
@@ -122,6 +127,7 @@ var NAVTREEINDEX19 =
 "namespacerare_1_1components_1_1tray__icon.html":[6,0,0,2,3],
 "namespacerare_1_1components_1_1tray__icon.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,2,3,1],
 "namespacerare_1_1game__launch__helper.html":[6,0,0,3],
+"namespacerare_1_1game__launch__helper.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,3,6],
 "namespacerare_1_1game__launch__helper.html#a82c7246b0e4557e01f0dac14783baa38":[6,0,0,3,5],
 "namespacerare_1_1game__launch__helper_1_1console.html":[6,0,0,3,0],
 "namespacerare_1_1game__launch__helper_1_1lgd__helper.html":[6,0,0,3,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX19 =
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary.html":[6,0,0,7,0,2,2,1],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary.html#ac492f8de2d00b6c4282e766bfadaf2e7":[6,0,0,7,0,2,2,1,3],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary.html#ace257ef10d5d3c02722900c5e1b76a72":[6,0,0,7,0,2,2,1,2],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,2,1,1],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux.html":[6,0,0,7,0,2,2,2],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux.html#a3679547037c89c927a2760bbb9f54be9":[6,0,0,7,0,2,2,2,2],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux.html#ac492f8de2d00b6c4282e766bfadaf2e7":[6,0,0,7,0,2,2,2,3],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,2,2,1],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1proton.html":[6,0,0,7,0,2,2,3],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1proton.html#a25e11c9444fb64c857b69395d04366c1":[6,0,0,7,0,2,2,3,2]
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,2,1,1]
 };
