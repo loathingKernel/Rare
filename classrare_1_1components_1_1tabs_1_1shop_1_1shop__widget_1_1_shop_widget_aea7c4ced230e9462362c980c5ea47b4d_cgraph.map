@@ -1,9 +1,10 @@
 <map id="load" name="load">
-<area shape="rect" id="node1" title=" " alt="" coords="8,117,54,144"/>
+<area shape="rect" id="node1" title=" " alt="" coords="8,125,54,152"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#acc22d28ca5b75335e3309accf015adc6" title=" " alt="" coords="110,29,228,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_shop_game_info.html#a3fc8c31e9c09c30d1480d83be79cd5bd" title=" " alt="" coords="284,87,538,129"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#a3fc8c31e9c09c30d1480d83be79cd5bd" title=" " alt="" coords="102,155,236,181"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#ad40685079c149157f03614f3b66fe2f3" title=" " alt="" coords="112,229,226,256"/>
-<area shape="rect" id="node6" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="324,206,498,247"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#afe8e8ac663d9c09dad3a1364f128945b" title=" " alt="" coords="362,296,460,323"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_shop_game_info.html#a3fc8c31e9c09c30d1480d83be79cd5bd" title=" " alt="" coords="284,97,538,138"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#a3fc8c31e9c09c30d1480d83be79cd5bd" title=" " alt="" coords="102,163,236,189"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#ad40685079c149157f03614f3b66fe2f3" title=" " alt="" coords="112,245,226,272"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61" title=" " alt="" coords="586,155,789,197"/>
+<area shape="rect" id="node7" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="324,238,498,279"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#afe8e8ac663d9c09dad3a1364f128945b" title=" " alt="" coords="362,328,460,355"/>
 </map>

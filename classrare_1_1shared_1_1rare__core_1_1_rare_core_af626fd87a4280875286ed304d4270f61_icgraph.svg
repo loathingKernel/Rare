@@ -154,10 +154,10 @@ var sectionId = 'dynsection-12';
 <!-- Node15 -->
 <g id="node15" class="node">
 <title>Node15</title>
-<g id="a_node15"><a xlink:href="classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#ad22709b2e67308af35f55680d5a026e0" target="_top" xlink:title=" ">
+<g id="a_node15"><a xlink:href="classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="631,-0.5 631,-30.5 783,-30.5 783,-0.5 631,-0.5"/>
 <text text-anchor="start" x="639" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.dialogs.launch</text>
-<text text-anchor="middle" x="707" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.ImageWorker.run</text>
+<text text-anchor="middle" x="707" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.ImageWorker.run_real</text>
 </a>
 </g>
 </g>

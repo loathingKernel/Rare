@@ -252,6 +252,7 @@ var hierarchy =
     ] ],
     [ "QObject", null, [
       [ "InstallInfoWorker.Signals", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker_1_1_signals.html", null ],
+      [ "ImageWorker.DownloadSlot", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker_1_1_download_slot.html", null ],
       [ "LaunchWorker.Signals", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_worker_1_1_signals.html", null ],
       [ "CloudSaveUtils", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html", null ],
       [ "SaveSignals", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_save_signals.html", null ],

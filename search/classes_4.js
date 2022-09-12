@@ -8,7 +8,8 @@ var searchData=
   ['dlqueuewidget_5',['DlQueueWidget',['../classrare_1_1components_1_1tabs_1_1downloads_1_1dl__queue__widget_1_1_dl_queue_widget.html',1,'rare::components::tabs::downloads::dl_queue_widget']]],
   ['dlwidget_6',['DlWidget',['../classrare_1_1components_1_1tabs_1_1downloads_1_1dl__queue__widget_1_1_dl_widget.html',1,'rare::components::tabs::downloads::dl_queue_widget']]],
   ['downloadmodel_7',['DownloadModel',['../classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_download_model.html',1,'rare::components::tabs::games::cloud_save_utils']]],
-  ['downloadstab_8',['DownloadsTab',['../classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html',1,'rare::components::tabs::downloads']]],
-  ['downloadthread_9',['DownloadThread',['../classrare_1_1components_1_1tabs_1_1downloads_1_1download__thread_1_1_download_thread.html',1,'rare::components::tabs::downloads::download_thread']]],
-  ['dxvksettings_10',['DxvkSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_dxvk_settings.html',1,'rare::components::tabs::settings::widgets::dxvk']]]
+  ['downloadslot_8',['DownloadSlot',['../classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker_1_1_download_slot.html',1,'rare::components::dialogs::launch_dialog::ImageWorker']]],
+  ['downloadstab_9',['DownloadsTab',['../classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html',1,'rare::components::tabs::downloads']]],
+  ['downloadthread_10',['DownloadThread',['../classrare_1_1components_1_1tabs_1_1downloads_1_1download__thread_1_1_download_thread.html',1,'rare::components::tabs::downloads::download_thread']]],
+  ['dxvksettings_11',['DxvkSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_dxvk_settings.html',1,'rare::components::tabs::settings::widgets::dxvk']]]
 ];

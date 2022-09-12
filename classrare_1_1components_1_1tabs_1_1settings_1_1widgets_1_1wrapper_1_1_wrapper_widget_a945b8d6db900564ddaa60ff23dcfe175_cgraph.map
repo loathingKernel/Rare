@@ -1,10 +1,11 @@
 <map id="delete" name="delete">
-<area shape="rect" id="node1" title=" " alt="" coords="19,186,77,213"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#ad9cf11ee037042a34e4226af64798193" title=" " alt="" coords="125,133,419,175"/>
-<area shape="rect" id="node8" href="$classrare_1_1utils_1_1extra__widgets_1_1_indicator_line_edit.html#a515301de038623ad26ce41cedb7ed052" title=" " alt="" coords="193,223,351,264"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#a564562f082521e37c7029e239abb56c6" title=" " alt="" coords="467,88,762,129"/>
-<area shape="rect" id="node7" href="$classrare_1_1game__launch__helper_1_1console_1_1_console.html#a564562f082521e37c7029e239abb56c6" title=" " alt="" coords="506,177,723,219"/>
+<area shape="rect" id="node1" title=" " alt="" coords="19,227,77,254"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#ad9cf11ee037042a34e4226af64798193" title=" " alt="" coords="125,175,419,216"/>
+<area shape="rect" id="node9" href="$classrare_1_1utils_1_1extra__widgets_1_1_indicator_line_edit.html#a515301de038623ad26ce41cedb7ed052" title=" " alt="" coords="193,264,351,305"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#a564562f082521e37c7029e239abb56c6" title=" " alt="" coords="467,129,762,171"/>
+<area shape="rect" id="node7" href="$classrare_1_1game__launch__helper_1_1console_1_1_console.html#a564562f082521e37c7029e239abb56c6" title=" " alt="" coords="506,219,723,260"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="810,29,1129,71"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#af704077af9c417ed9938e7b3f271faa5" title=" " alt="" coords="1177,129,1471,171"/>
 <area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#ab720efcdbf6d746c9008125db4703236" title=" " alt="" coords="822,171,1117,212"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61" title=" " alt="" coords="868,260,1071,301"/>
 </map>

@@ -1,10 +1,11 @@
 <map id="add_button_pressed" name="add_button_pressed">
-<area shape="rect" id="node1" title=" " alt="" coords="5,122,144,149"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#a2d0f8d65d8eea0e38d4f4f688b95ac83" title=" " alt="" coords="192,122,288,149"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#ab03ce50c7793dbc7bd5d9a26ec204db1" title=" " alt="" coords="336,34,456,61"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#ad9cf11ee037042a34e4226af64798193" title=" " alt="" coords="341,159,451,186"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,262,144,289"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#a2d0f8d65d8eea0e38d4f4f688b95ac83" title=" " alt="" coords="192,186,288,213"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61" title=" " alt="" coords="827,255,1030,296"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#ab03ce50c7793dbc7bd5d9a26ec204db1" title=" " alt="" coords="336,35,456,62"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#ad9cf11ee037042a34e4226af64798193" title=" " alt="" coords="341,161,451,187"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#a564562f082521e37c7029e239abb56c6" title=" " alt="" coords="587,95,638,122"/>
-<area shape="rect" id="node9" href="$classrare_1_1game__launch__helper_1_1console_1_1_console.html#a564562f082521e37c7029e239abb56c6" title=" " alt="" coords="504,181,721,223"/>
+<area shape="rect" id="node9" href="$classrare_1_1game__launch__helper_1_1console_1_1_console.html#a564562f082521e37c7029e239abb56c6" title=" " alt="" coords="504,196,721,237"/>
 <area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="769,29,1088,71"/>
 <area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#af704077af9c417ed9938e7b3f271faa5" title=" " alt="" coords="1136,133,1253,159"/>
 <area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html#ab720efcdbf6d746c9008125db4703236" title=" " alt="" coords="863,170,995,197"/>

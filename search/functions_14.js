@@ -9,5 +9,6 @@ var searchData=
   ['tmp_5fdir_6',['tmp_dir',['../namespacerare_1_1utils_1_1paths.html#a99b36d23efbef26b6963295af12a82fe',1,'rare::utils::paths']]],
   ['toggle_7',['toggle',['../classrare_1_1components_1_1main__window_1_1_main_window.html#a76ef2ebd71b1a1858194134725b6c800',1,'rare::components::main_window::MainWindow']]],
   ['toggle_5fview_8',['toggle_view',['../classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a133e93b663ba0fe277649d67d97b4c6e',1,'rare::components::tabs::games::GamesTab']]],
-  ['type_9',['type',['../classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#aff464267544e4efc9b770c8320c8f199',1,'rare.utils.json_formatter.QJsonTreeItem.type(self)'],['../classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#a883de0641e4d465964ef5985e8558a5d',1,'rare.utils.json_formatter.QJsonTreeItem.type(self, typ)']]]
+  ['tr_9',['tr',['../classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61',1,'rare::components::dialogs::launch_dialog::ImageWorker']]],
+  ['type_10',['type',['../classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#aff464267544e4efc9b770c8320c8f199',1,'rare.utils.json_formatter.QJsonTreeItem.type(self)'],['../classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#a883de0641e4d465964ef5985e8558a5d',1,'rare.utils.json_formatter.QJsonTreeItem.type(self, typ)']]]
 ];

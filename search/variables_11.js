@@ -5,7 +5,7 @@ var searchData=
   ['rare_5flayout_2',['rare_layout',['../classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#a14160793e4559a007e5efc1893ed0554',1,'rare::ui::components::tabs::settings::rare::Ui_RareSettings']]],
   ['rare_5fsettings_3',['rare_settings',['../classrare_1_1components_1_1tabs_1_1settings_1_1_settings_tab.html#a08853b7e9e543c32346b958d23527f1e',1,'rare::components::tabs::settings::SettingsTab']]],
   ['raresettings_4',['RareSettings',['../namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare.html#a35785803f525dd7b24e1f2104444b3c8',1,'rare::ui::components::tabs::settings::rare']]],
-  ['rating_5fsignal_5',['rating_signal',['../classrare_1_1utils_1_1steam__grades_1_1_steam_worker_1_1_signals.html#a3a9041923d7ac7082c76ab579e8bc7b6',1,'rare::utils::steam_grades::SteamWorker::Signals']]],
+  ['rating_5',['rating',['../classrare_1_1utils_1_1steam__grades_1_1_steam_worker_1_1_signals.html#a961355c27dad2f28594a6e1790dca4e8',1,'rare::utils::steam_grades::SteamWorker::Signals']]],
   ['ratings_6',['ratings',['../classrare_1_1utils_1_1steam__grades_1_1_steam_worker.html#abd5dad003788d3db6281695129273651',1,'rare::utils::steam_grades::SteamWorker']]],
   ['ready_5fto_5flaunch_7',['ready_to_launch',['../classrare_1_1game__launch__helper_1_1_pre_launch_thread_1_1_signals.html#a8cbf8a67fe1b796615c7a3f211a03641',1,'rare::game_launch_helper::PreLaunchThread::Signals']]],
   ['reasons_8',['reasons',['../classrare_1_1utils_1_1extra__widgets_1_1_indicator_line_edit.html#ab6eceb4c6eaef9b9c10d6396c166659b',1,'rare::utils::extra_widgets::IndicatorLineEdit']]],
@@ -36,10 +36,11 @@ var searchData=
   ['reverse_33',['reverse',['../classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist.html#a247637008a7d22a04f4f44ac0e58e96f',1,'rare::ui::components::tabs::store::wishlist::Ui_Wishlist']]],
   ['right_5flayout_34',['right_layout',['../classrare_1_1components_1_1tabs_1_1downloads_1_1dl__queue__widget_1_1_dl_widget.html#a9c5f4a6dcc233830066fbe7ee4a07db3',1,'rare.components.tabs.downloads.dl_queue_widget.DlWidget.right_layout()'],['../classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a9c5f4a6dcc233830066fbe7ee4a07db3',1,'rare.ui.components.tabs.settings.legendary.Ui_LegendarySettings.right_layout()'],['../classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#a9c5f4a6dcc233830066fbe7ee4a07db3',1,'rare.ui.components.tabs.settings.rare.Ui_RareSettings.right_layout()']]],
   ['rounded_35',['Rounded',['../classrare_1_1widgets_1_1image__widget_1_1_image_widget_1_1_border.html#ae208e92d49884d66764bb9a81f10d750',1,'rare::widgets::image_widget::ImageWidget::Border']]],
-  ['rpc_36',['RPC',['../classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html#a63cb1cbf43eafd1c08c70f48b08db9db',1,'rare::utils::rpc::DiscordRPC']]],
-  ['rpc_37',['rpc',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a0ab21f4419a1405b21abd8a77d54c110',1,'rare.components.tabs.settings.rare.RareSettings.rpc()'],['../classrare_1_1components_1_1main__window_1_1_main_window.html#a0ab21f4419a1405b21abd8a77d54c110',1,'rare.components.main_window.MainWindow.rpc()']]],
-  ['rpc_5fsettings_5fupdated_38',['rpc_settings_updated',['../classrare_1_1models_1_1signals_1_1_global_signals.html#a3acd7075a71b5ff14c407ccbe05de919',1,'rare::models::signals::GlobalSignals']]],
-  ['rpcsettings_39',['RPCSettings',['../namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc.html#a1e8e83cbd1aaeaa3729b27e32990f6ea',1,'rare::ui::components::tabs::settings::widgets::rpc']]],
-  ['running_40',['running',['../classrare_1_1lgndr_1_1manager_1_1_d_l_manager.html#a1a015fe02c9cea18a5cf62656e257c97',1,'rare::lgndr::manager::DLManager']]],
-  ['running_5fgames_41',['running_games',['../classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#aaf4afa1f7c700bdaf5f9cf6f8a239d72',1,'rare::components::tabs::games::game_utils::GameUtils']]]
+  ['rpc_36',['rpc',['../classrare_1_1components_1_1main__window_1_1_main_window.html#a0ab21f4419a1405b21abd8a77d54c110',1,'rare::components::main_window::MainWindow']]],
+  ['rpc_37',['RPC',['../classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html#a63cb1cbf43eafd1c08c70f48b08db9db',1,'rare::utils::rpc::DiscordRPC']]],
+  ['rpc_38',['rpc',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a0ab21f4419a1405b21abd8a77d54c110',1,'rare::components::tabs::settings::rare::RareSettings']]],
+  ['rpc_5fsettings_5fupdated_39',['rpc_settings_updated',['../classrare_1_1models_1_1signals_1_1_global_signals.html#a3acd7075a71b5ff14c407ccbe05de919',1,'rare::models::signals::GlobalSignals']]],
+  ['rpcsettings_40',['RPCSettings',['../namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc.html#a1e8e83cbd1aaeaa3729b27e32990f6ea',1,'rare::ui::components::tabs::settings::widgets::rpc']]],
+  ['running_41',['running',['../classrare_1_1lgndr_1_1manager_1_1_d_l_manager.html#a1a015fe02c9cea18a5cf62656e257c97',1,'rare::lgndr::manager::DLManager']]],
+  ['running_5fgames_42',['running_games',['../classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#aaf4afa1f7c700bdaf5f9cf6f8a239d72',1,'rare::components::tabs::games::game_utils::GameUtils']]]
 ];

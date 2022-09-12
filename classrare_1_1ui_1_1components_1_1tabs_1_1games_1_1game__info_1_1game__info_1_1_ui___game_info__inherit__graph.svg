@@ -92,11 +92,11 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="8" y="-257.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ image_manager</text>
 <text text-anchor="start" x="8" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ game_utils</text>
 <text text-anchor="start" x="8" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ image</text>
-<text text-anchor="start" x="8" y="-224.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ steam_worker</text>
-<text text-anchor="start" x="8" y="-213.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ verify_pool</text>
-<text text-anchor="start" x="8" y="-202.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ move_game_pop_up</text>
-<text text-anchor="start" x="8" y="-191.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ move_action</text>
-<text text-anchor="start" x="8" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 8 more...</text>
+<text text-anchor="start" x="8" y="-224.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ verify_pool</text>
+<text text-anchor="start" x="8" y="-213.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ move_game_pop_up</text>
+<text text-anchor="start" x="8" y="-202.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ move_action</text>
+<text text-anchor="start" x="8" y="-191.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ progress_of_moving</text>
+<text text-anchor="start" x="8" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 7 more...</text>
 <text text-anchor="start" x="8" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Game</text>
 <text text-anchor="start" x="8" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ verify_threads</text>
 <text text-anchor="start" x="8" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ verification_finished</text>

@@ -1,7 +1,8 @@
 <map id="compute_save_path" name="compute_save_path">
-<area shape="rect" id="node1" title=" " alt="" coords="5,107,144,134"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="393,96,567,137"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1misc.html#a7b7390f7db51dab9166f0a25aeddbb51" title=" " alt="" coords="207,59,330,100"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" title=" " alt="" coords="220,149,317,175"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html#a39d9250b1f0ed66ec6cdeac8081b380a" title=" " alt="" coords="192,223,345,250"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,148,144,175"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="408,63,581,105"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1misc.html#a7b7390f7db51dab9166f0a25aeddbb51" title=" " alt="" coords="207,58,330,99"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" title=" " alt="" coords="220,148,317,175"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61" title=" " alt="" coords="393,241,596,282"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html#a39d9250b1f0ed66ec6cdeac8081b380a" title=" " alt="" coords="192,223,345,249"/>
 </map>

@@ -1,7 +1,10 @@
 var namespacerare =
 [
     [ "__main__", "namespacerare_1_1____main____.html", [
-      [ "main", "namespacerare_1_1____main____.html#add42217d54476fc931cfda4d8515bf43", null ]
+      [ "main", "namespacerare_1_1____main____.html#add42217d54476fc931cfda4d8515bf43", null ],
+      [ "f", "namespacerare_1_1____main____.html#a633de4b0c14ca52ea2432a3c8a5c4c31", null ],
+      [ "stderr", "namespacerare_1_1____main____.html#a967f1e1a5a55f4e39ee6686dbb351941", null ],
+      [ "stdout", "namespacerare_1_1____main____.html#ae6b0515ae8a991c3aa2c521bcc11953b", null ]
     ] ],
     [ "app", "namespacerare_1_1app.html", "namespacerare_1_1app" ],
     [ "components", "namespacerare_1_1components.html", "namespacerare_1_1components" ],

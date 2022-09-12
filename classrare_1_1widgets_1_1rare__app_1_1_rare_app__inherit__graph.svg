@@ -76,28 +76,29 @@ var sectionId = 'dynsection-0';
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="classrare_1_1app_1_1_app.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="0,-50 0,-206 84,-206 84,-50 0,-50"/>
-<text text-anchor="middle" x="42" y="-194" font-family="Helvetica,sans-Serif" font-size="10.00">App</text>
-<polyline fill="none" stroke="black" points="0,-187 84,-187 "/>
-<text text-anchor="start" x="8" y="-175" font-family="Helvetica,sans-Serif" font-size="10.00">+ rare_core</text>
-<text text-anchor="start" x="8" y="-164" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
-<text text-anchor="start" x="8" y="-153" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
-<text text-anchor="start" x="8" y="-142" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="8" y="-131" font-family="Helvetica,sans-Serif" font-size="10.00">+ timer</text>
-<text text-anchor="start" x="8" y="-120" font-family="Helvetica,sans-Serif" font-size="10.00">+ launch_dialog</text>
-<text text-anchor="start" x="8" y="-109" font-family="Helvetica,sans-Serif" font-size="10.00">+ mainwindow</text>
-<polyline fill="none" stroke="black" points="0,-102 84,-102 "/>
-<text text-anchor="start" x="8" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="8" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+ re_login()</text>
-<text text-anchor="start" x="8" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ start_app()</text>
-<text text-anchor="start" x="8" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">+ exit_app()</text>
+<polygon fill="white" stroke="black" points="0,-44.5 0,-211.5 84,-211.5 84,-44.5 0,-44.5"/>
+<text text-anchor="middle" x="42" y="-199.5" font-family="Helvetica,sans-Serif" font-size="10.00">App</text>
+<polyline fill="none" stroke="black" points="0,-192.5 84,-192.5 "/>
+<text text-anchor="start" x="8" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rare_core</text>
+<text text-anchor="start" x="8" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
+<text text-anchor="start" x="8" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
+<text text-anchor="start" x="8" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="8" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ launch_dialog</text>
+<text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ timer</text>
+<text text-anchor="start" x="8" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ main_window</text>
+<polyline fill="none" stroke="black" points="0,-107.5 84,-107.5 "/>
+<text text-anchor="start" x="8" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="8" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ poke_timer()</text>
+<text text-anchor="start" x="8" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ re_login()</text>
+<text text-anchor="start" x="8" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ start_app()</text>
+<text text-anchor="start" x="8" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ exit_app()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M87.39,-282.47C80.41,-258.87 72.29,-231.42 64.87,-206.32"/>
+<path fill="none" stroke="midnightblue" d="M87.4,-282.51C80.92,-260.59 73.45,-235.34 66.47,-211.73"/>
 <polygon fill="none" stroke="midnightblue" points="84.12,-283.73 90.31,-292.33 90.83,-281.75 84.12,-283.73"/>
 </g>
 <!-- Node4 -->

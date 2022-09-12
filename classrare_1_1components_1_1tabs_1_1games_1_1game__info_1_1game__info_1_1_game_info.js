@@ -33,7 +33,6 @@ var classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_gam
     [ "move_game_pop_up", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a540e4d6f618099611158a9f85f3b49c0", null ],
     [ "progress_of_moving", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a058a81731cc66b43128259058abe2850", null ],
     [ "signals", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a0de0a2c91773619dac1660c29940c55e", null ],
-    [ "steam_worker", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a0b4cf67c968e88cb50057e9be7624296", null ],
     [ "verify_pool", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a2e7414302d472945cc6670e1cdb01bdf", null ],
     [ "widget_container", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a364c2445c63e850ab0b2420ab95ef491", null ]
 ];
