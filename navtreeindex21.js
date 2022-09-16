@@ -1,6 +1,5 @@
 var NAVTREEINDEX21 =
 {
-"sync__save__dialog_8py_source.html":[8,0,0,5,0,0,5],
 "tab__utils_8py.html":[8,0,0,0,1,6],
 "tab__utils_8py_source.html":[8,0,0,0,1,6],
 "tray__icon_8py.html":[8,0,0,0,4],

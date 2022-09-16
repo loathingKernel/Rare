@@ -1,8 +1,9 @@
 <map id="get_size" name="get_size">
-<area shape="rect" id="node1" title=" " alt="" coords="1069,82,1140,109"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#af064d32dee1937fa4aaef3e1b7472772" title=" " alt="" coords="765,29,1021,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#affdc8bae01bd071a92392ce437a43bf9" title=" " alt="" coords="774,119,1013,160"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aca780d78b993a295a93507a4a6d12a69" title=" " alt="" coords="519,111,717,167"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aa902973791e81c8c4542da337b86289b" title=" " alt="" coords="5,119,204,160"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a77e69cb6973b2c8a40dfed17abe7d453" title=" " alt="" coords="252,160,471,201"/>
+<area shape="rect" id="node1" title=" " alt="" coords="1069,126,1140,153"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#ac5aa04f27a40a5f6cfc0fc482f9f0dbd" title=" " alt="" coords="782,29,1005,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#af064d32dee1937fa4aaef3e1b7472772" title=" " alt="" coords="765,119,1021,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#affdc8bae01bd071a92392ce437a43bf9" title=" " alt="" coords="774,208,1013,249"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aca780d78b993a295a93507a4a6d12a69" title=" " alt="" coords="519,201,717,257"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aa902973791e81c8c4542da337b86289b" title=" " alt="" coords="5,208,204,249"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a77e69cb6973b2c8a40dfed17abe7d453" title=" " alt="" coords="252,249,471,291"/>
 </map>
