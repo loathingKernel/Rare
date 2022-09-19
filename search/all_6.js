@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['failed_0',['FAILED',['../classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1import__group_1_1_import_result.html#a1b36e350a0ccd3034b122070e6c27196',1,'rare::components::tabs::games::import_sync::import_group::ImportResult']]],
-  ['failed_1',['failed',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker_1_1_signals.html#a4af14f376aef238cb4e75252d40eeb82',1,'rare::components::dialogs::install_dialog::InstallInfoWorker::Signals']]],
+  ['failed_0',['failed',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker_1_1_signals.html#a4af14f376aef238cb4e75252d40eeb82',1,'rare::components::dialogs::install_dialog::InstallInfoWorker::Signals']]],
+  ['failed_1',['FAILED',['../classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1import__group_1_1_import_result.html#a1b36e350a0ccd3034b122070e6c27196',1,'rare::components::tabs::games::import_sync::import_group::ImportResult']]],
   ['fatal_2',['fatal',['../classrare_1_1lgndr_1_1api__monkeys_1_1_lgndr_indirect_logger.html#a227c9e96240f1b0dd752f56370be2d49',1,'rare::lgndr::api_monkeys::LgndrIndirectLogger']]],
   ['fd_3',['fd',['../classrare_1_1utils_1_1singleton_1_1_single_instance.html#a44f21d5190b5a6df8089f54799628d7e',1,'rare::utils::singleton::SingleInstance']]],
   ['file_5flist_4',['file_list',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_copy_game_installation.html#aaed71d68a31e18b5761be2dd78cf8a5e',1,'rare::components::tabs::games::game_info::move_game::CopyGameInstallation']]],

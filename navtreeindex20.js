@@ -1,7 +1,5 @@
 var NAVTREEINDEX20 =
 {
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,1,0,3,1],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1import__sync.html":[6,0,0,7,0,2,1,1],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group.html":[6,0,0,7,0,2,1,1,0],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group.html#ac492f8de2d00b6c4282e766bfadaf2e7":[6,0,0,7,0,2,1,1,0,3],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group.html#af93c7d015a5b5ad26cfcdf09a72e9eec":[6,0,0,7,0,2,1,1,0,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX20 =
 "sync__save__dialog_8py.html#ac492f8de2d00b6c4282e766bfadaf2e7":[8,0,0,5,0,0,5,3],
 "sync__save__dialog_8py.html#af9bb9f7420214b8ae54175da7e9f2636":[8,0,0,5,0,0,5,2],
 "sync__save__dialog_8py.html#afe63fea7be31b0200b496d08bc6b517d":[8,0,0,5,0,0,5,1],
-"sync__save__dialog_8py_source.html":[8,0,0,5,0,0,5]
+"sync__save__dialog_8py_source.html":[8,0,0,5,0,0,5],
+"tab__utils_8py.html":[8,0,0,0,1,6],
+"tab__utils_8py_source.html":[8,0,0,0,1,6]
 };
