@@ -48,7 +48,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1game__launch__helper_1_1_pre_launch_thread.html#a7ff9cd8c0d629e0fc3c179173c017d01" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1game__launch__helper_1_1_pre_launch_thread.html#a24d4188c08722b8d6d5fb2b55a471848" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="163,-0.5 163,-41.5 291,-41.5 291,-0.5 163,-0.5"/>
 <text text-anchor="start" x="171" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.game_launch_helper.</text>
 <text text-anchor="start" x="171" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">PreLaunchThread.prepare</text>

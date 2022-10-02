@@ -1,5 +1,7 @@
 var NAVTREEINDEX19 =
 {
+"namespacemembers_b.html":[6,1,0,1],
+"namespacemembers_c.html":[6,1,0,2],
 "namespacemembers_d.html":[6,1,0,3],
 "namespacemembers_e.html":[6,1,0,4],
 "namespacemembers_f.html":[6,1,0,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX19 =
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,1,0,2,1],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings.html":[6,0,0,7,0,2,1,0,3],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings.html#ac492f8de2d00b6c4282e766bfadaf2e7":[6,0,0,7,0,2,1,0,3,3],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings.html#af38a81dd4b4444509581c833cdb9b0ca":[6,0,0,7,0,2,1,0,3,2],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,1,0,3,1],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1import__sync.html":[6,0,0,7,0,2,1,1]
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings.html#af38a81dd4b4444509581c833cdb9b0ca":[6,0,0,7,0,2,1,0,3,2]
 };
