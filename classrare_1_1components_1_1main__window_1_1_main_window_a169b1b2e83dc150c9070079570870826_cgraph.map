@@ -1,6 +1,4 @@
 <map id="on_exit_app" name="on_exit_app">
-<area shape="rect" id="node1" title=" " alt="" coords="5,119,96,146"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4" title=" " alt="" coords="159,29,332,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#ad9f81f4c56e23ca3c206b1e9374fc137" title=" " alt="" coords="219,119,272,146"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61" title=" " alt="" coords="144,195,347,236"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,29,96,56"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#ad9f81f4c56e23ca3c206b1e9374fc137" title=" " alt="" coords="144,29,197,56"/>
 </map>

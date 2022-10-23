@@ -1,7 +1,7 @@
 var classrare_1_1app_1_1_app =
 [
     [ "__init__", "classrare_1_1app_1_1_app.html#aef5087eda294b25d77daf490e4bf4f9e", null ],
-    [ "exit_app", "classrare_1_1app_1_1_app.html#a9e2b856eeb4aa53cc7ec5d10626fc41a", null ],
+    [ "on_exit_app", "classrare_1_1app_1_1_app.html#a5787982134eee7c93a6c96adf93d7833", null ],
     [ "poke_timer", "classrare_1_1app_1_1_app.html#a220a81c6097c255b60ace038f4b0c9cb", null ],
     [ "re_login", "classrare_1_1app_1_1_app.html#ad1154d50f6a0117806ccb85485b2ec68", null ],
     [ "start_app", "classrare_1_1app_1_1_app.html#a00347c5912221be99bd702b4fc741d29", null ],

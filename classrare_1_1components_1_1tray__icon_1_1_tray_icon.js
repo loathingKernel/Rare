@@ -5,7 +5,7 @@ var classrare_1_1components_1_1tray__icon_1_1_tray_icon =
     [ "core", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "exit_action", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#aab6cd920707cf7a438a6bc8b9cd52d31", null ],
     [ "menu", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#a905479d79c2aa8410d2fc374bc75cc5b", null ],
+    [ "show_action", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#a02e27d5e2cee50b905f2f38f60aa6aea", null ],
     [ "signals", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#a0de0a2c91773619dac1660c29940c55e", null ],
-    [ "start_rare", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#a2d122a7dda51cb67db811e73c8ef65a6", null ],
     [ "text_action", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#adb3e67a4630f82893ec6c1a2a1a5a8bf", null ]
 ];

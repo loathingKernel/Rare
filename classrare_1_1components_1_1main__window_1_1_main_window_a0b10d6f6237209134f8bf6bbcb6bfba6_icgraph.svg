@@ -27,7 +27,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1components_1_1main__window_1_1_main_window.html#a8194ff9c048d5b027194fe89fd643fe3" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1components_1_1main__window_1_1_main_window.html#ac30eecc0cad05eea8f29e2c9d6a0e273" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-56.5 0,-75.5 65,-75.5 65,-56.5 0,-56.5"/>
 <text text-anchor="middle" x="32.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">closeEvent</text>
 </a>

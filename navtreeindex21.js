@@ -1,8 +1,5 @@
 var NAVTREEINDEX21 =
 {
-"tab__utils_8py.html":[8,0,0,0,1,6],
-"tab__utils_8py_source.html":[8,0,0,0,1,6],
-"tray__icon_8py.html":[8,0,0,0,4],
 "tray__icon_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,4,1],
 "tray__icon_8py_source.html":[8,0,0,0,4],
 "ubisoft__activation_8py.html":[8,0,0,0,1,3,0,10],

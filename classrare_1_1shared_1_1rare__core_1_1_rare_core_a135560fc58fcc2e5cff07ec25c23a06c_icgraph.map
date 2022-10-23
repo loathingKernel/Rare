@@ -1,5 +1,5 @@
 <map id="signals" name="signals">
-<area shape="rect" id="node1" title=" " alt="" coords="1272,1660,1335,1687"/>
+<area shape="rect" id="node1" title=" " alt="" coords="1272,1612,1335,1639"/>
 <area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aef5087eda294b25d77daf490e4bf4f9e" title=" " alt="" coords="689,29,756,56"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html#a10c562aecba2dac76244db2a3ffd290d" title=" " alt="" coords="921,410,1224,451"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings.html#adc975c67b566539bc873494960e904cc" title=" " alt="" coords="939,499,1206,541"/>
@@ -13,30 +13,29 @@
 <area shape="rect" id="node21" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ae7c3da1b257767f97a06a0f0f679036e" title=" " alt="" coords="272,1029,524,1070"/>
 <area shape="rect" id="node24" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1uninstalled__info_1_1_uninstalled_info.html#abb32e37b8ffc3927ad711556854f45cb" title=" " alt="" coords="611,1237,834,1293"/>
 <area shape="rect" id="node25" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1eos_1_1_eos_widget.html#a8cb8268e0a5056aecedd7ab16462fa45" title=" " alt="" coords="937,1170,1208,1211"/>
-<area shape="rect" id="node26" href="$classrare_1_1components_1_1tabs_1_1account_1_1_account_widget.html#a674007c506f7fe69c039f7f08438879e" title=" " alt="" coords="973,1259,1172,1301"/>
-<area shape="rect" id="node27" href="$classrare_1_1game__launch__helper_1_1_pre_launch_thread.html#a24d4188c08722b8d6d5fb2b55a471848" title=" " alt="" coords="987,1400,1158,1456"/>
-<area shape="rect" id="node28" href="$classrare_1_1game__launch__helper_1_1_pre_launch_thread.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="638,1375,807,1417"/>
-<area shape="rect" id="node29" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a6b391e195ab48a2914ad9ec7e6e55410" title=" " alt="" coords="965,1505,1180,1546"/>
-<area shape="rect" id="node30" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a53b1e6c607ccccefc748c23bccba97d0" title=" " alt="" coords="965,1594,1180,1635"/>
-<area shape="rect" id="node32" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#aad3d96348eedab03f9c9d1a0e79c3531" title=" " alt="" coords="615,1653,830,1694"/>
-<area shape="rect" id="node33" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a6f329e2a98231bcaf8ec9b217a67c280" title=" " alt="" coords="949,1735,1196,1777"/>
-<area shape="rect" id="node34" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="973,1825,1172,1866"/>
-<area shape="rect" id="node35" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1download__thread_1_1_download_thread.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="938,1914,1207,1955"/>
-<area shape="rect" id="node36" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_save_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="961,2003,1184,2045"/>
-<area shape="rect" id="node37" href="$classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1import__group_1_1_import_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="955,2093,1191,2134"/>
-<area shape="rect" id="node38" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="945,2182,1201,2223"/>
-<area shape="rect" id="node39" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1eos_1_1_check_for_update_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="937,2271,1208,2313"/>
-<area shape="rect" id="node40" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1ubisoft__activation_1_1_ubi_get_info_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="930,2361,1215,2402"/>
-<area shape="rect" id="node41" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1ubisoft__activation_1_1_ubi_connect_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="930,2450,1215,2491"/>
-<area shape="rect" id="node42" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="981,2539,1165,2581"/>
-<area shape="rect" id="node43" href="$classrare_1_1utils_1_1legendary__utils_1_1_verify_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="647,2642,798,2683"/>
-<area shape="rect" id="node44" href="$classrare_1_1utils_1_1misc_1_1_wine_resolver.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="969,2784,1176,2811"/>
-<area shape="rect" id="node45" href="$classrare_1_1utils_1_1misc_1_1_cloud_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="973,2859,1173,2885"/>
-<area shape="rect" id="node46" href="$classrare_1_1utils_1_1steam__grades_1_1_steam_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="993,2934,1152,2975"/>
-<area shape="rect" id="node47" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_api_request_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="961,3023,1184,3065"/>
-<area shape="rect" id="node48" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux_1_1_linux_settings.html#a2821e62640c02fc6b5a4932859bcce94" title=" " alt="" coords="935,3113,1210,3154"/>
-<area shape="rect" id="node49" href="$classrare_1_1utils_1_1legendary__utils_1_1_verify_worker.html#ae2f0b22c3f1097d8167f6117ebc587e7" title=" " alt="" coords="988,2680,1157,2736"/>
-<area shape="rect" id="node50" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#afa94b9774ff08ce2f0a53aded643221e" title=" " alt="" coords="961,3202,1184,3243"/>
+<area shape="rect" id="node26" href="$classrare_1_1game__launch__helper_1_1_pre_launch_thread.html#a24d4188c08722b8d6d5fb2b55a471848" title=" " alt="" coords="987,1311,1158,1367"/>
+<area shape="rect" id="node27" href="$classrare_1_1game__launch__helper_1_1_pre_launch_thread.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="638,1342,807,1383"/>
+<area shape="rect" id="node28" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a6b391e195ab48a2914ad9ec7e6e55410" title=" " alt="" coords="965,1415,1180,1457"/>
+<area shape="rect" id="node29" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a53b1e6c607ccccefc748c23bccba97d0" title=" " alt="" coords="965,1505,1180,1546"/>
+<area shape="rect" id="node31" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#aad3d96348eedab03f9c9d1a0e79c3531" title=" " alt="" coords="615,1561,830,1602"/>
+<area shape="rect" id="node32" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a6f329e2a98231bcaf8ec9b217a67c280" title=" " alt="" coords="949,1646,1196,1687"/>
+<area shape="rect" id="node34" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="973,1735,1172,1777"/>
+<area shape="rect" id="node35" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1download__thread_1_1_download_thread.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="938,1825,1207,1866"/>
+<area shape="rect" id="node36" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_save_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="961,1914,1184,1955"/>
+<area shape="rect" id="node37" href="$classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1import__group_1_1_import_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="955,2003,1191,2045"/>
+<area shape="rect" id="node38" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="945,2093,1201,2134"/>
+<area shape="rect" id="node39" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1eos_1_1_check_for_update_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="937,2182,1208,2223"/>
+<area shape="rect" id="node40" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1ubisoft__activation_1_1_ubi_get_info_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="930,2271,1215,2313"/>
+<area shape="rect" id="node41" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1ubisoft__activation_1_1_ubi_connect_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="930,2361,1215,2402"/>
+<area shape="rect" id="node42" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="981,2450,1165,2491"/>
+<area shape="rect" id="node43" href="$classrare_1_1utils_1_1legendary__utils_1_1_verify_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="647,2553,798,2594"/>
+<area shape="rect" id="node44" href="$classrare_1_1utils_1_1misc_1_1_wine_resolver.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="969,2695,1176,2721"/>
+<area shape="rect" id="node45" href="$classrare_1_1utils_1_1misc_1_1_cloud_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="973,2769,1173,2796"/>
+<area shape="rect" id="node46" href="$classrare_1_1utils_1_1steam__grades_1_1_steam_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="993,2845,1152,2886"/>
+<area shape="rect" id="node47" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_api_request_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="961,2934,1184,2975"/>
+<area shape="rect" id="node48" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux_1_1_linux_settings.html#a2821e62640c02fc6b5a4932859bcce94" title=" " alt="" coords="935,3023,1210,3065"/>
+<area shape="rect" id="node49" href="$classrare_1_1utils_1_1legendary__utils_1_1_verify_worker.html#ae2f0b22c3f1097d8167f6117ebc587e7" title=" " alt="" coords="988,2591,1157,2647"/>
+<area shape="rect" id="node50" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#afa94b9774ff08ce2f0a53aded643221e" title=" " alt="" coords="961,3113,1184,3154"/>
 <area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_copy_game_installation.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="585,597,860,638"/>
 <area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_process.html#a59c03cd7e6b87132c709e69907d4e0ed" title=" " alt="" coords="611,687,834,743"/>
 <area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#a6d84f785e188bb4dc5e05413dd1302ad" title=" " alt="" coords="611,791,834,833"/>
@@ -48,5 +47,6 @@
 <area shape="rect" id="node20" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html#abb32e37b8ffc3927ad711556854f45cb" title=" " alt="" coords="581,1029,864,1070"/>
 <area shape="rect" id="node23" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1uninstalled__icon__widget_1_1_uninstalled_icon_widget.html#a8a44b830de6069546248966ba9cf3c15" title=" " alt="" coords="601,1118,844,1189"/>
 <area shape="rect" id="node22" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a34dfac3ae00e55c098b07fd107a14daa" title=" " alt="" coords="5,1029,224,1070"/>
-<area shape="rect" id="node31" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#af127439f1e8c25c4b6fe5dcf178ae3f7" title=" " alt="" coords="615,1563,830,1605"/>
+<area shape="rect" id="node30" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#af127439f1e8c25c4b6fe5dcf178ae3f7" title=" " alt="" coords="615,1471,830,1513"/>
+<area shape="rect" id="node33" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a355f6c6c0e4751cd245486cbf1b9cde5" title="This function is to be called from the button only." alt="" coords="611,1650,834,1691"/>
 </map>

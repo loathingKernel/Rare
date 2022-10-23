@@ -28,7 +28,7 @@
 <text text-anchor="start" x="13.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ poke_timer()</text>
 <text text-anchor="start" x="13.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ re_login()</text>
 <text text-anchor="start" x="13.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ start_app()</text>
-<text text-anchor="start" x="13.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ exit_app()</text>
+<text text-anchor="start" x="13.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ on_exit_app()</text>
 </a>
 </g>
 </g>

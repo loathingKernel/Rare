@@ -8,7 +8,7 @@ var classrare_1_1components_1_1tabs_1_1_tab_widget =
     [ "account_widget", "classrare_1_1components_1_1tabs_1_1_tab_widget.html#a00a0921c2b880ff52eb24ae9b26d9020", null ],
     [ "args", "classrare_1_1components_1_1tabs_1_1_tab_widget.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1_tab_widget.html#ab65a1cfe05166d06195718a9587d7b86", null ],
-    [ "downloadTab", "classrare_1_1components_1_1tabs_1_1_tab_widget.html#a772aa12d93261febc4831ef96d533425", null ],
+    [ "downloads_tab", "classrare_1_1components_1_1tabs_1_1_tab_widget.html#ac2728c194fe2ab6e10e007426df25c6e", null ],
     [ "games_tab", "classrare_1_1components_1_1tabs_1_1_tab_widget.html#a050007279d8c604233783bc78266a4bc", null ],
     [ "settings", "classrare_1_1components_1_1tabs_1_1_tab_widget.html#a6cddb5e40c21eadd2ded85bc51f79822", null ],
     [ "signals", "classrare_1_1components_1_1tabs_1_1_tab_widget.html#a0de0a2c91773619dac1660c29940c55e", null ],
