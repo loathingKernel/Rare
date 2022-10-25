@@ -50,10 +50,7 @@ class CustomOption:
         tmp.input_field = TextInputField()
         tmp.var_name = var_name
         tmp.input_field.setPlaceholderText(str(placeholder))
-        if is_float:
-            validator = QDoubleValidator()
-        else:
-            validator = QIntValidator()
+        validator = QDoubleValidator() if is_float else QIntValidator()
         tmp.input_field.setValidator(validator)
         return tmp
 
@@ -126,10 +123,11 @@ class OverlaySettings(QGroupBox, Ui_OverlaySettings):
         elif self.show_overlay_combo.currentIndex() == 2:
             self.gb_options.setDisabled(False)
             # custom options
-            var_names = []
-            for var_name, cb in self.checkboxes.items():
-                if cb.isChecked():
-                    var_names.append(var_name)
+            var_names = [
+                var_name
+                for var_name, cb in self.checkboxes.items()
+                if cb.isChecked()
+            ]
 
             for var_name, input_field in self.values.items():
                 text = input_field.get_value()

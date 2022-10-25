@@ -178,9 +178,7 @@ class LaunchDialog(QDialog):
     def login(self):
         do_launch = True
         try:
-            if self.args.offline:
-                pass
-            else:
+            if not self.args.offline:
                 QApplication.instance().processEvents()
                 # Force an update check and notice in case there are API changes
                 self.core.check_for_updates(force=True)
@@ -251,15 +249,13 @@ class LaunchDialog(QDialog):
     def handle_api_worker_result(self, result, text):
         logger.debug(f"Api Request got from {text}")
         if text == "gamelist":
-            if result:
-                self.api_results.game_list, self.api_results.dlcs = result
-            else:
-                (
-                    self.api_results.game_list,
-                    self.api_results.dlcs,
-                ) = self.core.get_game_and_dlc_list(False)
+            (
+                self.api_results.game_list,
+                self.api_results.dlcs,
+            ) = result or self.core.get_game_and_dlc_list(False)
+
         elif text == "no_assets":
-            self.api_results.no_asset_games = result if result else []
+            self.api_results.no_asset_games = result or []
 
         elif text == "32bit":
             self.api_results.bit32_games = [i.app_name for i in result[0]] if result else []
@@ -288,5 +284,3 @@ class LaunchDialog(QDialog):
     def reject(self) -> None:
         if self.completed >= 3:
             super(LaunchDialog, self).reject()
-        else:
-            pass

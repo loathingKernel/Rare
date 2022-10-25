@@ -75,17 +75,16 @@ class SlidingStackedWidget(QStackedWidget):
         offsetx, offsety = self.frameRect().width(), self.frameRect().height()
         self.widget(_next).setGeometry(self.frameRect())
 
-        if not self.m_direction == Qt.Horizontal:
-            if _now < _next:
-                offsetx, offsety = 0, -offsety
-            else:
-                offsetx = 0
-        else:
+        if self.m_direction == Qt.Horizontal:
             if _now < _next:
                 offsetx, offsety = -offsetx, 0
             else:
                 offsety = 0
 
+        elif _now < _next:
+            offsetx, offsety = 0, -offsety
+        else:
+            offsetx = 0
         pnext = self.widget(_next).pos()
         pnow = self.widget(_now).pos()
         self.m_pnow = pnow

@@ -186,16 +186,13 @@ class EGLSyncListItem(QListWidgetItem):
 
     def action(self) -> str:
         error = ""
-        if self.export:
-            try:
+        try:
+            if self.export:
                 self.core.egl_export(self.game.app_name)
-            except LgndrException as ret:
-                error = ret.message
-        else:
-            try:
+            else:
                 self.core.egl_import(self.game.app_name)
-            except LgndrException as ret:
-                error = ret.message
+        except LgndrException as ret:
+            error = ret.message
         return error
 
     @property

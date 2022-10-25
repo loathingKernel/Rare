@@ -17,7 +17,7 @@ class LgndrWarning(RuntimeWarning):
 class LgndrCLILogHandler(logging.Handler):
     def emit(self, record: logging.LogRecord) -> None:
         # lk: FATAL is the same as CRITICAL
-        if record.levelno == logging.ERROR or record.levelno == logging.CRITICAL:
+        if record.levelno in [logging.ERROR, logging.CRITICAL]:
             raise LgndrException(record.getMessage())
         # if record.levelno < logging.ERROR or record.levelno == logging.WARNING:
         #     warnings.warn(record.getMessage())

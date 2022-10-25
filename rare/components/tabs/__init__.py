@@ -21,7 +21,7 @@ class TabWidget(QTabWidget):
         self.core = LegendaryCoreSingleton()
         self.signals = GlobalSignalsSingleton()
         self.args = ArgumentsSingleton()
-        disabled_tab = 3 if not self.args.offline else 1
+        disabled_tab = 1 if self.args.offline else 3
         self.setTabBar(MainTabBar(disabled_tab))
         # lk: Figure out why this adds a white line at the top
         # lk: despite setting qproperty-drawBase to 0 in the stylesheet
@@ -35,13 +35,16 @@ class TabWidget(QTabWidget):
             self.downloads_tab = DownloadsTab(self.games_tab.updates)
             self.addTab(
                 self.downloads_tab,
-                "Downloads"
-                + (
-                    " (" + str(len(self.games_tab.updates)) + ")"
-                    if len(self.games_tab.updates) != 0
-                    else ""
+                (
+                    "Downloads"
+                    + (
+                        f" ({len(self.games_tab.updates)})"
+                        if len(self.games_tab.updates) != 0
+                        else ""
+                    )
                 ),
             )
+
             self.store = Shop(self.core)
             self.addTab(self.store, self.tr("Store (Beta)"))
 
@@ -93,10 +96,13 @@ class TabWidget(QTabWidget):
     def update_dl_tab_text(self):
         num_downloads = len(
             set(
-                [i.options.app_name for i in self.downloads_tab.dl_queue]
-                + [i for i in self.downloads_tab.update_widgets.keys()]
+                (
+                    [i.options.app_name for i in self.downloads_tab.dl_queue]
+                    + list(self.downloads_tab.update_widgets.keys())
+                )
             )
         )
+
 
         if num_downloads != 0:
             self.setTabText(1, f"Downloads ({num_downloads})")

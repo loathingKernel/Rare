@@ -102,7 +102,7 @@ class RareApp(QApplication):
         if os.path.isfile(f := os.path.join(paths.resources_path, "languages", f"{lang}.qm")):
             self.translator.load(f)
             self.logger.info(f"Your language is supported: {lang}")
-        elif not lang == "en":
+        elif lang != "en":
             self.logger.info("Your language is not supported")
         self.installTranslator(self.translator)
 

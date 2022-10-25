@@ -50,18 +50,17 @@ class BrowserLogin(QFrame):
 
     @staticmethod
     def text_changed(text) -> Tuple[bool, str, str]:
-        if text:
-            text = text.strip()
-            if text.startswith("{") and text.endswith("}"):
-                try:
-                    text = json.loads(text).get("authorizationCode")
-                except json.JSONDecodeError:
-                    return False, text, IndicatorLineEdit.reasons.wrong_format
-            elif '"' in text:
-                text = text.strip('"')
-            return len(text) == 32, text, IndicatorLineEdit.reasons.wrong_format
-        else:
+        if not text:
             return False, text, ""
+        text = text.strip()
+        if text.startswith("{") and text.endswith("}"):
+            try:
+                text = json.loads(text).get("authorizationCode")
+            except json.JSONDecodeError:
+                return False, text, IndicatorLineEdit.reasons.wrong_format
+        elif '"' in text:
+            text = text.strip('"')
+        return len(text) == 32, text, IndicatorLineEdit.reasons.wrong_format
 
     def do_login(self):
         self.ui.status_label.setText(self.tr("Logging in..."))
@@ -80,9 +79,8 @@ class BrowserLogin(QFrame):
         if not webview_login.webview_available:
             logger.warning("You don't have webengine installed, you will need to manually copy the authorizationCode.")
             QDesktopServices.openUrl(QUrl(self.login_url))
+        elif webview_login.do_webview_login(callback_code=self.core.auth_ex_token):
+            logger.info("Successfully logged in as " f"{self.core.lgd.userdata['displayName']}")
+            self.success.emit()
         else:
-            if webview_login.do_webview_login(callback_code=self.core.auth_ex_token):
-                logger.info("Successfully logged in as " f"{self.core.lgd.userdata['displayName']}")
-                self.success.emit()
-            else:
-                logger.warning("Failed to login through browser.")
+            logger.warning("Failed to login through browser.")

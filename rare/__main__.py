@@ -81,7 +81,7 @@ def main():
         print(f"Rare {__version__} Codename: {code_name}")
         return
 
-    if args.subparser == "start" or args.subparser == "launch":
+    if args.subparser in ["start", "launch"]:
         from rare import game_launch_helper as helper
         helper.start_game(args)
         return

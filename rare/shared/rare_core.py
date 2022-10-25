@@ -78,16 +78,13 @@ class RareCore(QObject):
             if "Legendary" not in self._core.lgd.config.sections():
                 self._core.lgd.config.add_section("Legendary")
                 self._core.lgd.save_config()
-            # workaround if egl sync enabled, but no programdata_path
-            # programdata_path might be unset if logging in through the browser
             if self._core.egl_sync_enabled:
                 if self._core.egl.programdata_path is None:
                     self._core.lgd.config.remove_option("Legendary", "egl_sync")
                     self._core.lgd.save_config()
-                else:
-                    if not os.path.exists(self._core.egl.programdata_path):
-                        self._core.lgd.config.remove_option("Legendary", "egl_sync")
-                        self._core.lgd.save_config()
+                elif not os.path.exists(self._core.egl.programdata_path):
+                    self._core.lgd.config.remove_option("Legendary", "egl_sync")
+                    self._core.lgd.save_config()
         return self._core
 
     def image_manager(self, init: bool = False) -> ImageManager:

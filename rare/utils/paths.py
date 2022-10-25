@@ -13,10 +13,8 @@ for old_dir in [
     Path(QStandardPaths.writableLocation(QStandardPaths.CacheLocation), "rare"),
     Path(QStandardPaths.writableLocation(QStandardPaths.DataLocation), "rare"),
 ]:
-    if old_dir.exists():
-        # lk: case-sensitive matching on Winblows
-        if old_dir.stem in os.listdir(old_dir.parent):
-            shutil.rmtree(old_dir, ignore_errors=True)
+    if old_dir.exists() and old_dir.stem in os.listdir(old_dir.parent):
+        shutil.rmtree(old_dir, ignore_errors=True)
 
 
 # lk: TempLocation doesn't depend on OrganizationName or ApplicationName

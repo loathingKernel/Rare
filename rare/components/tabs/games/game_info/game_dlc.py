@@ -27,8 +27,8 @@ class GameDlc(QWidget, Ui_GameDlc):
         self.installed_dlc_scroll.setFrameStyle(QFrame.NoFrame)
 
         self.dlcs = dlcs
-        self.installed_dlc_widgets = list()
-        self.available_dlc_widgets = list()
+        self.installed_dlc_widgets = []
+        self.available_dlc_widgets = []
 
     def update_dlcs(self, app_name):
         self.game = self.core.get_game(app_name)

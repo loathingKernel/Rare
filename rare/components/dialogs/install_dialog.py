@@ -39,10 +39,11 @@ class InstallDialog(QDialog):
         self.dl_item = dl_item
         self.app_name = self.dl_item.options.app_name
         self.game = (
-            self.core.get_game(self.app_name)
-            if not self.dl_item.options.overlay
-            else Game(app_name=self.app_name, app_title="Epic Overlay")
+            Game(app_name=self.app_name, app_title="Epic Overlay")
+            if self.dl_item.options.overlay
+            else self.core.get_game(self.app_name)
         )
+
         self.ui.advanced_layout.setParent(None)
         self.advanced_widget = CollabsibleWidget(
             child_layout=self.ui.advanced_layout, title=self.tr("Advanced options"), parent=self
@@ -182,17 +183,16 @@ class InstallDialog(QDialog):
         sdl_name = get_sdl_appname(self.game.app_name)
         if not config_disable_sdl and sdl_name is not None:
             self.ui.sdl_list_text.hide()
-            # FIXME: this should be updated whenever platform changes
-            sdl_data = self.core.get_sdl_data(sdl_name, platform=platform)
-            if sdl_data:
+            if sdl_data := self.core.get_sdl_data(sdl_name, platform=platform):
                 for tag, info in sdl_data.items():
                     cb = TagCheckBox(info["name"], info["tags"])
                     if tag == "__required":
                         cb.setChecked(True)
                         cb.setDisabled(True)
-                    if self.config_tags is not None:
-                        if all(elem in self.config_tags for elem in info["tags"]):
-                            cb.setChecked(True)
+                    if self.config_tags is not None and all(
+                        elem in self.config_tags for elem in info["tags"]
+                    ):
+                        cb.setChecked(True)
                     self.ui.sdl_list_layout.addWidget(cb)
                     self.sdl_list_cbs.append(cb)
                 for cb in self.sdl_list_cbs:
@@ -203,7 +203,10 @@ class InstallDialog(QDialog):
             self.ui.sdl_list_frame.setEnabled(False)
 
     def get_options(self):
-        self.dl_item.options.base_path = self.install_dir_edit.text() if not self.update else None
+        self.dl_item.options.base_path = (
+            None if self.update else self.install_dir_edit.text()
+        )
+
 
         self.dl_item.options.max_workers = self.ui.max_workers_spin.value()
         self.dl_item.options.shared_memory = self.ui.max_memory_spin.value()
@@ -254,11 +257,11 @@ class InstallDialog(QDialog):
     def non_reload_option_changed(self, option: str):
         if option == "download_only":
             self.dl_item.options.no_install = self.ui.download_only_check.isChecked()
+        elif option == "install_prereqs":
+            self.dl_item.options.install_prereqs = self.ui.install_prereqs_check.isChecked()
         elif option == "shortcut":
             QSettings().setValue("create_shortcut", self.ui.shortcut_check.isChecked())
             self.dl_item.options.create_shortcut = self.ui.shortcut_check.isChecked()
-        elif option == "install_prereqs":
-            self.dl_item.options.install_prereqs = self.ui.install_prereqs_check.isChecked()
 
     def cancel_clicked(self):
         if self.config_tags:
@@ -277,30 +280,32 @@ class InstallDialog(QDialog):
 
     def on_worker_result(self, dl_item: InstallDownloadModel):
         self.dl_item.download = dl_item
-        download_size = self.dl_item.download.analysis.dl_size
         install_size = self.dl_item.download.analysis.install_size
-        if download_size:
-            self.ui.download_size_text.setText("{}".format(get_size(download_size)))
+        if download_size := self.dl_item.download.analysis.dl_size:
+            self.ui.download_size_text.setText(f"{get_size(download_size)}")
             self.ui.download_size_text.setStyleSheet("font-style: normal; font-weight: bold")
             self.ui.install_button.setEnabled(not self.options_changed)
         else:
             self.ui.install_size_text.setText(self.tr("Game already installed"))
             self.ui.install_size_text.setStyleSheet("font-style: italics; font-weight: normal")
-        self.ui.install_size_text.setText("{}".format(get_size(install_size)))
+        self.ui.install_size_text.setText(f"{get_size(install_size)}")
         self.ui.install_size_text.setStyleSheet("font-style: normal; font-weight: bold")
         self.ui.verify_button.setEnabled(self.options_changed)
         self.ui.cancel_button.setEnabled(True)
-        if pf.system() == "Windows" or ArgumentsSingleton().debug:
-            if dl_item.igame.prereq_info and not dl_item.igame.prereq_info.get("installed", False):
-                self.ui.install_prereqs_check.setEnabled(True)
-                self.ui.install_prereqs_label.setEnabled(True)
-                self.ui.install_prereqs_check.setChecked(True)
-                prereq_name = dl_item.igame.prereq_info.get("name", "")
-                prereq_path = os.path.split(dl_item.igame.prereq_info.get("path", ""))[-1]
-                prereq_desc = prereq_name if prereq_name else prereq_path
-                self.ui.install_prereqs_check.setText(
-                    self.tr("Also install: {}").format(prereq_desc)
-                )
+        if (
+            (pf.system() == "Windows" or ArgumentsSingleton().debug)
+            and dl_item.igame.prereq_info
+            and not dl_item.igame.prereq_info.get("installed", False)
+        ):
+            self.ui.install_prereqs_check.setEnabled(True)
+            self.ui.install_prereqs_label.setEnabled(True)
+            self.ui.install_prereqs_check.setChecked(True)
+            prereq_name = dl_item.igame.prereq_info.get("name", "")
+            prereq_path = os.path.split(dl_item.igame.prereq_info.get("path", ""))[-1]
+            prereq_desc = prereq_name or prereq_path
+            self.ui.install_prereqs_check.setText(
+                self.tr("Also install: {}").format(prereq_desc)
+            )
         if self.silent:
             self.close()
 
@@ -360,10 +365,12 @@ class InstallInfoWorker(QRunnable):
             if not self.dl_item.options.overlay:
                 cli = LegendaryCLI(self.core)
                 status = LgndrIndirectStatus()
-                result = cli.install_game(
-                    LgndrInstallGameArgs(**self.dl_item.options.as_install_kwargs(), indirect_status=status)
-                )
-                if result:
+                if result := cli.install_game(
+                    LgndrInstallGameArgs(
+                        **self.dl_item.options.as_install_kwargs(),
+                        indirect_status=status,
+                    )
+                ):
                     download = InstallDownloadModel(*result)
                 else:
                     raise LgndrException(status.message)
@@ -403,7 +410,4 @@ class TagCheckBox(QCheckBox):
         self.tags = tags
 
     def isChecked(self) -> Union[bool, List[str]]:
-        if super(TagCheckBox, self).isChecked():
-            return self.tags
-        else:
-            return False
+        return self.tags if super(TagCheckBox, self).isChecked() else False

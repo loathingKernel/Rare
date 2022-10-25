@@ -48,16 +48,18 @@ class ImageWidget(QWidget):
         if not pixmap.isNull():
             self._pixmap = pixmap
             self.paint_image = self.paint_image_cover
-            if not self._image_size:
-                self._transform = QTransform().scale(
-                    1 / pixmap.devicePixelRatioF(),
-                    1 / pixmap.devicePixelRatioF(),
-                )
-            else:
-                self._transform = QTransform().scale(
+            self._transform = (
+                QTransform().scale(
                     1 / pixmap.devicePixelRatioF() / self._image_size.divisor,
                     1 / pixmap.devicePixelRatioF() / self._image_size.divisor,
                 )
+                if self._image_size
+                else QTransform().scale(
+                    1 / pixmap.devicePixelRatioF(),
+                    1 / pixmap.devicePixelRatioF(),
+                )
+            )
+
             self.update()
 
     def setFixedSize(self, a0: ImageSize.Preset) -> None:

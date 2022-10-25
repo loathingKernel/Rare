@@ -109,25 +109,23 @@ class LegendarySettings(QWidget, Ui_LegendarySettings):
 
     @staticmethod
     def locale_edit_cb(text: str) -> Tuple[bool, str, str]:
-        if text:
-            if re.match("^[a-zA-Z]{2,3}[-_][a-zA-Z]{2,3}$", text):
-                language, country = text.replace("_", "-").split("-")
-                text = "-".join([language.lower(), country.upper()])
-            if bool(re.match("^[a-z]{2,3}-[A-Z]{2,3}$", text)):
-                return True, text, ""
-            else:
-                return False, text, IndicatorLineEdit.reasons.wrong_format
-
-        else:
+        if not text:
             return True, text, ""
+        if re.match("^[a-zA-Z]{2,3}[-_][a-zA-Z]{2,3}$", text):
+            language, country = text.replace("_", "-").split("-")
+            text = "-".join([language.lower(), country.upper()])
+        return (
+            (True, text, "")
+            if bool(re.match("^[a-z]{2,3}-[A-Z]{2,3}$", text))
+            else (False, text, IndicatorLineEdit.reasons.wrong_format)
+        )
 
     def locale_save_cb(self, text: str):
         if text:
             self.core.egs.language_code, self.core.egs.country_code = text.split("-")
             self.core.lgd.config.set("Legendary", "locale", text)
-        else:
-            if self.core.lgd.config.has_option("Legendary", "locale"):
-                self.core.lgd.config.remove_option("Legendary", "locale")
+        elif self.core.lgd.config.has_option("Legendary", "locale"):
+            self.core.lgd.config.remove_option("Legendary", "locale")
         self.core.lgd.save_config()
 
     def path_save(self, text: str):
@@ -168,7 +166,7 @@ class LegendarySettings(QWidget, Ui_LegendarySettings):
     def cleanup(self, keep_manifests: bool):
         before = self.core.lgd.get_dir_size()
         logger.debug("Removing app metadata...")
-        app_names = set(g.app_name for g in self.core.get_assets(update_assets=False))
+        app_names = {g.app_name for g in self.core.get_assets(update_assets=False)}
         self.core.lgd.clean_metadata(app_names)
 
         if not keep_manifests:

@@ -166,22 +166,20 @@ class PathEditIconProvider(QFileIconProvider):
 
     def __init__(self):
         super(PathEditIconProvider, self).__init__()
-        self.icon_types = dict()
+        self.icon_types = {}
         for idx, (icn, fallback) in enumerate(self.icons):
-            self.icon_types.update({idx - 1: qta_icon(icn, fallback, color="#eeeeee")})
+            self.icon_types[idx - 1] = qta_icon(icn, fallback, color="#eeeeee")
 
     def icon(self, info_type):
-        if isinstance(info_type, QFileInfo):
-            if info_type.isRoot():
-                return self.icon_types[4]
-            if info_type.isDir():
-                return self.icon_types[5]
-            if info_type.isFile():
-                return self.icon_types[6]
-            if info_type.isExecutable():
-                return self.icon_types[7]
-            return self.icon_types[-1]
-        return self.icon_types[int(info_type)]
+        if not isinstance(info_type, QFileInfo):
+            return self.icon_types[int(info_type)]
+        if info_type.isRoot():
+            return self.icon_types[4]
+        if info_type.isDir():
+            return self.icon_types[5]
+        if info_type.isFile():
+            return self.icon_types[6]
+        return self.icon_types[7] if info_type.isExecutable() else self.icon_types[-1]
 
 
 class PathEdit(IndicatorLineEdit):
@@ -427,10 +425,7 @@ class ImageLabel(QLabel):
         self.name = name
         for c in r'<>?":|\/* ':
             self.name = self.name.replace(c, "")
-        if self.img_size[0] > self.img_size[1]:
-            name_extension = "wide"
-        else:
-            name_extension = "tall"
+        name_extension = "wide" if self.img_size[0] > self.img_size[1] else "tall"
         self.name = f"{self.name}_{name_extension}.png"
         if not os.path.exists(os.path.join(self.path, self.name)):
             self.manager.get(url, self.image_ready)

@@ -110,10 +110,7 @@ def set_color_pallete(color_scheme: str):
 
 
 def get_color_schemes() -> List[str]:
-    colors = []
-    for file in QDir(":/schemes"):
-        colors.append(file)
-    return colors
+    return list(QDir(":/schemes"))
 
 
 def set_style_sheet(style_sheet: str):
@@ -132,17 +129,17 @@ def set_style_sheet(style_sheet: str):
 
 
 def get_style_sheets() -> List[str]:
-    styles = []
-    for file in QDir(":/stylesheets/"):
-        styles.append(file)
-    return styles
+    return list(QDir(":/stylesheets/"))
 
 
 def get_translations():
     langs = ["en"]
-    for i in os.listdir(os.path.join(resources_path, "languages")):
-        if i.endswith(".qm") and not i.startswith("qt_"):
-            langs.append(i.split(".")[0])
+    langs.extend(
+        i.split(".")[0]
+        for i in os.listdir(os.path.join(resources_path, "languages"))
+        if i.endswith(".qm") and not i.startswith("qt_")
+    )
+
     return langs
 
 
@@ -151,8 +148,7 @@ def get_latest_version():
         resp = requests.get(
             "https://api.github.com/repos/Dummerle/Rare/releases/latest"
         )
-        tag = resp.json()["tag_name"]
-        return tag
+        return resp.json()["tag_name"]
     except requests.exceptions.ConnectionError:
         return "0.0.0"
 
@@ -168,14 +164,13 @@ def get_rare_executable() -> List[str]:
     # lk: detect if nuitka
     if "__compiled__" in globals():
         executable = [sys.executable]
-    elif platform.system() == "Linux" or platform.system() == "Darwin":
+    elif platform.system() in ["Linux", "Darwin"]:
         if p := os.environ.get("APPIMAGE"):
             executable = [p]
+        elif sys.executable == os.path.abspath(sys.argv[0]):
+            executable = [sys.executable]
         else:
-            if sys.executable == os.path.abspath(sys.argv[0]):
-                executable = [sys.executable]
-            else:
-                executable = [sys.executable, os.path.abspath(sys.argv[0])]
+            executable = [sys.executable, os.path.abspath(sys.argv[0])]
     elif platform.system() == "Windows":
         executable = [sys.executable]
 
@@ -186,7 +181,7 @@ def get_rare_executable() -> List[str]:
             # be sure to start consoleless then
             executable[0] = executable[0].replace("python.exe", "pythonw.exe")
             if executable[1].endswith("rare"):
-                executable[1] = executable[1] + ".exe"
+                executable[1] = f"{executable[1]}.exe"
     else:
         executable = [sys.executable]
 

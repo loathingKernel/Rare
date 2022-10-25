@@ -131,10 +131,7 @@ class CloudSaveUtils(QObject):
         self.args = ArgumentsSingleton()
         self.api_results = ApiResultsSingleton()
         saves = self.api_results.saves
-        if not self.args.offline:
-            self.latest_saves = self.get_latest_saves(saves)
-        else:
-            self.latest_saves = dict()
+        self.latest_saves = {} if self.args.offline else self.get_latest_saves(saves)
         self.settings = QSettings()
 
         self.thread_pool = QThreadPool.globalInstance()
@@ -146,11 +143,11 @@ class CloudSaveUtils(QObject):
             if self.core.is_installed(igame.app_name) and game.supports_cloud_saves:
                 save_games.add(igame.app_name)
 
-        latest_saves = dict()
-        for s in sorted(saves, key=lambda a: a.datetime):
-            if s.app_name in save_games:
-                latest_saves[s.app_name] = s
-        return latest_saves
+        return {
+            s.app_name: s
+            for s in sorted(saves, key=lambda a: a.datetime)
+            if s.app_name in save_games
+        }
 
     def sync_before_launch_game(self, app_name, ignore_settings=False) -> int:
         if not ignore_settings:

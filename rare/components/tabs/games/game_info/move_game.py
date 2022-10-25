@@ -97,7 +97,7 @@ class MoveGamePopUp(QWidget):
         if not os.access(dir_selected, os.W_OK) or not os.access(self.install_path, os.W_OK):
             return helper_func("No write permission on destination path/current install path.")
 
-        if install_path == dest_path or install_path == dest_path_with_suffix:
+        if install_path in [dest_path, dest_path_with_suffix]:
             return helper_func("Same directory or parent directory selected.")
 
         if str(install_path) in str(dest_path):

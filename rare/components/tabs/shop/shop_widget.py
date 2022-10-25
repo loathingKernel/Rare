@@ -83,8 +83,7 @@ class ShopWidget(QScrollArea, Ui_ShopWidget):
 
     def add_wishlist_items(self, wishlist):
         for i in range(self.discount_widget.layout().count()):
-            item = self.discount_widget.layout().itemAt(i)
-            if item:
+            if item := self.discount_widget.layout().itemAt(i):
                 item.widget().deleteLater()
 
         if wishlist and wishlist[0] == "error":
@@ -119,8 +118,7 @@ class ShopWidget(QScrollArea, Ui_ShopWidget):
 
     def add_free_games(self, free_games: list):
         for i in range(self.free_widget.layout().count()):
-            item = self.free_widget.layout().itemAt(i)
-            if item:
+            if item := self.free_widget.layout().itemAt(i):
                 item.widget().deleteLater()
 
         if free_games and free_games[0] == "error":

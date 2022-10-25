@@ -35,10 +35,10 @@ class PreLaunchThread(QRunnable):
         self.args = args
 
     def run(self) -> None:
-        args = self.prepare_launch(self.args)
-        if not args:
+        if args := self.prepare_launch(self.args):
+            self.signals.ready_to_launch.emit(args)
+        else:
             return
-        self.signals.ready_to_launch.emit(args)
 
     def prepare_launch(self, args: InitArgs) -> Union[LaunchArgs, None]:
         try:

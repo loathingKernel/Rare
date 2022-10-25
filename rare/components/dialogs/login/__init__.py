@@ -122,11 +122,10 @@ class LoginDialog(QDialog):
 
     def login_successful(self):
         try:
-            if self.core.login():
-                self.logged_in = True
-                self.close()
-            else:
+            if not self.core.login():
                 raise ValueError("Login failed.")
+            self.logged_in = True
+            self.close()
         except Exception as e:
             logger.error(str(e))
             self.core.lgd.invalidate_userdata()

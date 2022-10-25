@@ -116,9 +116,8 @@ class GameSettings(DefaultGameSettings):
             config_helper.remove_option(self.game.app_name, option)
         config_helper.save_config()
 
-        if option == "wine_prefix":
-            if self.game.supports_cloud_saves:
-                self.compute_save_path()
+        if option == "wine_prefix" and self.game.supports_cloud_saves:
+            self.compute_save_path()
 
     def update_combobox(self, i, option):
         if self.change:
@@ -137,22 +136,18 @@ class GameSettings(DefaultGameSettings):
         super(GameSettings, self).load_settings(app_name)
         self.game = self.core.get_game(app_name)
         self.igame = self.core.get_installed_game(self.game.app_name)
-        if self.igame:
-            if self.igame.can_run_offline:
-                offline = self.core.lgd.config.get(self.game.app_name, "offline", fallback="unset")
-                if offline == "true":
-                    self.offline.setCurrentIndex(1)
-                elif offline == "false":
-                    self.offline.setCurrentIndex(2)
-                else:
-                    self.offline.setCurrentIndex(0)
-
-                self.offline.setEnabled(True)
+        if self.igame and self.igame.can_run_offline:
+            offline = self.core.lgd.config.get(self.game.app_name, "offline", fallback="unset")
+            if offline == "true":
+                self.offline.setCurrentIndex(1)
+            elif offline == "false":
+                self.offline.setCurrentIndex(2)
             else:
-                self.offline.setEnabled(False)
+                self.offline.setCurrentIndex(0)
+
+            self.offline.setEnabled(True)
         else:
             self.offline.setEnabled(False)
-
         skip_update = self.core.lgd.config.get(self.game.app_name, "skip_update_check", fallback="unset")
         if skip_update == "true":
             self.skip_update.setCurrentIndex(1)

@@ -67,7 +67,7 @@ class DefaultGameSettings(QWidget, Ui_GameSettings):
         self.game_settings_layout.addWidget(self.env_vars)
 
         if is_default:
-            for i in range(4):  # remove some entries which are not supported by default
+            for _ in range(4):
                 self.launch_settings_layout.removeRow(0)
 
             self.cloud_group.deleteLater()
@@ -80,9 +80,8 @@ class DefaultGameSettings(QWidget, Ui_GameSettings):
             config_helper.remove_option(self.game.app_name, option)
         config_helper.save_config()
 
-        if option == "wine_prefix":
-            if self.game.supports_cloud_saves:
-                self.compute_save_path()
+        if option == "wine_prefix" and self.game.supports_cloud_saves:
+            self.compute_save_path()
 
     def update_combobox(self, i, option):
         if self.change:

@@ -96,7 +96,7 @@ class DlQueueWidget(QGroupBox):
         for item in (self.layout().itemAt(i) for i in range(self.layout().count())):
             item.widget().deleteLater()
 
-        if len(dl_queue) == 0:
+        if not dl_queue:
             self.layout().addWidget(QLabel(self.tr("No downloads in queue")))
             self.setLayout(self.layout())
             return
