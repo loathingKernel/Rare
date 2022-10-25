@@ -77,18 +77,17 @@ class LinuxSettings(QWidget, Ui_LinuxSettings):
         if text:
             if section not in self.core.lgd.config.sections():
                 self.core.lgd.config.add_section(section)
-                logger.debug(f"Added {f'[{section}]'} configuration section")
+                logger.debug(f"Added [{section}] configuration section")
             self.core.lgd.config.set(section, setting, text)
-            logger.debug(f"Set {setting} in {f'[{section}]'} to {text}")
+            logger.debug(f"Set {setting} in [{section}] to {text}")
 
-        else:
-            if self.core.lgd.config.has_section(
+        elif self.core.lgd.config.has_section(
                 section
             ) and self.core.lgd.config.has_option(section, setting):
-                self.core.lgd.config.remove_option(section, setting)
-                logger.debug(f"Unset {setting} from {f'[{section}]'}")
-                if not self.core.lgd.config[section]:
-                    self.core.lgd.config.remove_section(section)
-                    logger.debug(f"Removed {f'[{section}]'} configuration section")
+            self.core.lgd.config.remove_option(section, setting)
+            logger.debug(f"Unset {setting} from [{section}]")
+            if not self.core.lgd.config[section]:
+                self.core.lgd.config.remove_section(section)
+                logger.debug(f"Removed [{section}] configuration section")
 
         self.core.lgd.save_config()

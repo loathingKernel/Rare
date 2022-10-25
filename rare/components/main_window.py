@@ -128,9 +128,8 @@ class MainWindow(QMainWindow):
     def timer_finished(self):
         file_path = lock_file()
         if os.path.exists(file_path):
-            file = open(file_path, "r")
-            action = file.read()
-            file.close()
+            with open(file_path, "r") as file:
+                action = file.read()
             if action.startswith("show"):
                 self.show()
             os.remove(file_path)
@@ -149,11 +148,10 @@ class MainWindow(QMainWindow):
     def closeEvent(self, e: QCloseEvent) -> None:
         # lk: `accept_close` is set to `True` by the `close()` method, overrides exiting to tray in `closeEvent()`
         # lk: ensures exiting instead of hiding when `close()` is called programmatically
-        if not self._accept_close:
-            if self.settings.value("sys_tray", False, bool):
-                self.hide()
-                e.ignore()
-                return
+        if not self._accept_close and self.settings.value("sys_tray", False, bool):
+            self.hide()
+            e.ignore()
+            return
         # FIXME: Fix this with the download tab redesign
         if not self.args.offline and self.tab_widget.downloads_tab.is_download_active:
             reply = QMessageBox.question(

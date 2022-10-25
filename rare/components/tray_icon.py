@@ -42,9 +42,13 @@ class TrayIcon(QSystemTrayIcon):
         elif games := sorted(
                 parent.tab_widget.games_tab.game_utils.game_meta.get_games(),
                 key=lambda x: x.last_played, reverse=True):
-            last_played: List[GameMeta] = games[0:5]
+            last_played: List[GameMeta] = games[:5]
         else:
-            last_played = [GameMeta(i.app_name) for i in sorted(installed, key=lambda x: x.title)][0:5]
+            last_played = [
+                GameMeta(i.app_name)
+                for i in sorted(installed, key=lambda x: x.title)
+            ][:5]
+
 
         self.game_actions: List[QAction] = []
 

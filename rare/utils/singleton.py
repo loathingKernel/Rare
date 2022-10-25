@@ -39,9 +39,9 @@ class SingleInstance(object):
                 .replace("/", "-")
                 .replace(":", "")
                 .replace("\\", "-")
-                + "-%s" % flavor_id
-                + ".lock"
-            )
+                + f"-{flavor_id}"
+            ) + ".lock"
+
             self.lockfile = os.path.normpath(f"{tempfile.gettempdir()}/{basename}")
 
         logger.debug(f"SingleInstance lockfile: {self.lockfile}")
@@ -86,5 +86,5 @@ class SingleInstance(object):
             if logger:
                 logger.warning(e)
             else:
-                print("Unloggable error: %s" % e)
+                print(f"Unloggable error: {e}")
             sys.exit(-1)

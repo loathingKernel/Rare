@@ -34,7 +34,7 @@ class InstallingGameWidget(QFrame):
         minilayout.setSpacing(0)
         miniwidget.setLayout(minilayout)
 
-        self.title_label = ElideLabel(f"<h4>Error</h4>", parent=miniwidget)
+        self.title_label = ElideLabel("<h4>Error</h4>", parent=miniwidget)
         self.title_label.setAlignment(Qt.AlignTop)
         self.title_label.setObjectName("game_widget")
         minilayout.addWidget(self.title_label, stretch=2)

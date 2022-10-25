@@ -55,27 +55,25 @@ def get_rating(app_name: str):
     if __grades_json is None:
         if os.path.exists(p := os.path.join(data_dir(), "steam_ids.json")):
             grades = json.loads(open(p).read())
-            __grades_json = grades
         else:
             grades = {}
-            __grades_json = grades
+        __grades_json = grades
     else:
         grades = __grades_json
 
-    if not grades.get(app_name):
-        if args.offline:
-            return "pending"
-        game = core.get_game(app_name)
-
-        steam_id = get_steam_id(game.app_title)
-        grade = get_grade(steam_id)
-        grades[app_name] = {"steam_id": steam_id, "grade": grade}
-        with open(os.path.join(data_dir(), "steam_ids.json"), "w") as f:
-            f.write(json.dumps(grades))
-            f.close()
-        return grade
-    else:
+    if grades.get(app_name):
         return grades[app_name].get("grade")
+    if args.offline:
+        return "pending"
+    game = core.get_game(app_name)
+
+    steam_id = get_steam_id(game.app_title)
+    grade = get_grade(steam_id)
+    grades[app_name] = {"steam_id": steam_id, "grade": grade}
+    with open(os.path.join(data_dir(), "steam_ids.json"), "w") as f:
+        f.write(json.dumps(grades))
+        f.close()
+    return grade
 
 
 # you should iniciate the module with the game's steam code
@@ -95,19 +93,15 @@ def get_grade(steam_code):
 
 def load_json() -> dict:
     file = os.path.join(cache_dir(), "game_list.json")
-    if not os.path.exists(file):
-        response = requests.get(url)
-        steam_ids = json.loads(response.text)["applist"]["apps"]
-        ids = {}
-        for game in steam_ids:
-            ids[game["name"]] = game["appid"]
-
-        with open(file, "w") as f:
-            f.write(json.dumps(ids))
-            f.close()
-        return ids
-    else:
+    if os.path.exists(file):
         return json.loads(open(file, "r").read())
+    response = requests.get(url)
+    steam_ids = json.loads(response.text)["applist"]["apps"]
+    ids = {game["name"]: game["appid"] for game in steam_ids}
+    with open(file, "w") as f:
+        f.write(json.dumps(ids))
+        f.close()
+    return ids
 
 
 def get_steam_id(title: str):
@@ -118,10 +112,8 @@ def get_steam_id(title: str):
     if __steam_ids_json is None:
         if not os.path.exists(file):
             response = requests.get(url)
-            ids = {}
             steam_ids = json.loads(response.text)["applist"]["apps"]
-            for game in steam_ids:
-                ids[game["name"]] = game["appid"]
+            ids = {game["name"]: game["appid"] for game in steam_ids}
             __steam_ids_json = ids
 
             with open(file, "w") as f:
@@ -138,10 +130,7 @@ def get_steam_id(title: str):
 
     else:
         steam_name = difflib.get_close_matches(title, ids.keys(), n=1)
-    if steam_name:
-        return ids[steam_name[0]]
-    else:
-        return 0
+    return ids[steam_name[0]] if steam_name else 0
 
 
 def check_time():  # this function check if it's time to update
@@ -151,11 +140,8 @@ def check_time():  # this function check if it's time to update
     today = date.today()
     day = 0  # it controls how many days it's necessary for an update
     for i in "ymd":
-        if i == "d":
-            day = 7
-        else:
-            day = 0
-        if int(today.strftime("%" + i)) > int(json_table["data"][i]) + day:
+        day = 7 if i == "d" else 0
+        if int(today.strftime(f"%{i}")) > int(json_table["data"][i]) + day:
             return 1
         else:
             return 0

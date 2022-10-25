@@ -115,12 +115,8 @@ class InstalledIconWidget(BaseInstalledWidget):
             else:
                 self.launch()
 
-        # right
-        elif e.button() == 2:
-            pass  # self.showMenu(e)
-
     def sync_finished(self, app_name):
-        if not app_name == self.game.app_name:
+        if app_name != self.game.app_name:
             return
         super().sync_finished(app_name)
         self.leaveEvent(None)

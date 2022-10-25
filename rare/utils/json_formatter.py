@@ -49,7 +49,7 @@ class QJsonTreeItem(object):
         self._key = ""
         self._value = ""
         self._type = None
-        self._children = list()
+        self._children = []
 
     def appendChild(self, item):
         self._children.append(item)
@@ -91,7 +91,7 @@ class QJsonTreeItem(object):
         self._type = typ
 
     @classmethod
-    def load(self, value, parent=None, sort=True):
+    def load(cls, value, parent=None, sort=True):
         rootItem = QJsonTreeItem(parent)
         rootItem.key = "root"
 
@@ -99,14 +99,14 @@ class QJsonTreeItem(object):
             items = sorted(value.items()) if sort else value.items()
 
             for key, value in items:
-                child = self.load(value, rootItem)
+                child = cls.load(value, rootItem)
                 child.key = key
                 child.type = type(value)
                 rootItem.appendChild(child)
 
         elif isinstance(value, list):
             for index, value in enumerate(value):
-                child = self.load(value, rootItem)
+                child = cls.load(value, rootItem)
                 child.key = index
                 child.type = type(value)
                 rootItem.appendChild(child)
@@ -138,7 +138,8 @@ class QJsonModel(QtCore.QAbstractItemModel):
 
         assert isinstance(
             document, (dict, list, tuple)
-        ), "`document` must be of dict, list or tuple, " "not %s" % type(document)
+        ), f"`document` must be of dict, list or tuple, not {type(document)}"
+
 
         self.beginResetModel()
 
@@ -182,14 +183,13 @@ class QJsonModel(QtCore.QAbstractItemModel):
                 return item.value
 
     def setData(self, index, value, role):
-        if role == QtCore.Qt.EditRole:
-            if index.column() == 1:
-                item = index.internalPointer()
-                item.value = str(value)
+        if role == QtCore.Qt.EditRole and index.column() == 1:
+            item = index.internalPointer()
+            item.value = str(value)
 
-                self.dataChanged.emit(index, index, [QtCore.Qt.EditRole])
+            self.dataChanged.emit(index, index, [QtCore.Qt.EditRole])
 
-                return True
+            return True
 
         return False
 
@@ -204,13 +204,8 @@ class QJsonModel(QtCore.QAbstractItemModel):
         if not self.hasIndex(row, column, parent):
             return QtCore.QModelIndex()
 
-        if not parent.isValid():
-            parentItem = self._rootItem
-        else:
-            parentItem = parent.internalPointer()
-
-        childItem = parentItem.child(row)
-        if childItem:
+        parentItem = parent.internalPointer() if parent.isValid() else self._rootItem
+        if childItem := parentItem.child(row):
             return self.createIndex(row, column, childItem)
         else:
             return QtCore.QModelIndex()
@@ -231,11 +226,7 @@ class QJsonModel(QtCore.QAbstractItemModel):
         if parent.column() > 0:
             return 0
 
-        if not parent.isValid():
-            parentItem = self._rootItem
-        else:
-            parentItem = parent.internalPointer()
-
+        parentItem = parent.internalPointer() if parent.isValid() else self._rootItem
         return parentItem.childCount()
 
     def columnCount(self, parent=QtCore.QModelIndex()):
@@ -244,10 +235,7 @@ class QJsonModel(QtCore.QAbstractItemModel):
     def flags(self, index):
         flags = super(QJsonModel, self).flags(index)
 
-        if index.column() == 1:
-            return QtCore.Qt.ItemIsEditable | flags
-        else:
-            return flags
+        return QtCore.Qt.ItemIsEditable | flags if index.column() == 1 else flags
 
     def genJson(self, item):
         nchild = item.childCount()

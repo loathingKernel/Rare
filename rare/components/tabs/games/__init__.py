@@ -95,8 +95,7 @@ class GamesTab(QStackedWidget):
 
         self.no_asset_names = []
         if not self.args.offline:
-            for game in self.no_assets:
-                self.no_asset_names.append(game.app_name)
+            self.no_asset_names.extend(game.app_name for game in self.no_assets)
         else:
             self.no_assets = []
 
@@ -223,10 +222,15 @@ class GamesTab(QStackedWidget):
             self.list_view.layout().addWidget(list_widget)
 
         for game in self.no_assets:
-            if not game.metadata.get("customAttributes", {}).get("ThirdPartyManagedApp", {}).get("value") == "Origin":
-                icon_widget, list_widget = self.add_uninstalled_widget(game)
-            else:
-                icon_widget, list_widget = self.add_installed_widget(game.app_name)
+            icon_widget, list_widget = (
+                self.add_installed_widget(game.app_name)
+                if game.metadata.get("customAttributes", {})
+                .get("ThirdPartyManagedApp", {})
+                .get("value")
+                == "Origin"
+                else self.add_uninstalled_widget(game)
+            )
+
             if not icon_widget or not list_widget:
                 logger.warning(f"Ignoring {game.app_name} in game list")
                 continue
@@ -444,20 +448,22 @@ class GamesTab(QStackedWidget):
 
         else:
             installed_names = [i.app_name for i in self.core.get_installed_list()]
-            # get Uninstalled games
-            uninstalled_names = []
             games = self.core.get_game_list(True)
-            for game in sorted(games, key=lambda x: x.app_title):
-                if not game.app_name in installed_names:
-                    uninstalled_names.append(game.app_name)
+            uninstalled_names = [
+                game.app_name
+                for game in sorted(games, key=lambda x: x.app_title)
+                if game.app_name not in installed_names
+            ]
 
             new_installed_games = list(
-                set(installed_names) - set([i.app_name for i in self.installed])
+                set(installed_names) - {i.app_name for i in self.installed}
             )
+
             new_uninstalled_games = list(
                 set(uninstalled_names)
-                - set([i.app_name for i in self.uninstalled_games])
+                - {i.app_name for i in self.uninstalled_games}
             )
+
 
             if (not new_uninstalled_games) and (not new_installed_games):
                 return

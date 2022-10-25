@@ -15,7 +15,7 @@ logger = getLogger("EOS")
 
 
 def get_wine_prefixes() -> List[str]:
-    prefixes = list()
+    prefixes = []
     if os.path.exists(p := os.path.expanduser("~/.wine")):
         prefixes.append(p)
 
@@ -78,8 +78,8 @@ class EosWidget(QGroupBox, Ui_EosWidget):
             self.select_pfx_combo.setVisible(False)
         else:
             self.current_prefix = os.path.expanduser("~/.wine") \
-                if os.path.exists(os.path.expanduser("~/.wine")) \
-                else None
+                    if os.path.exists(os.path.expanduser("~/.wine")) \
+                    else None
             pfxs = get_wine_prefixes()
             for pfx in pfxs:
                 self.select_pfx_combo.addItem(pfx.replace(os.path.expanduser("~/"), "~/"))
@@ -147,24 +147,15 @@ class EosWidget(QGroupBox, Ui_EosWidget):
         self.current_prefix = prefix
         reg_paths = eos.query_registry_entries(self.current_prefix)
 
-        overlay_enabled = False
-        if reg_paths['overlay_path'] and self.core.is_overlay_install(reg_paths['overlay_path']):
-            overlay_enabled = True
+        overlay_enabled = bool(
+            reg_paths['overlay_path']
+            and self.core.is_overlay_install(reg_paths['overlay_path'])
+        )
+
         self.enabled_cb.setChecked(overlay_enabled)
 
     def change_enable(self):
-        enabled = self.enabled_cb.isChecked()
-        if not enabled:
-            try:
-                eos.remove_registry_entries(self.current_prefix)
-            except PermissionError:
-                logger.error("Can't disable eos overlay")
-                QMessageBox.warning(self, "Error", self.tr(
-                    "Failed to disable Overlay. Probably it is installed by Epic Games Launcher"))
-                return
-            logger.info("Disabled Epic Overlay")
-            self.enabled_info_label.setText(self.tr("Disabled"))
-        else:
+        if enabled := self.enabled_cb.isChecked():
             if not self.overlay:
                 available_installs = self.core.search_overlay_installs(self.current_prefix)
                 if not available_installs:
@@ -183,7 +174,7 @@ class EosWidget(QGroupBox, Ui_EosWidget):
             reg_paths = eos.query_registry_entries(self.current_prefix)
             if old_path := reg_paths["overlay_path"]:
                 if os.path.normpath(old_path) == path:
-                    logger.info(f'Overlay already enabled, nothing to do.')
+                    logger.info('Overlay already enabled, nothing to do.')
                     return
                 else:
                     logger.info(f'Updating overlay registry entries from "{old_path}" to "{path}"')
@@ -203,12 +194,24 @@ class EosWidget(QGroupBox, Ui_EosWidget):
                 return
             self.enabled_info_label.setText(self.tr("Enabled"))
             logger.info(f'Enabled overlay at: {path}')
+        else:
+            try:
+                eos.remove_registry_entries(self.current_prefix)
+            except PermissionError:
+                logger.error("Can't disable eos overlay")
+                QMessageBox.warning(self, "Error", self.tr(
+                    "Failed to disable Overlay. Probably it is installed by Epic Games Launcher"))
+                return
+            logger.info("Disabled Epic Overlay")
+            self.enabled_info_label.setText(self.tr("Disabled"))
 
     def update_checkbox(self):
         reg_paths = eos.query_registry_entries(self.current_prefix)
-        enabled = False
-        if reg_paths['overlay_path'] and self.core.is_overlay_install(reg_paths['overlay_path']):
-            enabled = True
+        enabled = bool(
+            reg_paths['overlay_path']
+            and self.core.is_overlay_install(reg_paths['overlay_path'])
+        )
+
         self.enabled_cb.setChecked(enabled)
 
     def install_overlay(self, update=False):

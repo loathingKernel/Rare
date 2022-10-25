@@ -33,10 +33,12 @@ class PathSpec:
             os.path.expanduser("~/.wine"),
             os.path.expanduser("~/Games/epic-games-store"),
         ]
-        prefixes = []
-        for prefix in possible_prefixes:
-            if os.path.exists(os.path.join(prefix, self.wine_egl_programdata)):
-                prefixes.append(prefix)
+        prefixes = [
+            prefix
+            for prefix in possible_prefixes
+            if os.path.exists(os.path.join(prefix, self.wine_egl_programdata))
+        ]
+
         if not prefixes:
             return str()
         if not results:

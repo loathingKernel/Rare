@@ -20,11 +20,7 @@ class InstalledListWidget(BaseInstalledWidget):
         super(InstalledListWidget, self).__init__(app_name, pixmap, game_utils)
         self.setFrameStyle(self.StyledPanel)
         self.dev = self.game.metadata["developer"]
-        if self.igame:
-            self.size = self.igame.install_size
-        else:
-            self.size = 0
-
+        self.size = self.igame.install_size if self.igame else 0
         self.layout = QHBoxLayout()
         self.setLayout(self.layout)
         self.layout.addWidget(self.image)

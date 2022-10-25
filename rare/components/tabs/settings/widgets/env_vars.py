@@ -123,12 +123,12 @@ class EnvVars(QGroupBox, Ui_EnvVars):
         # get all table keys
         list_of_keys_in_table = []
         for i in range(row_count):
-            item = self.env_vars_table.item(i, 0)
-            if item:
+            if item := self.env_vars_table.item(i, 0):
                 list_of_keys_in_table.append(item.text())
 
-        missing_item = list(set(list_of_config_keys) - set(list_of_keys_in_table))
-        if len(missing_item) != 0:
+        if missing_item := list(
+            set(list_of_config_keys) - set(list_of_keys_in_table)
+        ):
             config_helper.remove_option(f"{self.app_name}.env", missing_item[0])
 
         # A env var always needs to have a key.
@@ -201,26 +201,20 @@ class EnvVars(QGroupBox, Ui_EnvVars):
                     self.append_row()
                     return
 
+            if self.latest_item in list_of_config_keys:
+                config_helper.remove_option(f"{self.app_name}.env", self.latest_item)
+                config_helper.save_config()
+
             # When the value_item is None, we just use an empty string for the value.
             if value_item is None:
-                if self.latest_item in list_of_config_keys:
-                    config_helper.remove_option(f"{self.app_name}.env", self.latest_item)
-                    config_helper.save_config()
-
                 config_helper.add_option(f"{self.app_name}.env", key_item.text(), "")
-                config_helper.save_config()
             else:
-                if self.latest_item in list_of_config_keys:
-                    config_helper.remove_option(f"{self.app_name}.env", self.latest_item)
-                    config_helper.save_config()
-
                 config_helper.add_option(
                     f"{self.app_name}.env",
                     key_item.text(),
                     value_item.text()
                 )
-                config_helper.save_config()
-
+            config_helper.save_config()
         self.append_row()
         self.config_file_watcher.addPath(str(self.core.lgd.config_path))
 
@@ -241,9 +235,7 @@ class EnvVars(QGroupBox, Ui_EnvVars):
         if key_item is not None:
             self.env_vars_table.removeRow(index)
         try:
-            list_of_keys = []
-            for key in self.core.lgd.config[f"{self.app_name}.env"]:
-                list_of_keys.append(key)
+            list_of_keys = list(self.core.lgd.config[f"{self.app_name}.env"])
             config_helper.remove_option(f"{self.app_name}.env", list_of_keys[index])
         except (KeyError, IndexError):
             pass
@@ -251,12 +243,10 @@ class EnvVars(QGroupBox, Ui_EnvVars):
 
     def check_if_item(self, item: QTableWidgetItem) -> bool:
         item_to_check = self.env_vars_table.findItems(item.text(), Qt.MatchExactly)
-        if item_to_check[0].column() == 0:
-            return False
-        return True
+        return item_to_check[0].column() != 0
 
     def keyPressEvent(self, e):
-        if e.key() == Qt.Key_Delete or e.key() == Qt.Key_Backspace:
+        if e.key() in [Qt.Key_Delete, Qt.Key_Backspace]:
             selected_items = self.env_vars_table.selectedItems()
 
             if len(selected_items) == 0:
@@ -267,25 +257,20 @@ class EnvVars(QGroupBox, Ui_EnvVars):
             # Our first selection is in column 0.  So, we have to find out if the user 
             # only selected keys, or keys and values. we use the check_if_item func
             if item_in_table[0].column() == 0:
-                which_index_to_use = 1
-                if len(selected_items) == 1:
-                    which_index_to_use = 0
+                which_index_to_use = 0 if len(selected_items) == 1 else 1
                 if self.check_if_item(selected_items[which_index_to_use]):
                     # User selected keys and values, so we skip the values
                     for i in selected_items[::2]:
                         if i:
                             config_helper.remove_option(f"{self.app_name}.env", i.text())
                             self.env_vars_table.removeRow(i.row())
-                    self.append_row()
                 else:
                     # user only selected keys
                     for i in selected_items:
                         if i:
                             config_helper.remove_option(f"{self.app_name}.env", i.text())
                             self.env_vars_table.removeRow(i.row())
-                    self.append_row()
-
-            # User only selected values, so we just set the text to ""
+                self.append_row()
             elif item_in_table[0].column() == 1:
                 [i.setText("") for i in selected_items]
 

@@ -30,9 +30,7 @@ def find_app_name(path: str, core) -> Optional[str]:
                 return app_name
     elif app_name := LegendaryCLI(core).resolve_aliases(os.path.basename(os.path.normpath(path))):
         # return None if game does not exist (Workaround for overlay)
-        if not core.get_game(app_name):
-            return None
-        return app_name
+        return app_name if core.get_game(app_name) else None
     else:
         logger.warning(f"Could not find AppName for {path}")
     return None
@@ -204,13 +202,12 @@ class ImportGroup(QGroupBox):
         self.threadpool = QThreadPool.globalInstance()
 
     def path_edit_cb(self, path) -> Tuple[bool, str, str]:
-        if os.path.exists(path):
-            if os.path.exists(os.path.join(path, ".egstore")):
-                return True, path, ""
-            elif os.path.basename(path) in self.install_dir_list:
-                return True, path, ""
-        else:
+        if not os.path.exists(path):
             return False, path, PathEdit.reasons.dir_not_exist
+        if os.path.exists(os.path.join(path, ".egstore")):
+            return True, path, ""
+        elif os.path.basename(path) in self.install_dir_list:
+            return True, path, ""
         return False, path, ""
 
     def path_changed(self, path):
@@ -309,11 +306,11 @@ class ImportGroup(QGroupBox):
                 parent=self,
             )
             messagebox.setWindowModality(Qt.NonModal)
-            details: List = []
-            for res in success:
-                details.append(
-                    self.tr("Success: {} imported").format(res.app_title)
-                )
+            details: List = [
+                self.tr("Success: {} imported").format(res.app_title)
+                for res in success
+            ]
+
             for res in failure:
                 details.append(
                     self.tr("Failed: {} - {}").format(res.app_title, res.message)

@@ -241,15 +241,14 @@ class GameInfo(QWidget, Ui_GameInfo):
 
                     response = warn_msg.exec()
 
-                    if response == 0:
-                        # Not using pathlib, since we can't delete not-empty folders. With shutil we can.
-                        if self.dest_path_with_suffix.is_dir():
-                            shutil.rmtree(self.dest_path_with_suffix)
-                        else:
-                            self.dest_path_with_suffix.unlink()
-                    else:
+                    if response != 0:
                         return
 
+                    # Not using pathlib, since we can't delete not-empty folders. With shutil we can.
+                    if self.dest_path_with_suffix.is_dir():
+                        shutil.rmtree(self.dest_path_with_suffix)
+                    else:
+                        self.dest_path_with_suffix.unlink()
         self.move_stack.addWidget(self.progress_of_moving)
         self.move_stack.setCurrentWidget(self.progress_of_moving)
 
@@ -381,11 +380,9 @@ class GameInfo(QWidget, Ui_GameInfo):
         if self.igame is not None:
             if self.game_moving == self.igame.app_name:
                 index = self.move_stack.addWidget(self.progress_of_moving)
-                self.move_stack.setCurrentIndex(index)
             else:
                 index = self.move_stack.addWidget(self.move_button)
-                self.move_stack.setCurrentIndex(index)
-
+            self.move_stack.setCurrentIndex(index)
         # If a game is verifying or moving, disable both verify and moving buttons.
         if len(self.verify_threads):
             self.verify_button.setEnabled(False)

@@ -15,7 +15,7 @@ def versiontuple(v):
     try:
         return tuple(map(int, (v.split("."))))
     except:
-        return tuple((9, 9, 9))  # It is a beta version and newer
+        return 9, 9, 9
 
 
 class About(QWidget, Ui_About):

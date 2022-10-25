@@ -27,7 +27,7 @@ class CollapsibleWidget(QWidget):
         toggleButton = self.toggleButton
         toggleButton.setToolButtonStyle(Qt.ToolButtonTextBesideIcon)
         toggleButton.setIcon(icon("fa.arrow-right"))
-        toggleButton.setText(str(title))
+        toggleButton.setText(title)
         toggleButton.setCheckable(True)
         toggleButton.setChecked(False)
 

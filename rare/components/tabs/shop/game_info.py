@@ -148,7 +148,7 @@ class ShopGameInfo(QWidget, Ui_shop_info):
         self.title.setText(self.game.title)
 
         self.price.setFont(QFont())
-        if self.game.price == "0" or self.game.price == 0:
+        if self.game.price in ["0", 0]:
             self.price.setText(self.tr("Free"))
         else:
             self.price.setText(self.game.price)

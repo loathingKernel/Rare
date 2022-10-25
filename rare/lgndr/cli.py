@@ -78,29 +78,26 @@ class LegendaryCLI(LegendaryCLIReal):
         # Rare: Rare checks this before calling 'install_game'
 
         if args.platform not in game.asset_infos:
-            if not args.no_install:
-                if self.core.lgd.config.getboolean('Legendary', 'install_platform_fallback', fallback=True):
-                    logger.warning(f'App has no asset for platform "{args.platform}", falling back to "Windows".')
-                    args.platform = 'Windows'
-                else:
-                    logger.error(f'No app asset found for platform "{args.platform}", run '
-                                 f'"legendary info --platform {args.platform}" and make '
-                                 f'sure the app is available for the specified platform.')
-                    return
-            else:
+            if args.no_install:
                 logger.warning(f'No asset found for platform "{args.platform}", '
                                f'trying anyway since --no-install is set.')
 
+            elif self.core.lgd.config.getboolean('Legendary', 'install_platform_fallback', fallback=True):
+                logger.warning(f'App has no asset for platform "{args.platform}", falling back to "Windows".')
+                args.platform = 'Windows'
+            else:
+                logger.error(f'No app asset found for platform "{args.platform}", run '
+                             f'"legendary info --platform {args.platform}" and make '
+                             f'sure the app is available for the specified platform.')
+                return
         if game.is_dlc:
             logger.info('Install candidate is DLC')
             app_name = game.metadata['mainGameItem']['releaseInfo'][0]['appId']
             base_game = self.core.get_game(app_name)
             # check if base_game is actually installed
-            if not self.core.is_installed(app_name):
-                # download mode doesn't care about whether something's installed
-                if not args.no_install:
-                    logger.fatal(f'Base game "{app_name}" is not installed!')
-                    return
+            if not self.core.is_installed(app_name) and not args.no_install:
+                logger.fatal(f'Base game "{app_name}" is not installed!')
+                return
         else:
             base_game = None
 
@@ -125,7 +122,6 @@ class LegendaryCLI(LegendaryCLIReal):
         # remove config flag if SDL is reset
         if config_disable_sdl and args.reset_sdl and not args.disable_sdl:
             self.core.lgd.config.remove_option(game.app_name, 'disable_sdl')
-        # if config flag is not yet set, set it and remove previous install tags
         elif not config_disable_sdl and args.disable_sdl:
             logger.info('Clearing install tags from config and disabling SDL for title.')
             if config_tags:
@@ -133,14 +129,14 @@ class LegendaryCLI(LegendaryCLIReal):
                 config_tags = None
             self.core.lgd.config.set(game.app_name, 'disable_sdl', True)
             sdl_enabled = False
-        # just disable SDL, but keep config tags that have been manually specified
-        elif config_disable_sdl or args.disable_sdl:
+        elif config_disable_sdl:
             sdl_enabled = False
 
         if sdl_enabled and ((sdl_name := get_sdl_appname(game.app_name)) is not None):
             if not self.core.is_installed(game.app_name) or config_tags is None or args.reset_sdl:
-                sdl_data = self.core.get_sdl_data(sdl_name, platform=args.platform)
-                if sdl_data:
+                if sdl_data := self.core.get_sdl_data(
+                    sdl_name, platform=args.platform
+                ):
                     if args.skip_sdl:
                         args.install_tag = ['']
                         if '__required' in sdl_data:
@@ -157,12 +153,13 @@ class LegendaryCLI(LegendaryCLIReal):
             logger.info(f'Saving install tags for "{game.app_name}" to config: {config_tags}')
             self.core.lgd.config.set(game.app_name, 'install_tags', config_tags)
         elif not game.is_dlc:
-            if config_tags and args.reset_sdl:
-                logger.info('Clearing install tags from config.')
-                self.core.lgd.config.remove_option(game.app_name, 'install_tags')
-            elif config_tags:
-                logger.info(f'Using install tags from config: {config_tags}')
-                args.install_tag = config_tags.split(',')
+            if config_tags:
+                if args.reset_sdl:
+                    logger.info('Clearing install tags from config.')
+                    self.core.lgd.config.remove_option(game.app_name, 'install_tags')
+                else:
+                    logger.info(f'Using install tags from config: {config_tags}')
+                    args.install_tag = config_tags.split(',')
 
         logger.info(f'Preparing download for "{game.app_title}" ({game.app_name})...')
         # todo use status queue to print progress from CLI
@@ -246,8 +243,7 @@ class LegendaryCLI(LegendaryCLIReal):
                 if (game.supports_cloud_saves or game.supports_mac_cloud_saves) and args.save_path:
                     igame.save_path = args.save_path
 
-                postinstall = self.core.install_game(igame)
-                if postinstall:
+                if postinstall := self.core.install_game(igame):
                     self._handle_postinstall(postinstall, igame, skip_prereqs=args.yes, choice=args.install_prereqs)
 
                 dlcs = self.core.get_dlc_for_game(game.app_name)
@@ -349,9 +345,10 @@ class LegendaryCLI(LegendaryCLIReal):
             logger.error(f'Game {args.app_name} not installed, cannot uninstall!')
             return
 
-        if not args.yes:
-            if not get_boolean_choice(f'Do you wish to uninstall "{igame.title}"?', default=False):
-                return
+        if not args.yes and not get_boolean_choice(
+            f'Do you wish to uninstall "{igame.title}"?', default=False
+        ):
+            return
 
         try:
             if not igame.is_dlc:
@@ -415,7 +412,7 @@ class LegendaryCLI(LegendaryCLIReal):
 
         # build list of hashes
         if config_tags := self.core.lgd.config.get(args.app_name, 'install_tags', fallback=None):
-            install_tags = set(i.strip() for i in config_tags.split(','))
+            install_tags = {i.strip() for i in config_tags.split(',')}
             file_list = [
                 (f.filename, f.sha_hash.hex())
                 for f in files
@@ -474,14 +471,15 @@ class LegendaryCLI(LegendaryCLIReal):
                 f.write('\n'.join(repair_file))
             logger.debug(f'Written repair file to "{repair_filename}"')
 
-        if not missing and not failed:
-            logger.info('Verification finished successfully.')
-            return 0, 0
-        else:
+        if missing or failed:
             logger.error(f'Verification failed, {len(failed)} file(s) corrupted, {len(missing)} file(s) are missing.')
             if print_command:
                 logger.info(f'Run "legendary repair {args.app_name}" to repair your game installation.')
             return len(failed), len(missing)
+
+        else:
+            logger.info('Verification finished successfully.')
+            return 0, 0
 
     def import_game(self, args: LgndrImportGameArgs) -> None:
         # Override logger for the local context to use message as part of the indirect return value
@@ -511,8 +509,9 @@ class LegendaryCLI(LegendaryCLIReal):
             return
 
         if game.is_dlc:
-            release_info = game.metadata.get('mainGameItem', {}).get('releaseInfo')
-            if release_info:
+            if release_info := game.metadata.get('mainGameItem', {}).get(
+                'releaseInfo'
+            ):
                 main_game_appname = release_info[0]['appId']
                 main_game_title = game.metadata['mainGameItem']['title']
                 if not self.core.is_installed(main_game_appname):
@@ -520,7 +519,7 @@ class LegendaryCLI(LegendaryCLIReal):
                                  f'(App name: "{main_game_appname}") is not installed!')
                     return
             else:
-                logger.fatal(f'Unable to get base game information for DLC, cannot continue.')
+                logger.fatal('Unable to get base game information for DLC, cannot continue.')
                 return
 
         # get everything needed for import from core, then run additional checks.
@@ -563,15 +562,16 @@ class LegendaryCLI(LegendaryCLIReal):
             logger.info(f'Installation had Epic Games Launcher metadata for version "{igame.version}", '
                         f'verification will not be required.')
 
-        # check for importable DLC
-        if not args.skip_dlcs:
-            dlcs = self.core.get_dlc_for_game(game.app_name)
-            if dlcs:
+        if dlcs := self.core.get_dlc_for_game(game.app_name):
+            if not args.skip_dlcs:
                 logger.info(f'Found {len(dlcs)} items of DLC that could be imported.')
-                import_dlc = True
-                if not args.yes and not args.with_dlcs:
-                    if not get_boolean_choice(f'Do you wish to automatically attempt to import all DLCs?'):
-                        import_dlc = False
+                import_dlc = bool(
+                    args.yes
+                    or args.with_dlcs
+                    or get_boolean_choice(
+                        'Do you wish to automatically attempt to import all DLCs?'
+                    )
+                )
 
                 if import_dlc:
                     for dlc in dlcs:
@@ -615,7 +615,7 @@ class LegendaryCLI(LegendaryCLIReal):
                                 f'"legendary move {app_name} "{args.new_path}" --skip-move"')
                 return
         else:
-            logger.info(f'Not moving, just rewriting legendary metadata...')
+            logger.info('Not moving, just rewriting legendary metadata...')
 
         igame.install_path = new_path
         self.core.install_game(igame)

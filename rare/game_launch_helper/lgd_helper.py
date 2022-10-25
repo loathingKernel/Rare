@@ -81,25 +81,28 @@ def get_origin_params(core: LegendaryCore, app_name, offline: bool,
 
 def get_game_params(core: LegendaryCore, igame: InstalledGame, args: InitArgs,
                     launch_args: LaunchArgs) -> LaunchArgs:
-    if not args.offline:  # skip for update
-        if not args.skip_update_check and not core.is_noupdate_game(igame.app_name):
-            print("Checking for updates...")
-            # check updates
-            try:
-                latest = core.get_asset(
-                    igame.app_name, igame.platform, update=False
-                )
-            except ValueError:
-                raise GameArgsError("Metadata doesn't exist")
-            else:
-                if latest.build_version != igame.version:
-                    raise GameArgsError("Game is not up to date. Please update first")
+    if (
+        not args.offline
+        and not args.skip_update_check
+        and not core.is_noupdate_game(igame.app_name)
+    ):
+        print("Checking for updates...")
+        # check updates
+        try:
+            latest = core.get_asset(
+                igame.app_name, igame.platform, update=False
+            )
+        except ValueError:
+            raise GameArgsError("Metadata doesn't exist")
+        else:
+            if latest.build_version != igame.version:
+                raise GameArgsError("Game is not up to date. Please update first")
 
     params: LaunchParameters = core.get_launch_parameters(
         app_name=igame.app_name, offline=args.offline
     )
 
-    full_params = list()
+    full_params = []
 
     if os.environ.get("container") == "flatpak":
         full_params.extend(["flatpak-spawn", "--host"])
@@ -129,7 +132,7 @@ def get_launch_args(core: LegendaryCore, args: InitArgs = None) -> LaunchArgs:
     resp = LaunchArgs()
 
     if not game:
-        raise GameArgsError(f"Could not find metadata for ")
+        raise GameArgsError("Could not find metadata for ")
 
     if game.third_party_store == "Origin":
         args.offline = False

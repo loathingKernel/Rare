@@ -155,10 +155,19 @@ class WrapperSettings(QWidget, Ui_WrapperSettings):
                 QMessageBox.warning(self, "Warning", self.tr("Wrapper is already in the list"))
                 return
 
-            if show_text != "proton" and not shutil.which(text.split()[0]):
-                if QMessageBox.question(self, "Warning", self.tr("Wrapper is not in $PATH. Ignore? "),
-                                        QMessageBox.Yes | QMessageBox.No, QMessageBox.No) == QMessageBox.No:
-                    return
+            if (
+                show_text != "proton"
+                and not shutil.which(text.split()[0])
+                and QMessageBox.question(
+                    self,
+                    "Warning",
+                    self.tr("Wrapper is not in $PATH. Ignore? "),
+                    QMessageBox.Yes | QMessageBox.No,
+                    QMessageBox.No,
+                )
+                == QMessageBox.No
+            ):
+                return
 
             if text == "proton":
                 QMessageBox.warning(self, "Warning", self.tr("Do not insert proton manually. Add it in proton settings"))
@@ -182,8 +191,7 @@ class WrapperSettings(QWidget, Ui_WrapperSettings):
             self.save()
 
     def delete_wrapper(self, text: str):
-        widget = self.wrappers.get(text, None)
-        if widget:
+        if widget := self.wrappers.get(text, None):
             self.wrappers.pop(text)
             widget.deleteLater()
 

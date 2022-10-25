@@ -29,11 +29,6 @@ from rare.lgndr.core import LegendaryCore
 from rare.models.signals import GlobalSignals
 from rare.utils.paths import image_dir, resources_path
 
-# from requests_futures.sessions import FuturesSession
-
-if TYPE_CHECKING:
-    pass
-
 logger = getLogger("ImageManager")
 
 
@@ -44,10 +39,7 @@ class ImageSize:
             self.__divisor = divisor
             self.__pixel_ratio = pixel_ratio
             self.__size = QSize(self.__img_factor * 3, self.__img_factor * 4) * pixel_ratio / divisor
-            # lk: for prettier images set this to true
-            self.__smooth_transform: bool = False
-            if divisor > 2:
-                self.__smooth_transform = False
+            self.__smooth_transform = False
 
         @property
         def size(self) -> QSize:
@@ -146,25 +138,28 @@ class ImageManager(QObject):
             self.__img_dir(game.app_name).mkdir()
 
         # Load image checksums
-        if not self.__img_json(game.app_name).is_file():
-            json_data: Dict = dict(zip(self.__img_types, [None] * len(self.__img_types)))
-        else:
-            json_data = json.load(open(self.__img_json(game.app_name), "r"))
+        json_data = (
+            json.load(open(self.__img_json(game.app_name), "r"))
+            if self.__img_json(game.app_name).is_file()
+            else dict(zip(self.__img_types, [None] * len(self.__img_types)))
+        )
 
         # lk: fast path for games without images, convert Rare's logo
-        if not game.metadata.get("keyImages", False):
-            if not self.__img_color(game.app_name).is_file() or not self.__img_gray(game.app_name).is_file():
-                cache_data: Dict = dict(zip(self.__img_types, [None] * len(self.__img_types)))
-                cache_data["DieselGameBoxTall"] = open(
-                    resources_path.joinpath("images", "cover.png"), "rb"
-                ).read()
-                # cache_data["DieselGameBoxLogo"] = open(
-                #         resources_path.joinpath("images", "Rare_nonsquared.png"), "rb").read()
-                self.__convert(game, cache_data)
-                json_data["cache"] = None
-                json_data["scale"] = ImageSize.Image.pixel_ratio
-                json_data["size"] = ImageSize.Image.size.__str__()
-                json.dump(json_data, open(self.__img_json(game.app_name), "w"))
+        if not game.metadata.get("keyImages", False) and (
+            not self.__img_color(game.app_name).is_file()
+            or not self.__img_gray(game.app_name).is_file()
+        ):
+            cache_data: Dict = dict(zip(self.__img_types, [None] * len(self.__img_types)))
+            cache_data["DieselGameBoxTall"] = open(
+                resources_path.joinpath("images", "cover.png"), "rb"
+            ).read()
+            # cache_data["DieselGameBoxLogo"] = open(
+            #         resources_path.joinpath("images", "Rare_nonsquared.png"), "rb").read()
+            self.__convert(game, cache_data)
+            json_data["cache"] = None
+            json_data["scale"] = ImageSize.Image.pixel_ratio
+            json_data["size"] = ImageSize.Image.size.__str__()
+            json.dump(json_data, open(self.__img_json(game.app_name), "w"))
 
         # lk: Find updates or initialize if images are missing.
         # lk: `updates` will be empty for games without images
@@ -172,20 +167,22 @@ class ImageManager(QObject):
         if not self.__img_color(game.app_name).is_file() or not self.__img_gray(game.app_name).is_file():
             updates = [image for image in game.metadata["keyImages"] if image["type"] in self.__img_types]
         else:
-            updates = list()
-            for image in game.metadata["keyImages"]:
-                if image["type"] in self.__img_types:
-                    if json_data[image["type"]] != image["md5"]:
-                        updates.append(image)
+            updates = [
+                image
+                for image in game.metadata["keyImages"]
+                if image["type"] in self.__img_types
+                and json_data[image["type"]] != image["md5"]
+            ]
 
         return updates, json_data
 
     def __download(self, updates, json_data, game, use_async: bool = False) -> bool:
         # Decompress existing image.cache
-        if not self.__img_cache(game.app_name).is_file():
-            cache_data = dict(zip(self.__img_types, [None] * len(self.__img_types)))
-        else:
-            cache_data = self.__decompress(game)
+        cache_data = (
+            self.__decompress(game)
+            if self.__img_cache(game.app_name).is_file()
+            else dict(zip(self.__img_types, [None] * len(self.__img_types)))
+        )
 
         # lk: filter updates again against the cache now that it is available
         updates = [
@@ -244,11 +241,14 @@ class ImageManager(QObject):
             if force and image.exists():
                 image.unlink(missing_ok=True)
 
-        cover_data = None
-        for image_type in self.__img_types:
-            if images[image_type] is not None:
-                cover_data = images[image_type]
-                break
+        cover_data = next(
+            (
+                images[image_type]
+                for image_type in self.__img_types
+                if images[image_type] is not None
+            ),
+            None,
+        )
 
         cover = QImage()
         cover.loadFromData(cover_data)
@@ -291,10 +291,9 @@ class ImageManager(QObject):
         )
 
     def __compress(self, game: Game, data: Dict) -> None:
-        archive = open(self.__img_cache(game.app_name), "wb")
-        cdata = zlib.compress(pickle.dumps(data), level=-1)
-        archive.write(cdata)
-        archive.close()
+        with open(self.__img_cache(game.app_name), "wb") as archive:
+            cdata = zlib.compress(pickle.dumps(data), level=-1)
+            archive.write(cdata)
 
     def __decompress(self, game: Game) -> Dict:
         archive = open(self.__img_cache(game.app_name), "rb")
@@ -314,7 +313,7 @@ class ImageManager(QObject):
         if not updates:
             load_callback(game)
             return
-        if updates and game.app_name not in self.__worker_app_names:
+        if game.app_name not in self.__worker_app_names:
             image_worker = ImageManager.Worker(self.__download, updates, json_data, game)
             self.__worker_app_names.append(game.app_name)
 
@@ -326,8 +325,7 @@ class ImageManager(QObject):
         updates, json_data = self.__prepare_download(game, force)
         if not updates:
             return
-        if updates:
-            self.__download(updates, json_data, game, use_async=True)
+        self.__download(updates, json_data, game, use_async=True)
 
     def __get_cover(
         self, container: Union[Type[QPixmap], Type[QImage]], app_name: str, color: bool = True
@@ -338,9 +336,8 @@ class ImageManager(QObject):
         if color:
             if self.__img_color(app_name).is_file():
                 ret.load(str(self.__img_color(app_name)))
-        else:
-            if self.__img_gray(app_name).is_file():
-                ret.load(str(self.__img_gray(app_name)))
+        elif self.__img_gray(app_name).is_file():
+            ret.load(str(self.__img_gray(app_name)))
         if not ret.isNull():
             ret.setDevicePixelRatio(ImageSize.Image.pixel_ratio)
             # lk: Scaling happens at painting. It might be inefficient so leave this here as an alternative
@@ -357,8 +354,7 @@ class ImageManager(QObject):
         @param color: True to load the colored pixmap, False to load the grayscale
         @return: QPixmap
         """
-        pixmap: QPixmap = self.__get_cover(QPixmap, app_name, color)
-        return pixmap
+        return self.__get_cover(QPixmap, app_name, color)
 
     def get_image(self, app_name: str, color: bool = True) -> QImage:
         """
@@ -368,5 +364,4 @@ class ImageManager(QObject):
         @param color: True to load the colored image, False to load the grayscale
         @return: QImage
         """
-        image: QImage = self.__get_cover(QImage, app_name, color)
-        return image
+        return self.__get_cover(QImage, app_name, color)

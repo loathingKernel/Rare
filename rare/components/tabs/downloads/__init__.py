@@ -150,12 +150,10 @@ class DownloadsTab(QWidget, Ui_DownloadsTab):
     @pyqtSlot(DownloadThread.ReturnStatus)
     def status(self, result: DownloadThread.ReturnStatus):
         if result.ret_code == result.ReturnCode.FINISHED:
-            if result.shortcuts:
-                if not create_desktop_link(result.app_name, self.core, "desktop"):
-                    # maybe add it to download summary, to show in finished downloads
-                    pass
-                else:
-                    logger.info("Desktop shortcut written")
+            if result.shortcuts and create_desktop_link(
+                result.app_name, self.core, "desktop"
+            ):
+                logger.info("Desktop shortcut written")
 
             self.dl_name.setText(self.tr("Download finished. Reload library"))
             logger.info(f"Download finished: {self.active_game.app_title}")
@@ -163,10 +161,12 @@ class DownloadsTab(QWidget, Ui_DownloadsTab):
             game = self.active_game
             self.active_game = None
 
-            if self.dl_queue:
-                if self.dl_queue[0].download.game.app_name == game.app_name:
-                    self.dl_queue.pop(0)
-                    self.queue_widget.update_queue(self.dl_queue)
+            if (
+                self.dl_queue
+                and self.dl_queue[0].download.game.app_name == game.app_name
+            ):
+                self.dl_queue.pop(0)
+                self.queue_widget.update_queue(self.dl_queue)
 
             if game.app_name in self.update_widgets.keys():
                 igame = self.core.get_installed_game(game.app_name)
@@ -241,10 +241,9 @@ class DownloadsTab(QWidget, Ui_DownloadsTab):
                 w.update_button.setDisabled(True)
                 w.update_with_settings.setDisabled(True)
             self.signals.set_main_tab_index.emit(1)
-        else:
-            if w := self.update_widgets.get(download_item.options.app_name):
-                w.update_button.setDisabled(False)
-                w.update_with_settings.setDisabled(False)
+        elif w := self.update_widgets.get(download_item.options.app_name):
+            w.update_button.setDisabled(False)
+            w.update_with_settings.setDisabled(False)
 
     def get_install_options(self, options: InstallOptionsModel):
 

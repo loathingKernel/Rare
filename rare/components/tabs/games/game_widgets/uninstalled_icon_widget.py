@@ -50,10 +50,6 @@ class UninstalledIconWidget(BaseUninstalledWidget):
         if e.button() == 1 and not self.installing:
             self.install()
 
-        # right
-        elif e.button() == 2:
-            pass  # self.showMenu(e)
-
     def enterEvent(self, e):
         if not self.installing:
             self.info_label.setText(self.tr("Game Info"))

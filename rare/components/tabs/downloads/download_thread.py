@@ -92,8 +92,7 @@ class DownloadThread(QThread):
                 return
 
             if not self.item.options.no_install:
-                postinstall = self.core.install_game(self.item.download.igame)
-                if postinstall:
+                if postinstall := self.core.install_game(self.item.download.igame):
                     # LegendaryCLI(self.core)._handle_postinstall(
                     #     postinstall,
                     #     self.item.download.igame,
@@ -104,15 +103,16 @@ class DownloadThread(QThread):
 
                 dlcs = self.core.get_dlc_for_game(self.item.download.igame.app_name)
                 if dlcs and not self.item.options.skip_dlcs:
-                    ret.dlcs = []
-                    for dlc in dlcs:
-                        ret.dlcs.append(
-                            {
-                                "app_name": dlc.app_name,
-                                "app_title": dlc.app_title,
-                                "app_version": dlc.app_version(self.item.options.platform),
-                            }
-                        )
+                    ret.dlcs = [
+                        {
+                            "app_name": dlc.app_name,
+                            "app_title": dlc.app_title,
+                            "app_version": dlc.app_version(
+                                self.item.options.platform
+                            ),
+                        }
+                        for dlc in dlcs
+                    ]
 
                 if (
                     self.item.download.game.supports_cloud_saves
