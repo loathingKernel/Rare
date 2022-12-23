@@ -20,5 +20,5 @@ var searchData=
   ['log_5fdir_17',['log_dir',['../namespacerare_1_1utils_1_1paths.html#ac2806d554b9f1bc2c539a8dd797afb60',1,'rare::utils::paths']]],
   ['login_18',['login',['../classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d',1,'rare.components.dialogs.launch_dialog.LaunchDialog.login()'],['../classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d',1,'rare.components.dialogs.login.LoginDialog.login(self)']]],
   ['login_5fsuccessful_19',['login_successful',['../classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#ae180ea6e1d2b446b4890e6f2d0256e53',1,'rare::components::dialogs::login::LoginDialog']]],
-  ['logout_20',['logout',['../classrare_1_1components_1_1tabs_1_1account_1_1_account_widget.html#a674007c506f7fe69c039f7f08438879e',1,'rare::components::tabs::account::AccountWidget']]]
+  ['logout_20',['logout',['../classrare_1_1components_1_1tabs_1_1_tab_widget.html#a674007c506f7fe69c039f7f08438879e',1,'rare::components::tabs::TabWidget']]]
 ];

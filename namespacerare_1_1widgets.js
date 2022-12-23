@@ -1,6 +1,6 @@
 var namespacerare_1_1widgets =
 [
-    [ "collabsible_widget", "namespacerare_1_1widgets_1_1collabsible__widget.html", "namespacerare_1_1widgets_1_1collabsible__widget" ],
+    [ "collapsible_widget", "namespacerare_1_1widgets_1_1collapsible__widget.html", "namespacerare_1_1widgets_1_1collapsible__widget" ],
     [ "elide_label", "namespacerare_1_1widgets_1_1elide__label.html", "namespacerare_1_1widgets_1_1elide__label" ],
     [ "flow_layout", "namespacerare_1_1widgets_1_1flow__layout.html", "namespacerare_1_1widgets_1_1flow__layout" ],
     [ "image_widget", "namespacerare_1_1widgets_1_1image__widget.html", "namespacerare_1_1widgets_1_1image__widget" ],

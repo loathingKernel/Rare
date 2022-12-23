@@ -80,10 +80,10 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1lgndr_1_1api__monkeys_1_1_lgndr_indirect_logger.html#a71817f6d5b11c2c96a53e7e59bed38b8" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="25.5,-0.5 25.5,-30.5 168.5,-30.5 168.5,-0.5 25.5,-0.5"/>
-<text text-anchor="start" x="33.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.lgndr.api_monkeys.Lgndr</text>
-<text text-anchor="middle" x="97" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">IndirectLogger.set_level</text>
+<g id="a_node5"><a xlink:href="classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a71817f6d5b11c2c96a53e7e59bed38b8" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="24.5,-0.5 24.5,-30.5 169.5,-30.5 169.5,-0.5 24.5,-0.5"/>
+<text text-anchor="start" x="32.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.lgndr.glue.monkeys.</text>
+<text text-anchor="middle" x="97" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">LgndrIndirectLogger.set_level</text>
 </a>
 </g>
 </g>

@@ -1,17 +1,17 @@
 <map id="start" name="start">
-<area shape="rect" id="node1" title=" " alt="" coords="2165,178,2213,205"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_browse_model.html#a563276b55376fdd9f495c321c5408906" title=" " alt="" coords="1909,49,2117,91"/>
-<area shape="rect" id="node4" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#a62864ecc73de3f9e4a009737d0c01f01" title=" " alt="" coords="1964,178,2063,205"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1install_1_1_install_options_model.html#aa751cfbb4ac95de3ceb26796312aeab8" title=" " alt="" coords="1645,29,1855,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="2180,178,2228,205"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_browse_model.html#a563276b55376fdd9f495c321c5408906" title=" " alt="" coords="1924,49,2132,91"/>
+<area shape="rect" id="node4" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#a62864ecc73de3f9e4a009737d0c01f01" title=" " alt="" coords="1979,178,2077,205"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1install_1_1_install_options_model.html#aa751cfbb4ac95de3ceb26796312aeab8" title=" " alt="" coords="1660,29,1869,71"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#a4edad8bd72770b4d0924575036a40a3c" title=" " alt="" coords="223,139,445,180"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#aa5166679a6b1c69dd24d2e6faa34dc7b" title=" " alt="" coords="1639,189,1861,231"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#aa5166679a6b1c69dd24d2e6faa34dc7b" title=" " alt="" coords="1653,189,1876,231"/>
 <area shape="rect" id="node6" href="$classrare_1_1game__launch__helper_1_1_pre_launch_thread.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="5,139,175,180"/>
 <area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#a970c7d031af196eae774c1e0fa78daab" title=" " alt="" coords="764,333,987,389"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#a305cbdbdf1c59aacea30610a562ac40d" title=" " alt="" coords="1368,313,1591,369"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#a305cbdbdf1c59aacea30610a562ac40d" title=" " alt="" coords="1383,313,1605,369"/>
 <area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_process.html#a59c03cd7e6b87132c709e69907d4e0ed" title=" " alt="" coords="493,333,716,389"/>
 <area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html#a6d84f785e188bb4dc5e05413dd1302ad" title=" " alt="" coords="493,473,716,515"/>
-<area shape="rect" id="node12" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1ubisoft__activation_1_1_ubi_link_widget.html#a8f9705707225e3a806138596d5edae0d" title=" " alt="" coords="1035,272,1320,313"/>
-<area shape="rect" id="node13" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#a398a7b51391d4f2b1854e3d8cda2f9a3" title=" " alt="" coords="1037,361,1318,403"/>
-<area shape="rect" id="node15" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#aabe920f2c8b262a0d16df2ef0ceafad8" title=" " alt="" coords="1045,451,1309,492"/>
+<area shape="rect" id="node12" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html#a8f9705707225e3a806138596d5edae0d" title=" " alt="" coords="1035,272,1335,313"/>
+<area shape="rect" id="node13" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#a398a7b51391d4f2b1854e3d8cda2f9a3" title=" " alt="" coords="1044,361,1325,403"/>
+<area shape="rect" id="node15" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#aabe920f2c8b262a0d16df2ef0ceafad8" title=" " alt="" coords="1053,451,1317,492"/>
 <area shape="rect" id="node14" href="$classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html#abb078ea24f03a8b8317000d4af7416de" title=" " alt="" coords="764,437,987,493"/>
 </map>

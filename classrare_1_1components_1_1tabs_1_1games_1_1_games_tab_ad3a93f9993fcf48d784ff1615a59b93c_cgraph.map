@@ -1,6 +1,6 @@
 <map id="filter_games" name="filter_games">
 <area shape="rect" id="node1" title=" " alt="" coords="5,29,97,56"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="703,123,877,165"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="695,123,868,165"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#afc3cd8ac539d3d010f6913fa6cc85cbb" title=" " alt="" coords="145,80,213,107"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a869dbac7d5500a0c77a5dcbbba5112d5" title=" " alt="" coords="263,29,417,56"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a0d8a470c0a0518913b8fd90bf37549da" title=" " alt="" coords="269,347,411,373"/>
@@ -8,8 +8,8 @@
 <area shape="rect" id="node6" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#af626fd87a4280875286ed304d4270f61" title=" " alt="" coords="470,281,643,322"/>
 <area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a0b2329db4df141f4c93ea860e7b482ba" title=" " alt="" coords="497,421,617,448"/>
 <area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1shop_1_1_shop.html#adce81273b921608423370102d510bcab" title=" " alt="" coords="467,497,647,538"/>
-<area shape="rect" id="node7" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="703,281,877,322"/>
-<area shape="rect" id="node10" href="$classrare_1_1lgndr_1_1api__monkeys_1_1_lgndr_indirect_logger.html#a98a895468c8036bb8122dd2c568d91e7" title=" " alt="" coords="695,497,885,538"/>
-<area shape="rect" id="node11" href="$classrare_1_1lgndr_1_1api__monkeys_1_1_lgndr_indirect_logger.html#a66bb1af90088807e5445bcf242390463" title=" " alt="" coords="933,497,1124,538"/>
+<area shape="rect" id="node7" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="695,281,868,322"/>
+<area shape="rect" id="node10" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a98a895468c8036bb8122dd2c568d91e7" title=" " alt="" coords="700,497,863,538"/>
+<area shape="rect" id="node11" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a66bb1af90088807e5445bcf242390463" title=" " alt="" coords="916,497,1081,538"/>
 <area shape="rect" id="node13" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a8e8b8383bfb0203281dfa30f18213235" title=" " alt="" coords="481,205,632,232"/>
 </map>

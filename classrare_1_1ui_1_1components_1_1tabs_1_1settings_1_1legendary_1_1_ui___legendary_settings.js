@@ -30,8 +30,6 @@ var classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___lege
     [ "preferred_cdn_line", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#abde886fe7fe21db20509d853b539d5ac", null ],
     [ "refresh_game_meta_btn", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a69050241b0b82c2f8d39b307b5d8d08e", null ],
     [ "right_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a9c5f4a6dcc233830066fbe7ee4a07db3", null ],
-    [ "ubisoft_gb", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a0cbbb5223ceb36a0dec92eb4ce65b4d2", null ],
-    [ "verticalLayout", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#ab8e9c7f87bbedfcaf4576de262889373", null ],
     [ "verticalLayout_2", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a2e170f65100c68352a811111d1e1bf0f", null ],
     [ "win32_cb", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#aca94d26f3566e10675a0466aba14d20a", null ]
 ];

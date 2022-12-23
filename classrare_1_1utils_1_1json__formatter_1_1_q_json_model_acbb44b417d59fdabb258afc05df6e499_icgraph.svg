@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 1124;
+var viewWidth = 1079;
 var viewHeight = 543;
 var sectionId = 'dynsection-23';
 </script>
@@ -54,21 +54,21 @@ var sectionId = 'dynsection-23';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>parent</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-539 1119.54,-539 1119.54,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-539 1075.03,-539 1075.03,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="1059,-214 1059,-233 1103,-233 1103,-214 1059,-214"/>
-<text text-anchor="middle" x="1081" y="-221" font-family="Helvetica,sans-Serif" font-size="10.00">parent</text>
+<polygon fill="#bfbfbf" stroke="black" points="1018,-214 1018,-233 1062,-233 1062,-214 1018,-214"/>
+<text text-anchor="middle" x="1040" y="-221" font-family="Helvetica,sans-Serif" font-size="10.00">parent</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node1 -->
 <g id="edge7" class="edge">
 <title>Node1&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M1111.83,-235.04C1121.78,-243.29 1111.5,-251.5 1081,-251.5 1044.16,-251.5 1036.83,-239.53 1058.98,-229.97"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1113.43,-231.92 1103.02,-229.97 1109.94,-237.99 1113.43,-231.92"/>
+<path fill="none" stroke="midnightblue" d="M1069.84,-237.9C1073.98,-245.09 1064.03,-251.5 1040,-251.5 1008.61,-251.5 1001.25,-240.56 1017.93,-231.24"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1071.94,-235.09 1062.07,-231.24 1067.39,-240.41 1071.94,-235.09"/>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node">
@@ -83,41 +83,41 @@ var sectionId = 'dynsection-23';
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M1075.87,-242.81C1069.18,-269.8 1053.51,-318.83 1023,-348.5 897.78,-470.27 835.67,-501.5 661,-501.5 661,-501.5 661,-501.5 475,-501.5 360.35,-501.5 226.86,-501.5 148.82,-501.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1079.3,-243.55 1078.15,-233.01 1072.48,-241.96 1079.3,-243.55"/>
+<path fill="none" stroke="midnightblue" d="M1034.59,-243.02C1027.61,-269.87 1011.69,-318.3 982,-348.5 871.2,-461.2 819.04,-501.5 661,-501.5 661,-501.5 661,-501.5 475,-501.5 360.35,-501.5 226.86,-501.5 148.82,-501.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1038,-243.8 1036.97,-233.25 1031.2,-242.14 1038,-243.8"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#a38473d0107ff68c119a1eba5e50a10a6" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="810,-146.5 810,-176.5 982,-176.5 982,-146.5 810,-146.5"/>
-<text text-anchor="start" x="818" y="-164.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
-<text text-anchor="middle" x="896" y="-153.5" font-family="Helvetica,sans-Serif" font-size="10.00">_info.GameInfoTabs.keyPressEvent</text>
+<polygon fill="white" stroke="black" points="789.5,-146.5 789.5,-176.5 961.5,-176.5 961.5,-146.5 789.5,-146.5"/>
+<text text-anchor="start" x="797.5" y="-164.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
+<text text-anchor="middle" x="875.5" y="-153.5" font-family="Helvetica,sans-Serif" font-size="10.00">_info.GameInfoTabs.keyPressEvent</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M1048.89,-212.96C1019.4,-202.97 974.79,-187.86 941.54,-176.59"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1048.06,-216.37 1058.65,-216.27 1050.3,-209.74 1048.06,-216.37"/>
+<path fill="none" stroke="midnightblue" d="M1008.33,-211.8C982.12,-201.8 944.25,-187.35 915.82,-176.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1007.17,-215.1 1017.76,-215.39 1009.66,-208.56 1007.17,-215.1"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1uninstalled__info_1_1_uninstalled_info_tabs.html#a38473d0107ff68c119a1eba5e50a10a6" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="812.5,-68 812.5,-109 979.5,-109 979.5,-68 812.5,-68"/>
-<text text-anchor="start" x="820.5" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
-<text text-anchor="start" x="820.5" y="-86" font-family="Helvetica,sans-Serif" font-size="10.00">_info.uninstalled_info.Uninstalled</text>
-<text text-anchor="middle" x="896" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">InfoTabs.keyPressEvent</text>
+<polygon fill="white" stroke="black" points="792,-68 792,-109 959,-109 959,-68 792,-68"/>
+<text text-anchor="start" x="800" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
+<text text-anchor="start" x="800" y="-86" font-family="Helvetica,sans-Serif" font-size="10.00">_info.uninstalled_info.Uninstalled</text>
+<text text-anchor="middle" x="875.5" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">InfoTabs.keyPressEvent</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M1071.94,-204.61C1062.72,-185.08 1045.9,-154.92 1023,-136.5 1008.68,-124.98 991.3,-116.02 974.07,-109.12"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1068.86,-206.3 1076.16,-213.98 1075.24,-203.43 1068.86,-206.3"/>
+<path fill="none" stroke="midnightblue" d="M1030.55,-204.59C1021.11,-185.29 1004.19,-155.53 982,-136.5 968.94,-125.3 952.84,-116.23 937.18,-109.11"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1027.49,-206.3 1034.91,-213.86 1033.82,-203.32 1027.49,-206.3"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
@@ -132,40 +132,40 @@ var sectionId = 'dynsection-23';
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge8" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M1049.02,-232.15C1040.63,-234.21 1031.52,-236.18 1023,-237.5 863.65,-262.16 822.24,-261.5 661,-261.5 661,-261.5 661,-261.5 475,-261.5 413.52,-261.5 251.08,-247.83 199,-280.5 171.68,-297.64 188.26,-323.46 163,-343.5 158.66,-346.94 153.83,-349.9 148.76,-352.42"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1049.98,-235.52 1058.79,-229.64 1048.24,-228.74 1049.98,-235.52"/>
+<path fill="none" stroke="midnightblue" d="M1008.01,-232.1C999.63,-234.16 990.51,-236.15 982,-237.5 840.71,-259.97 804.06,-261.5 661,-261.5 661,-261.5 661,-261.5 475,-261.5 413.52,-261.5 251.08,-247.83 199,-280.5 171.68,-297.64 188.26,-323.46 163,-343.5 158.66,-346.94 153.83,-349.9 148.76,-352.42"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1008.97,-235.47 1017.79,-229.6 1007.23,-228.69 1008.97,-235.47"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html#aafa1e11ada81eb7dd55ad735904ed92f" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="769,-0.5 769,-30.5 1023,-30.5 1023,-0.5 769,-0.5"/>
-<text text-anchor="start" x="777" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.import</text>
-<text text-anchor="middle" x="896" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_sync.egl_sync_group.EGLSyncListGroup.show_errors</text>
+<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html#aafa1e11ada81eb7dd55ad735904ed92f" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="769,-0.5 769,-30.5 982,-30.5 982,-0.5 769,-0.5"/>
+<text text-anchor="start" x="777" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.integrations.egl</text>
+<text text-anchor="middle" x="875.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_sync_group.EGLSyncListGroup.show_errors</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge10" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M1078.65,-203.64C1075.27,-169.35 1063.51,-98.86 1023,-58.5 1010.23,-45.78 993.54,-36.81 976.51,-30.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1075.18,-204.11 1079.51,-213.78 1082.15,-203.52 1075.18,-204.11"/>
+<path fill="none" stroke="midnightblue" d="M1037.4,-203.88C1033.64,-169.96 1021.32,-100.02 982,-58.5 970.1,-45.93 954.01,-36.93 937.98,-30.53"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1033.93,-204.29 1038.38,-213.91 1040.9,-203.62 1033.93,-204.29"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
 <g id="a_node7"><a xlink:href="classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a2e8d545883a85a6757198adec7da2731" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="831.5,-290.5 831.5,-320.5 960.5,-320.5 960.5,-290.5 831.5,-290.5"/>
-<text text-anchor="start" x="839.5" y="-308.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.flow_layout.</text>
-<text text-anchor="middle" x="896" y="-297.5" font-family="Helvetica,sans-Serif" font-size="10.00">FlowLayout.smartSpacing</text>
+<polygon fill="white" stroke="black" points="811,-290.5 811,-320.5 940,-320.5 940,-290.5 811,-290.5"/>
+<text text-anchor="start" x="819" y="-308.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.flow_layout.</text>
+<text text-anchor="middle" x="875.5" y="-297.5" font-family="Helvetica,sans-Serif" font-size="10.00">FlowLayout.smartSpacing</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node7 -->
 <g id="edge12" class="edge">
 <title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M1065.34,-240.85C1054.72,-252.33 1039.39,-266.83 1023,-275.5 1003.92,-285.6 981.43,-292.34 960.77,-296.82"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1068.16,-242.94 1072.19,-233.14 1062.93,-238.29 1068.16,-242.94"/>
+<path fill="none" stroke="midnightblue" d="M1023.85,-241.02C1013.18,-252.35 998.01,-266.58 982,-275.5 969.11,-282.68 954.35,-288.27 940.04,-292.56"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1026.63,-243.17 1030.76,-233.41 1021.44,-238.46 1026.63,-243.17"/>
 </g>
 <!-- Node13 -->
 <g id="node13" class="node">
@@ -180,8 +180,8 @@ var sectionId = 'dynsection-23';
 <!-- Node1&#45;&gt;Node13 -->
 <g id="edge43" class="edge">
 <title>Node1&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M1048.32,-223.5C978.41,-223.5 805.66,-223.5 661,-223.5 661,-223.5 661,-223.5 475,-223.5 351.87,-223.5 318.09,-216.22 199,-247.5 166.55,-256.02 131.85,-272.93 108.84,-285.37"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1048.63,-227 1058.63,-223.5 1048.63,-220 1048.63,-227"/>
+<path fill="none" stroke="midnightblue" d="M1007.32,-223.5C942.37,-223.5 789.41,-223.5 661,-223.5 661,-223.5 661,-223.5 475,-223.5 351.87,-223.5 318.09,-216.22 199,-247.5 166.55,-256.02 131.85,-272.93 108.84,-285.37"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1007.69,-227 1017.69,-223.5 1007.69,-220 1007.69,-227"/>
 </g>
 <!-- Node2&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
@@ -192,14 +192,14 @@ var sectionId = 'dynsection-23';
 <!-- Node3&#45;&gt;Node3 -->
 <g id="edge4" class="edge">
 <title>Node3&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M928.69,-186.96C924.64,-191.68 913.74,-195 896,-195 866.89,-195 856.2,-186.06 863.93,-176.66"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="932.17,-186.43 928.07,-176.66 925.18,-186.85 932.17,-186.43"/>
+<path fill="none" stroke="midnightblue" d="M904.64,-186.96C901.02,-191.68 891.31,-195 875.5,-195 849.55,-195 840.03,-186.06 846.92,-176.66"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="908.12,-186.45 904.08,-176.66 901.13,-186.83 908.12,-186.45"/>
 </g>
 <!-- Node4&#45;&gt;Node4 -->
 <g id="edge6" class="edge">
 <title>Node4&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M927.66,-119.36C922.95,-124.2 912.4,-127.5 896,-127.5 869.77,-127.5 858.49,-119.04 862.18,-109.36"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="931.12,-119.88 929.82,-109.36 924.28,-118.4 931.12,-119.88"/>
+<path fill="none" stroke="midnightblue" d="M903.72,-119.36C899.52,-124.2 890.11,-127.5 875.5,-127.5 852.12,-127.5 842.07,-119.04 845.36,-109.36"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="907.19,-119.85 905.64,-109.36 900.31,-118.52 907.19,-119.85"/>
 </g>
 <!-- Node5&#45;&gt;Node5 -->
 <g id="edge9" class="edge">
@@ -210,14 +210,14 @@ var sectionId = 'dynsection-23';
 <!-- Node6&#45;&gt;Node6 -->
 <g id="edge11" class="edge">
 <title>Node6&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M928.69,-40.96C924.64,-45.68 913.74,-49 896,-49 866.89,-49 856.2,-40.06 863.93,-30.66"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="932.17,-40.43 928.07,-30.66 925.18,-40.85 932.17,-40.43"/>
+<path fill="none" stroke="midnightblue" d="M904.64,-40.96C901.02,-45.68 891.31,-49 875.5,-49 849.55,-49 840.03,-40.06 846.92,-30.66"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="908.12,-40.45 904.08,-30.66 901.13,-40.83 908.12,-40.45"/>
 </g>
 <!-- Node7&#45;&gt;Node7 -->
 <g id="edge38" class="edge">
 <title>Node7&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M928.69,-330.96C924.64,-335.68 913.74,-339 896,-339 866.89,-339 856.2,-330.06 863.93,-320.66"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="932.17,-330.43 928.07,-320.66 925.18,-330.85 932.17,-330.43"/>
+<path fill="none" stroke="midnightblue" d="M904.64,-330.96C901.02,-335.68 891.31,-339 875.5,-339 849.55,-339 840.03,-330.06 846.92,-320.66"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="908.12,-330.45 904.08,-320.66 901.13,-330.83 908.12,-330.45"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
@@ -232,8 +232,8 @@ var sectionId = 'dynsection-23';
 <!-- Node7&#45;&gt;Node8 -->
 <g id="edge13" class="edge">
 <title>Node7&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M832.78,-323.32C795.66,-333.94 749.05,-347.29 713.74,-357.4"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="833.84,-326.65 842.49,-320.54 831.91,-319.92 833.84,-326.65"/>
+<path fill="none" stroke="midnightblue" d="M816.86,-323.59C783.14,-334.17 741.06,-347.38 709.12,-357.4"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="818.09,-326.87 826.59,-320.54 816,-320.19 818.09,-326.87"/>
 </g>
 <!-- Node16 -->
 <g id="node16" class="node">
@@ -248,8 +248,8 @@ var sectionId = 'dynsection-23';
 <!-- Node7&#45;&gt;Node16 -->
 <g id="edge39" class="edge">
 <title>Node7&#45;&gt;Node16</title>
-<path fill="none" stroke="midnightblue" d="M821.05,-305.5C791.34,-305.5 757.32,-305.5 728.3,-305.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="821.37,-309 831.37,-305.5 821.37,-302 821.37,-309"/>
+<path fill="none" stroke="midnightblue" d="M800.47,-305.5C776.97,-305.5 751.13,-305.5 728.15,-305.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="800.73,-309 810.73,-305.5 800.73,-302 800.73,-309"/>
 </g>
 <!-- Node8&#45;&gt;Node8 -->
 <g id="edge37" class="edge">

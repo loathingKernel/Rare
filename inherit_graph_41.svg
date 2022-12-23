@@ -12,7 +12,7 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="classrare_1_1lgndr_1_1api__arguments_1_1_lgndr_install_game_real_args.html" target="_top" xlink:title=" ">
+<g id="a_node1"><a xlink:href="classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_args.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-19.5 134,-19.5 134,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="67" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">LgndrInstallGameRealArgs</text>
 </a>

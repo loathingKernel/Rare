@@ -1,5 +1,8 @@
 <map id="handle_toggle" name="handle_toggle">
-<area shape="rect" id="node1" title=" " alt="" coords="5,82,108,109"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box.html#acf3a93e2b0705f28b833cc1031b949a6" title=" " alt="" coords="156,29,367,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1utils_1_1extra__widgets_1_1_select_view_widget.html#a5ff6323ce25317c7925d5a8012b1f6ea" title=" " alt="" coords="165,119,357,160"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,215,108,242"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box.html#acf3a93e2b0705f28b833cc1031b949a6" title=" " alt="" coords="168,29,379,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1utils_1_1extra__widgets_1_1_select_view_widget.html#a5ff6323ce25317c7925d5a8012b1f6ea" title=" " alt="" coords="177,119,369,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base.html#adfad5211860514a9e4d582cba44fc4f4" title=" " alt="" coords="160,208,387,249"/>
+<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame.html#adfad5211860514a9e4d582cba44fc4f4" title=" " alt="" coords="156,297,391,339"/>
+<area shape="rect" id="node6" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_group_box.html#adfad5211860514a9e4d582cba44fc4f4" title=" " alt="" coords="172,387,375,443"/>
 </map>

@@ -5,7 +5,6 @@ var dir_90609c02637dbf8153bc283331604401 =
       [ "DxvkSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_dxvk_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_dxvk_settings" ]
     ] ],
     [ "env_vars.py", "components_2tabs_2settings_2widgets_2env__vars_8py.html", "components_2tabs_2settings_2widgets_2env__vars_8py" ],
-    [ "eos.py", "eos_8py.html", "eos_8py" ],
     [ "linux.py", "components_2tabs_2settings_2widgets_2linux_8py.html", "components_2tabs_2settings_2widgets_2linux_8py" ],
     [ "mangohud.py", "mangohud_8py.html", "mangohud_8py" ],
     [ "overlay_settings.py", "overlay__settings_8py.html", "overlay__settings_8py" ],
@@ -16,6 +15,5 @@ var dir_90609c02637dbf8153bc283331604401 =
     [ "rpc.py", "components_2tabs_2settings_2widgets_2rpc_8py.html", [
       [ "RPCSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings" ]
     ] ],
-    [ "ubisoft_activation.py", "ubisoft__activation_8py.html", "ubisoft__activation_8py" ],
     [ "wrapper.py", "components_2tabs_2settings_2widgets_2wrapper_8py.html", "components_2tabs_2settings_2widgets_2wrapper_8py" ]
 ];

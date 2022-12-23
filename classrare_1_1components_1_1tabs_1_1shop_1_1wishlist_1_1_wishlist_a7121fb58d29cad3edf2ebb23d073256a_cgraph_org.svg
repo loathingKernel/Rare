@@ -242,18 +242,18 @@
 <!-- Node11 -->
 <g id="node11" class="node">
 <title>Node11</title>
-<g id="a_node11"><a xlink:href="classrare_1_1lgndr_1_1api__monkeys_1_1_lgndr_indirect_logger.html#a98a895468c8036bb8122dd2c568d91e7" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="289.5,-0.5 289.5,-30.5 432.5,-30.5 432.5,-0.5 289.5,-0.5"/>
-<text text-anchor="start" x="297.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.lgndr.api_monkeys.Lgndr</text>
-<text text-anchor="middle" x="361" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">IndirectLogger.info</text>
+<g id="a_node11"><a xlink:href="classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a98a895468c8036bb8122dd2c568d91e7" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="300,-0.5 300,-30.5 422,-30.5 422,-0.5 300,-0.5"/>
+<text text-anchor="start" x="308" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.lgndr.glue.monkeys.</text>
+<text text-anchor="middle" x="361" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">LgndrIndirectLogger.info</text>
 </a>
 </g>
 </g>
 <!-- Node10&#45;&gt;Node11 -->
 <g id="edge22" class="edge">
 <title>Node10&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M243.01,-15.5C254.79,-15.5 267.17,-15.5 279.29,-15.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="279.39,-19 289.39,-15.5 279.39,-12 279.39,-19"/>
+<path fill="none" stroke="midnightblue" d="M243.01,-15.5C258.09,-15.5 274.16,-15.5 289.41,-15.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="289.81,-19 299.81,-15.5 289.81,-12 289.81,-19"/>
 </g>
 <!-- Node11&#45;&gt;Node11 -->
 <g id="edge24" class="edge">
@@ -264,18 +264,18 @@
 <!-- Node12 -->
 <g id="node12" class="node">
 <title>Node12</title>
-<g id="a_node12"><a xlink:href="classrare_1_1lgndr_1_1api__monkeys_1_1_lgndr_indirect_logger.html#a66bb1af90088807e5445bcf242390463" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="499,-0.5 499,-30.5 642,-30.5 642,-0.5 499,-0.5"/>
-<text text-anchor="start" x="507" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.lgndr.api_monkeys.Lgndr</text>
-<text text-anchor="middle" x="570.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">IndirectLogger._log</text>
+<g id="a_node12"><a xlink:href="classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a66bb1af90088807e5445bcf242390463" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="508.5,-0.5 508.5,-30.5 632.5,-30.5 632.5,-0.5 508.5,-0.5"/>
+<text text-anchor="start" x="516.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.lgndr.glue.monkeys.</text>
+<text text-anchor="middle" x="570.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">LgndrIndirectLogger._log</text>
 </a>
 </g>
 </g>
 <!-- Node11&#45;&gt;Node12 -->
 <g id="edge23" class="edge">
 <title>Node11&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M432.54,-15.5C450.58,-15.5 470.12,-15.5 488.64,-15.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="488.8,-19 498.8,-15.5 488.8,-12 488.8,-19"/>
+<path fill="none" stroke="midnightblue" d="M422.02,-15.5C445.79,-15.5 473.32,-15.5 498.1,-15.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="498.18,-19 508.18,-15.5 498.18,-12 498.18,-19"/>
 </g>
 </g>
 </svg>

@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['fatal_0',['fatal',['../classrare_1_1lgndr_1_1api__monkeys_1_1_lgndr_indirect_logger.html#a227c9e96240f1b0dd752f56370be2d49',1,'rare::lgndr::api_monkeys::LgndrIndirectLogger']]],
+  ['fatal_0',['fatal',['../classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a227c9e96240f1b0dd752f56370be2d49',1,'rare::lgndr::glue::monkeys::LgndrIndirectLogger']]],
   ['filter_5fchanged_1',['filter_changed',['../classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_game_list_head_bar.html#abe99e98d8a4e2eb57b373a7a8b4020ed',1,'rare::components::tabs::games::head_bar::GameListHeadBar']]],
   ['filter_5fgames_2',['filter_games',['../classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#ad3a93f9993fcf48d784ff1615a59b93c',1,'rare::components::tabs::games::GamesTab']]],
-  ['find_5fapp_5fname_3',['find_app_name',['../namespacerare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1import__group.html#a0705e86634e505580fccfb7fff54e4b3',1,'rare::components::tabs::games::import_sync::import_group']]],
+  ['find_5fapp_5fname_3',['find_app_name',['../namespacerare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group.html#a19d213e48e75c05fdbe2d4dc61c63865',1,'rare::components::tabs::games::integrations::import_group']]],
   ['find_5fproton_5fcombos_4',['find_proton_combos',['../namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton.html#a3bc3ed42ec14c8164192df035afe8d47',1,'rare::components::tabs::settings::widgets::proton']]],
   ['finish_5',['finish',['../classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#aef61a46ee0001482844bc4bd4a210663',1,'rare::components::dialogs::launch_dialog::LaunchDialog']]],
   ['flags_6',['flags',['../classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#a7d491e435bf3631508f0a7c084acd162',1,'rare::utils::json_formatter::QJsonModel']]],

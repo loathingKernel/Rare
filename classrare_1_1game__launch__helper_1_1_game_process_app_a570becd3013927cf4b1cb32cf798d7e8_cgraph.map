@@ -1,7 +1,7 @@
 <map id="game_finished" name="game_finished">
 <area shape="rect" id="node1" title=" " alt="" coords="5,167,111,194"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="159,29,477,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="231,119,405,160"/>
-<area shape="rect" id="node4" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#a1ad309148fd22e4786258dc4a79ec7af" title=" " alt="" coords="263,209,373,235"/>
-<area shape="rect" id="node5" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#a26ca7c1c7fcdd35378e7be97727047a6" title=" " alt="" coords="295,283,341,310"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="159,29,437,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="211,119,385,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#a1ad309148fd22e4786258dc4a79ec7af" title=" " alt="" coords="243,209,353,235"/>
+<area shape="rect" id="node5" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#a26ca7c1c7fcdd35378e7be97727047a6" title=" " alt="" coords="275,283,321,310"/>
 </map>

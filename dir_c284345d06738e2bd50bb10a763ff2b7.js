@@ -1,9 +1,7 @@
 var dir_c284345d06738e2bd50bb10a763ff2b7 =
 [
     [ "__init__.py", "widgets_2____init_____8py.html", null ],
-    [ "collabsible_widget.py", "collabsible__widget_8py.html", [
-      [ "CollabsibleWidget", "classrare_1_1widgets_1_1collabsible__widget_1_1_collabsible_widget.html", "classrare_1_1widgets_1_1collabsible__widget_1_1_collabsible_widget" ]
-    ] ],
+    [ "collapsible_widget.py", "collapsible__widget_8py.html", "collapsible__widget_8py" ],
     [ "elide_label.py", "elide__label_8py.html", [
       [ "ElideLabel", "classrare_1_1widgets_1_1elide__label_1_1_elide_label.html", "classrare_1_1widgets_1_1elide__label_1_1_elide_label" ]
     ] ],

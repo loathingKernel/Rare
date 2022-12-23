@@ -9,7 +9,7 @@ var searchData=
   ['verify_5fgame_6',['verify_game',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a1a0b83359be6ee5329685e3bf7d3d128',1,'rare.components.tabs.games.game_info.game_info.GameInfo.verify_game()'],['../classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a94921a35f33d553ff01281b05fa2428d',1,'rare.lgndr.cli.LegendaryCLI.verify_game()']]],
   ['verify_5fresult_7',['verify_result',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a420a031186cf41f7c0e43c8a4b524af0',1,'rare::components::tabs::games::game_info::game_info::GameInfo']]],
   ['verify_5fstatus_8',['verify_status',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a80b10cb47735ce4554d99ae328d3fd31',1,'rare::components::tabs::games::game_info::game_info::GameInfo']]],
-  ['verify_5fstdout_9',['verify_stdout',['../namespacerare_1_1lgndr_1_1api__monkeys.html#ade35fb9587ccc09c2f295d5e4b722742',1,'rare::lgndr::api_monkeys']]],
+  ['verify_5fstdout_9',['verify_stdout',['../namespacerare_1_1lgndr_1_1glue_1_1monkeys.html#a1915e95e54d4a5f5071a6dfa46bc77b4',1,'rare::lgndr::glue::monkeys']]],
   ['versiontuple_10',['versiontuple',['../namespacerare_1_1components_1_1tabs_1_1settings_1_1about.html#ac1dbb48f4b91b2a65eb3fb6310d83a14',1,'rare::components::tabs::settings::about']]],
   ['verticalspacing_11',['verticalSpacing',['../classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a339c0461a90b6d3b3eee250fbc47aefb',1,'rare::widgets::flow_layout::FlowLayout']]]
 ];

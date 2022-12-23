@@ -1,7 +1,7 @@
 var searchData=
 [
   ['main_0',['main',['../namespacerare_1_1____main____.html#add42217d54476fc931cfda4d8515bf43',1,'rare::__main__']]],
-  ['mark_1',['mark',['../classrare_1_1components_1_1tabs_1_1games_1_1import__sync_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html#a4349c43777be61458a16dc98bf04effb',1,'rare::components::tabs::games::import_sync::egl_sync_group::EGLSyncListGroup']]],
+  ['mark_1',['mark',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html#a4349c43777be61458a16dc98bf04effb',1,'rare::components::tabs::games::integrations::egl_sync_group::EGLSyncListGroup']]],
   ['max_5fmemory_5fsave_2',['max_memory_save',['../classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#ab6276c2802a986965145a98b3a647097',1,'rare::components::tabs::settings::legendary::LegendarySettings']]],
   ['max_5fworker_5fsave_3',['max_worker_save',['../classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#a53ecc4e91487eff3501140063d492cb1',1,'rare::components::tabs::settings::legendary::LegendarySettings']]],
   ['minimumsize_4',['minimumSize',['../classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#acd7a5b208d0d18ac43cc317209bd759c',1,'rare::widgets::flow_layout::FlowLayout']]],

@@ -21,7 +21,7 @@
 <!-- Node0 -->
 <g id="node2" class="node">
 <title>Node0</title>
-<g id="a_node2"><a xlink:href="classrare_1_1lgndr_1_1manager_1_1_d_l_manager.html" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="122,-0.5 122,-19.5 189,-19.5 189,-0.5 122,-0.5"/>
 <text text-anchor="middle" x="155.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">DLManager</text>
 </a>

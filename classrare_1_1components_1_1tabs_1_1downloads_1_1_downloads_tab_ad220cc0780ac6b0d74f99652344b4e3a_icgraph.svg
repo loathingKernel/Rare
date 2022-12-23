@@ -210,10 +210,10 @@ var sectionId = 'dynsection-27';
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="classrare_1_1lgndr_1_1api__monkeys_1_1_lgndr_indirect_logger.html#a71817f6d5b11c2c96a53e7e59bed38b8" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="262.5,-0.5 262.5,-30.5 405.5,-30.5 405.5,-0.5 262.5,-0.5"/>
-<text text-anchor="start" x="270.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.lgndr.api_monkeys.Lgndr</text>
-<text text-anchor="middle" x="334" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">IndirectLogger.set_level</text>
+<g id="a_node9"><a xlink:href="classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a71817f6d5b11c2c96a53e7e59bed38b8" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="261.5,-0.5 261.5,-30.5 406.5,-30.5 406.5,-0.5 261.5,-0.5"/>
+<text text-anchor="start" x="269.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.lgndr.glue.monkeys.</text>
+<text text-anchor="middle" x="334" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">LgndrIndirectLogger.set_level</text>
 </a>
 </g>
 </g>

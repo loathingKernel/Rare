@@ -14,6 +14,6 @@ var searchData=
   ['gamestab_11',['GamesTab',['../classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html',1,'rare::components::tabs::games']]],
   ['gameutils_12',['GameUtils',['../classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html',1,'rare::components::tabs::games::game_utils']]],
   ['gamewidget_13',['GameWidget',['../classrare_1_1components_1_1tabs_1_1shop_1_1game__widgets_1_1_game_widget.html',1,'rare::components::tabs::shop::game_widgets']]],
-  ['getbooleanchoiceprotocol_14',['GetBooleanChoiceProtocol',['../classrare_1_1lgndr_1_1api__monkeys_1_1_get_boolean_choice_protocol.html',1,'rare::lgndr::api_monkeys']]],
+  ['getbooleanchoiceprotocol_14',['GetBooleanChoiceProtocol',['../classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_get_boolean_choice_protocol.html',1,'rare::lgndr::glue::monkeys']]],
   ['globalsignals_15',['GlobalSignals',['../classrare_1_1models_1_1signals_1_1_global_signals.html',1,'rare::models::signals']]]
 ];

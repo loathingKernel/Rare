@@ -15,6 +15,6 @@ var searchData=
   ['none_5fprice_12',['none_price',['../classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1store_1_1_ui___shop_widget.html#a777345efa0c16c02834781d01268936d',1,'rare::ui::components::tabs::store::store::Ui_ShopWidget']]],
   ['normal_13',['Normal',['../classrare_1_1shared_1_1image__manager_1_1_image_size.html#abb5b863a4c7a7cc7d18a288c908b9f0b',1,'rare::shared::image_manager::ImageSize']]],
   ['notification_14',['notification',['../classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#a8a6787d1c8ee16160e40f364f75c86c3',1,'rare::ui::components::tabs::settings::rare::Ui_RareSettings']]],
-  ['num_5fprocessed_5fsince_5flast_15',['num_processed_since_last',['../classrare_1_1lgndr_1_1manager_1_1_d_l_manager.html#a4e0a34d2594cc86390aed400ee8f31c7',1,'rare::lgndr::manager::DLManager']]],
-  ['num_5ftasks_5fprocessed_5fsince_5flast_16',['num_tasks_processed_since_last',['../classrare_1_1lgndr_1_1manager_1_1_d_l_manager.html#ac6ed4e1b3df409cca044d1f4816fab38',1,'rare::lgndr::manager::DLManager']]]
+  ['num_5fprocessed_5fsince_5flast_15',['num_processed_since_last',['../classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#a4e0a34d2594cc86390aed400ee8f31c7',1,'rare::lgndr::downloader::mp::manager::DLManager']]],
+  ['num_5ftasks_5fprocessed_5fsince_5flast_16',['num_tasks_processed_since_last',['../classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#ac6ed4e1b3df409cca044d1f4816fab38',1,'rare::lgndr::downloader::mp::manager::DLManager']]]
 ];
