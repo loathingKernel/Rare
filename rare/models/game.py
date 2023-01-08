@@ -2,6 +2,7 @@ import configparser
 import json
 import os
 import platform
+import time
 from dataclasses import dataclass, field
 from datetime import datetime
 from enum import IntEnum
@@ -14,17 +15,15 @@ from legendary.models.game import Game, InstalledGame, SaveGameFile
 
 from rare.lgndr.core import LegendaryCore
 from rare.models.install import InstallOptionsModel
-from rare.shared.image_manager import ImageManager
 from rare.shared.game_process import GameProcess
-from rare.utils.paths import data_dir
+from rare.shared.image_manager import ImageManager
 from rare.utils.misc import get_rare_executable
-
+from rare.utils.paths import data_dir
 
 logger = getLogger("RareGame")
 
 
 class RareGame(QObject):
-
     class State(IntEnum):
         IDLE = 0
         RUNNING = 1
@@ -260,8 +259,7 @@ class RareGame(QObject):
         @return bool If the game should be considered installed
         """
         return (self.igame is not None) \
-            or (self.is_origin and self.__origin_install_path() is not None) \
-            or (self.is_non_asset and  platform.system() != "Windows")  # TODO: Remove this line
+            or (self.is_origin and self.__origin_install_path() is not None)
 
     def set_installed(self, installed: bool) -> None:
         """!
@@ -443,30 +441,46 @@ class RareGame(QObject):
             InstallOptionsModel(app_name=self.app_name)
         )
 
+    __origin_install_path_cache = None
+
     def __origin_install_path(self) -> Optional[str]:
+        if self.__origin_install_path_cache == "err":
+            return None
+        elif self.__origin_install_path_cache:
+            return self.__origin_install_path_cache
         reg_path: str = self.game.metadata \
             .get("customAttributes", {}) \
             .get("RegistryPath", {}).get("value", None)
         if not reg_path:
             return None
+
         if platform.system() == "Windows":
             import winreg
             from legendary.lfs import windows_helpers
-            return windows_helpers.query_registry_value(winreg.HKEY_LOCAL_MACHINE, reg_path, "Install Dir")
+            install_dir = windows_helpers.query_registry_value(winreg.HKEY_LOCAL_MACHINE, reg_path, "Install Dir")
+            self.__origin_install_path_cache = install_dir
+            return install_dir
 
-        return None
         # TODO: Do not get install path on non windows, because of performance
-        wine_prefix = self.core.lgd.config.get(self.game.app_name, "wine_prefix", fallback=os.path.expanduser("~/.wine"))
+        wine_prefix = self.core.lgd.config.get(self.game.app_name, "wine_prefix",
+                                               fallback=os.path.expanduser("~/.wine"))
 
         # TODO cache this line
+        t = time.time()
         reg = read_system_registry(wine_prefix)
+        print(f"Read reg file {self.app_name}: {time.time() - t}s")
 
         # TODO: find a better solution
         reg_path = reg_path.replace("\\", "\\\\").replace("SOFTWARE", "Software").replace("WOW6432Node", "Wow6432Node")
-
+        t = time.time()
         install_dir = reg.get(reg_path, '"Install Dir"', fallback=None)
+        print(f"Get install dir {self.title}: {time.time() - t}s")
+
         if install_dir:
-            return install_dir.strip('"')
+            install_dir = install_dir.strip('"')
+            self.__origin_install_path_cache = install_dir
+            return install_dir
+        self.__origin_install_path_cache = "err"
         return None
 
     def repair(self, repair_and_update):
@@ -504,6 +518,8 @@ class RareGame(QObject):
         QProcess.startDetached(executable, args)
         logger.info(f"Start new Process: ({executable} {' '.join(args)})")
         self.game_process.connect(on_startup=False)
+
+
 # this is a copied function from legendary.utils.wine_helpers, but it reads system.reg in the wine prefix
 def read_system_registry(wine_pfx: str):
     reg = configparser.ConfigParser(comment_prefixes=(';', '#', '/', 'WINE'), allow_no_value=True,
@@ -511,4 +527,3 @@ def read_system_registry(wine_pfx: str):
     reg.optionxform = str
     reg.read(os.path.join(wine_pfx, 'system.reg'))
     return reg
-
