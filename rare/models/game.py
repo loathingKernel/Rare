@@ -1,7 +1,9 @@
+import configparser
 import json
 import os
 import platform
 from abc import abstractmethod
+import platform
 from dataclasses import dataclass, field
 from datetime import datetime
 from enum import IntEnum
@@ -370,7 +372,9 @@ class RareGame(RareGameSlim):
 
         @return bool If the game should be considered installed
         """
-        return (self.igame is not None) or self.is_non_asset
+        return (self.igame is not None) \
+            or (self.is_origin and self.__origin_install_path() is not None) \
+            or (self.is_non_asset and platform.system() != "Windows")  # TODO: Remove this line
 
     def set_installed(self, installed: bool) -> None:
         """!
@@ -509,8 +513,8 @@ class RareGame(RareGameSlim):
         @return bool If the game is an Origin game
         """
         return (
-            self.game.metadata.get("customAttributes", {}).get("ThirdPartyManagedApp", {}).get("value")
-            == "Origin"
+                self.game.metadata.get("customAttributes", {}).get("ThirdPartyManagedApp", {}).get("value")
+                == "Origin"
         )
 
     @property
@@ -592,6 +596,33 @@ class RareGame(RareGameSlim):
         )
         return True
 
+    def __origin_install_path(self) -> Optional[str]:
+        reg_path: str = self.game.metadata \
+            .get("customAttributes", {}) \
+            .get("RegistryPath", {}).get("value", None)
+        if not reg_path:
+            return None
+        if platform.system() == "Windows":
+            import winreg
+            from legendary.lfs import windows_helpers
+            return windows_helpers.query_registry_value(winreg.HKEY_LOCAL_MACHINE, reg_path, "Install Dir")
+
+        return None
+        # TODO: Do not get install path on non windows, because of performance
+        wine_prefix = self.core.lgd.config.get(self.game.app_name, "wine_prefix",
+                                               fallback=os.path.expanduser("~/.wine"))
+
+        # TODO cache this line
+        reg = read_system_registry(wine_prefix)
+
+        # TODO: find a better solution
+        reg_path = reg_path.replace("\\", "\\\\").replace("SOFTWARE", "Software").replace("WOW6432Node", "Wow6432Node")
+
+        install_dir = reg.get(reg_path, '"Install Dir"', fallback=None)
+        if install_dir:
+            return install_dir.strip('"')
+        return None
+
     def repair(self, repair_and_update):
         self.signals.game.install.emit(
             InstallOptionsModel(
@@ -636,6 +667,15 @@ class RareGame(RareGameSlim):
         logger.info(f"Start new Process: ({executable} {' '.join(args)})")
         self.game_process.connect_to_server(on_startup=False)
         return True
+
+
+# this is a copied function from legendary.utils.wine_helpers, but it reads system.reg in the wine prefix
+def read_system_registry(wine_pfx: str):
+    reg = configparser.ConfigParser(comment_prefixes=(';', '#', '/', 'WINE'), allow_no_value=True,
+                                    strict=False)
+    reg.optionxform = str
+    reg.read(os.path.join(wine_pfx, 'system.reg'))
+    return reg
 
 
 class RareEosOverlay(RareGameBase):
