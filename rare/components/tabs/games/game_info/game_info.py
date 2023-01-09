@@ -337,8 +337,27 @@ class GameInfo(QWidget, SideTabContents):
         self.ui.app_name.setText(rgame.app_name)
         self.ui.dev.setText(rgame.developer)
 
-        if rgame.is_non_asset:
-            self.ui.install_button.setText(self.tr("Link to Origin/Launch"))
+        if self.rgame.igame:
+            self.ui.install_size.setText(get_size(self.rgame.igame.install_size))
+            self.ui.install_path.setText(self.rgame.igame.install_path)
+            self.ui.platform.setText(self.rgame.igame.platform)
+        elif self.rgame.is_origin and self.rgame.is_installed:
+            self.ui.install_path.setText(self.rgame.install_path)
+        else:
+            self.ui.install_size.setText("N/A")
+            self.ui.install_path.setText("N/A")
+            self.ui.platform.setText("Windows")
+
+        self.ui.install_size.setEnabled(bool(self.rgame.igame))
+        self.ui.lbl_install_size.setEnabled(bool(self.rgame.igame))
+        self.ui.install_path.setEnabled(bool(self.rgame.is_installed))
+        self.ui.lbl_install_path.setEnabled(bool(self.rgame.is_installed))
+
+        self.ui.uninstall_button.setEnabled(bool(rgame.igame))
+        self.ui.verify_button.setEnabled(bool(rgame.igame))
+        self.ui.repair_button.setEnabled(bool(rgame.igame))
+
+        if not rgame.is_installed or rgame.is_origin:
             self.ui.game_actions_stack.setCurrentWidget(self.ui.uninstalled_page)
         else:
             self.ui.install_button.setText(self.tr("Install Game"))

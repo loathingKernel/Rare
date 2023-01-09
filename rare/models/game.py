@@ -317,6 +317,15 @@ class RareGame(RareGameSlim):
         return self.igame.install_size if self.igame is not None else 0
 
     @property
+    def install_path(self) -> Optional[str]:
+        if self.igame:
+            return self.igame.install_path
+        elif self.is_origin:
+            # TODO Linux is also C:\\...
+            return self.__origin_install_path()
+        return None
+
+    @property
     def version(self) -> str:
         """!
         @brief Reports the currently installed version of the Game
@@ -600,7 +609,7 @@ class RareGame(RareGameSlim):
     __origin_install_path_cache = None
 
     def __origin_install_path(self) -> Optional[str]:
-        if self.__origin_install_path_cache == "err":
+        if self.__origin_install_path_cache == "":
             return None
         elif self.__origin_install_path_cache:
             return self.__origin_install_path_cache
@@ -617,7 +626,6 @@ class RareGame(RareGameSlim):
             self.__origin_install_path_cache = install_dir
             return install_dir
 
-        # TODO: Do not get install path on non windows, because of performance
         wine_prefix = self.core.lgd.config.get(self.game.app_name, "wine_prefix",
                                                fallback=os.path.expanduser("~/.wine"))
 
@@ -628,15 +636,13 @@ class RareGame(RareGameSlim):
 
         # TODO: find a better solution
         reg_path = reg_path.replace("\\", "\\\\").replace("SOFTWARE", "Software").replace("WOW6432Node", "Wow6432Node")
-        t = time.time()
         install_dir = reg.get(reg_path, '"Install Dir"', fallback=None)
-        print(f"Get install dir {self.title}: {time.time() - t}s")
 
         if install_dir:
             install_dir = install_dir.strip('"')
             self.__origin_install_path_cache = install_dir
             return install_dir
-        self.__origin_install_path_cache = "err"
+        self.__origin_install_path_cache = ""
         return None
 
     def repair(self, repair_and_update):
