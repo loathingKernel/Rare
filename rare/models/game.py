@@ -131,6 +131,7 @@ class RareGame(QObject):
             return
         self.signals.game.finished.emit()
 
+    __registry_cache: Optional[Dict] = None
     __metadata_json: Optional[Dict] = None
 
     @staticmethod
@@ -475,8 +476,15 @@ class RareGame(QObject):
 
         # TODO cache this line
         t = time.time()
-        reg = read_system_registry(wine_prefix)
-        print(f"Read reg file {self.app_name}: {time.time() - t}s")
+
+        if self.__registry_cache is None:
+            RareGame.__registry_cache = {}
+        if wine_prefix in self.__registry_cache.keys():
+            reg = self.__registry_cache[wine_prefix]
+        else:
+            reg = read_system_registry(wine_prefix)
+            RareGame.__registry_cache[wine_prefix] = reg
+        logger.debug(f"Read reg file {self.app_name}: {time.time() - t}s")
 
         # TODO: find a better solution
         reg_path = reg_path.replace("\\", "\\\\").replace("SOFTWARE", "Software").replace("WOW6432Node", "Wow6432Node")
