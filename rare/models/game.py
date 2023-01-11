@@ -131,7 +131,6 @@ class RareGame(QObject):
             return
         self.signals.game.finished.emit()
 
-    __registry_cache: Optional[Dict] = None
     __metadata_json: Optional[Dict] = None
 
     @staticmethod
@@ -314,7 +313,7 @@ class RareGame(QObject):
         """
         ret = True
         try:
-            if self.igame is not None:
+            if self.is_installed:
                 _ = self.core.get_asset(self.game.app_name, platform=self.igame.platform).build_version
                 ret = False
         except ValueError:
@@ -451,6 +450,7 @@ class RareGame(QObject):
             InstallOptionsModel(app_name=self.app_name)
         )
 
+    __registry_cache: Optional[Dict] = None
     __origin_install_path_cache = None
 
     def __origin_install_path(self) -> Optional[str]:
