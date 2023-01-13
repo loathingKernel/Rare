@@ -280,10 +280,7 @@ class RareGame(QObject):
         @param installed The installation status of the game
         @return None
         """
-        if installed:
-            self.igame = self.core.get_installed_game(self.app_name)
-        else:
-            self.igame = None
+        self.igame = self.core.get_installed_game(self.app_name) if installed else None
         self.set_pixmap()
 
     @property
@@ -332,10 +329,7 @@ class RareGame(QObject):
 
         @return bool If the games needs to be verified
         """
-        if self.igame is not None:
-            return self.igame.needs_verification
-        else:
-            return False
+        return self.igame.needs_verification if self.igame is not None else False
 
     @needs_verification.setter
     def needs_verification(self, not_update: bool) -> None:
@@ -419,9 +413,7 @@ class RareGame(QObject):
         if self.is_installed:
             if self.is_non_asset:
                 return True
-            if self.state == RareGame.State.RUNNING or self.needs_verification:
-                return False
-            return True
+            return self.state != RareGame.State.RUNNING and not self.needs_verification
         return False
 
     def set_pixmap(self):
@@ -459,8 +451,8 @@ class RareGame(QObject):
         elif self.__origin_install_path_cache:
             return self.__origin_install_path_cache
         reg_path: str = self.game.metadata \
-            .get("customAttributes", {}) \
-            .get("RegistryPath", {}).get("value", None)
+                .get("customAttributes", {}) \
+                .get("RegistryPath", {}).get("value", None)
         if not reg_path:
             return None
 
@@ -488,9 +480,7 @@ class RareGame(QObject):
 
         # TODO: find a better solution
         reg_path = reg_path.replace("\\", "\\\\").replace("SOFTWARE", "Software").replace("WOW6432Node", "Wow6432Node")
-        install_dir = reg.get(reg_path, '"Install Dir"', fallback=None)
-
-        if install_dir:
+        if install_dir := reg.get(reg_path, '"Install Dir"', fallback=None):
             install_dir = install_dir.strip('"')
             self.__origin_install_path_cache = install_dir
             return install_dir

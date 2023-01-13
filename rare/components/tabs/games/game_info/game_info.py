@@ -246,15 +246,14 @@ class GameInfo(QWidget):
 
                     response = warn_msg.exec()
 
-                    if response == 0:
-                        # Not using pathlib, since we can't delete not-empty folders. With shutil we can.
-                        if self.dest_path_with_suffix.is_dir():
-                            shutil.rmtree(self.dest_path_with_suffix)
-                        else:
-                            self.dest_path_with_suffix.unlink()
-                    else:
+                    if response != 0:
                         return
 
+                    # Not using pathlib, since we can't delete not-empty folders. With shutil we can.
+                    if self.dest_path_with_suffix.is_dir():
+                        shutil.rmtree(self.dest_path_with_suffix)
+                    else:
+                        self.dest_path_with_suffix.unlink()
         self.ui.move_stack.addWidget(self.progress_of_moving)
         self.ui.move_stack.setCurrentWidget(self.progress_of_moving)
 
@@ -325,13 +324,12 @@ class GameInfo(QWidget):
                     except TypeError as e:
                         logger.warning(f"{self.rgame.app_title} verify worker: {e}")
         self.rgame = rgame
-        if (worker := self.rgame.active_worker) is not None:
-            if isinstance(worker, VerifyWorker):
-                self.ui.verify_widget.setCurrentIndex(1)
-                self.ui.verify_progress.setValue(self.rgame.progress)
-                worker.signals.status.connect(self.verify_status)
-        else:
+        if (worker := self.rgame.active_worker) is None:
             self.ui.verify_widget.setCurrentIndex(0)
+        elif isinstance(worker, VerifyWorker):
+            self.ui.verify_widget.setCurrentIndex(1)
+            self.ui.verify_progress.setValue(self.rgame.progress)
+            worker.signals.status.connect(self.verify_status)
         # FIXME: Use RareGame for the rest of the code
         # self.game = rgame.game
         # self.igame = rgame.igame
@@ -392,11 +390,9 @@ class GameInfo(QWidget):
         if self.rgame.igame is not None:
             if self.game_moving == self.rgame.app_name:
                 index = self.ui.move_stack.addWidget(self.progress_of_moving)
-                self.ui.move_stack.setCurrentIndex(index)
             else:
                 index = self.ui.move_stack.addWidget(self.ui.move_button)
-                self.ui.move_stack.setCurrentIndex(index)
-
+            self.ui.move_stack.setCurrentIndex(index)
         # If a game is verifying or moving, disable both verify and moving buttons.
         if rgame.active_worker is not None:
             self.ui.verify_button.setEnabled(False)
