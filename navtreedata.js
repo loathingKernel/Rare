@@ -88,9 +88,9 @@ var NAVTREEINDEX =
 "classrare_1_1utils_1_1meta_1_1_rare_game_meta.html#ae64f0875afe3067b97ba370b354b9213",
 "classrare_1_1widgets_1_1image__widget_1_1_image_widget_1_1_border.html",
 "dl__queue__widget_8py.html",
-"move__game_8py.html",
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget.html#ac492f8de2d00b6c4282e766bfadaf2e7",
-"sliding__stack_8py.html"
+"monkeys_8py_source.html",
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc.html#afe63fea7be31b0200b496d08bc6b517d",
+"singleton_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

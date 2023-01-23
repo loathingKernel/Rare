@@ -86,8 +86,8 @@ var NAVTREEINDEX18 =
 "functions_t.html":[7,3,0,20],
 "functions_u.html":[7,3,0,21],
 "functions_v.html":[7,3,0,22],
-"functions_vars.html":[7,3,2],
 "functions_vars.html":[7,3,2,0],
+"functions_vars.html":[7,3,2],
 "functions_vars_b.html":[7,3,2,1],
 "functions_vars_c.html":[7,3,2,2],
 "functions_vars_d.html":[7,3,2,3],
@@ -117,8 +117,9 @@ var NAVTREEINDEX18 =
 "game__dlc__widget_8py.html#afe63fea7be31b0200b496d08bc6b517d":[8,0,0,5,0,2,1,0,2,1],
 "game__dlc__widget_8py_source.html":[8,0,0,5,0,2,1,0,2],
 "game__launch__helper_2____init_____8py.html":[8,0,0,1,0],
-"game__launch__helper_2____init_____8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,1,0,4],
+"game__launch__helper_2____init_____8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,1,0,5],
 "game__launch__helper_2____init_____8py.html#a82c7246b0e4557e01f0dac14783baa38":[8,0,0,1,0,3],
+"game__launch__helper_2____init_____8py.html#af8f65616e7a0d5e0800647b00e16dffe":[8,0,0,1,0,4],
 "game__launch__helper_2____init_____8py_source.html":[8,0,0,1,0],
 "game__utils_8py.html":[8,0,0,0,1,2,5],
 "game__utils_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,1,2,5,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX18 =
 "models_8py_source.html":[8,0,0,6,7],
 "monkeys_8py.html":[8,0,0,2,1,3],
 "monkeys_8py.html#a1915e95e54d4a5f5071a6dfa46bc77b4":[8,0,0,2,1,3,5],
-"monkeys_8py.html#acc33c686912f46ca1eea68deb0e04730":[8,0,0,2,1,3,4],
-"monkeys_8py_source.html":[8,0,0,2,1,3]
+"monkeys_8py.html#acc33c686912f46ca1eea68deb0e04730":[8,0,0,2,1,3,4]
 };

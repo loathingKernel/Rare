@@ -1,5 +1,7 @@
 var NAVTREEINDEX20 =
 {
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,1,0,0,1],
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget.html":[6,0,0,7,0,2,1,0,1],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget.html#ac492f8de2d00b6c4282e766bfadaf2e7":[6,0,0,7,0,2,1,0,1,3],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget.html#ad0c30d9ed262bf9b846efbbe5926b043":[6,0,0,7,0,2,1,0,1,2],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,1,0,1,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX20 =
 "shop__widget_8py_source.html":[8,0,0,0,1,4,7],
 "signals_8py.html":[8,0,0,3,3],
 "signals_8py_source.html":[8,0,0,3,3],
-"singleton_8py.html":[8,0,0,6,11],
-"singleton_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,6,11,2],
-"singleton_8py_source.html":[8,0,0,6,11]
+"singleton_8py.html":[8,0,0,6,11]
 };

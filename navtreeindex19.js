@@ -1,5 +1,6 @@
 var NAVTREEINDEX19 =
 {
+"monkeys_8py_source.html":[8,0,0,2,1,3],
 "move__game_8py.html":[8,0,0,0,1,2,0,4],
 "move__game_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,1,2,0,4,4],
 "move__game_8py.html#a37429d7a03b6c10fbf0ab0eafd491d01":[8,0,0,0,1,2,0,4,3],
@@ -156,8 +157,9 @@ var NAVTREEINDEX19 =
 "namespacerare_1_1components_1_1tray__icon.html":[6,0,0,2,3],
 "namespacerare_1_1components_1_1tray__icon.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,2,3,1],
 "namespacerare_1_1game__launch__helper.html":[6,0,0,3],
-"namespacerare_1_1game__launch__helper.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,3,6],
+"namespacerare_1_1game__launch__helper.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,3,7],
 "namespacerare_1_1game__launch__helper.html#a82c7246b0e4557e01f0dac14783baa38":[6,0,0,3,5],
+"namespacerare_1_1game__launch__helper.html#af8f65616e7a0d5e0800647b00e16dffe":[6,0,0,3,6],
 "namespacerare_1_1game__launch__helper_1_1console.html":[6,0,0,3,0],
 "namespacerare_1_1game__launch__helper_1_1lgd__helper.html":[6,0,0,3,1],
 "namespacerare_1_1game__launch__helper_1_1lgd__helper.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,3,1,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX19 =
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info.html":[6,0,0,7,0,2,1,0],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc.html":[6,0,0,7,0,2,1,0,0],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc.html#ac492f8de2d00b6c4282e766bfadaf2e7":[6,0,0,7,0,2,1,0,0,3],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc.html#af7e653f9b830acc38ba2c7a998252f6e":[6,0,0,7,0,2,1,0,0,2],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,1,0,0,1],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget.html":[6,0,0,7,0,2,1,0,1]
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc.html#af7e653f9b830acc38ba2c7a998252f6e":[6,0,0,7,0,2,1,0,0,2]
 };

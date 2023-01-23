@@ -1,5 +1,7 @@
 var NAVTREEINDEX21 =
 {
+"singleton_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,6,11,2],
+"singleton_8py_source.html":[8,0,0,6,11],
 "sliding__stack_8py.html":[8,0,0,7,7],
 "sliding__stack_8py_source.html":[8,0,0,7,7],
 "steam__grades_8py.html":[8,0,0,6,12],
