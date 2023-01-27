@@ -384,7 +384,6 @@ class RareGame(RareGameSlim):
         """
         return (self.igame is not None) \
             or (self.is_origin and self.__origin_install_path() is not None) \
-            or (self.is_non_asset and  platform.system() != "Windows")  # TODO: Remove this line
 
     def set_installed(self, installed: bool) -> None:
         """!
