@@ -55,7 +55,7 @@ class RareGameBase(QObject):
             uninstalled = pyqtSignal(str)
             launched = pyqtSignal(str)
             finished = pyqtSignal(str)
-            origin_path_ready = pyqtSignal(str)
+            origin_path_ready = pyqtSignal(str, int)
 
         def __init__(self):
             super(RareGameBase.Signals, self).__init__()
@@ -209,6 +209,7 @@ class RareGame(RareGameSlim):
         self.__load_metadata()
 
         self.__origin_install_path: Optional[str] = None
+        self.__install_size: int = 0
 
         self.owned_dlcs: List[RareGame] = []
 
@@ -229,17 +230,6 @@ class RareGame(RareGameSlim):
         self.__steam_grade: Optional[str] = None
 
         self.signals.game.origin_path_ready.connect(self.set_origin_install_path)
-        if platform.system() == "Windows" and self.is_origin:
-            reg_path: str = self.game.metadata \
-                .get("customAttributes", {}) \
-                .get("RegistryPath", {}).get("value", None)
-            if not reg_path:
-                return
-            import winreg
-            from legendary.lfs import windows_helpers
-            install_dir = windows_helpers.query_registry_value(winreg.HKEY_LOCAL_MACHINE, reg_path, "Install Dir")
-            self.__origin_install_path = install_dir
-            self.set_origin_install_path(install_dir)
 
     def __on_progress_update(self, progress: int):
         self.progress = progress
@@ -330,6 +320,8 @@ class RareGame(RareGameSlim):
 
         @return int The size of the installation
         """
+        if self.is_origin:
+            return self.__install_size
         return self.igame.install_size if self.igame is not None else 0
 
     @property
@@ -623,8 +615,10 @@ class RareGame(RareGameSlim):
 
     __registry_cache: Optional[Dict] = None
 
-    def set_origin_install_path(self, path: str) -> None:
+    def set_origin_install_path(self, path: str, size: int = 0) -> None:
         self.__origin_install_path = path
+        if size > 0:
+            self.__install_size = size
         self.set_installed(bool(path))
 
     def repair(self, repair_and_update):
