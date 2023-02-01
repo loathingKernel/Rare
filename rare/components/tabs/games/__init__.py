@@ -182,9 +182,8 @@ class GamesTab(QStackedWidget):
         self.filter_games(self.active_filter)
         self.update_count_games_label()
 
-        if platform.system() != "Windows":
-            worker = OriginWineWorker(self.core, origin_games)
-            QThreadPool.globalInstance().start(worker)
+        worker = OriginWineWorker(self.core, origin_games)
+        QThreadPool.globalInstance().start(worker)
 
     def add_library_widget(self, rgame: RareGame):
         try:

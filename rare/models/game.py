@@ -1,10 +1,8 @@
-import configparser
 import json
 import os
 import platform
 from abc import abstractmethod
-import platform
-import time
+from ctypes import c_uint64
 from dataclasses import dataclass, field
 from datetime import datetime
 from enum import IntEnum
@@ -55,7 +53,7 @@ class RareGameBase(QObject):
             uninstalled = pyqtSignal(str)
             launched = pyqtSignal(str)
             finished = pyqtSignal(str)
-            origin_path_ready = pyqtSignal(str, int)
+            origin_path_ready = pyqtSignal(str, c_uint64)
 
         def __init__(self):
             super(RareGameBase.Signals, self).__init__()
@@ -391,7 +389,7 @@ class RareGame(RareGameSlim):
         @return bool If the game should be considered installed
         """
         return (self.igame is not None) \
-            or (self.is_origin and self.__origin_install_path is not None)
+               or (self.is_origin and self.__origin_install_path is not None)
 
     def set_installed(self, installed: bool) -> None:
         """!
@@ -615,8 +613,9 @@ class RareGame(RareGameSlim):
 
     __registry_cache: Optional[Dict] = None
 
-    def set_origin_install_path(self, path: str, size: int = 0) -> None:
+    def set_origin_install_path(self, path: str, size: c_uint64 = 0) -> None:
         self.__origin_install_path = path
+        size = int(size.value)
         if size > 0:
             self.__install_size = size
         self.set_installed(bool(path))

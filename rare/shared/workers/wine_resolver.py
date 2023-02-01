@@ -4,6 +4,7 @@ import platform
 import subprocess
 import time
 from configparser import ConfigParser
+from ctypes import c_uint64
 from logging import getLogger
 from typing import Union
 
@@ -12,6 +13,7 @@ from PyQt5.QtCore import pyqtSignal, QRunnable, QObject
 from rare.lgndr.core import LegendaryCore
 from rare.models.game import RareGame
 from rare.models.pathspec import PathSpec
+from rare.utils.misc import get_size
 from .worker import Worker
 
 logger = getLogger("WineResolver")
@@ -98,6 +100,18 @@ class OriginWineWorker(QRunnable):
         reg.read(os.path.join(wine_pfx, 'system.reg'))
         return reg
 
+    @staticmethod
+    def get_size(path: str):
+        total_size = 0
+        for dirpath, dirnames, filenames in os.walk(path):
+            for f in filenames:
+                fp = os.path.join(dirpath, f)
+                # skip if it is symbolic link
+                if not os.path.islink(fp):
+                    total_size += os.path.getsize(fp)
+
+        return total_size
+
     def run(self) -> None:
         t = time.time()
         for rgame in self.games:
@@ -121,13 +135,14 @@ class OriginWineWorker(QRunnable):
                 self.__cache[wine_prefix] = reg
 
                 # TODO: find a better solution
-                reg_path = reg_path.replace("\\", "\\\\")\
+                reg_path = reg_path.replace("\\", "\\\\") \
                     .replace("SOFTWARE", "Software").replace("WOW6432Node", "Wow6432Node")
 
                 install_dir = reg.get(reg_path, '"Install Dir"', fallback=None)
-            if install_dir:
-                size = sum(os.path.getsize(f) for f in os.listdir(install_dir) if os.path.isfile(f))
-                logger.debug(f"Found install path for {rgame.title}: {install_dir}")
-                rgame.signals.game.origin_path_ready.emit(install_dir, size)
+            if install_dir and os.path.exists(install_dir):
+                size = self.get_size(install_dir)
+                logger.debug(f"Found size and install path for {rgame.title}: {get_size(size)}, {install_dir}")
+                rgame.signals.game.origin_path_ready.emit(install_dir, c_uint64(size))
+            if install_dir and not os.path.exists(install_dir):
+                logger.warning(f"Found install path {install_dir} for {rgame.title} but it does not exist")
         logger.info(f"Origin registry worker finished in {time.time() - t}s")
-

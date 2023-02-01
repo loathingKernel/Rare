@@ -338,18 +338,20 @@ class GameInfo(QWidget, SideTabContents):
         self.ui.dev.setText(rgame.developer)
 
         if self.rgame.igame:
-            self.ui.install_size.setText(get_size(self.rgame.igame.install_size))
-            self.ui.install_path.setText(self.rgame.igame.install_path)
+            self.ui.install_size.setText(get_size(self.rgame.install_size))
+            self.ui.install_path.setText(self.rgame.install_path)
             self.ui.platform.setText(self.rgame.igame.platform)
         elif self.rgame.is_origin and self.rgame.is_installed:
             self.ui.install_path.setText(self.rgame.install_path)
+            self.ui.install_size.setText(get_size(self.rgame.install_size))
+            self.ui.platform.setText("Windows")
         else:
             self.ui.install_size.setText("N/A")
             self.ui.install_path.setText("N/A")
             self.ui.platform.setText("Windows")
 
-        self.ui.install_size.setEnabled(bool(self.rgame.igame))
-        self.ui.lbl_install_size.setEnabled(bool(self.rgame.igame))
+        self.ui.install_size.setEnabled(bool(self.rgame.is_installed))
+        self.ui.lbl_install_size.setEnabled(bool(self.rgame.is_installed))
         self.ui.install_path.setEnabled(bool(self.rgame.is_installed))
         self.ui.lbl_install_path.setEnabled(bool(self.rgame.is_installed))
 
