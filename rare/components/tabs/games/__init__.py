@@ -1,6 +1,7 @@
+import platform
 from logging import getLogger
 
-from PyQt5.QtCore import QSettings, Qt, pyqtSlot
+from PyQt5.QtCore import QSettings, Qt, pyqtSlot, QThreadPool
 from PyQt5.QtWidgets import QStackedWidget, QVBoxLayout, QWidget, QScrollArea, QFrame
 from legendary.models.game import Game
 
@@ -13,6 +14,7 @@ from rare.shared import (
     ImageManagerSingleton,
 )
 from rare.shared import RareCore
+from rare.shared.workers.wine_resolver import OriginWineWorker
 from rare.widgets.library_layout import LibraryLayout
 from rare.widgets.sliding_stack import SlidingStackedWidget
 from .game_info import GameInfoTabs
@@ -163,6 +165,8 @@ class GamesTab(QStackedWidget):
         return rgame
 
     def setup_game_list(self):
+        self.update_count_games_label()
+        origin_games: list[RareGame] = []
         for game in self.api_results.games + self.api_results.na_games:
             rgame = self.__create_game_with_dlcs(game)
             self.rcore.add_game(rgame)
@@ -170,11 +174,18 @@ class GamesTab(QStackedWidget):
             if not icon_widget or not list_widget:
                 logger.warning(f"Excluding {rgame.app_name} from the game list")
                 continue
+            if rgame.is_origin:
+                origin_games.append(rgame)
             self.icon_view.layout().addWidget(icon_widget)
             self.list_view.layout().addWidget(list_widget)
             rgame.set_pixmap()
         self.filter_games(self.active_filter)
         self.update_count_games_label()
+
+        if platform.system() != "Windows":
+            worker = OriginWineWorker(origin_games, self.core)
+            QThreadPool.globalInstance().start(worker)
+
 
     def add_library_widget(self, rgame: RareGame):
         try:

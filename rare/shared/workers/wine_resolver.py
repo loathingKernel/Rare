@@ -1,10 +1,15 @@
+import configparser
 import os
 import subprocess
+import time
+from configparser import ConfigParser
 from logging import getLogger
+from typing import Union
 
 from PyQt5.QtCore import pyqtSignal, QObject
 
 from rare.lgndr.core import LegendaryCore
+from rare.models.game import RareGame
 from rare.models.pathspec import PathSpec
 from .worker import Worker
 
@@ -69,3 +74,53 @@ class WineResolver(Worker):
         # pylint: disable=E1136
         self.signals.result_ready[str].emit(real_path)
         return
+
+
+class OriginWineWorker(QRunnable):
+    def __init__(self, games: Union[list[RareGame], RareGame], core: LegendaryCore):
+        super().__init__()
+        self.setAutoDelete(True)
+
+        self.__cache: dict[str, ConfigParser] = {}
+        if isinstance(games, RareGame):
+            games = [games]
+
+        self.games = games
+        self.core = core
+
+    # this is a copied function from legendary.utils.wine_helpers, but it reads system.reg in the wine prefix
+    @staticmethod
+    def read_system_registry(wine_pfx: str) -> ConfigParser:
+        reg = configparser.ConfigParser(comment_prefixes=(';', '#', '/', 'WINE'), allow_no_value=True,
+                                        strict=False)
+        reg.optionxform = str
+        reg.read(os.path.join(wine_pfx, 'system.reg'))
+        return reg
+
+    def run(self) -> None:
+        t = time.time()
+        for rgame in self.games:
+            if not rgame.is_origin:
+                continue
+
+            reg_path: str = rgame.game.metadata \
+                .get("customAttributes", {}) \
+                .get("RegistryPath", {}).get("value", None)
+            if not reg_path:
+                continue
+
+            wine_prefix = self.core.lgd.config.get(rgame.app_name, "wine_prefix",
+                                                   fallback=os.path.expanduser("~/.wine"))
+            reg = self.__cache.get(wine_prefix) or self.read_system_registry(wine_prefix)
+            self.__cache[wine_prefix] = reg
+
+            # TODO: find a better solution
+            reg_path = reg_path.replace("\\", "\\\\")\
+                .replace("SOFTWARE", "Software").replace("WOW6432Node", "Wow6432Node")
+
+            install_dir = reg.get(reg_path, '"Install Dir"', fallback=None)
+            if install_dir:
+                logger.debug(f"Found install path for {rgame.title}: {install_dir}")
+                rgame.signals.game.origin_path_ready.emit(install_dir)
+        logger.info(f"Origin registry worker finished in {time.time() - t}s")
+

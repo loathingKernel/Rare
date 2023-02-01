@@ -55,6 +55,7 @@ class RareGameBase(QObject):
             uninstalled = pyqtSignal(str)
             launched = pyqtSignal(str)
             finished = pyqtSignal(str)
+            origin_path_ready = pyqtSignal(str)
 
         def __init__(self):
             super(RareGameBase.Signals, self).__init__()
@@ -207,6 +208,8 @@ class RareGame(RareGameSlim):
         self.metadata: RareGame.Metadata = RareGame.Metadata()
         self.__load_metadata()
 
+        self.__origin_install_path: Optional[str] = None
+
         self.owned_dlcs: List[RareGame] = []
 
         if self.has_update:
@@ -224,6 +227,19 @@ class RareGame(RareGameSlim):
             self.game_process.connect_to_server(on_startup=True)
 
         self.__steam_grade: Optional[str] = None
+
+        self.signals.game.origin_path_ready.connect(self.set_origin_install_path)
+        if platform.system() == "Windows" and self.is_origin:
+            reg_path: str = self.game.metadata \
+                .get("customAttributes", {}) \
+                .get("RegistryPath", {}).get("value", None)
+            if not reg_path:
+                return
+            import winreg
+            from legendary.lfs import windows_helpers
+            install_dir = windows_helpers.query_registry_value(winreg.HKEY_LOCAL_MACHINE, reg_path, "Install Dir")
+            self.__origin_install_path = install_dir
+            self.set_origin_install_path(install_dir)
 
     def __on_progress_update(self, progress: int):
         self.progress = progress
@@ -322,7 +338,7 @@ class RareGame(RareGameSlim):
             return self.igame.install_path
         elif self.is_origin:
             # TODO Linux is also C:\\...
-            return self.__origin_install_path()
+            return self.__origin_install_path
         return None
 
     @property
@@ -383,7 +399,7 @@ class RareGame(RareGameSlim):
         @return bool If the game should be considered installed
         """
         return (self.igame is not None) \
-            or (self.is_origin and self.__origin_install_path() is not None) \
+            or (self.is_origin and self.__origin_install_path is not None)
 
     def set_installed(self, installed: bool) -> None:
         """!
@@ -606,51 +622,10 @@ class RareGame(RareGameSlim):
         return True
 
     __registry_cache: Optional[Dict] = None
-    __origin_install_path_cache = None
 
-    def __origin_install_path(self) -> Optional[str]:
-        if self.__origin_install_path_cache == "":
-            return None
-        elif self.__origin_install_path_cache:
-            return self.__origin_install_path_cache
-        reg_path: str = self.game.metadata \
-            .get("customAttributes", {}) \
-            .get("RegistryPath", {}).get("value", None)
-        if not reg_path:
-            return None
-
-        if platform.system() == "Windows":
-            import winreg
-            from legendary.lfs import windows_helpers
-            install_dir = windows_helpers.query_registry_value(winreg.HKEY_LOCAL_MACHINE, reg_path, "Install Dir")
-            self.__origin_install_path_cache = install_dir
-            return install_dir
-
-        wine_prefix = self.core.lgd.config.get(self.game.app_name, "wine_prefix",
-                                               fallback=os.path.expanduser("~/.wine"))
-
-        # TODO cache this line
-        t = time.time()
-
-        if self.__registry_cache is None:
-            RareGame.__registry_cache = {}
-        if wine_prefix in self.__registry_cache.keys():
-            reg = self.__registry_cache[wine_prefix]
-        else:
-            reg = read_system_registry(wine_prefix)
-            RareGame.__registry_cache[wine_prefix] = reg
-        logger.debug(f"Read reg file {self.app_name}: {time.time() - t}s")
-
-        # TODO: find a better solution
-        reg_path = reg_path.replace("\\", "\\\\").replace("SOFTWARE", "Software").replace("WOW6432Node", "Wow6432Node")
-        install_dir = reg.get(reg_path, '"Install Dir"', fallback=None)
-
-        if install_dir:
-            install_dir = install_dir.strip('"')
-            self.__origin_install_path_cache = install_dir
-            return install_dir
-        self.__origin_install_path_cache = ""
-        return None
+    def set_origin_install_path(self, path: str) -> None:
+        self.__origin_install_path = path
+        self.set_installed(bool(path))
 
     def repair(self, repair_and_update):
         self.signals.game.install.emit(
@@ -668,12 +643,12 @@ class RareGame(RareGameSlim):
         return True
 
     def launch(
-        self,
-        offline: bool = False,
-        skip_update_check: bool = False,
-        wine_bin: Optional[str] = None,
-        wine_pfx: Optional[str] = None,
-        ask_sync_saves: bool = False,
+            self,
+            offline: bool = False,
+            skip_update_check: bool = False,
+            wine_bin: Optional[str] = None,
+            wine_pfx: Optional[str] = None,
+            ask_sync_saves: bool = False,
     ) -> bool:
         if not self.can_launch:
             return False
@@ -696,15 +671,6 @@ class RareGame(RareGameSlim):
         logger.info(f"Start new Process: ({executable} {' '.join(args)})")
         self.game_process.connect_to_server(on_startup=False)
         return True
-
-
-# this is a copied function from legendary.utils.wine_helpers, but it reads system.reg in the wine prefix
-def read_system_registry(wine_pfx: str):
-    reg = configparser.ConfigParser(comment_prefixes=(';', '#', '/', 'WINE'), allow_no_value=True,
-                                    strict=False)
-    reg.optionxform = str
-    reg.read(os.path.join(wine_pfx, 'system.reg'))
-    return reg
 
 
 class RareEosOverlay(RareGameBase):
