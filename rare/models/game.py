@@ -32,6 +32,7 @@ class RareGameBase(QObject):
         VERIFYING = 3
         MOVING = 4
         UNINSTALLING = 5
+        SYNCING = 6
 
     class Signals:
         class Progress(QObject):
@@ -208,6 +209,7 @@ class RareGame(RareGameSlim):
 
         self.__origin_install_path: Optional[str] = None
         self.__install_size: int = 0
+        self.latest_save = None
 
         self.owned_dlcs: List[RareGame] = []
 
@@ -239,6 +241,13 @@ class RareGame(RareGameSlim):
         self.__worker = worker
         if worker is None:
             self.state = RareGame.State.IDLE
+
+    def set_latest_save(self, save: SaveGameFile):
+        self.latest_save = save
+
+    def upload_saves(self):
+        if not self.game.supports_cloud_saves:
+            return
 
     @pyqtSlot(int)
     def __game_launched(self, code: int):
@@ -389,7 +398,7 @@ class RareGame(RareGameSlim):
         @return bool If the game should be considered installed
         """
         return (self.igame is not None) \
-               or (self.is_origin and self.__origin_install_path is not None)
+            or (self.is_origin and self.__origin_install_path is not None)
 
     def set_installed(self, installed: bool) -> None:
         """!

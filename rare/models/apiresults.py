@@ -12,7 +12,7 @@ class ApiResults:
     mac_games: Optional[List] = None
     na_games: Optional[List[Game]] = None
     na_dlcs: Optional[Dict[str, List[Game]]] = None
-    saves: Optional[List[SaveGameFile]] = None
+    saves: Optional[Dict[str, List[SaveGameFile]]] = None
 
     def __bool__(self):
         return (

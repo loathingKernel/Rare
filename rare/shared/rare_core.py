@@ -188,6 +188,8 @@ class RareCore(QObject):
         rgame.signals.game.uninstalled.connect(self.__signals.game.uninstalled)
         rgame.signals.game.finished.connect(self.__signals.application.update_tray)
         rgame.signals.game.finished.connect(lambda: self.__signals.discord_rpc.set_title.emit(""))
+        if save := self.__api_results.saves.get(rgame.app_name):
+            rgame.set_latest_save(save)
         self.__games[rgame.app_name] = rgame
 
     def __filter_games(self, condition: Callable[[RareGame], bool]) -> Iterator[RareGame]:
@@ -251,12 +253,12 @@ class RareCore(QObject):
         """!
         SaveGameFiles across games
         """
-        return chain.from_iterable([game.saves for game in self.has_saves])
+        return chain.from_iterable([game.latest_save for game in self.has_saves])
 
     @property
     def has_saves(self) -> Iterator[RareGame]:
         """!
         RareGames that have SaveGameFiles associated with them
         """
-        return self.__filter_games(lambda game: bool(game.saves))
+        return self.__filter_games(lambda game: bool(game.latest_save))
 
