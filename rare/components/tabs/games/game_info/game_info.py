@@ -337,23 +337,23 @@ class GameInfo(QWidget, SideTabContents):
         self.ui.app_name.setText(rgame.app_name)
         self.ui.dev.setText(rgame.developer)
 
-        if self.rgame.igame:
-            self.ui.install_size.setText(get_size(self.rgame.install_size))
-            self.ui.install_path.setText(self.rgame.install_path)
-            self.ui.platform.setText(self.rgame.igame.platform)
-        elif self.rgame.is_origin and self.rgame.is_installed:
-            self.ui.install_path.setText(self.rgame.install_path)
-            self.ui.install_size.setText(get_size(self.rgame.install_size))
+        if rgame.igame:
+            self.ui.install_size.setText(get_size(rgame.install_size))
+            self.ui.install_path.setText(rgame.install_path)
+            self.ui.platform.setText(rgame.igame.platform)
+        elif rgame.is_origin and rgame.is_installed:
+            self.ui.install_path.setText(rgame.install_path)
+            self.ui.install_size.setText(get_size(rgame.install_size))
             self.ui.platform.setText("Windows")
         else:
             self.ui.install_size.setText("N/A")
             self.ui.install_path.setText("N/A")
             self.ui.platform.setText("Windows")
 
-        self.ui.install_size.setEnabled(bool(self.rgame.is_installed))
-        self.ui.lbl_install_size.setEnabled(bool(self.rgame.is_installed))
-        self.ui.install_path.setEnabled(bool(self.rgame.is_installed))
-        self.ui.lbl_install_path.setEnabled(bool(self.rgame.is_installed))
+        self.ui.install_size.setEnabled(bool(rgame.is_installed))
+        self.ui.lbl_install_size.setEnabled(bool(rgame.is_installed))
+        self.ui.install_path.setEnabled(bool(rgame.is_installed))
+        self.ui.lbl_install_path.setEnabled(bool(rgame.is_installed))
 
         self.ui.uninstall_button.setEnabled(bool(rgame.igame))
         self.ui.verify_button.setEnabled(bool(rgame.igame))
