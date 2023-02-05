@@ -4,6 +4,7 @@ from logging import getLogger
 from PyQt5.QtCore import QThreadPool, QSettings
 from PyQt5.QtWidgets import QWidget, QFileDialog, QLabel, QPushButton, QSizePolicy, QMessageBox, QStackedWidget, \
     QGroupBox
+from legendary.models.game import SaveGameStatus
 
 from rare.models.game import RareGame
 from rare.shared import LegendaryCoreSingleton
@@ -42,7 +43,7 @@ class CloudSaveTab(QStackedWidget):
         self.cloud_widget_ui = Ui_CloudWidget()
         self.cloud_widget_ui.setupUi(self.cloud_widget)
 
-        self.main_widget.layout().addWidget(self.cloud_widget)
+        self.ui.options_layout.addWidget(self.cloud_widget)
 
         self.cloud_save_path_edit = PathEdit(
             "",
@@ -137,6 +138,7 @@ class CloudSaveTab(QStackedWidget):
             self.setCurrentIndex(1)
             self.setDisabled(True)
             return
+        self.title.setTitle(rgame.title)
         self.change = False
         self.setDisabled(False)
         self.setCurrentIndex(0)
@@ -148,14 +150,15 @@ class CloudSaveTab(QStackedWidget):
             self.ui.download_button.setDisabled(False)
             self.ui.upload_button.setDisabled(False)
 
-        self.ui.title_label.setText(self.ui.title_label.text() + rgame.title)
-
-        newer = "remote"
-        new_text = self.tr(" (newer)")
-        if newer == "remote":
-            self.ui.cloud_gb.setTitle(self.ui.cloud_gb.title() + new_text)
-        elif newer == "local":
-            self.ui.local_gb.setTitle(self.ui.local_gb.title() + new_text)
+        if rgame.save.res == SaveGameStatus.LOCAL_NEWER:
+            self.ui.local_new_label.setVisible(True)
+            self.ui.cloud_new_label.setVisible(False)
+        elif rgame.save.res == SaveGameStatus.REMOTE_NEWER:
+            self.ui.local_new_label.setVisible(False)
+            self.ui.cloud_new_label.setVisible(True)
+        else:
+            self.ui.local_new_label.setVisible(False)
+            self.ui.cloud_new_label.setVisible(False)
 
         sync_cloud = self.settings.value(f"{self.rgame.app_name}/auto_sync_cloud", True, bool)
         self.cloud_widget_ui.cloud_sync.setChecked(sync_cloud)

@@ -296,6 +296,10 @@ class RareGame(RareGameSlim):
         latest_save = sorted(saves, key=lambda a: a.datetime)[-1]
         self.set_latest_save(latest_save)
 
+    @property
+    def is_save_up_to_date(self):
+        return self.save.res == SaveGameStatus.SAME_AGE
+
     @pyqtSlot(int)
     def __game_launched(self, code: int):
         if code == GameProcess.Code.ON_STARTUP:
