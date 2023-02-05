@@ -67,10 +67,14 @@ class CloudSaveTab(QStackedWidget):
         )
 
     def upload(self):
-        pass
+        self.ui.upload_button.setDisabled(True)
+        self.ui.download_button.setDisabled(True)
+        self.rgame.upload_saves()
 
     def download(self):
-        pass
+        self.ui.upload_button.setDisabled(True)
+        self.ui.download_button.setDisabled(True)
+        self.rgame.download_saves()
 
     def compute_save_path(self):
         if self.core.is_installed(self.rgame.app_name) and self.rgame.game.supports_cloud_saves:
@@ -127,6 +131,7 @@ class CloudSaveTab(QStackedWidget):
             self.core.lgd.set_installed_game(self.rgame.app_name, self.rgame.igame)
 
     def update_game(self, rgame: RareGame):
+        # TODO connect update widget signal to connect to sync state
         self.rgame = rgame
         if not rgame.game.supports_cloud_saves:
             self.setCurrentIndex(1)
@@ -135,6 +140,13 @@ class CloudSaveTab(QStackedWidget):
         self.change = False
         self.setDisabled(False)
         self.setCurrentIndex(0)
+
+        if self.rgame.state == rgame.State.SYNCING:
+            self.ui.download_button.setDisabled(True)
+            self.ui.upload_button.setDisabled(True)
+        else:
+            self.ui.download_button.setDisabled(False)
+            self.ui.upload_button.setDisabled(False)
 
         self.ui.title_label.setText(self.ui.title_label.text() + rgame.title)
 
@@ -149,9 +161,8 @@ class CloudSaveTab(QStackedWidget):
         self.cloud_widget_ui.cloud_sync.setChecked(sync_cloud)
         if hasattr(self.rgame.igame, "save_path") and self.rgame.igame.save_path:
             self.cloud_save_path_edit.setText(self.rgame.igame.save_path)
-            res, (dt_local, dt_remote) = self.core.check_savegame_state(
-                rgame.igame.save_path, self.rgame.latest_save
-            )
+            dt_local = rgame.save.dt_local
+            dt_remote = rgame.save.dt_remote
             self.ui.date_info_local.setText(dt_local.strftime("%A, %d. %B %Y %X") if dt_local else "None")
             self.ui.date_info_remote.setText(dt_remote.strftime("%A, %d. %B %Y %X") if dt_remote else "None")
         else:
