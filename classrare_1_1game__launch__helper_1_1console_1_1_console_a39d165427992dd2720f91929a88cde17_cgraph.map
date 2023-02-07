@@ -1,8 +1,8 @@
 <map id="__init__" name="__init__">
 <area shape="rect" id="node1" title=" " alt="" coords="12,141,79,168"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_progress_label.html#afe23566a105be4d4343f0010ab0c0c81" title=" " alt="" coords="127,29,391,85"/>
-<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#af87928df2c164a948da59b9e41bcc8e3" title=" " alt="" coords="176,223,342,265"/>
-<area shape="rect" id="node11" href="$classrare_1_1widgets_1_1library__layout_1_1_library_layout.html#af87928df2c164a948da59b9e41bcc8e3" title=" " alt="" coords="148,134,370,175"/>
+<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#afe23566a105be4d4343f0010ab0c0c81" title=" " alt="" coords="176,223,342,265"/>
+<area shape="rect" id="node11" href="$classrare_1_1widgets_1_1library__layout_1_1_library_layout.html#afe23566a105be4d4343f0010ab0c0c81" title=" " alt="" coords="148,134,370,175"/>
 <area shape="rect" id="node4" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#aea5fef774da86c1a120b393f7d8cdd6a" title=" " alt="" coords="458,134,620,175"/>
 <area shape="rect" id="node10" href="$classrare_1_1widgets_1_1library__layout_1_1_library_layout.html#aea5fef774da86c1a120b393f7d8cdd6a" title="Arranges the widgets for this layout." alt="" coords="439,223,639,265"/>
 <area shape="rect" id="node5" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a198240b6ed8eb4be3d26adb4ca03aa8d" title=" " alt="" coords="687,134,882,175"/>

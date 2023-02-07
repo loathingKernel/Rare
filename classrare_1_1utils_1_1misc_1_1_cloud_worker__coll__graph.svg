@@ -16,8 +16,8 @@
 <polygon fill="#bfbfbf" stroke="black" points="0,-0.5 0,-79.5 72,-79.5 72,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="36" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">CloudWorker</text>
 <polyline fill="none" stroke="black" points="0,-60.5 72,-60.5 "/>
-<text text-anchor="start" x="8" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
-<text text-anchor="start" x="8" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="8" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="8" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
 <polyline fill="none" stroke="black" points="0,-30.5 72,-30.5 "/>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
 <text text-anchor="start" x="8" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ run()</text>

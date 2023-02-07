@@ -5,6 +5,6 @@ var namespacerare_1_1components_1_1tabs =
     [ "games", "namespacerare_1_1components_1_1tabs_1_1games.html", "namespacerare_1_1components_1_1tabs_1_1games" ],
     [ "settings", "namespacerare_1_1components_1_1tabs_1_1settings.html", "namespacerare_1_1components_1_1tabs_1_1settings" ],
     [ "shop", "namespacerare_1_1components_1_1tabs_1_1shop.html", "namespacerare_1_1components_1_1tabs_1_1shop" ],
-    [ "tab_utils", "namespacerare_1_1components_1_1tabs_1_1tab__utils.html", "namespacerare_1_1components_1_1tabs_1_1tab__utils" ],
-    [ "TabWidget", "classrare_1_1components_1_1tabs_1_1_tab_widget.html", "classrare_1_1components_1_1tabs_1_1_tab_widget" ]
+    [ "tab_widgets", "namespacerare_1_1components_1_1tabs_1_1tab__widgets.html", "namespacerare_1_1components_1_1tabs_1_1tab__widgets" ],
+    [ "MainTabWidget", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html", "classrare_1_1components_1_1tabs_1_1_main_tab_widget" ]
 ];

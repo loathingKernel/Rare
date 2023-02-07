@@ -1,7 +1,9 @@
 <map id="slideInNext" name="slideInNext">
-<area shape="rect" id="node1" title=" " alt="" coords="5,74,92,101"/>
-<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a5eb880efb244834d39c062297388252b" title=" " alt="" coords="279,29,441,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#a14a7f7a305b607aa29aa0dfa7f6047d5" title=" " alt="" coords="140,111,231,138"/>
-<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ab032482dfc53fdfe48836e74a00f0871" title=" " alt="" coords="310,119,410,146"/>
-<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ad33b03cf3496c64ea301895641933e64" title=" " alt="" coords="489,119,620,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,163,92,190"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html#adaaa57688d92e19605bdc1a271c51e6e" title=" " alt="" coords="279,29,535,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#adaaa57688d92e19605bdc1a271c51e6e" title=" " alt="" coords="279,119,535,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#adaaa57688d92e19605bdc1a271c51e6e" title=" " alt="" coords="325,284,488,325"/>
+<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#a14a7f7a305b607aa29aa0dfa7f6047d5" title=" " alt="" coords="140,201,231,227"/>
+<area shape="rect" id="node6" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ab032482dfc53fdfe48836e74a00f0871" title=" " alt="" coords="357,209,457,235"/>
+<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ad33b03cf3496c64ea301895641933e64" title=" " alt="" coords="583,209,713,235"/>
 </map>

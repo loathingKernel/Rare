@@ -1,7 +1,11 @@
 var namespacerare_1_1shared =
 [
+    [ "cloud_save_utils", "namespacerare_1_1shared_1_1cloud__save__utils.html", "namespacerare_1_1shared_1_1cloud__save__utils" ],
+    [ "game_process", "namespacerare_1_1shared_1_1game__process.html", "namespacerare_1_1shared_1_1game__process" ],
+    [ "game_utils", "namespacerare_1_1shared_1_1game__utils.html", "namespacerare_1_1shared_1_1game__utils" ],
     [ "image_manager", "namespacerare_1_1shared_1_1image__manager.html", "namespacerare_1_1shared_1_1image__manager" ],
     [ "rare_core", "namespacerare_1_1shared_1_1rare__core.html", "namespacerare_1_1shared_1_1rare__core" ],
+    [ "workers", "namespacerare_1_1shared_1_1workers.html", "namespacerare_1_1shared_1_1workers" ],
     [ "ApiResultsSingleton", "namespacerare_1_1shared.html#a85c0c971674daed7d514febc1ef18eb2", null ],
     [ "ArgumentsSingleton", "namespacerare_1_1shared.html#a5acede398e4ceb67fa3e6bc1c91734d0", null ],
     [ "GlobalSignalsSingleton", "namespacerare_1_1shared.html#a5c4b5128e813abfb9c7a2dc4a3e8c35d", null ],

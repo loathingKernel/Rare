@@ -1,0 +1,4 @@
+<map id="is_unreal" name="is_unreal">
+<area shape="rect" id="node1" title="Property to report if a Game is an Unreal Engine bundle." alt="" coords="5,29,80,56"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#aff330cd3e3495874fbccb325e0c95236" title="Property to report if a Game doesn&#39;t have assets." alt="" coords="128,29,227,56"/>
+</map>

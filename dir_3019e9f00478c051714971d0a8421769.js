@@ -6,10 +6,10 @@ var dir_3019e9f00478c051714971d0a8421769 =
     [ "settings", "dir_e3e3e2ce604bd68809c21f7695ae149e.html", "dir_e3e3e2ce604bd68809c21f7695ae149e" ],
     [ "shop", "dir_61b6470747cd091e6bcd03f61fa4e832.html", "dir_61b6470747cd091e6bcd03f61fa4e832" ],
     [ "__init__.py", "components_2tabs_2____init_____8py.html", [
-      [ "TabWidget", "classrare_1_1components_1_1tabs_1_1_tab_widget.html", "classrare_1_1components_1_1tabs_1_1_tab_widget" ]
+      [ "MainTabWidget", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html", "classrare_1_1components_1_1tabs_1_1_main_tab_widget" ]
     ] ],
-    [ "tab_utils.py", "tab__utils_8py.html", [
-      [ "MainTabBar", "classrare_1_1components_1_1tabs_1_1tab__utils_1_1_main_tab_bar.html", "classrare_1_1components_1_1tabs_1_1tab__utils_1_1_main_tab_bar" ],
-      [ "TabButtonWidget", "classrare_1_1components_1_1tabs_1_1tab__utils_1_1_tab_button_widget.html", "classrare_1_1components_1_1tabs_1_1tab__utils_1_1_tab_button_widget" ]
+    [ "tab_widgets.py", "tab__widgets_8py.html", [
+      [ "MainTabBar", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_main_tab_bar.html", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_main_tab_bar" ],
+      [ "TabButtonWidget", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_tab_button_widget.html", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_tab_button_widget" ]
     ] ]
 ];

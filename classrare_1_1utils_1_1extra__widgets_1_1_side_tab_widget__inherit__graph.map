@@ -1,8 +1,7 @@
 <map id="SideTabWidget" name="SideTabWidget">
-<area shape="rect" id="node1" title=" " alt="" coords="254,131,365,237"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html" title=" " alt="" coords="5,285,133,465"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1uninstalled__info_1_1_uninstalled_info_tabs.html" title=" " alt="" coords="157,293,296,458"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_tabs.html" title=" " alt="" coords="320,300,467,451"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1settings_1_1_settings_tab.html" title=" " alt="" coords="491,329,599,421"/>
-<area shape="rect" id="node2" title=" " alt="" coords="262,5,357,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="189,131,299,237"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html" title=" " alt="" coords="5,285,147,568"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_tabs.html" title=" " alt="" coords="171,329,317,524"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1_settings_tab.html" title=" " alt="" coords="341,344,467,509"/>
+<area shape="rect" id="node2" title=" " alt="" coords="197,5,291,83"/>
 </map>

@@ -1,10 +1,9 @@
 <map id="start_copy_diff_drive" name="start_copy_diff_drive">
-<area shape="rect" id="node1" title=" " alt="" coords="5,149,147,175"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aa0f64085219d8e40254dd2d8b7da10cc" title=" " alt="" coords="209,37,319,63"/>
-<area shape="rect" id="node5" href="$namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" title=" " alt="" coords="215,111,313,138"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a68608db0a6ef818fc117f9fccbb0db81" title=" " alt="" coords="196,186,332,213"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aa16d30b659d94bef029314dd8bef2fd3" title=" " alt="" coords="195,261,333,287"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="396,29,569,71"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a4347fa4fbbcc011ce833c800b31dda41" title=" " alt="" coords="405,149,560,175"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61" title=" " alt="" coords="381,253,584,295"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,147,120"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a64ce101a1bedac0cadc217fd0b0c6a95" title=" " alt="" coords="195,5,341,32"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="404,49,577,90"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aa0f64085219d8e40254dd2d8b7da10cc" title=" " alt="" coords="213,131,323,157"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aa16d30b659d94bef029314dd8bef2fd3" title=" " alt="" coords="199,205,337,232"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a4347fa4fbbcc011ce833c800b31dda41" title=" " alt="" coords="413,139,568,165"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61" title=" " alt="" coords="389,214,592,255"/>
 </map>

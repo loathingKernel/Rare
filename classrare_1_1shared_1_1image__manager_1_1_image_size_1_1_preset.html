@@ -99,8 +99,8 @@ Collaboration diagram for ImageSize.Preset:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a4bf03f2bfaf6402672dc440b9475e3bc"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset.html#a4bf03f2bfaf6402672dc440b9475e3bc">__init__</a> (self, float <a class="el" href="classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset.html#a373625a83d1b7057921d08e8bb4b8840">divisor</a>, float <a class="el" href="classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset.html#a7d27a6848d656097c7c7d176d7be3b72">pixel_ratio</a>)</td></tr>
-<tr class="separator:a4bf03f2bfaf6402672dc440b9475e3bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a118671ae6031406e81a60a2affa1d1ad"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset.html#a118671ae6031406e81a60a2affa1d1ad">__init__</a> (self, float <a class="el" href="classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset.html#a373625a83d1b7057921d08e8bb4b8840">divisor</a>, float <a class="el" href="classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset.html#a7d27a6848d656097c7c7d176d7be3b72">pixel_ratio</a>, <a class="el" href="classrare_1_1shared_1_1image__manager_1_1_orientation.html">Orientation</a> orientation=<a class="el" href="classrare_1_1shared_1_1image__manager_1_1_orientation.html#afe2ecc97db3f57be19e2e8370794cf57">Orientation.Tall</a>)</td></tr>
+<tr class="separator:a118671ae6031406e81a60a2affa1d1ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a39bd2b8ea4e12bd297244ec77cb5a1fa"><td class="memItemLeft" align="right" valign="top">QSize&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset.html#a39bd2b8ea4e12bd297244ec77cb5a1fa">size</a> (self)</td></tr>
 <tr class="separator:a39bd2b8ea4e12bd297244ec77cb5a1fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a373625a83d1b7057921d08e8bb4b8840"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset.html#a373625a83d1b7057921d08e8bb4b8840">divisor</a> (self)</td></tr>
@@ -112,10 +112,10 @@ Public Member Functions</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="image__manager_8py_source.html#l00041">41</a> of file <a class="el" href="image__manager_8py_source.html">image_manager.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="image__manager_8py_source.html#l00047">47</a> of file <a class="el" href="image__manager_8py_source.html">image_manager.py</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a4bf03f2bfaf6402672dc440b9475e3bc" name="a4bf03f2bfaf6402672dc440b9475e3bc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4bf03f2bfaf6402672dc440b9475e3bc">&#9670;&nbsp;</a></span>__init__()</h2>
+<a id="a118671ae6031406e81a60a2affa1d1ad" name="a118671ae6031406e81a60a2affa1d1ad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a118671ae6031406e81a60a2affa1d1ad">&#9670;&nbsp;</a></span>__init__()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -136,7 +136,13 @@ Public Member Functions</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>pixel_ratio</em>&#160;</td>
+          <td class="paramname"><em>pixel_ratio</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="classrare_1_1shared_1_1image__manager_1_1_orientation.html">Orientation</a> &#160;</td>
+          <td class="paramname"><em>orientation</em> = <code><a class="el" href="classrare_1_1shared_1_1image__manager_1_1_orientation.html#afe2ecc97db3f57be19e2e8370794cf57">Orientation.Tall</a></code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -146,17 +152,17 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="image__manager_8py_source.html#l00042">42</a> of file <a class="el" href="image__manager_8py_source.html">image_manager.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="image__manager_8py_source.html#l00048">48</a> of file <a class="el" href="image__manager_8py_source.html">image_manager.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset_a4bf03f2bfaf6402672dc440b9475e3bc_cgraph.svg" width="78" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset_a118671ae6031406e81a60a2affa1d1ad_cgraph.svg" width="78" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset_a4bf03f2bfaf6402672dc440b9475e3bc_icgraph.svg" width="78" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset_a118671ae6031406e81a60a2affa1d1ad_icgraph.svg" width="78" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 
@@ -179,7 +185,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="image__manager_8py_source.html#l00057">57</a> of file <a class="el" href="image__manager_8py_source.html">image_manager.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="image__manager_8py_source.html#l00067">67</a> of file <a class="el" href="image__manager_8py_source.html">image_manager.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -211,7 +217,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="image__manager_8py_source.html#l00065">65</a> of file <a class="el" href="image__manager_8py_source.html">image_manager.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="image__manager_8py_source.html#l00075">75</a> of file <a class="el" href="image__manager_8py_source.html">image_manager.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -243,7 +249,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="image__manager_8py_source.html#l00053">53</a> of file <a class="el" href="image__manager_8py_source.html">image_manager.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="image__manager_8py_source.html#l00063">63</a> of file <a class="el" href="image__manager_8py_source.html">image_manager.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -275,7 +281,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="image__manager_8py_source.html#l00061">61</a> of file <a class="el" href="image__manager_8py_source.html">image_manager.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="image__manager_8py_source.html#l00071">71</a> of file <a class="el" href="image__manager_8py_source.html">image_manager.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">

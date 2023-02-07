@@ -1,6 +1,6 @@
 <map id="GameDlcWidget" name="GameDlcWidget">
-<area shape="rect" id="node1" title=" " alt="" coords="40,403,165,568"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,204,75,281"/>
-<area shape="rect" id="node3" href="$classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html" title=" " alt="" coords="99,131,235,355"/>
-<area shape="rect" id="node4" title=" " alt="" coords="138,5,195,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="128,131,244,252"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_available_game_dlc_widget.html" title=" " alt="" coords="5,300,175,392"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_installed_game_dlc_widget.html" title=" " alt="" coords="199,300,365,392"/>
+<area shape="rect" id="node2" title=" " alt="" coords="151,5,221,83"/>
 </map>

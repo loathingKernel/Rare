@@ -1,12 +1,10 @@
 <map id="verticalSpacing" name="verticalSpacing">
-<area shape="rect" id="node1" title=" " alt="" coords="788,130,899,157"/>
-<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#aea5fef774da86c1a120b393f7d8cdd6a" title=" " alt="" coords="603,89,677,115"/>
-<area shape="rect" id="node10" href="$classrare_1_1widgets_1_1library__layout_1_1_library_layout.html#aea5fef774da86c1a120b393f7d8cdd6a" title="Arranges the widgets for this layout." alt="" coords="540,164,740,205"/>
-<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a79a95bc3b25357794eb45d452b5fa4c6" title=" " alt="" coords="327,47,436,74"/>
-<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#af87928df2c164a948da59b9e41bcc8e3" title=" " alt="" coords="333,213,429,239"/>
-<area shape="rect" id="node9" href="$classrare_1_1widgets_1_1library__layout_1_1_library_layout.html#af87928df2c164a948da59b9e41bcc8e3" title=" " alt="" coords="271,123,492,164"/>
-<area shape="rect" id="node5" href="$classrare_1_1game__launch__helper_1_1console_1_1_console.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="5,208,223,249"/>
-<area shape="rect" id="node6" href="$classrare_1_1widgets_1_1library__layout_1_1_library_layout.html#af9a665960a2cd6b746e70425d7486124" title=" " alt="" coords="25,297,203,339"/>
-<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1library__layout_1_1_library_layout.html#a0c76d6c4aeb4752c64514fdb40f8f817" title=" " alt="" coords="19,29,209,71"/>
-<area shape="rect" id="node8" href="$classrare_1_1widgets_1_1library__layout_1_1_library_layout.html#ac9632f6438f5820ccb6a0b04991a4e7d" title=" " alt="" coords="29,119,199,160"/>
+<area shape="rect" id="node1" title=" " alt="" coords="788,112,899,139"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#aea5fef774da86c1a120b393f7d8cdd6a" title=" " alt="" coords="603,71,677,97"/>
+<area shape="rect" id="node8" href="$classrare_1_1widgets_1_1library__layout_1_1_library_layout.html#aea5fef774da86c1a120b393f7d8cdd6a" title="Arranges the widgets for this layout." alt="" coords="540,146,740,187"/>
+<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a2dc56ed9b2e524cfc31b3ca5abd00b56" title=" " alt="" coords="327,29,436,56"/>
+<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#afe23566a105be4d4343f0010ab0c0c81" title=" " alt="" coords="333,195,429,221"/>
+<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1library__layout_1_1_library_layout.html#afe23566a105be4d4343f0010ab0c0c81" title=" " alt="" coords="271,105,492,146"/>
+<area shape="rect" id="node5" href="$classrare_1_1game__launch__helper_1_1console_1_1_console.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="5,101,223,142"/>
+<area shape="rect" id="node6" href="$classrare_1_1widgets_1_1library__layout_1_1_library_layout.html#a4f0c9cee0f8ce4bc7bdb16718a529c56" title=" " alt="" coords="29,190,199,231"/>
 </map>

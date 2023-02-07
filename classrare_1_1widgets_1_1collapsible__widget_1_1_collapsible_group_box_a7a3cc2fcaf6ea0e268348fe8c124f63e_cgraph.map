@@ -1,5 +1,13 @@
 <map id="__init__" name="__init__">
-<area shape="rect" id="node1" title=" " alt="" coords="6,82,73,109"/>
-<area shape="rect" id="node2" href="$classrare_1_1utils_1_1extra__widgets_1_1_side_tab_container.html#a91ab0752374c3f97048137450dd3f146" title=" " alt="" coords="135,29,305,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base.html#a2beff1ac90dfcc1218f959fa6a8935cf" title=" " alt="" coords="121,119,319,160"/>
+<area shape="rect" id="node1" title=" " alt="" coords="6,261,73,287"/>
+<area shape="rect" id="node2" href="$classrare_1_1utils_1_1extra__widgets_1_1_side_tab_container.html#a91ab0752374c3f97048137450dd3f146" title=" " alt="" coords="135,208,305,249"/>
+<area shape="rect" id="node11" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base.html#a2beff1ac90dfcc1218f959fa6a8935cf" title=" " alt="" coords="121,297,319,339"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a9d2c0ef8e0253d5f0d0bcf1f7ad80fa5" title=" " alt="" coords="367,174,581,201"/>
+<area shape="rect" id="node10" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a9d2c0ef8e0253d5f0d0bcf1f7ad80fa5" title=" " alt="" coords="386,249,562,291"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#ae1cd35b1295fa44fd6906c1bcf28fd20" title=" " alt="" coords="629,119,907,160"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_item.html#ae1cd35b1295fa44fd6906c1bcf28fd20" title=" " alt="" coords="629,208,907,249"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_item.html#ae1cd35b1295fa44fd6906c1bcf28fd20" title=" " alt="" coords="629,297,907,339"/>
+<area shape="rect" id="node8" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ae1cd35b1295fa44fd6906c1bcf28fd20" title=" " alt="" coords="661,387,875,428"/>
+<area shape="rect" id="node9" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#ae1cd35b1295fa44fd6906c1bcf28fd20" title=" " alt="" coords="680,29,856,71"/>
+<area shape="rect" id="node7" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="955,297,1129,339"/>
 </map>

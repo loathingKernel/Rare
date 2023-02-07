@@ -2,7 +2,7 @@ var classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1
 [
     [ "__init__", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html#a39d165427992dd2720f91929a88cde17", null ],
     [ "compute_save_path", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html#a7e43976b51be106948d8e7b1ab113864", null ],
-    [ "load_settings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html#ab86dfc2741111bfbb16773e0cef2b6f4", null ],
+    [ "load_settings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html#a1d7fb6f66483b4e5b1ab0c32220c829e", null ],
     [ "save_line_edit", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html#a402cc3990680aa82b30e6ae5ec44886d", null ],
     [ "save_save_path", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html#ad3b4294f4008447d3cc974fc954db462", null ],
     [ "update_combobox", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html#aebdc63e9cb53ebd39480a18c7c5498d8", null ],

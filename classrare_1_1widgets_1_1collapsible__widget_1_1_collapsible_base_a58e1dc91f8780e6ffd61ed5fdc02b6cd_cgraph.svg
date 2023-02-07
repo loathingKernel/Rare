@@ -296,7 +296,7 @@ var sectionId = 'dynsection-14';
 <!-- Node16 -->
 <g id="node16" class="node">
 <title>Node16</title>
-<g id="a_node16"><a xlink:href="classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#aff1e7c8521d73ca3ac484759bf2b7597" target="_top" xlink:title=" ">
+<g id="a_node16"><a xlink:href="classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a3936acd9cb32819e34a215b089302522" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="125,-0.5 125,-30.5 247,-30.5 247,-0.5 125,-0.5"/>
 <text text-anchor="start" x="133" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.flow_layout.</text>
 <text text-anchor="middle" x="186" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">FlowLayout.sizeHint</text>
@@ -432,7 +432,7 @@ var sectionId = 'dynsection-14';
 <!-- Node17 -->
 <g id="node17" class="node">
 <title>Node17</title>
-<g id="a_node17"><a xlink:href="classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#acd7a5b208d0d18ac43cc317209bd759c" target="_top" xlink:title=" ">
+<g id="a_node17"><a xlink:href="classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a464fdd6525ee797b1d8e4bdf6441983d" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="336,-0.5 336,-30.5 464,-30.5 464,-0.5 336,-0.5"/>
 <text text-anchor="start" x="344" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.flow_layout.</text>
 <text text-anchor="middle" x="400" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">FlowLayout.minimumSize</text>

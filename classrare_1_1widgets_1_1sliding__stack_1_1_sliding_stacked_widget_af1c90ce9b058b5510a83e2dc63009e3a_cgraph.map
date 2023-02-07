@@ -1,10 +1,12 @@
 <map id="gestureEvent" name="gestureEvent">
-<area shape="rect" id="node1" title=" " alt="" coords="5,74,104,101"/>
-<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#aebf5c564b7d2450c4b74b3dff5ed1a2d" title=" " alt="" coords="152,74,263,101"/>
-<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#a9a7d3e7c9b6471dae3067db5f869f4fe" title=" " alt="" coords="311,37,397,63"/>
-<area shape="rect" id="node8" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#adf3e2dc0b60437cf278f8a25d92f9a96" title=" " alt="" coords="311,111,397,138"/>
-<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a5eb880efb244834d39c062297388252b" title=" " alt="" coords="584,29,747,71"/>
-<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#a14a7f7a305b607aa29aa0dfa7f6047d5" title=" " alt="" coords="445,111,536,138"/>
-<area shape="rect" id="node6" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ab032482dfc53fdfe48836e74a00f0871" title=" " alt="" coords="615,119,715,146"/>
-<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ad33b03cf3496c64ea301895641933e64" title=" " alt="" coords="795,119,925,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,165,104,191"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#aebf5c564b7d2450c4b74b3dff5ed1a2d" title=" " alt="" coords="152,165,263,191"/>
+<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#a9a7d3e7c9b6471dae3067db5f869f4fe" title=" " alt="" coords="311,202,397,229"/>
+<area shape="rect" id="node10" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#adf3e2dc0b60437cf278f8a25d92f9a96" title=" " alt="" coords="311,127,397,154"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html#adaaa57688d92e19605bdc1a271c51e6e" title=" " alt="" coords="584,29,840,71"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#adaaa57688d92e19605bdc1a271c51e6e" title=" " alt="" coords="584,284,840,325"/>
+<area shape="rect" id="node6" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#adaaa57688d92e19605bdc1a271c51e6e" title=" " alt="" coords="631,195,793,236"/>
+<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#a14a7f7a305b607aa29aa0dfa7f6047d5" title=" " alt="" coords="445,139,536,166"/>
+<area shape="rect" id="node8" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ab032482dfc53fdfe48836e74a00f0871" title=" " alt="" coords="662,119,762,146"/>
+<area shape="rect" id="node9" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ad33b03cf3496c64ea301895641933e64" title=" " alt="" coords="888,119,1019,146"/>
 </map>

@@ -1,0 +1,7 @@
+<map id="QueueWorker" name="QueueWorker">
+<area shape="rect" id="node1" title="Base queueable worker class." alt="" coords="109,315,217,436"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html" title=" " alt="" coords="5,484,155,767"/>
+<area shape="rect" id="node5" href="$classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html" title=" " alt="" coords="179,543,311,708"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html" title="Base QRunnable class." alt="" coords="119,131,206,267"/>
+<area shape="rect" id="node3" title=" " alt="" coords="119,5,206,83"/>
+</map>

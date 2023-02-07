@@ -1,9 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,100,83"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1_tab_widget.html" title=" " alt="" coords="161,31,245,57"/>
-<area shape="rect" id="node3" href="$classrare_1_1utils_1_1extra__widgets_1_1_side_tab_widget.html" title=" " alt="" coords="148,81,259,108"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html" title=" " alt="" coords="322,5,430,32"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1uninstalled__info_1_1_uninstalled_info_tabs.html" title=" " alt="" coords="307,56,445,83"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_tabs.html" title=" " alt="" coords="317,107,435,133"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1settings_1_1_settings_tab.html" title=" " alt="" coords="330,157,422,184"/>
+<area shape="rect" id="node1" href="$classrare_1_1utils_1_1qt__requests_1_1_request_queue_item.html" title=" " alt="" coords="5,5,140,32"/>
 </map>

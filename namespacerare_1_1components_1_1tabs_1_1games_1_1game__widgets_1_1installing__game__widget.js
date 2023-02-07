@@ -1,4 +1,0 @@
-var namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1installing__game__widget =
-[
-    [ "InstallingGameWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1installing__game__widget_1_1_installing_game_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1installing__game__widget_1_1_installing_game_widget" ]
-];

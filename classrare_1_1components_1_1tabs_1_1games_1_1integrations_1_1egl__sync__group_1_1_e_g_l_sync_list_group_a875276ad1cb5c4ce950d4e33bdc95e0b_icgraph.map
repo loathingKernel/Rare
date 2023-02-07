@@ -1,6 +1,7 @@
 <map id="items" name="items">
-<area shape="rect" id="node1" title=" " alt="" coords="152,104,207,131"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html#a10c562aecba2dac76244db2a3ffd290d" title=" " alt="" coords="26,29,83,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html#ab8b331e136645ce7f917dbb21df15427" title=" " alt="" coords="5,104,104,131"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html#a4349c43777be61458a16dc98bf04effb" title=" " alt="" coords="29,179,80,205"/>
+<area shape="rect" id="node1" title=" " alt="" coords="332,167,387,194"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_group.html#a10c562aecba2dac76244db2a3ffd290d" title=" " alt="" coords="5,29,284,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_group.html#a10c562aecba2dac76244db2a3ffd290d" title=" " alt="" coords="5,119,284,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html#ab8b331e136645ce7f917dbb21df15427" title=" " alt="" coords="95,209,194,235"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html#a4349c43777be61458a16dc98bf04effb" title=" " alt="" coords="119,283,170,310"/>
 </map>

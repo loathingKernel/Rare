@@ -1,5 +1,4 @@
 <map id="launch" name="launch">
-<area shape="rect" id="node1" title=" " alt="" coords="307,75,367,101"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" title=" " alt="" coords="107,29,157,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1installed__icon__widget_1_1_installed_icon_widget.html#a2a84750d2732323b5eafab7a626a12ac" title=" " alt="" coords="5,104,259,160"/>
+<area shape="rect" id="node1" title=" " alt="" coords="103,29,163,56"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" title=" " alt="" coords="5,29,55,56"/>
 </map>

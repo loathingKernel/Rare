@@ -1,13 +1,10 @@
 <map id="update" name="update">
-<area shape="rect" id="node1" title=" " alt="" coords="912,171,973,198"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a004987011909ef3b326e6d95f6393ec0" title=" " alt="" coords="655,29,862,71"/>
-<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#aaa1e1f29560d45ffa875af8089b050f1" title=" " alt="" coords="656,119,861,160"/>
-<area shape="rect" id="node6" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#a9d3e3ab8a83275353ad9719f877a157f" title=" " alt="" coords="653,208,864,249"/>
-<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#afe7221063d2a4d7b1e1f42fb85f5d06f" title=" " alt="" coords="653,297,864,339"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a77e69cb6973b2c8a40dfed17abe7d453" title=" " alt="" coords="356,29,575,71"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aa902973791e81c8c4542da337b86289b" title=" " alt="" coords="42,29,241,71"/>
-<area shape="rect" id="node8" href="$classrare_1_1utils_1_1extra__widgets_1_1_image_label.html#a29f0251454b3bdbf53b196a41cfb5c44" title=" " alt="" coords="382,208,549,249"/>
-<area shape="rect" id="node9" href="$classrare_1_1utils_1_1extra__widgets_1_1_image_label.html#aab3809d017e8e9a18638a2b3caf6e7b5" title=" " alt="" coords="382,297,549,339"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#aba6dbd857b7a02c2f1fbd7d472416b54" title=" " alt="" coords="325,387,605,443"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#a1990ae73849da7538f16b24becb60023" title=" " alt="" coords="5,387,277,443"/>
+<area shape="rect" id="node1" title=" " alt="" coords="912,126,973,153"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#aaa1e1f29560d45ffa875af8089b050f1" title=" " alt="" coords="656,29,861,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#a9d3e3ab8a83275353ad9719f877a157f" title=" " alt="" coords="653,119,864,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#afe7221063d2a4d7b1e1f42fb85f5d06f" title=" " alt="" coords="653,208,864,249"/>
+<area shape="rect" id="node5" href="$classrare_1_1utils_1_1extra__widgets_1_1_image_label.html#a29f0251454b3bdbf53b196a41cfb5c44" title=" " alt="" coords="382,119,549,160"/>
+<area shape="rect" id="node6" href="$classrare_1_1utils_1_1extra__widgets_1_1_image_label.html#aab3809d017e8e9a18638a2b3caf6e7b5" title=" " alt="" coords="382,208,549,249"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#aba6dbd857b7a02c2f1fbd7d472416b54" title=" " alt="" coords="325,298,605,354"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#a1990ae73849da7538f16b24becb60023" title=" " alt="" coords="5,298,277,354"/>
 </map>

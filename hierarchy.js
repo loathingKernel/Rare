@@ -1,14 +1,14 @@
 var hierarchy =
 [
-    [ "Actions", "classrare_1_1game__launch__helper_1_1message__models_1_1_actions.html", null ],
+    [ "Actions", "classrare_1_1models_1_1launcher_1_1_actions.html", null ],
     [ "ApiResults", "classrare_1_1models_1_1apiresults_1_1_api_results.html", null ],
     [ "BaseException", null, [
       [ "SingleInstanceException", "classrare_1_1utils_1_1singleton_1_1_single_instance_exception.html", null ]
     ] ],
-    [ "BaseModel", "classrare_1_1game__launch__helper_1_1message__models_1_1_base_model.html", [
-      [ "ErrorModel", "classrare_1_1game__launch__helper_1_1message__models_1_1_error_model.html", null ],
-      [ "FinishedModel", "classrare_1_1game__launch__helper_1_1message__models_1_1_finished_model.html", null ],
-      [ "StateChangedModel", "classrare_1_1game__launch__helper_1_1message__models_1_1_state_changed_model.html", null ]
+    [ "BaseModel", "classrare_1_1models_1_1launcher_1_1_base_model.html", [
+      [ "ErrorModel", "classrare_1_1models_1_1launcher_1_1_error_model.html", null ],
+      [ "FinishedModel", "classrare_1_1models_1_1launcher_1_1_finished_model.html", null ],
+      [ "StateChangedModel", "classrare_1_1models_1_1launcher_1_1_state_changed_model.html", null ]
     ] ],
     [ "BrowseModel", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_browse_model.html", null ],
     [ "CustomOption", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_custom_option.html", null ],
@@ -16,11 +16,12 @@ var hierarchy =
       [ "DLManager", "classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html", null ]
     ] ],
     [ "DLManagerSignals", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_d_l_manager_signals.html", null ],
-    [ "DownloadModel", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_download_model.html", null ],
+    [ "DlResultModel", "classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_result_model.html", null ],
+    [ "DownloadModel", "classrare_1_1shared_1_1cloud__save__utils_1_1_download_model.html", null ],
     [ "Exception", null, [
       [ "GameArgsError", "classrare_1_1game__launch__helper_1_1lgd__helper_1_1_game_args_error.html", null ]
     ] ],
-    [ "GameMeta", "classrare_1_1utils_1_1meta_1_1_game_meta.html", null ],
+    [ "GlobalSignals", "classrare_1_1models_1_1signals_1_1_global_signals.html", null ],
     [ "Handler", null, [
       [ "LgndrCLILogHandler", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_c_l_i_log_handler.html", null ],
       [ "LgndrCoreLogHandler", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_core_log_handler.html", null ]
@@ -49,7 +50,13 @@ var hierarchy =
     [ "LgndrUninstallGameArgs", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_uninstall_game_args.html", null ],
     [ "LgndrVerifyGameArgs", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_verify_game_args.html", null ],
     [ "LoginPages", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_pages.html", null ],
+    [ "metaclass", null, [
+      [ "GameWidgetUi", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget_ui.html", null ]
+    ] ],
+    [ "RareGame.Metadata", "classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html", null ],
     [ "object", null, [
+      [ "IconWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__widget_1_1_icon_widget.html", null ],
+      [ "ListWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget.html", null ],
       [ "Ui_InstallDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html", null ],
       [ "Ui_InstallDialogAdvanced", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog__advanced_1_1_ui___install_dialog_advanced.html", null ],
       [ "Ui_LaunchDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1launch__dialog_1_1_ui___launch_dialog.html", null ],
@@ -58,30 +65,21 @@ var hierarchy =
       [ "Ui_LandingPage", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1landing__page_1_1_ui___landing_page.html", null ],
       [ "Ui_LoginDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog_1_1_ui___login_dialog.html", null ],
       [ "Ui_SyncSaveDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1sync__save__dialog_1_1_ui___sync_save_dialog.html", [
-        [ "CloudSaveDialog", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_dialog.html", null ]
+        [ "CloudSaveDialog", "classrare_1_1shared_1_1cloud__save__utils_1_1_cloud_save_dialog.html", null ]
       ] ],
       [ "Ui_ConsoleEnv", "classrare_1_1ui_1_1components_1_1extra_1_1console__env_1_1_ui___console_env.html", null ],
-      [ "Ui_DownloadsTab", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1downloads__tab_1_1_ui___downloads_tab.html", [
-        [ "DownloadsTab", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html", null ]
-      ] ],
-      [ "Ui_GameDlc", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_ui___game_dlc.html", [
-        [ "GameDlc", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html", null ]
-      ] ],
-      [ "Ui_GameDlcWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html", [
-        [ "GameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html", null ]
-      ] ],
-      [ "Ui_GameInfo", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html", [
-        [ "GameInfo", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html", null ],
-        [ "UninstalledInfo", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1uninstalled__info_1_1_uninstalled_info.html", null ]
-      ] ],
+      [ "Ui_BaseWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1base__widget_1_1_ui___base_widget.html", null ],
+      [ "Ui_DownloadWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1download__widget_1_1_ui___download_widget.html", null ],
+      [ "Ui_InfoWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1info__widget_1_1_ui___info_widget.html", null ],
+      [ "Ui_GameDlc", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_ui___game_dlc.html", null ],
+      [ "Ui_GameDlcWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html", null ],
+      [ "Ui_GameInfo", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html", null ],
       [ "Ui_GameSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_ui___game_settings.html", [
         [ "DefaultGameSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1default__game__settings_1_1_default_game_settings.html", [
           [ "GameSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html", null ]
         ] ]
       ] ],
-      [ "Ui_EGLSyncGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_ui___e_g_l_sync_group.html", [
-        [ "EGLSyncGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_group.html", null ]
-      ] ],
+      [ "Ui_EGLSyncGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_ui___e_g_l_sync_group.html", null ],
       [ "Ui_EGLSyncListGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group.html", null ],
       [ "Ui_EosWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__widget_1_1_ui___eos_widget.html", [
         [ "EOSGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html", null ]
@@ -120,7 +118,6 @@ var hierarchy =
       [ "Ui_WrapperSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_ui___wrapper_settings.html", [
         [ "WrapperSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html", null ]
       ] ],
-      [ "Ui_browse_games", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1browse__games_1_1_ui__browse__games.html", null ],
       [ "Ui_shop_info", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1shop__game__info_1_1_ui__shop__info.html", [
         [ "ShopGameInfo", "classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_shop_game_info.html", null ]
       ] ],
@@ -143,14 +140,13 @@ var hierarchy =
         [ "CollapsibleGroupBox", "classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_group_box.html", null ]
       ] ]
     ] ],
-    [ "PathSpec", "classrare_1_1utils_1_1models_1_1_path_spec.html", null ],
+    [ "PathSpec", "classrare_1_1models_1_1pathspec_1_1_path_spec.html", null ],
     [ "ImageSize.Preset", "classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset.html", null ],
     [ "QAbstractItemModel", null, [
       [ "QJsonModel", "classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html", null ]
     ] ],
-    [ "RareGameMeta", "classrare_1_1utils_1_1meta_1_1_rare_game_meta.html", null ],
+    [ "QueueWorkerInfo", "classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_info.html", null ],
     [ "RequestQueueItem", "classrare_1_1utils_1_1qt__requests_1_1_request_queue_item.html", null ],
-    [ "DownloadThread.ReturnStatus", "classrare_1_1components_1_1tabs_1_1downloads_1_1download__thread_1_1_download_thread_1_1_return_status.html", null ],
     [ "RuntimeError", null, [
       [ "LgndrException", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_exception.html", null ]
     ] ],
@@ -158,17 +154,27 @@ var hierarchy =
       [ "LgndrWarning", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_warning.html", null ]
     ] ],
     [ "ShopGame", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_shop_game.html", null ],
-    [ "StateChangedModel.States", "classrare_1_1game__launch__helper_1_1message__models_1_1_state_changed_model_1_1_states.html", null ],
+    [ "RareGame.Signals", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals.html", null ],
+    [ "StateChangedModel.States", "classrare_1_1models_1_1launcher_1_1_state_changed_model_1_1_states.html", null ],
     [ "UIUpdate", "classrare_1_1lgndr_1_1models_1_1downloading_1_1_u_i_update.html", null ],
-    [ "UploadModel", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_upload_model.html", null ],
+    [ "UninstallOptionsModel", "classrare_1_1models_1_1install_1_1_uninstall_options_model.html", null ],
+    [ "UploadModel", "classrare_1_1shared_1_1cloud__save__utils_1_1_upload_model.html", null ],
+    [ "ABCMeta", null, [
+      [ "GameWidgetUi", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget_ui.html", null ]
+    ] ],
     [ "Enum", null, [
       [ "ActivationStates", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_activation_states.html", null ],
+      [ "Orientation", "classrare_1_1shared_1_1image__manager_1_1_orientation.html", null ],
       [ "ImageWidget.Border", "classrare_1_1widgets_1_1image__widget_1_1_image_widget_1_1_border.html", null ]
     ] ],
     [ "IntEnum", null, [
-      [ "DownloadThread.ReturnStatus.ReturnCode", "classrare_1_1components_1_1tabs_1_1downloads_1_1download__thread_1_1_download_thread_1_1_return_status_1_1_return_code.html", null ],
+      [ "QueueGroup.MoveDirection", "classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group_1_1_move_direction.html", null ],
+      [ "DlResultCode", "classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_result_code.html", null ],
       [ "ImportResult", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_result.html", null ],
-      [ "LgndrInstallGameRealRet.ReturnCode", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_ret_1_1_return_code.html", null ]
+      [ "LgndrInstallGameRealRet.ReturnCode", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_ret_1_1_return_code.html", null ],
+      [ "RareGame.State", "classrare_1_1models_1_1game_1_1_rare_game_1_1_state.html", null ],
+      [ "GameProcess.Code", "classrare_1_1shared_1_1game__process_1_1_game_process_1_1_code.html", null ],
+      [ "QueueWorkerState", "classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_state.html", null ]
     ] ],
     [ "Protocol", null, [
       [ "GetBooleanChoiceProtocol", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_get_boolean_choice_protocol.html", null ]
@@ -195,9 +201,9 @@ var hierarchy =
       [ "LoginDialog", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html", null ],
       [ "PathInputDialog", "classrare_1_1components_1_1dialogs_1_1path__input__dialog_1_1_path_input_dialog.html", null ],
       [ "UninstallDialog", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html", null ],
-      [ "CloudSaveDialog", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_dialog.html", null ],
       [ "Console", "classrare_1_1game__launch__helper_1_1console_1_1_console.html", null ],
-      [ "ConsoleEnv", "classrare_1_1game__launch__helper_1_1console_1_1_console_env.html", null ]
+      [ "ConsoleEnv", "classrare_1_1game__launch__helper_1_1console_1_1_console_env.html", null ],
+      [ "CloudSaveDialog", "classrare_1_1shared_1_1cloud__save__utils_1_1_cloud_save_dialog.html", null ]
     ] ],
     [ "QFileIconProvider", null, [
       [ "PathEditIconProvider", "classrare_1_1utils_1_1extra__widgets_1_1_path_edit_icon_provider.html", null ]
@@ -206,23 +212,23 @@ var hierarchy =
       [ "LandingPage", "classrare_1_1components_1_1dialogs_1_1login_1_1_landing_page.html", null ],
       [ "BrowserLogin", "classrare_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_browser_login.html", null ],
       [ "ImportLogin", "classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html", null ],
-      [ "GameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html", null ],
-      [ "BaseInstalledWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__installed__widget_1_1_base_installed_widget.html", [
-        [ "InstalledIconWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1installed__icon__widget_1_1_installed_icon_widget.html", null ],
-        [ "InstalledListWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1installed__list__widget_1_1_installed_list_widget.html", null ]
+      [ "QueueWidget", "classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_queue_widget.html", null ],
+      [ "UpdateWidget", "classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_update_widget.html", null ],
+      [ "GameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html", [
+        [ "AvailableGameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_available_game_dlc_widget.html", null ],
+        [ "InstalledGameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_installed_game_dlc_widget.html", null ]
       ] ],
-      [ "BaseUninstalledWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1base__uninstalled__widget_1_1_base_uninstalled_widget.html", [
-        [ "UninstalledIconWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1uninstalled__icon__widget_1_1_uninstalled_icon_widget.html", null ],
-        [ "UninstalledListWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1uninstalled__list__widget_1_1_uninstalled_list_widget.html", null ]
-      ] ],
-      [ "InstallingGameWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1installing__game__widget_1_1_installing_game_widget.html", null ],
       [ "WrapperWidget", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_widget.html", null ],
       [ "CollapsibleFrame", "classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame.html", null ]
     ] ],
     [ "QGroupBox", null, [
-      [ "DlQueueWidget", "classrare_1_1components_1_1tabs_1_1downloads_1_1dl__queue__widget_1_1_dl_queue_widget.html", null ],
+      [ "QueueGroup", "classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html", null ],
+      [ "UpdateGroup", "classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html", null ],
       [ "EGLSyncGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_group.html", null ],
-      [ "EGLSyncListGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html", null ],
+      [ "EGLSyncListGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html", [
+        [ "EGLSyncExportGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_group.html", null ],
+        [ "EGLSyncImportGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_group.html", null ]
+      ] ],
       [ "EOSGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html", null ],
       [ "ImportGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html", null ],
       [ "UbisoftGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html", null ],
@@ -252,20 +258,18 @@ var hierarchy =
       [ "ButtonLineEdit", "classrare_1_1utils_1_1extra__widgets_1_1_button_line_edit.html", null ]
     ] ],
     [ "QListWidgetItem", null, [
-      [ "EGLSyncListItem", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html", null ]
+      [ "EGLSyncListItem", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html", [
+        [ "EGLSyncExportItem", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_item.html", null ],
+        [ "EGLSyncImportItem", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_item.html", null ]
+      ] ]
     ] ],
     [ "QMainWindow", null, [
       [ "MainWindow", "classrare_1_1components_1_1main__window_1_1_main_window.html", null ]
     ] ],
     [ "QObject", null, [
-      [ "InstallInfoWorker.Signals", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker_1_1_signals.html", null ],
       [ "ImageWorker.DownloadSlot", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker_1_1_download_slot.html", null ],
       [ "LaunchWorker.Signals", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_worker_1_1_signals.html", null ],
-      [ "CloudSaveUtils", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_cloud_save_utils.html", null ],
-      [ "SaveSignals", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_save_signals.html", null ],
-      [ "CopyGameInstallation.Signals", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_copy_game_installation_1_1_signals.html", null ],
-      [ "GameProcess", "classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_process.html", null ],
-      [ "GameUtils", "classrare_1_1components_1_1tabs_1_1games_1_1game__utils_1_1_game_utils.html", null ],
+      [ "LibraryWidgetController", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html", null ],
       [ "CheckForUpdateWorker.CheckForUpdateSignals", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_check_for_update_worker_1_1_check_for_update_signals.html", null ],
       [ "ImportWorker.Signals", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_worker_1_1_signals.html", null ],
       [ "UbiConnectSignals", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_signals.html", null ],
@@ -274,13 +278,30 @@ var hierarchy =
       [ "Constants", "classrare_1_1components_1_1tabs_1_1shop_1_1constants_1_1_constants.html", null ],
       [ "ShopApiCore", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html", null ],
       [ "PreLaunchThread.Signals", "classrare_1_1game__launch__helper_1_1_pre_launch_thread_1_1_signals.html", null ],
-      [ "GlobalSignals", "classrare_1_1models_1_1signals_1_1_global_signals.html", null ],
+      [ "RareEosOverlay", "classrare_1_1models_1_1game_1_1_rare_eos_overlay.html", null ],
+      [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", null ],
+      [ "RareGame.Signals.Download", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals_1_1_download.html", null ],
+      [ "RareGame.Signals.Game", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals_1_1_game.html", null ],
+      [ "RareGame.Signals.Progress", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals_1_1_progress.html", null ],
+      [ "RareGame.Signals.Widget", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals_1_1_widget.html", null ],
+      [ "GlobalSignals.ApplicationSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_application_signals.html", null ],
+      [ "GlobalSignals.DiscordRPCSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_discord_r_p_c_signals.html", null ],
+      [ "GlobalSignals.DownloadSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_download_signals.html", null ],
+      [ "GlobalSignals.GameSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_game_signals.html", null ],
+      [ "CloudSaveUtils", "classrare_1_1shared_1_1cloud__save__utils_1_1_cloud_save_utils.html", null ],
+      [ "SaveWorker.Signals", "classrare_1_1shared_1_1cloud__save__utils_1_1_save_worker_1_1_signals.html", null ],
+      [ "GameProcess", "classrare_1_1shared_1_1game__process_1_1_game_process.html", null ],
+      [ "GameUtils", "classrare_1_1shared_1_1game__utils_1_1_game_utils.html", null ],
       [ "ImageManager", "classrare_1_1shared_1_1image__manager_1_1_image_manager.html", null ],
       [ "ImageManager.Worker.Signals", "classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker_1_1_signals.html", null ],
       [ "RareCore", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html", null ],
-      [ "VerifyWorker.Signals", "classrare_1_1utils_1_1legendary__utils_1_1_verify_worker_1_1_signals.html", null ],
-      [ "CloudSignals", "classrare_1_1utils_1_1misc_1_1_cloud_signals.html", null ],
-      [ "WineResolverSignals", "classrare_1_1utils_1_1misc_1_1_wine_resolver_signals.html", null ],
+      [ "InstallInfoWorker.Signals", "classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker_1_1_signals.html", null ],
+      [ "MoveWorker.Signals", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker_1_1_signals.html", null ],
+      [ "UninstallWorker.Signals", "classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker_1_1_signals.html", null ],
+      [ "VerifyWorker.Signals", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker_1_1_signals.html", null ],
+      [ "WineResolver.Signals", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_resolver_1_1_signals.html", null ],
+      [ "QueueWorker.Signals", "classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_1_1_signals.html", null ],
+      [ "CloudWorker.Signals", "classrare_1_1utils_1_1misc_1_1_cloud_worker_1_1_signals.html", null ],
       [ "QtRequestManager", "classrare_1_1utils_1_1qt__requests_1_1_qt_request_manager.html", null ],
       [ "DiscordRPC", "classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html", null ],
       [ "SteamWorker.Signals", "classrare_1_1utils_1_1steam__grades_1_1_steam_worker_1_1_signals.html", null ]
@@ -292,13 +313,10 @@ var hierarchy =
       [ "SocialButton", "classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_social_button.html", null ]
     ] ],
     [ "QRunnable", null, [
-      [ "InstallInfoWorker", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_info_worker.html", null ],
       [ "LaunchWorker", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_worker.html", [
         [ "ApiRequestWorker", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_api_request_worker.html", null ],
         [ "ImageWorker", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html", null ]
       ] ],
-      [ "SaveWorker", "classrare_1_1components_1_1tabs_1_1games_1_1cloud__save__utils_1_1_save_worker.html", null ],
-      [ "CopyGameInstallation", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_copy_game_installation.html", null ],
       [ "EGLSyncWorker", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker.html", null ],
       [ "CheckForUpdateWorker", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_check_for_update_worker.html", null ],
       [ "ImportWorker", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_worker.html", null ],
@@ -306,11 +324,19 @@ var hierarchy =
       [ "UbiGetInfoWorker", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html", null ],
       [ "RefreshGameMetaWorker", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html", null ],
       [ "PreLaunchThread", "classrare_1_1game__launch__helper_1_1_pre_launch_thread.html", null ],
+      [ "SaveWorker", "classrare_1_1shared_1_1cloud__save__utils_1_1_save_worker.html", null ],
       [ "ImageManager.Worker", "classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker.html", null ],
-      [ "VerifyWorker", "classrare_1_1utils_1_1legendary__utils_1_1_verify_worker.html", null ],
-      [ "CloudWorker", "classrare_1_1utils_1_1misc_1_1_cloud_worker.html", null ],
-      [ "WineResolver", "classrare_1_1utils_1_1misc_1_1_wine_resolver.html", null ],
-      [ "SteamWorker", "classrare_1_1utils_1_1steam__grades_1_1_steam_worker.html", null ]
+      [ "Worker", "classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html", [
+        [ "InstallInfoWorker", "classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker.html", null ],
+        [ "UninstallWorker", "classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html", null ],
+        [ "WineResolver", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_resolver.html", null ],
+        [ "QueueWorker", "classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker.html", [
+          [ "MoveWorker", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html", null ],
+          [ "VerifyWorker", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html", null ]
+        ] ],
+        [ "SteamWorker", "classrare_1_1utils_1_1steam__grades_1_1_steam_worker.html", null ]
+      ] ],
+      [ "CloudWorker", "classrare_1_1utils_1_1misc_1_1_cloud_worker.html", null ]
     ] ],
     [ "QScrollArea", null, [
       [ "ShopWidget", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html", null ]
@@ -326,36 +352,35 @@ var hierarchy =
       [ "TrayIcon", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html", null ]
     ] ],
     [ "QTabBar", null, [
-      [ "MainTabBar", "classrare_1_1components_1_1tabs_1_1tab__utils_1_1_main_tab_bar.html", null ],
+      [ "MainTabBar", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_main_tab_bar.html", null ],
       [ "SideTabBar", "classrare_1_1utils_1_1extra__widgets_1_1_side_tab_bar.html", null ]
     ] ],
     [ "QTabWidget", null, [
-      [ "TabWidget", "classrare_1_1components_1_1tabs_1_1_tab_widget.html", null ],
+      [ "MainTabWidget", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html", null ],
       [ "SideTabWidget", "classrare_1_1utils_1_1extra__widgets_1_1_side_tab_widget.html", [
         [ "GameInfoTabs", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html", null ],
-        [ "UninstalledInfoTabs", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1uninstalled__info_1_1_uninstalled_info_tabs.html", null ],
         [ "IntegrationsTabs", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_tabs.html", null ],
         [ "SettingsTab", "classrare_1_1components_1_1tabs_1_1settings_1_1_settings_tab.html", null ]
       ] ]
     ] ],
     [ "QThread", null, [
-      [ "DownloadThread", "classrare_1_1components_1_1tabs_1_1downloads_1_1download__thread_1_1_download_thread.html", null ]
+      [ "DlThread", "classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html", null ]
+    ] ],
+    [ "QToolBox", null, [
+      [ "GameDlc", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html", null ]
     ] ],
     [ "QToolButton", null, [
-      [ "TabButtonWidget", "classrare_1_1components_1_1tabs_1_1tab__utils_1_1_tab_button_widget.html", null ]
+      [ "TabButtonWidget", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_tab_button_widget.html", null ]
     ] ],
     [ "QTreeView", null, [
-      [ "GameMetadataView", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1uninstalled__info_1_1_game_metadata_view.html", null ]
+      [ "GameMetadataView", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_metadata_view.html", null ]
     ] ],
     [ "QWidget", null, [
       [ "AccountWidget", "classrare_1_1components_1_1tabs_1_1account_1_1_account_widget.html", null ],
       [ "DownloadsTab", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html", null ],
-      [ "UpdateWidget", "classrare_1_1components_1_1tabs_1_1downloads_1_1_update_widget.html", null ],
-      [ "DlWidget", "classrare_1_1components_1_1tabs_1_1downloads_1_1dl__queue__widget_1_1_dl_widget.html", null ],
-      [ "GameDlc", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html", null ],
+      [ "InfoWidget", "classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_info_widget.html", null ],
       [ "GameInfo", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html", null ],
       [ "MoveGamePopUp", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_game_pop_up.html", null ],
-      [ "UninstalledInfo", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1uninstalled__info_1_1_uninstalled_info.html", null ],
       [ "GameListHeadBar", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_game_list_head_bar.html", null ],
       [ "IntegrationsWidget", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_widget.html", null ],
       [ "UbiLinkWidget", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html", null ],
@@ -376,7 +401,13 @@ var hierarchy =
       [ "SelectViewWidget", "classrare_1_1utils_1_1extra__widgets_1_1_select_view_widget.html", null ],
       [ "SideTabContainer", "classrare_1_1utils_1_1extra__widgets_1_1_side_tab_container.html", null ],
       [ "ImageWidget", "classrare_1_1widgets_1_1image__widget_1_1_image_widget.html", [
-        [ "LibraryWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html", null ]
+        [ "DownloadWidget", "classrare_1_1components_1_1tabs_1_1downloads_1_1download_1_1_download_widget.html", null ],
+        [ "LibraryWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html", [
+          [ "GameWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html", [
+            [ "IconGameWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget_1_1_icon_game_widget.html", null ],
+            [ "ListGameWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html", null ]
+          ] ]
+        ] ]
       ] ]
     ] ]
 ];

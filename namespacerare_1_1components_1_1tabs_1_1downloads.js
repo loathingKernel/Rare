@@ -1,8 +1,10 @@
 var namespacerare_1_1components_1_1tabs_1_1downloads =
 [
-    [ "dl_queue_widget", "namespacerare_1_1components_1_1tabs_1_1downloads_1_1dl__queue__widget.html", "namespacerare_1_1components_1_1tabs_1_1downloads_1_1dl__queue__widget" ],
-    [ "download_thread", "namespacerare_1_1components_1_1tabs_1_1downloads_1_1download__thread.html", "namespacerare_1_1components_1_1tabs_1_1downloads_1_1download__thread" ],
+    [ "download", "namespacerare_1_1components_1_1tabs_1_1downloads_1_1download.html", "namespacerare_1_1components_1_1tabs_1_1downloads_1_1download" ],
+    [ "groups", "namespacerare_1_1components_1_1tabs_1_1downloads_1_1groups.html", "namespacerare_1_1components_1_1tabs_1_1downloads_1_1groups" ],
+    [ "thread", "namespacerare_1_1components_1_1tabs_1_1downloads_1_1thread.html", "namespacerare_1_1components_1_1tabs_1_1downloads_1_1thread" ],
+    [ "widgets", "namespacerare_1_1components_1_1tabs_1_1downloads_1_1widgets.html", "namespacerare_1_1components_1_1tabs_1_1downloads_1_1widgets" ],
     [ "DownloadsTab", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab" ],
-    [ "UpdateWidget", "classrare_1_1components_1_1tabs_1_1downloads_1_1_update_widget.html", "classrare_1_1components_1_1tabs_1_1downloads_1_1_update_widget" ],
+    [ "get_time", "namespacerare_1_1components_1_1tabs_1_1downloads.html#a8959f5451ccd1f3d58344ffe90257d7a", null ],
     [ "logger", "namespacerare_1_1components_1_1tabs_1_1downloads.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ]
 ];

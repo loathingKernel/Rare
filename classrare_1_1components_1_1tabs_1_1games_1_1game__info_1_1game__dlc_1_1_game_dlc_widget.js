@@ -1,9 +1,8 @@
 var classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget =
 [
-    [ "__init__", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html#a4129c70f0ec2de8bd094349ea0c58793", null ],
-    [ "install_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html#abb32e37b8ffc3927ad711556854f45cb", null ],
-    [ "uninstall_dlc", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html#abdd961b44473ada4be0f40541ba4a27d", null ],
-    [ "dlc", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html#a58e98b36637341c2d78f4b8b47ad913e", null ],
+    [ "__init__", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html#a98fbff44ff71f0dc573bbf78ca60d7ed", null ],
     [ "image", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html#a42cb5f5737262947250c709931232c69", null ],
-    [ "image_manager", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html#aee5f66b42f4c40d2fbb8ee5c2aa32b8c", null ]
+    [ "rdlc", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html#a531ae74b62eb48ecb489055d5fd73bca", null ],
+    [ "rgame", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html#a29f3c8f8d4ae84548a9e5b962851f8a0", null ],
+    [ "ui", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html#ac492f8de2d00b6c4282e766bfadaf2e7", null ]
 ];

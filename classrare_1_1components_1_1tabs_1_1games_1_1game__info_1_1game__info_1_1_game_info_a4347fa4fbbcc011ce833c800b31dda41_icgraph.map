@@ -1,8 +1,7 @@
 <map id="move_helper_clean_up" name="move_helper_clean_up">
-<area shape="rect" id="node1" title=" " alt="" coords="829,67,984,93"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aa0f64085219d8e40254dd2d8b7da10cc" title=" " alt="" coords="657,29,767,56"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aa16d30b659d94bef029314dd8bef2fd3" title=" " alt="" coords="643,104,781,131"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a81e7b67a8823a5172404a26579563a51" title=" " alt="" coords="312,67,405,93"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#af60941a3141b28229b3a5ac264ace394" title=" " alt="" coords="453,104,595,131"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_game_pop_up.html#a24c9b9d6133548058f89a9b01fe52e25" title=" " alt="" coords="5,52,264,108"/>
+<area shape="rect" id="node1" title=" " alt="" coords="523,67,677,93"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aa0f64085219d8e40254dd2d8b7da10cc" title=" " alt="" coords="350,29,461,56"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aa16d30b659d94bef029314dd8bef2fd3" title=" " alt="" coords="336,104,475,131"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a81e7b67a8823a5172404a26579563a51" title=" " alt="" coords="5,67,99,93"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#af60941a3141b28229b3a5ac264ace394" title=" " alt="" coords="147,104,288,131"/>
 </map>

@@ -1,4 +1,5 @@
 <map id="cancel_clicked" name="cancel_clicked">
-<area shape="rect" id="node1" title=" " alt="" coords="5,37,113,63"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#ad9f81f4c56e23ca3c206b1e9374fc137" title=" " alt="" coords="161,29,345,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,58,113,85"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a807a18e046713d82f8c5828f7837d229" title=" " alt="" coords="161,5,345,47"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#ad9f81f4c56e23ca3c206b1e9374fc137" title=" " alt="" coords="161,95,345,136"/>
 </map>

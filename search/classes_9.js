@@ -21,8 +21,11 @@ var searchData=
   ['lgndrwarning_18',['LgndrWarning',['../classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_warning.html',1,'rare::lgndr::glue::exception']]],
   ['librarylayout_19',['LibraryLayout',['../classrare_1_1widgets_1_1library__layout_1_1_library_layout.html',1,'rare::widgets::library_layout']]],
   ['librarywidget_20',['LibraryWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html',1,'rare::components::tabs::games::game_widgets::library_widget']]],
-  ['linuxappsettings_21',['LinuxAppSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1default__game__settings_1_1_linux_app_settings.html',1,'rare::components::tabs::settings::default_game_settings']]],
-  ['linuxsettings_22',['LinuxSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux_1_1_linux_settings.html',1,'rare::components::tabs::settings::widgets::linux']]],
-  ['logindialog_23',['LoginDialog',['../classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html',1,'rare::components::dialogs::login']]],
-  ['loginpages_24',['LoginPages',['../classrare_1_1components_1_1dialogs_1_1login_1_1_login_pages.html',1,'rare::components::dialogs::login']]]
+  ['librarywidgetcontroller_21',['LibraryWidgetController',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html',1,'rare::components::tabs::games::game_widgets']]],
+  ['linuxappsettings_22',['LinuxAppSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1default__game__settings_1_1_linux_app_settings.html',1,'rare::components::tabs::settings::default_game_settings']]],
+  ['linuxsettings_23',['LinuxSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux_1_1_linux_settings.html',1,'rare::components::tabs::settings::widgets::linux']]],
+  ['listgamewidget_24',['ListGameWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html',1,'rare::components::tabs::games::game_widgets::list_game_widget']]],
+  ['listwidget_25',['ListWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget.html',1,'rare::components::tabs::games::game_widgets::list_widget']]],
+  ['logindialog_26',['LoginDialog',['../classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html',1,'rare::components::dialogs::login']]],
+  ['loginpages_27',['LoginPages',['../classrare_1_1components_1_1dialogs_1_1login_1_1_login_pages.html',1,'rare::components::dialogs::login']]]
 ];

@@ -1,0 +1,5 @@
+<map id="has_update" name="has_update">
+<area shape="rect" id="node1" title="Property to report if an InstalledGame has updates available." alt="" coords="5,78,95,105"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="143,29,316,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#adf94568f84b36f0c783d76df96936a8b" title="Property to report the remote version of an InstalledGame." alt="" coords="174,119,285,146"/>
+</map>
