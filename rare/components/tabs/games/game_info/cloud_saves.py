@@ -134,10 +134,11 @@ class CloudSaveTab(QStackedWidget):
     def update_game(self, rgame: RareGame):
         # TODO connect update widget signal to connect to sync state
         self.rgame = rgame
-        if not rgame.game.supports_cloud_saves:
+        if not rgame.igame or not rgame.game.supports_cloud_saves:
             self.setCurrentIndex(1)
             self.setDisabled(True)
             return
+
         self.title.setTitle(rgame.title)
         self.change = False
         self.setDisabled(False)

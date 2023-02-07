@@ -27,6 +27,7 @@ class RareGameBase(QObject):
     @dataclass
     class Save:
         latest_save: SaveGameFile
+        saves: list[SaveGameFile]
         res: SaveGameStatus
         dt_remote: datetime
         dt_local: datetime
@@ -248,11 +249,12 @@ class RareGame(RareGameSlim):
         if worker is None:
             self.state = RareGame.State.IDLE
 
-    def set_latest_save(self, save_file: SaveGameFile):
+    def set_saves(self, saves: list[SaveGameFile]):
+        latest_save = sorted(saves, key=lambda a: a.datetime)[-1]
         res, (dt_local, dt_remote) = self.core.check_savegame_state(
-            self.igame.save_path, save_file
+            self.igame.save_path, latest_save
         )
-        self.save = RareGame.Save(save_file, res, dt_remote, dt_local)
+        self.save = RareGame.Save(latest_save, saves, res, dt_remote, dt_local)
 
     def upload_saves(self):
         def _upload():
@@ -293,8 +295,7 @@ class RareGame(RareGameSlim):
 
     def update_savefile(self):
         saves = self.core.get_save_games(self.app_name)
-        latest_save = sorted(saves, key=lambda a: a.datetime)[-1]
-        self.set_latest_save(latest_save)
+        self.set_saves(saves)
 
     @property
     def is_save_up_to_date(self):

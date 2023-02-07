@@ -150,7 +150,7 @@ class GamesTab(QStackedWidget):
     # FIXME: Remove this when RareCore is in place
     def __create_game_with_dlcs(self, game: Game) -> RareGame:
         rgame = RareGame(self.core, self.image_manager, game)
-        rgame.saves = [save for save in self.api_results.saves if save.app_name == game.app_name]
+        rgame.saves = self.api_results.saves.get(rgame.app_name)
         for dlc_dict in [self.api_results.dlcs, self.api_results.na_dlcs]:
             if game_dlcs := dlc_dict.get(rgame.game.catalog_item_id, False):
                 for dlc in game_dlcs:

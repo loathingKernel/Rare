@@ -52,7 +52,7 @@ class GameInfoTabs(SideTabWidget):
         self.dlc_tab.setEnabled(rgame.is_installed and bool(rgame.owned_dlcs))
 
         self.cloud_save_tab.update_game(rgame)
-        self.cloud_save_tab.setEnabled(rgame.game.supports_cloud_saves)
+        self.cloud_save_tab.setEnabled(rgame.game.supports_cloud_saves and bool(rgame.igame))
 
         if self.args.debug:
             self.game_meta_view.update_game(rgame, rgame.game)

@@ -189,7 +189,7 @@ class RareCore(QObject):
         rgame.signals.game.finished.connect(self.__signals.application.update_tray)
         rgame.signals.game.finished.connect(lambda: self.__signals.discord_rpc.set_title.emit(""))
         if save := self.__api_results.saves.get(rgame.app_name):
-            rgame.set_latest_save(save)
+            rgame.set_saves(save)
         self.__games[rgame.app_name] = rgame
 
     def __filter_games(self, condition: Callable[[RareGame], bool]) -> Iterator[RareGame]:
