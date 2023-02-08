@@ -43,7 +43,8 @@ class CloudSaveTab(QStackedWidget):
         self.cloud_widget_ui = Ui_CloudWidget()
         self.cloud_widget_ui.setupUi(self.cloud_widget)
 
-        self.ui.options_layout.addWidget(self.cloud_widget)
+        self.ui.main_layout.addWidget(self.cloud_widget)
+        self.ui.main_layout.addStretch(1)
 
         self.cloud_save_path_edit = PathEdit(
             "",

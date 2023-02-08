@@ -14,9 +14,9 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_SyncWidget(object):
     def setupUi(self, SyncWidget):
         SyncWidget.setObjectName("SyncWidget")
-        SyncWidget.resize(400, 300)
-        self.verticalLayout = QtWidgets.QVBoxLayout(SyncWidget)
-        self.verticalLayout.setObjectName("verticalLayout")
+        SyncWidget.resize(234, 157)
+        self.main_layout = QtWidgets.QVBoxLayout(SyncWidget)
+        self.main_layout.setObjectName("main_layout")
         self.horizontalLayout = QtWidgets.QHBoxLayout()
         self.horizontalLayout.setObjectName("horizontalLayout")
         self.local_gb = QtWidgets.QGroupBox(SyncWidget)
@@ -71,12 +71,7 @@ class Ui_SyncWidget(object):
         self.download_button.setObjectName("download_button")
         self.verticalLayout_3.addWidget(self.download_button)
         self.horizontalLayout.addWidget(self.cloud_gb)
-        self.verticalLayout.addLayout(self.horizontalLayout)
-        self.options_layout = QtWidgets.QVBoxLayout()
-        self.options_layout.setObjectName("options_layout")
-        self.verticalLayout.addLayout(self.options_layout)
-        spacerItem = QtWidgets.QSpacerItem(20, 40, QtWidgets.QSizePolicy.Minimum, QtWidgets.QSizePolicy.Expanding)
-        self.verticalLayout.addItem(spacerItem)
+        self.main_layout.addLayout(self.horizontalLayout)
 
         self.retranslateUi(SyncWidget)
 
