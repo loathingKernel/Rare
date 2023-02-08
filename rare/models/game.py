@@ -255,6 +255,7 @@ class RareGame(RareGameSlim):
             self.igame.save_path, latest_save
         )
         self.save = RareGame.Save(latest_save, saves, res, dt_remote, dt_local)
+        self.signals.widget.update.emit()
 
     def upload_saves(self):
         def _upload():
@@ -299,7 +300,8 @@ class RareGame(RareGameSlim):
 
     @property
     def is_save_up_to_date(self):
-        return self.save.res == SaveGameStatus.SAME_AGE
+        return (self.save.res == SaveGameStatus.SAME_AGE) \
+            or (self.save.res == SaveGameStatus.NO_SAVE)
 
     @pyqtSlot(int)
     def __game_launched(self, code: int):

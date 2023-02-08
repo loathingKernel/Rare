@@ -86,9 +86,11 @@ class GameWidget(LibraryWidget):
             RareGame.State.VERIFYING: self.tr("Verifying..."),
             RareGame.State.MOVING: self.tr("Moving..."),
             RareGame.State.UNINSTALLING: self.tr("Uninstalling..."),
+            RareGame.State.SYNCING: self.tr("Syncing..."),
             "has_update": self.tr("Update available"),
             "needs_verification": self.tr("Needs verification"),
             "not_can_launch": self.tr("Can't launch"),
+            "save_not_up_to_date": self.tr("Save is not up-to-date")
         }
 
         self.hover_strings = {
@@ -115,6 +117,8 @@ class GameWidget(LibraryWidget):
                 self.ui.status_label.setText(self.state_strings["needs_verification"])
             elif not self.rgame.can_launch and self.rgame.is_installed:
                 self.ui.status_label.setText(self.state_strings["not_can_launch"])
+            elif self.rgame.igame and self.rgame.game.supports_cloud_saves and not self.rgame.is_save_up_to_date:
+                self.ui.status_label.setText(self.state_strings["save_not_up_to_date"])
             else:
                 self.ui.status_label.setText(self.state_strings[self.rgame.state])
         else:
