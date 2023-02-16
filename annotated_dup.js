@@ -84,8 +84,7 @@ var annotated_dup =
             ] ],
             [ "game_widgets", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets.html", [
               [ "game_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget.html", [
-                [ "GameWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget" ],
-                [ "GameWidgetUi", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget_ui.html", null ]
+                [ "GameWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget" ]
               ] ],
               [ "icon_game_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget.html", [
                 [ "IconGameWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget_1_1_icon_game_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget_1_1_icon_game_widget" ]
@@ -304,7 +303,9 @@ var annotated_dup =
         ] ],
         [ "game", "namespacerare_1_1models_1_1game.html", [
           [ "RareEosOverlay", "classrare_1_1models_1_1game_1_1_rare_eos_overlay.html", "classrare_1_1models_1_1game_1_1_rare_eos_overlay" ],
-          [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", "classrare_1_1models_1_1game_1_1_rare_game" ]
+          [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", "classrare_1_1models_1_1game_1_1_rare_game" ],
+          [ "RareGameBase", "classrare_1_1models_1_1game_1_1_rare_game_base.html", "classrare_1_1models_1_1game_1_1_rare_game_base" ],
+          [ "RareGameSlim", "classrare_1_1models_1_1game_1_1_rare_game_slim.html", "classrare_1_1models_1_1game_1_1_rare_game_slim" ]
         ] ],
         [ "install", "namespacerare_1_1models_1_1install.html", [
           [ "InstallDownloadModel", "classrare_1_1models_1_1install_1_1_install_download_model.html", null ],
@@ -536,9 +537,6 @@ var annotated_dup =
         [ "singleton", "namespacerare_1_1utils_1_1singleton.html", [
           [ "SingleInstance", "classrare_1_1utils_1_1singleton_1_1_single_instance.html", "classrare_1_1utils_1_1singleton_1_1_single_instance" ],
           [ "SingleInstanceException", "classrare_1_1utils_1_1singleton_1_1_single_instance_exception.html", null ]
-        ] ],
-        [ "steam_grades", "namespacerare_1_1utils_1_1steam__grades.html", [
-          [ "SteamWorker", "classrare_1_1utils_1_1steam__grades_1_1_steam_worker.html", "classrare_1_1utils_1_1steam__grades_1_1_steam_worker" ]
         ] ]
       ] ],
       [ "widgets", "namespacerare_1_1widgets.html", [

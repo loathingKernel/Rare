@@ -1,6 +1,5 @@
 <map id="stop" name="stop">
-<area shape="rect" id="node1" title=" " alt="" coords="22,119,69,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="22,82,69,109"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="117,29,395,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="130,119,382,146"/>
-<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="168,195,344,236"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="161,119,351,160"/>
 </map>

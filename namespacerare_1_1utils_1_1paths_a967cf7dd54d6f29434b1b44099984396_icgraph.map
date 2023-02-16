@@ -1,14 +1,13 @@
 <map id="cache_dir" name="cache_dir">
-<area shape="rect" id="node1" title=" " alt="" coords="985,208,1064,235"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1steam__grades.html#a342a42c51bbc1c6ecfa3a18f09d2d40c" title=" " alt="" coords="711,29,937,56"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1paths.html#a15cafb5c4232740ebdcd62826468fd10" title=" " alt="" coords="508,312,595,339"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1steam__grades.html#ade992fd4116df6a33372a2a1b2d2df61" title=" " alt="" coords="735,105,913,146"/>
-<area shape="rect" id="node8" href="$namespacerare_1_1utils_1_1steam__grades.html#a65145276c5b5f93556777b0f2f8ceb25" title=" " alt="" coords="717,245,931,272"/>
-<area shape="rect" id="node9" href="$namespacerare_1_1utils_1_1paths.html#ac2806d554b9f1bc2c539a8dd797afb60" title=" " alt="" coords="794,395,854,421"/>
-<area shape="rect" id="node12" href="$namespacerare_1_1utils_1_1paths.html#a99b36d23efbef26b6963295af12a82fe" title=" " alt="" coords="791,320,857,347"/>
-<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1steam__grades.html#a74cd7f3d3b3c2ee1ceb8831d22c047b9" title=" " alt="" coords="463,105,640,146"/>
-<area shape="rect" id="node6" href="$classrare_1_1utils_1_1steam__grades_1_1_steam_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="233,105,392,146"/>
-<area shape="rect" id="node7" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="5,105,185,146"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#ac5aa04f27a40a5f6cfc0fc482f9f0dbd" title=" " alt="" coords="440,387,663,429"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#aa0cf5bfa7b037eb698860e0a32da24d8" title=" " alt="" coords="440,477,663,518"/>
+<area shape="rect" id="node1" title=" " alt="" coords="827,208,905,235"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1steam__grades.html#a342a42c51bbc1c6ecfa3a18f09d2d40c" title=" " alt="" coords="552,29,779,56"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1paths.html#a15cafb5c4232740ebdcd62826468fd10" title=" " alt="" coords="349,312,436,339"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1steam__grades.html#ade992fd4116df6a33372a2a1b2d2df61" title=" " alt="" coords="577,105,754,146"/>
+<area shape="rect" id="node7" href="$namespacerare_1_1utils_1_1steam__grades.html#a65145276c5b5f93556777b0f2f8ceb25" title=" " alt="" coords="558,245,773,272"/>
+<area shape="rect" id="node8" href="$namespacerare_1_1utils_1_1paths.html#ac2806d554b9f1bc2c539a8dd797afb60" title=" " alt="" coords="635,395,695,421"/>
+<area shape="rect" id="node11" href="$namespacerare_1_1utils_1_1paths.html#a99b36d23efbef26b6963295af12a82fe" title=" " alt="" coords="633,320,698,347"/>
+<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1steam__grades.html#a19744bb6cba6816375637c10fc252c0d" title=" " alt="" coords="304,105,481,146"/>
+<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a44ad13c0a844d30263bbf7ca3ce625ea" title=" " alt="" coords="5,105,233,146"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#ac5aa04f27a40a5f6cfc0fc482f9f0dbd" title=" " alt="" coords="281,387,504,429"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#aa0cf5bfa7b037eb698860e0a32da24d8" title=" " alt="" coords="281,477,504,518"/>
 </map>

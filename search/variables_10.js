@@ -9,6 +9,9 @@ var searchData=
   ['queue_5fscrollarea_6',['queue_scrollarea',['../classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a07b1ddad12c4dbcd378175640d263166',1,'rare::components::tabs::downloads::DownloadsTab']]],
   ['queue_5fthreadpool_7',['queue_threadpool',['../classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a8f62d6fdee30210122279401f2574160',1,'rare::shared::rare_core::RareCore']]],
   ['queued_8',['QUEUED',['../classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_state.html#ae307dc2684e3449a80e72d91fba674a0',1,'rare::shared::workers::worker::QueueWorkerState']]],
-  ['quit_9',['quit',['../classrare_1_1models_1_1signals_1_1_global_signals_1_1_application_signals.html#aabe3caba392c94aba7bb55af66802b05',1,'rare::models::signals::GlobalSignals::ApplicationSignals']]],
-  ['quit_5fapp_10',['quit_app',['../classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a6334c2d2519f6671e854ad46873c4dcc',1,'rare::components::dialogs::launch_dialog::LaunchDialog']]]
+  ['queued_5fcontainer_9',['queued_container',['../classrare_1_1components_1_1main__window_1_1_main_window.html#a977caf497a400fbd3c5aea459be200f4',1,'rare::components::main_window::MainWindow']]],
+  ['queued_5flabel_10',['queued_label',['../classrare_1_1components_1_1main__window_1_1_main_window.html#a5e45985d54fe11d8761b81078631b732',1,'rare::components::main_window::MainWindow']]],
+  ['queued_5fscroll_11',['queued_scroll',['../classrare_1_1components_1_1main__window_1_1_main_window.html#a5fabd01ac61f0bdfc79b6eef6d945fcd',1,'rare::components::main_window::MainWindow']]],
+  ['quit_12',['quit',['../classrare_1_1models_1_1signals_1_1_global_signals_1_1_application_signals.html#aabe3caba392c94aba7bb55af66802b05',1,'rare::models::signals::GlobalSignals::ApplicationSignals']]],
+  ['quit_5fapp_13',['quit_app',['../classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a6334c2d2519f6671e854ad46873c4dcc',1,'rare::components::dialogs::launch_dialog::LaunchDialog']]]
 ];

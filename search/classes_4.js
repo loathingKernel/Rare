@@ -9,7 +9,7 @@ var searchData=
   ['dlresultcode_6',['DlResultCode',['../classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_result_code.html',1,'rare::components::tabs::downloads::thread']]],
   ['dlresultmodel_7',['DlResultModel',['../classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_result_model.html',1,'rare::components::tabs::downloads::thread']]],
   ['dlthread_8',['DlThread',['../classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html',1,'rare::components::tabs::downloads::thread']]],
-  ['download_9',['Download',['../classrare_1_1models_1_1game_1_1_rare_game_1_1_signals_1_1_download.html',1,'rare::models::game::RareGame::Signals']]],
+  ['download_9',['Download',['../classrare_1_1models_1_1game_1_1_rare_game_base_1_1_signals_1_1_download.html',1,'rare::models::game::RareGameBase::Signals']]],
   ['downloadmodel_10',['DownloadModel',['../classrare_1_1shared_1_1cloud__save__utils_1_1_download_model.html',1,'rare::shared::cloud_save_utils']]],
   ['downloadsignals_11',['DownloadSignals',['../classrare_1_1models_1_1signals_1_1_global_signals_1_1_download_signals.html',1,'rare::models::signals::GlobalSignals']]],
   ['downloadslot_12',['DownloadSlot',['../classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker_1_1_download_slot.html',1,'rare::components::dialogs::launch_dialog::ImageWorker']]],

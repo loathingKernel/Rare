@@ -1,9 +1,13 @@
 <map id="desktop_links_supported" name="desktop_links_supported">
-<area shape="rect" id="node1" title=" " alt="" coords="972,159,1139,185"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5" title="Creates a desktop or start menu shortcut link." alt="" coords="693,133,832,160"/>
+<area shape="rect" id="node1" title=" " alt="" coords="972,216,1139,243"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5" title="Creates a desktop or start menu shortcut link." alt="" coords="693,149,832,176"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5" title=" " alt="" coords="279,29,553,85"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad688e83ab96ce32b1ed9e5ccc83d0ee8" title="Stops the active download, by optionally skipping the queue." alt="" coords="309,209,523,250"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a34f4910ec773ae8e2d8a116f14104a72" title=" " alt="" coords="601,259,924,301"/>
+<area shape="rect" id="node7" href="$namespacerare_1_1shared_1_1workers_1_1uninstall.html#ac0632a3df590708b928b093906d1afda" title=" " alt="" coords="625,299,901,325"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a34f4910ec773ae8e2d8a116f14104a72" title=" " alt="" coords="601,374,924,415"/>
 <area shape="rect" id="node3" href="$namespacerare_1_1____main____.html#add42217d54476fc931cfda4d8515bf43" title=" " alt="" coords="349,133,483,160"/>
 <area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a91ee81dee5df73fb4e3057d7c12624e0" title=" " alt="" coords="5,209,231,250"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="315,298,517,339"/>
+<area shape="rect" id="node10" href="$classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="321,387,511,429"/>
+<area shape="rect" id="node9" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="28,342,208,383"/>
 </map>

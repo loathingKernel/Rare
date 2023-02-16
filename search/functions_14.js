@@ -6,7 +6,7 @@ var searchData=
   ['text_3',['text',['../classrare_1_1utils_1_1extra__widgets_1_1_indicator_line_edit.html#a515301de038623ad26ce41cedb7ed052',1,'rare::utils::extra_widgets::IndicatorLineEdit']]],
   ['text_5fchanged_4',['text_changed',['../classrare_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_browser_login.html#ac5324dcbf205d4c20705bee18b4bd978',1,'rare::components::dialogs::login::browser_login::BrowserLogin']]],
   ['timer_5ffinished_5',['timer_finished',['../classrare_1_1components_1_1main__window_1_1_main_window.html#aa932131ff73a2a934f2f2da848314955',1,'rare::components::main_window::MainWindow']]],
-  ['title_6',['title',['../classrare_1_1models_1_1game_1_1_rare_game.html#a9d2c0ef8e0253d5f0d0bcf1f7ad80fa5',1,'rare.models.game.RareGame.title()'],['../classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a9d2c0ef8e0253d5f0d0bcf1f7ad80fa5',1,'rare.models.game.RareEosOverlay.title()']]],
+  ['title_6',['title',['../classrare_1_1models_1_1game_1_1_rare_game_base.html#a9d2c0ef8e0253d5f0d0bcf1f7ad80fa5',1,'rare::models::game::RareGameBase']]],
   ['tmp_5fdir_7',['tmp_dir',['../namespacerare_1_1utils_1_1paths.html#a99b36d23efbef26b6963295af12a82fe',1,'rare::utils::paths']]],
   ['toggle_8',['toggle',['../classrare_1_1components_1_1main__window_1_1_main_window.html#a76ef2ebd71b1a1858194134725b6c800',1,'rare::components::main_window::MainWindow']]],
   ['toggle_5farrows_9',['toggle_arrows',['../classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_queue_widget.html#a7e2fe967379f0785b95da5506d7e5509',1,'rare::components::tabs::downloads::widgets::QueueWidget']]],

@@ -1,7 +1,8 @@
 <map id="closeEvent" name="closeEvent">
-<area shape="rect" id="node1" title=" " alt="" coords="5,119,92,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,161,92,187"/>
 <area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4" title=" " alt="" coords="155,29,328,71"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a0b10d6f6237209134f8bf6bbcb6bfba6" title=" " alt="" coords="218,119,265,146"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61" title=" " alt="" coords="140,195,343,236"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a46ccd4f97f2d441f241bbe8cf235a4e9" title=" " alt="" coords="180,285,303,311"/>
 <area shape="rect" id="node4" href="$classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset.html#a39bd2b8ea4e12bd297244ec77cb5a1fa" title=" " alt="" coords="391,112,575,153"/>
 </map>

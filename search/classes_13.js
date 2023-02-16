@@ -1,7 +1,7 @@
 var searchData=
 [
   ['waitingspinner_0',['WaitingSpinner',['../classrare_1_1utils_1_1extra__widgets_1_1_waiting_spinner.html',1,'rare::utils::extra_widgets']]],
-  ['widget_1',['Widget',['../classrare_1_1models_1_1game_1_1_rare_game_1_1_signals_1_1_widget.html',1,'rare::models::game::RareGame::Signals']]],
+  ['widget_1',['Widget',['../classrare_1_1models_1_1game_1_1_rare_game_base_1_1_signals_1_1_widget.html',1,'rare::models::game::RareGameBase::Signals']]],
   ['wineresolver_2',['WineResolver',['../classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_resolver.html',1,'rare::shared::workers::wine_resolver']]],
   ['wishlist_3',['Wishlist',['../classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist.html',1,'rare::components::tabs::shop::wishlist']]],
   ['wishlistwidget_4',['WishlistWidget',['../classrare_1_1components_1_1tabs_1_1shop_1_1game__widgets_1_1_wishlist_widget.html',1,'rare::components::tabs::shop::game_widgets']]],

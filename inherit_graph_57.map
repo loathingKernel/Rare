@@ -1,10 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,165,76,192"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group_1_1_move_direction.html" title=" " alt="" coords="124,5,305,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_result_code.html" title=" " alt="" coords="164,56,265,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_result.html" title=" " alt="" coords="167,107,263,133"/>
-<area shape="rect" id="node5" href="$classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_ret_1_1_return_code.html" title=" " alt="" coords="127,158,302,199"/>
-<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_game_1_1_state.html" title=" " alt="" coords="155,224,274,251"/>
-<area shape="rect" id="node7" href="$classrare_1_1shared_1_1game__process_1_1_game_process_1_1_code.html" title=" " alt="" coords="145,275,284,301"/>
-<area shape="rect" id="node8" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_state.html" title=" " alt="" coords="149,325,281,352"/>
+<area shape="rect" id="node1" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_info.html" title=" " alt="" coords="5,5,128,32"/>
 </map>

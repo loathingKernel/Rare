@@ -1,5 +1,5 @@
 <map id="run" name="run">
-<area shape="rect" id="node1" title=" " alt="" coords="15,204,55,231"/>
+<area shape="rect" id="node1" title=" " alt="" coords="15,249,55,276"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#a3cb18d1bd7322577513b3311f2ca3c3c" title=" " alt="" coords="141,5,241,32"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#ab63faaa5812facc4f678cdb623dc4902" title=" " alt="" coords="124,56,257,83"/>
 <area shape="rect" id="node4" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a3f82aeb36390eb8a86f5e9e49ffcb9b3" title=" " alt="" coords="112,107,269,149"/>
@@ -7,5 +7,8 @@
 <area shape="rect" id="node6" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a638ad502789318f48d47f71beb983c0a" title=" " alt="" coords="103,286,279,327"/>
 <area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#aee6f403547a8a3339bd61c5f56a5389a" title=" " alt="" coords="171,376,210,403"/>
 <area shape="rect" id="node9" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_d_l_manager_signals.html#a12151a88f7d2238a9b75b40e093a0038" title=" " alt="" coords="111,451,271,493"/>
-<area shape="rect" id="node7" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a66bb1af90088807e5445bcf242390463" title=" " alt="" coords="327,286,492,327"/>
+<area shape="rect" id="node10" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a0f9f88b07029d9ad56e4b094074fe596" title=" " alt="" coords="104,541,277,582"/>
+<area shape="rect" id="node7" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a66bb1af90088807e5445bcf242390463" title=" " alt="" coords="334,286,499,327"/>
+<area shape="rect" id="node11" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" title=" " alt="" coords="327,495,507,537"/>
+<area shape="rect" id="node12" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="330,585,503,626"/>
 </map>

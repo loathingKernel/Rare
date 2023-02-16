@@ -1,13 +1,12 @@
 <map id="data_dir" name="data_dir">
-<area shape="rect" id="node1" title=" " alt="" coords="1033,117,1101,143"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1paths.html#a15cafb5c4232740ebdcd62826468fd10" title=" " alt="" coords="637,123,724,150"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1steam__grades.html#a74cd7f3d3b3c2ee1ceb8831d22c047b9" title=" " alt="" coords="808,39,985,80"/>
-<area shape="rect" id="node6" href="$namespacerare_1_1utils_1_1paths.html#ada300860b11ac604daaa4afc32f76fb7" title=" " alt="" coords="857,191,936,218"/>
-<area shape="rect" id="node4" href="$classrare_1_1utils_1_1steam__grades_1_1_steam_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="601,32,760,73"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="326,29,506,71"/>
-<area shape="rect" id="node7" href="$namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5" title="Creates a desktop or start menu shortcut link." alt="" coords="611,202,750,229"/>
-<area shape="rect" id="node8" href="$namespacerare_1_1____main____.html#add42217d54476fc931cfda4d8515bf43" title=" " alt="" coords="349,209,483,235"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5" title=" " alt="" coords="279,283,553,339"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad688e83ab96ce32b1ed9e5ccc83d0ee8" title="Stops the active download, by optionally skipping the queue." alt="" coords="309,119,523,160"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a91ee81dee5df73fb4e3057d7c12624e0" title=" " alt="" coords="5,119,231,160"/>
+<area shape="rect" id="node1" title=" " alt="" coords="1103,114,1171,141"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1paths.html#a15cafb5c4232740ebdcd62826468fd10" title=" " alt="" coords="672,119,759,146"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1steam__grades.html#a19744bb6cba6816375637c10fc252c0d" title=" " alt="" coords="877,36,1055,77"/>
+<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1paths.html#ada300860b11ac604daaa4afc32f76fb7" title=" " alt="" coords="927,189,1005,215"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a44ad13c0a844d30263bbf7ca3ce625ea" title=" " alt="" coords="601,29,829,71"/>
+<area shape="rect" id="node6" href="$namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5" title="Creates a desktop or start menu shortcut link." alt="" coords="646,194,785,221"/>
+<area shape="rect" id="node7" href="$namespacerare_1_1____main____.html#add42217d54476fc931cfda4d8515bf43" title=" " alt="" coords="349,105,483,131"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5" title=" " alt="" coords="279,179,553,235"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad688e83ab96ce32b1ed9e5ccc83d0ee8" title="Stops the active download, by optionally skipping the queue." alt="" coords="309,284,523,325"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a91ee81dee5df73fb4e3057d7c12624e0" title=" " alt="" coords="5,284,231,325"/>
 </map>

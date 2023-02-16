@@ -1,12 +1,11 @@
 <map id="sync_finished" name="sync_finished">
-<area shape="rect" id="node1" title=" " alt="" coords="5,212,105,239"/>
-<area shape="rect" id="node2" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#a62864ecc73de3f9e4a009737d0c01f01" title=" " alt="" coords="153,205,361,246"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="1156,218,1435,260"/>
-<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="1169,347,1421,374"/>
-<area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="1207,129,1383,170"/>
-<area shape="rect" id="node6" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#a1ad309148fd22e4786258dc4a79ec7af" title=" " alt="" coords="889,422,1108,464"/>
-<area shape="rect" id="node7" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#a711d1d7df9874db34971779c941c4e5e" title=" " alt="" coords="409,205,579,246"/>
-<area shape="rect" id="node10" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#a26ca7c1c7fcdd35378e7be97727047a6" title=" " alt="" coords="914,281,1083,322"/>
-<area shape="rect" id="node8" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="912,89,1085,130"/>
-<area shape="rect" id="node9" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#ac2d7fc08d8189d84d207151df722ee19" title=" " alt="" coords="627,205,841,246"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,235,105,262"/>
+<area shape="rect" id="node2" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#a62864ecc73de3f9e4a009737d0c01f01" title=" " alt="" coords="153,228,361,269"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="1156,381,1435,422"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="1201,248,1390,289"/>
+<area shape="rect" id="node5" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#a1ad309148fd22e4786258dc4a79ec7af" title=" " alt="" coords="889,100,1108,141"/>
+<area shape="rect" id="node6" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#a711d1d7df9874db34971779c941c4e5e" title=" " alt="" coords="409,228,579,269"/>
+<area shape="rect" id="node9" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#a26ca7c1c7fcdd35378e7be97727047a6" title=" " alt="" coords="914,381,1083,422"/>
+<area shape="rect" id="node7" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="912,189,1085,230"/>
+<area shape="rect" id="node8" href="$classrare_1_1game__launch__helper_1_1_game_process_app.html#ac2d7fc08d8189d84d207151df722ee19" title=" " alt="" coords="627,262,841,304"/>
 </map>

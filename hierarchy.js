@@ -50,9 +50,6 @@ var hierarchy =
     [ "LgndrUninstallGameArgs", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_uninstall_game_args.html", null ],
     [ "LgndrVerifyGameArgs", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_verify_game_args.html", null ],
     [ "LoginPages", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_pages.html", null ],
-    [ "metaclass", null, [
-      [ "GameWidgetUi", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget_ui.html", null ]
-    ] ],
     [ "RareGame.Metadata", "classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html", null ],
     [ "object", null, [
       [ "IconWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__widget_1_1_icon_widget.html", null ],
@@ -154,14 +151,11 @@ var hierarchy =
       [ "LgndrWarning", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_warning.html", null ]
     ] ],
     [ "ShopGame", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_shop_game.html", null ],
-    [ "RareGame.Signals", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals.html", null ],
+    [ "RareGameBase.Signals", "classrare_1_1models_1_1game_1_1_rare_game_base_1_1_signals.html", null ],
     [ "StateChangedModel.States", "classrare_1_1models_1_1launcher_1_1_state_changed_model_1_1_states.html", null ],
     [ "UIUpdate", "classrare_1_1lgndr_1_1models_1_1downloading_1_1_u_i_update.html", null ],
     [ "UninstallOptionsModel", "classrare_1_1models_1_1install_1_1_uninstall_options_model.html", null ],
     [ "UploadModel", "classrare_1_1shared_1_1cloud__save__utils_1_1_upload_model.html", null ],
-    [ "ABCMeta", null, [
-      [ "GameWidgetUi", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget_ui.html", null ]
-    ] ],
     [ "Enum", null, [
       [ "ActivationStates", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_activation_states.html", null ],
       [ "Orientation", "classrare_1_1shared_1_1image__manager_1_1_orientation.html", null ],
@@ -172,7 +166,7 @@ var hierarchy =
       [ "DlResultCode", "classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_result_code.html", null ],
       [ "ImportResult", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_result.html", null ],
       [ "LgndrInstallGameRealRet.ReturnCode", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_ret_1_1_return_code.html", null ],
-      [ "RareGame.State", "classrare_1_1models_1_1game_1_1_rare_game_1_1_state.html", null ],
+      [ "RareGameBase.State", "classrare_1_1models_1_1game_1_1_rare_game_base_1_1_state.html", null ],
       [ "GameProcess.Code", "classrare_1_1shared_1_1game__process_1_1_game_process_1_1_code.html", null ],
       [ "QueueWorkerState", "classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_state.html", null ]
     ] ],
@@ -278,12 +272,16 @@ var hierarchy =
       [ "Constants", "classrare_1_1components_1_1tabs_1_1shop_1_1constants_1_1_constants.html", null ],
       [ "ShopApiCore", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html", null ],
       [ "PreLaunchThread.Signals", "classrare_1_1game__launch__helper_1_1_pre_launch_thread_1_1_signals.html", null ],
-      [ "RareEosOverlay", "classrare_1_1models_1_1game_1_1_rare_eos_overlay.html", null ],
-      [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", null ],
-      [ "RareGame.Signals.Download", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals_1_1_download.html", null ],
-      [ "RareGame.Signals.Game", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals_1_1_game.html", null ],
-      [ "RareGame.Signals.Progress", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals_1_1_progress.html", null ],
-      [ "RareGame.Signals.Widget", "classrare_1_1models_1_1game_1_1_rare_game_1_1_signals_1_1_widget.html", null ],
+      [ "RareGameBase", "classrare_1_1models_1_1game_1_1_rare_game_base.html", [
+        [ "RareEosOverlay", "classrare_1_1models_1_1game_1_1_rare_eos_overlay.html", null ],
+        [ "RareGameSlim", "classrare_1_1models_1_1game_1_1_rare_game_slim.html", [
+          [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", null ]
+        ] ]
+      ] ],
+      [ "RareGameBase.Signals.Download", "classrare_1_1models_1_1game_1_1_rare_game_base_1_1_signals_1_1_download.html", null ],
+      [ "RareGameBase.Signals.Game", "classrare_1_1models_1_1game_1_1_rare_game_base_1_1_signals_1_1_game.html", null ],
+      [ "RareGameBase.Signals.Progress", "classrare_1_1models_1_1game_1_1_rare_game_base_1_1_signals_1_1_progress.html", null ],
+      [ "RareGameBase.Signals.Widget", "classrare_1_1models_1_1game_1_1_rare_game_base_1_1_signals_1_1_widget.html", null ],
       [ "GlobalSignals.ApplicationSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_application_signals.html", null ],
       [ "GlobalSignals.DiscordRPCSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_discord_r_p_c_signals.html", null ],
       [ "GlobalSignals.DownloadSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_download_signals.html", null ],
@@ -303,8 +301,7 @@ var hierarchy =
       [ "QueueWorker.Signals", "classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_1_1_signals.html", null ],
       [ "CloudWorker.Signals", "classrare_1_1utils_1_1misc_1_1_cloud_worker_1_1_signals.html", null ],
       [ "QtRequestManager", "classrare_1_1utils_1_1qt__requests_1_1_qt_request_manager.html", null ],
-      [ "DiscordRPC", "classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html", null ],
-      [ "SteamWorker.Signals", "classrare_1_1utils_1_1steam__grades_1_1_steam_worker_1_1_signals.html", null ]
+      [ "DiscordRPC", "classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html", null ]
     ] ],
     [ "QPlainTextEdit", null, [
       [ "ConsoleEdit", "classrare_1_1game__launch__helper_1_1console_1_1_console_edit.html", null ]
@@ -333,8 +330,7 @@ var hierarchy =
         [ "QueueWorker", "classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker.html", [
           [ "MoveWorker", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html", null ],
           [ "VerifyWorker", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html", null ]
-        ] ],
-        [ "SteamWorker", "classrare_1_1utils_1_1steam__grades_1_1_steam_worker.html", null ]
+        ] ]
       ] ],
       [ "CloudWorker", "classrare_1_1utils_1_1misc_1_1_cloud_worker.html", null ]
     ] ],

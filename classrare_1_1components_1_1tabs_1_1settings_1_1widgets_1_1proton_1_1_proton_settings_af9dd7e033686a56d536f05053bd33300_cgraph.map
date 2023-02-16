@@ -1,6 +1,5 @@
 <map id="change_proton" name="change_proton">
-<area shape="rect" id="node1" title=" " alt="" coords="5,119,112,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,82,112,109"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="160,29,439,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="173,119,425,146"/>
-<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="211,195,387,236"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="205,119,394,160"/>
 </map>

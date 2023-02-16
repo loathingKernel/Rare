@@ -1,8 +1,7 @@
 <map id="changed_settings" name="changed_settings">
-<area shape="rect" id="node1" title=" " alt="" coords="5,55,129,81"/>
-<area shape="rect" id="node2" href="$classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html#a322ebb4953da62177002651ba9b4edc1" title=" " alt="" coords="177,92,268,119"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,43,129,69"/>
+<area shape="rect" id="node2" href="$classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html#a322ebb4953da62177002651ba9b4edc1" title=" " alt="" coords="177,80,268,107"/>
 <area shape="rect" id="node3" href="$classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html#a91d8946fb4a846f63b5c18378e0c7bda" title=" " alt="" coords="316,29,431,56"/>
-<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a95c2692b4805ee1742eee7941b7fdd74" title=" " alt="" coords="613,123,789,165"/>
-<area shape="rect" id="node4" href="$classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html#ab988e5fe435f9b45eab3c4e32ba0862b" title=" " alt="" coords="479,61,565,88"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="615,34,788,75"/>
+<area shape="rect" id="node4" href="$classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html#ab988e5fe435f9b45eab3c4e32ba0862b" title=" " alt="" coords="479,55,565,81"/>
+<area shape="rect" id="node5" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="613,47,787,89"/>
 </map>

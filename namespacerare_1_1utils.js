@@ -17,7 +17,9 @@ var namespacerare_1_1utils =
       [ "create_dirs", "namespacerare_1_1utils_1_1paths.html#a15cafb5c4232740ebdcd62826468fd10", null ],
       [ "data_dir", "namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b", null ],
       [ "desktop_dir", "namespacerare_1_1utils_1_1paths.html#a68fd6933dc93b4140e22a3fb1380354f", null ],
+      [ "desktop_icon_suffix", "namespacerare_1_1utils_1_1paths.html#a111bd04d317fe20a328e3aa08570d9a8", null ],
       [ "desktop_link_path", "namespacerare_1_1utils_1_1paths.html#ac2e6ac6baa5376d3ea5aa8b63e2af2bd", null ],
+      [ "desktop_link_types", "namespacerare_1_1utils_1_1paths.html#a87c539910fdff3dd0e2b1ee7c12bd1b7", null ],
       [ "desktop_links_supported", "namespacerare_1_1utils_1_1paths.html#a328faa5a142700be21313b72953aab76", null ],
       [ "get_rare_executable", "namespacerare_1_1utils_1_1paths.html#a5aae2af81c71e81b5a7ce0c16db5ba19", null ],
       [ "home_dir", "namespacerare_1_1utils_1_1paths.html#a71f5a7ae998e88f396ed58bb5ec6c67b", null ],
@@ -33,5 +35,13 @@ var namespacerare_1_1utils =
     [ "qt_requests", "namespacerare_1_1utils_1_1qt__requests.html", "namespacerare_1_1utils_1_1qt__requests" ],
     [ "rpc", "namespacerare_1_1utils_1_1rpc.html", "namespacerare_1_1utils_1_1rpc" ],
     [ "singleton", "namespacerare_1_1utils_1_1singleton.html", "namespacerare_1_1utils_1_1singleton" ],
-    [ "steam_grades", "namespacerare_1_1utils_1_1steam__grades.html", "namespacerare_1_1utils_1_1steam__grades" ]
+    [ "steam_grades", "namespacerare_1_1utils_1_1steam__grades.html", [
+      [ "check_time", "namespacerare_1_1utils_1_1steam__grades.html#a342a42c51bbc1c6ecfa3a18f09d2d40c", null ],
+      [ "get_grade", "namespacerare_1_1utils_1_1steam__grades.html#afb84b77f9ccf4f2f47fe022771e9b7b4", null ],
+      [ "get_rating", "namespacerare_1_1utils_1_1steam__grades.html#a19744bb6cba6816375637c10fc252c0d", null ],
+      [ "get_steam_id", "namespacerare_1_1utils_1_1steam__grades.html#ade992fd4116df6a33372a2a1b2d2df61", null ],
+      [ "load_json", "namespacerare_1_1utils_1_1steam__grades.html#a65145276c5b5f93556777b0f2f8ceb25", null ],
+      [ "replace_chars", "namespacerare_1_1utils_1_1steam__grades.html#ad3b12806a1c6d2fafdf5b29368fc09c0", null ],
+      [ "url", "namespacerare_1_1utils_1_1steam__grades.html#aa03c1ef4c41f36b048cf58d5aade7653", null ]
+    ] ]
 ];

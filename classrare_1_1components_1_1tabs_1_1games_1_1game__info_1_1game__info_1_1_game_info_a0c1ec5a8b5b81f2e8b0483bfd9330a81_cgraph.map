@@ -1,11 +1,16 @@
 <map id="repair_game" name="repair_game">
-<area shape="rect" id="node1" title=" " alt="" coords="5,148,99,175"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61" title=" " alt="" coords="147,58,349,99"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a3f0a6718ec31407232d59668556eed16" title=" " alt="" coords="202,148,294,175"/>
-<area shape="rect" id="node9" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a94921a35f33d553ff01281b05fa2428d" title=" " alt="" coords="171,226,325,267"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#af6235ca1971cf79ddfd6bc977dd5adde" title=" " alt="" coords="423,5,545,32"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a48e6e062bb4c90c9cc95fa4fbfa1a730" title=" " alt="" coords="411,56,557,83"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#abcf1aa5c72bdb972b0e74623fdf5f38f" title=" " alt="" coords="421,107,547,133"/>
-<area shape="rect" id="node7" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4" title=" " alt="" coords="397,182,571,223"/>
-<area shape="rect" id="node8" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="397,271,571,313"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,278,99,305"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61" title=" " alt="" coords="620,29,823,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a3f0a6718ec31407232d59668556eed16" title=" " alt="" coords="178,278,270,305"/>
+<area shape="rect" id="node14" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a94921a35f33d553ff01281b05fa2428d" title=" " alt="" coords="147,433,301,475"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a48e6e062bb4c90c9cc95fa4fbfa1a730" title=" " alt="" coords="388,202,533,229"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#abcf1aa5c72bdb972b0e74623fdf5f38f" title=" " alt="" coords="397,253,524,279"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a6051424c6fb282ae329b5c3eb42170c0" title=" " alt="" coords="657,271,786,298"/>
+<area shape="rect" id="node7" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4" title=" " alt="" coords="635,347,808,388"/>
+<area shape="rect" id="node8" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="635,436,808,477"/>
+<area shape="rect" id="node9" href="$namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game.html#a6bda254fcd516ed624b4fd211b9e03ed" title=" " alt="" coords="349,480,572,521"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a8f63c64f7175861f1d408bbeab2f5855" title=" " alt="" coords="414,151,507,178"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a1a5032b28b32154dafceeda1e8ae6cdf" title=" " alt="" coords="648,95,795,122"/>
+<area shape="rect" id="node12" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a849f0844767f52dfa892223327e312f9" title=" " alt="" coords="657,146,785,173"/>
+<area shape="rect" id="node13" href="$namespacerare_1_1utils_1_1misc.html#a1316c13802b7e0cd9c6301199c789346" title=" " alt="" coords="645,221,798,247"/>
 </map>

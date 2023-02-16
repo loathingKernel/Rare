@@ -1,4 +1,5 @@
 <map id="saves" name="saves">
-<area shape="rect" id="node1" title="SaveGameFiles across games." alt="" coords="224,37,281,63"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1apiresults_1_1_api_results.html#a3dd81f64b703eff31446b257a4628090" title=" " alt="" coords="5,29,176,71"/>
+<area shape="rect" id="node1" title="SaveGameFiles across games." alt="" coords="243,82,300,109"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1apiresults_1_1_api_results.html#a3dd81f64b703eff31446b257a4628090" title=" " alt="" coords="15,29,185,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game_slim.html#ad63ddf1a2b0bce17b5ea7f3fdd7fd532" title=" " alt="" coords="5,119,195,160"/>
 </map>

@@ -1,6 +1,5 @@
 <map id="get_steam_id" name="get_steam_id">
-<area shape="rect" id="node1" title=" " alt="" coords="567,37,667,63"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1steam__grades.html#a74cd7f3d3b3c2ee1ceb8831d22c047b9" title=" " alt="" coords="440,37,519,63"/>
-<area shape="rect" id="node3" href="$classrare_1_1utils_1_1steam__grades_1_1_steam_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="233,29,392,71"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="5,29,185,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="408,37,508,63"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1steam__grades.html#a19744bb6cba6816375637c10fc252c0d" title=" " alt="" coords="281,37,360,63"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a44ad13c0a844d30263bbf7ca3ce625ea" title=" " alt="" coords="5,29,233,71"/>
 </map>

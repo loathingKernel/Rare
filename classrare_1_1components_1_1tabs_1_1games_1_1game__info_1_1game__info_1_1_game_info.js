@@ -1,29 +1,16 @@
 var classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info =
 [
     [ "__init__", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a39d165427992dd2720f91929a88cde17", null ],
-    [ "move_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a81e7b67a8823a5172404a26579563a51", null ],
-    [ "move_helper_clean_up", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a4347fa4fbbcc011ce833c800b31dda41", null ],
+    [ "move_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a8f63c64f7175861f1d408bbeab2f5855", null ],
     [ "repair_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a0c1ec5a8b5b81f2e8b0483bfd9330a81", null ],
-    [ "set_new_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aa0f64085219d8e40254dd2d8b7da10cc", null ],
-    [ "show_menu_after_browse", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a48ea5e8abe7ae0b2b4b009abeba727f9", null ],
-    [ "start_copy_diff_drive", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#af60941a3141b28229b3a5ac264ace394", null ],
-    [ "update_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a177c0b66c6090326272ed08514e4d737", null ],
-    [ "verify_cleanup", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a2dd9f46e508a959eff847156da39b2d7", null ],
+    [ "update_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a31df619d45c585656d938a0c09e9d115", null ],
     [ "verify_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a3f0a6718ec31407232d59668556eed16", null ],
-    [ "warn_no_space_left", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aa16d30b659d94bef029314dd8bef2fd3", null ],
     [ "args", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#ab65a1cfe05166d06195718a9587d7b86", null ],
-    [ "dest_path_with_suffix", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a411872c6258bddcb7e362436f8a5cb17", null ],
-    [ "existing_game_dir", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a110d91972d3ee4786819790c47f18547", null ],
-    [ "game_moving", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a22bdf66fe16cdab4361554ff908ae7a0", null ],
     [ "image", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a42cb5f5737262947250c709931232c69", null ],
-    [ "image_manager", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aee5f66b42f4c40d2fbb8ee5c2aa32b8c", null ],
-    [ "is_moving", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aa1c38a30e0e6731d76614b509d6ab8b6", null ],
-    [ "move_action", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a91e93a2333778421af5176820825e1db", null ],
     [ "move_game_pop_up", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a540e4d6f618099611158a9f85f3b49c0", null ],
     [ "rcore", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a1d6ec79bbcf8bfd8b30c3e5be0b67f34", null ],
     [ "rgame", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a29f3c8f8d4ae84548a9e5b962851f8a0", null ],
-    [ "signals", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a0de0a2c91773619dac1660c29940c55e", null ],
-    [ "ui", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#ac492f8de2d00b6c4282e766bfadaf2e7", null ],
-    [ "verify_pool", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a2e7414302d472945cc6670e1cdb01bdf", null ]
+    [ "steam_grade_ratings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#afa2b5e28d4bdac9d3b7877b8211c608f", null ],
+    [ "ui", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#ac492f8de2d00b6c4282e766bfadaf2e7", null ]
 ];
