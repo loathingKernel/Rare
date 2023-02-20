@@ -74,17 +74,17 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1utils_1_1extra__widgets_1_1_side_tab_bar.html#ad0dbab7bd24945a905fb1bc8883b7cab" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="866,-352.5 866,-382.5 984,-382.5 984,-352.5 866,-352.5"/>
-<text text-anchor="start" x="874" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.extra_widgets.</text>
-<text text-anchor="middle" x="925" y="-359.5" font-family="Helvetica,sans-Serif" font-size="10.00">SideTabBar.paintEvent</text>
+<g id="a_node6"><a xlink:href="classrare_1_1widgets_1_1side__tab_1_1_side_tab_bar.html#ad0dbab7bd24945a905fb1bc8883b7cab" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="860,-352.5 860,-382.5 990,-382.5 990,-352.5 860,-352.5"/>
+<text text-anchor="start" x="868" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.side_tab.Side</text>
+<text text-anchor="middle" x="925" y="-359.5" font-family="Helvetica,sans-Serif" font-size="10.00">TabBar.paintEvent</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge10" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M1065.39,-295.82C1055.52,-310.57 1039.76,-330.72 1021,-342.5 1009.88,-349.48 996.85,-354.53 984.07,-358.17"/>
+<path fill="none" stroke="midnightblue" d="M1065.39,-295.82C1055.52,-310.57 1039.76,-330.72 1021,-342.5 1011.61,-348.4 1000.87,-352.91 990.06,-356.36"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1068.56,-297.36 1071,-287.05 1062.66,-293.59 1068.56,-297.36"/>
 </g>
 <!-- Node7 -->

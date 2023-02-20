@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['icon_0',['icon',['../classrare_1_1utils_1_1extra__widgets_1_1_select_view_widget.html#ab9a4ee1d2573eda27b3a4c345340d4dc',1,'rare.utils.extra_widgets.SelectViewWidget.icon()'],['../namespacerare_1_1utils_1_1misc.html#a5b215592bbad86ea6d2c3b46280baae8',1,'rare.utils.misc.icon()'],['../classrare_1_1utils_1_1extra__widgets_1_1_path_edit_icon_provider.html#a3b6e99c95d9888e504dca3e2d1425d30',1,'rare.utils.extra_widgets.PathEditIconProvider.icon()']]],
+  ['icon_0',['icon',['../classrare_1_1widgets_1_1indicator__edit_1_1_path_edit_icon_provider.html#a3b6e99c95d9888e504dca3e2d1425d30',1,'rare.widgets.indicator_edit.PathEditIconProvider.icon()'],['../namespacerare_1_1utils_1_1misc.html#a5b215592bbad86ea6d2c3b46280baae8',1,'rare.utils.misc.icon()'],['../classrare_1_1utils_1_1extra__widgets_1_1_select_view_widget.html#ab9a4ee1d2573eda27b3a4c345340d4dc',1,'rare.utils.extra_widgets.SelectViewWidget.icon()']]],
   ['image_5fdir_1',['image_dir',['../namespacerare_1_1utils_1_1paths.html#ada300860b11ac604daaa4afc32f76fb7',1,'rare::utils::paths']]],
   ['image_5fmanager_2',['image_manager',['../classrare_1_1shared_1_1rare__core_1_1_rare_core.html#af626fd87a4280875286ed304d4270f61',1,'rare::shared::rare_core::RareCore']]],
   ['image_5fready_3',['image_ready',['../classrare_1_1utils_1_1extra__widgets_1_1_image_label.html#a29f0251454b3bdbf53b196a41cfb5c44',1,'rare::utils::extra_widgets::ImageLabel']]],

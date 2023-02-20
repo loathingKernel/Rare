@@ -43,18 +43,18 @@
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="classrare_1_1utils_1_1extra__widgets_1_1_indicator_line_edit.html#a515301de038623ad26ce41cedb7ed052" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="140.98,-13.5 140.98,-43.5 258.98,-43.5 258.98,-13.5 140.98,-13.5"/>
-<text text-anchor="start" x="148.98" y="-31.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.extra_widgets.</text>
-<text text-anchor="middle" x="199.98" y="-20.5" font-family="Helvetica,sans-Serif" font-size="10.00">IndicatorLineEdit.text</text>
+<g id="a_node10"><a xlink:href="classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#a515301de038623ad26ce41cedb7ed052" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="134.48,-13.5 134.48,-43.5 265.48,-43.5 265.48,-13.5 134.48,-13.5"/>
+<text text-anchor="start" x="142.48" y="-31.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.indicator</text>
+<text text-anchor="middle" x="199.98" y="-20.5" font-family="Helvetica,sans-Serif" font-size="10.00">_edit.IndicatorLineEdit.text</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node10 -->
 <g id="edge19" class="edge">
 <title>Node1&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M53.67,-57.39C73.02,-53.54 103.02,-47.58 130.75,-42.06"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="131.71,-45.44 140.84,-40.06 130.35,-38.58 131.71,-45.44"/>
+<path fill="none" stroke="midnightblue" d="M53.67,-57.39C71.55,-53.83 98.52,-48.47 124.39,-43.33"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="125.1,-46.76 134.23,-41.37 123.74,-39.89 125.1,-46.76"/>
 </g>
 <!-- Node2&#45;&gt;Node2 -->
 <g id="edge3" class="edge">

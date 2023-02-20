@@ -11,9 +11,9 @@
 <area shape="rect" id="node10" href="$classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog_1_1_ui___login_dialog.html" title=" " alt="" coords="141,968,251,995"/>
 <area shape="rect" id="node11" href="$classrare_1_1ui_1_1components_1_1dialogs_1_1sync__save__dialog_1_1_ui___sync_save_dialog.html" title=" " alt="" coords="127,309,265,336"/>
 <area shape="rect" id="node13" href="$classrare_1_1ui_1_1components_1_1extra_1_1console__env_1_1_ui___console_env.html" title=" " alt="" coords="141,1069,251,1096"/>
-<area shape="rect" id="node14" href="$classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1base__widget_1_1_ui___base_widget.html" title=" " alt="" coords="140,1120,252,1147"/>
-<area shape="rect" id="node15" href="$classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1download__widget_1_1_ui___download_widget.html" title=" " alt="" coords="127,1171,265,1197"/>
-<area shape="rect" id="node16" href="$classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1info__widget_1_1_ui___info_widget.html" title=" " alt="" coords="144,1221,248,1248"/>
+<area shape="rect" id="node14" href="$classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1download__widget_1_1_ui___download_widget.html" title=" " alt="" coords="127,1120,265,1147"/>
+<area shape="rect" id="node15" href="$classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__base__widget_1_1_ui___queue_base_widget.html" title=" " alt="" coords="121,1171,271,1197"/>
+<area shape="rect" id="node16" href="$classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__info__widget_1_1_ui___queue_info_widget.html" title=" " alt="" coords="125,1221,267,1248"/>
 <area shape="rect" id="node17" href="$classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_ui___game_dlc.html" title=" " alt="" coords="148,1272,244,1299"/>
 <area shape="rect" id="node18" href="$classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html" title=" " alt="" coords="128,1323,264,1349"/>
 <area shape="rect" id="node19" href="$classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html" title=" " alt="" coords="147,1373,245,1400"/>
@@ -100,7 +100,7 @@
 <area shape="rect" id="node99" title=" " alt="" coords="160,1424,232,1451"/>
 <area shape="rect" id="node100" href="$classrare_1_1components_1_1tabs_1_1account_1_1_account_widget.html" title=" " alt="" coords="349,1272,459,1299"/>
 <area shape="rect" id="node101" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html" title=" " alt="" coords="350,1323,458,1349"/>
-<area shape="rect" id="node102" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_info_widget.html" title=" " alt="" coords="362,1373,446,1400"/>
+<area shape="rect" id="node102" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_queue_info_widget.html" title=" " alt="" coords="343,1373,465,1400"/>
 <area shape="rect" id="node103" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html" title=" " alt="" coords="365,1424,443,1451"/>
 <area shape="rect" id="node104" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_game_pop_up.html" title=" " alt="" coords="339,715,469,741"/>
 <area shape="rect" id="node105" href="$classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_game_list_head_bar.html" title=" " alt="" coords="339,765,469,792"/>
@@ -109,14 +109,14 @@
 <area shape="rect" id="node108" href="$classrare_1_1components_1_1tabs_1_1settings_1_1debug_1_1_debug_settings.html" title=" " alt="" coords="351,917,457,944"/>
 <area shape="rect" id="node109" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_container.html" title=" " alt="" coords="341,968,467,995"/>
 <area shape="rect" id="node110" href="$classrare_1_1components_1_1tabs_1_1shop_1_1game__widgets_1_1_game_widget.html" title=" " alt="" coords="355,1019,453,1045"/>
-<area shape="rect" id="node111" href="$classrare_1_1utils_1_1extra__widgets_1_1_indicator_line_edit.html" title=" " alt="" coords="345,1069,463,1096"/>
-<area shape="rect" id="node113" href="$classrare_1_1utils_1_1extra__widgets_1_1_select_view_widget.html" title=" " alt="" coords="340,1120,468,1147"/>
-<area shape="rect" id="node114" href="$classrare_1_1utils_1_1extra__widgets_1_1_side_tab_container.html" title=" " alt="" coords="341,1171,467,1197"/>
-<area shape="rect" id="node115" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html" title=" " alt="" coords="355,1221,453,1248"/>
-<area shape="rect" id="node112" href="$classrare_1_1utils_1_1extra__widgets_1_1_path_edit.html" title=" " alt="" coords="576,1069,647,1096"/>
-<area shape="rect" id="node116" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1download_1_1_download_widget.html" title=" " alt="" coords="552,1196,671,1223"/>
-<area shape="rect" id="node117" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html" title=" " alt="" coords="561,1247,662,1273"/>
-<area shape="rect" id="node118" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html" title=" " alt="" coords="744,1247,841,1273"/>
-<area shape="rect" id="node119" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget_1_1_icon_game_widget.html" title=" " alt="" coords="889,1221,1012,1248"/>
-<area shape="rect" id="node120" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html" title=" " alt="" coords="891,1272,1010,1299"/>
+<area shape="rect" id="node111" href="$classrare_1_1utils_1_1extra__widgets_1_1_select_view_widget.html" title=" " alt="" coords="340,1069,468,1096"/>
+<area shape="rect" id="node112" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html" title=" " alt="" coords="355,1120,453,1147"/>
+<area shape="rect" id="node118" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html" title=" " alt="" coords="345,1171,463,1197"/>
+<area shape="rect" id="node120" href="$classrare_1_1widgets_1_1side__tab_1_1_side_tab_container.html" title=" " alt="" coords="341,1221,467,1248"/>
+<area shape="rect" id="node113" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1download_1_1_download_widget.html" title=" " alt="" coords="552,1069,671,1096"/>
+<area shape="rect" id="node114" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html" title=" " alt="" coords="561,1120,662,1147"/>
+<area shape="rect" id="node115" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html" title=" " alt="" coords="744,1120,841,1147"/>
+<area shape="rect" id="node116" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget_1_1_icon_game_widget.html" title=" " alt="" coords="889,1095,1012,1121"/>
+<area shape="rect" id="node117" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html" title=" " alt="" coords="891,1145,1010,1172"/>
+<area shape="rect" id="node119" href="$classrare_1_1widgets_1_1indicator__edit_1_1_path_edit.html" title=" " alt="" coords="576,1171,647,1197"/>
 </map>

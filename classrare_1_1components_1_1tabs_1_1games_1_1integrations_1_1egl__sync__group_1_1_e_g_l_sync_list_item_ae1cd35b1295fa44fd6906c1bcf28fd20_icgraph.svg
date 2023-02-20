@@ -95,10 +95,10 @@ var sectionId = 'dynsection-9';
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1utils_1_1extra__widgets_1_1_side_tab_container.html#a91ab0752374c3f97048137450dd3f146" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="280,-246.5 280,-276.5 408,-276.5 408,-246.5 280,-246.5"/>
-<text text-anchor="start" x="288" y="-264.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.extra_widgets.</text>
-<text text-anchor="middle" x="344" y="-253.5" font-family="Helvetica,sans-Serif" font-size="10.00">SideTabContainer.setTitle</text>
+<g id="a_node3"><a xlink:href="classrare_1_1widgets_1_1side__tab_1_1_side_tab_container.html#a91ab0752374c3f97048137450dd3f146" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="279,-246.5 279,-276.5 409,-276.5 409,-246.5 279,-246.5"/>
+<text text-anchor="start" x="287" y="-264.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.side_tab.Side</text>
+<text text-anchor="middle" x="344" y="-253.5" font-family="Helvetica,sans-Serif" font-size="10.00">TabContainer.setTitle</text>
 </a>
 </g>
 </g>
@@ -191,8 +191,8 @@ var sectionId = 'dynsection-9';
 <!-- Node3&#45;&gt;Node7 -->
 <g id="edge10" class="edge">
 <title>Node3&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M269.85,-272.34C252.33,-274.93 233.31,-277.75 214.76,-280.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="270.61,-275.76 279.98,-270.84 269.58,-268.84 270.61,-275.76"/>
+<path fill="none" stroke="midnightblue" d="M268.85,-272.48C251.72,-275.02 233.21,-277.77 215.13,-280.44"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="269.39,-275.94 278.77,-271.02 268.36,-269.02 269.39,-275.94"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
@@ -207,8 +207,8 @@ var sectionId = 'dynsection-9';
 <!-- Node3&#45;&gt;Node8 -->
 <g id="edge12" class="edge">
 <title>Node3&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M269.79,-250.97C253.11,-248.57 235.08,-245.98 217.39,-243.44"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="269.59,-254.48 279.98,-252.44 270.58,-247.55 269.59,-254.48"/>
+<path fill="none" stroke="midnightblue" d="M268.73,-250.82C252.32,-248.46 234.65,-245.92 217.31,-243.43"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="268.37,-254.3 278.77,-252.26 269.37,-247.38 268.37,-254.3"/>
 </g>
 <!-- Node9 -->
 <g id="node9" class="node">

@@ -56,7 +56,7 @@ var annotated_dup =
               [ "DlThread", "classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html", "classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread" ]
             ] ],
             [ "widgets", "namespacerare_1_1components_1_1tabs_1_1downloads_1_1widgets.html", [
-              [ "InfoWidget", "classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_info_widget.html", "classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_info_widget" ],
+              [ "QueueInfoWidget", "classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_queue_info_widget.html", "classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_queue_info_widget" ],
               [ "QueueWidget", "classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_queue_widget.html", "classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_queue_widget" ],
               [ "UpdateWidget", "classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_update_widget.html", "classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_update_widget" ]
             ] ],
@@ -77,7 +77,8 @@ var annotated_dup =
                 [ "GameSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings" ]
               ] ],
               [ "move_game", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game.html", [
-                [ "MoveGamePopUp", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_game_pop_up.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_game_pop_up" ]
+                [ "MoveGamePopUp", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_game_pop_up.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_game_pop_up" ],
+                [ "MovePathEditReasons", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_path_edit_reasons.html", null ]
               ] ],
               [ "GameInfoTabs", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs" ],
               [ "GameMetadataView", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_metadata_view.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_metadata_view" ]
@@ -410,14 +411,14 @@ var annotated_dup =
           ] ],
           [ "tabs", "namespacerare_1_1ui_1_1components_1_1tabs.html", [
             [ "downloads", "namespacerare_1_1ui_1_1components_1_1tabs_1_1downloads.html", [
-              [ "base_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1base__widget.html", [
-                [ "Ui_BaseWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1base__widget_1_1_ui___base_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1base__widget_1_1_ui___base_widget" ]
-              ] ],
               [ "download_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1download__widget.html", [
                 [ "Ui_DownloadWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1download__widget_1_1_ui___download_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1download__widget_1_1_ui___download_widget" ]
               ] ],
-              [ "info_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1info__widget.html", [
-                [ "Ui_InfoWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1info__widget_1_1_ui___info_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1info__widget_1_1_ui___info_widget" ]
+              [ "queue_base_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__base__widget.html", [
+                [ "Ui_QueueBaseWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__base__widget_1_1_ui___queue_base_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__base__widget_1_1_ui___queue_base_widget" ]
+              ] ],
+              [ "queue_info_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__info__widget.html", [
+                [ "Ui_QueueInfoWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__info__widget_1_1_ui___queue_info_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__info__widget_1_1_ui___queue_info_widget" ]
               ] ]
             ] ],
             [ "games", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games.html", [
@@ -510,14 +511,7 @@ var annotated_dup =
         [ "extra_widgets", "namespacerare_1_1utils_1_1extra__widgets.html", [
           [ "ButtonLineEdit", "classrare_1_1utils_1_1extra__widgets_1_1_button_line_edit.html", "classrare_1_1utils_1_1extra__widgets_1_1_button_line_edit" ],
           [ "ImageLabel", "classrare_1_1utils_1_1extra__widgets_1_1_image_label.html", "classrare_1_1utils_1_1extra__widgets_1_1_image_label" ],
-          [ "IndicatorLineEdit", "classrare_1_1utils_1_1extra__widgets_1_1_indicator_line_edit.html", "classrare_1_1utils_1_1extra__widgets_1_1_indicator_line_edit" ],
-          [ "IndicatorReasons", "classrare_1_1utils_1_1extra__widgets_1_1_indicator_reasons.html", null ],
-          [ "PathEdit", "classrare_1_1utils_1_1extra__widgets_1_1_path_edit.html", "classrare_1_1utils_1_1extra__widgets_1_1_path_edit" ],
-          [ "PathEditIconProvider", "classrare_1_1utils_1_1extra__widgets_1_1_path_edit_icon_provider.html", "classrare_1_1utils_1_1extra__widgets_1_1_path_edit_icon_provider" ],
           [ "SelectViewWidget", "classrare_1_1utils_1_1extra__widgets_1_1_select_view_widget.html", "classrare_1_1utils_1_1extra__widgets_1_1_select_view_widget" ],
-          [ "SideTabBar", "classrare_1_1utils_1_1extra__widgets_1_1_side_tab_bar.html", "classrare_1_1utils_1_1extra__widgets_1_1_side_tab_bar" ],
-          [ "SideTabContainer", "classrare_1_1utils_1_1extra__widgets_1_1_side_tab_container.html", "classrare_1_1utils_1_1extra__widgets_1_1_side_tab_container" ],
-          [ "SideTabWidget", "classrare_1_1utils_1_1extra__widgets_1_1_side_tab_widget.html", "classrare_1_1utils_1_1extra__widgets_1_1_side_tab_widget" ],
           [ "WaitingSpinner", "classrare_1_1utils_1_1extra__widgets_1_1_waiting_spinner.html", "classrare_1_1utils_1_1extra__widgets_1_1_waiting_spinner" ]
         ] ],
         [ "json_formatter", "namespacerare_1_1utils_1_1json__formatter.html", [
@@ -554,11 +548,25 @@ var annotated_dup =
         [ "image_widget", "namespacerare_1_1widgets_1_1image__widget.html", [
           [ "ImageWidget", "classrare_1_1widgets_1_1image__widget_1_1_image_widget.html", "classrare_1_1widgets_1_1image__widget_1_1_image_widget" ]
         ] ],
+        [ "indicator_edit", "namespacerare_1_1widgets_1_1indicator__edit.html", [
+          [ "EditFuncRunnable", "classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable.html", "classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable" ],
+          [ "IndicatorLineEdit", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit" ],
+          [ "IndicatorReasons", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons.html", null ],
+          [ "IndicatorReasonsCommon", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_common.html", null ],
+          [ "IndicatorReasonsStrings", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_strings.html", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_strings" ],
+          [ "PathEdit", "classrare_1_1widgets_1_1indicator__edit_1_1_path_edit.html", "classrare_1_1widgets_1_1indicator__edit_1_1_path_edit" ],
+          [ "PathEditIconProvider", "classrare_1_1widgets_1_1indicator__edit_1_1_path_edit_icon_provider.html", "classrare_1_1widgets_1_1indicator__edit_1_1_path_edit_icon_provider" ]
+        ] ],
         [ "library_layout", "namespacerare_1_1widgets_1_1library__layout.html", [
           [ "LibraryLayout", "classrare_1_1widgets_1_1library__layout_1_1_library_layout.html", "classrare_1_1widgets_1_1library__layout_1_1_library_layout" ]
         ] ],
         [ "rare_app", "namespacerare_1_1widgets_1_1rare__app.html", [
           [ "RareApp", "classrare_1_1widgets_1_1rare__app_1_1_rare_app.html", "classrare_1_1widgets_1_1rare__app_1_1_rare_app" ]
+        ] ],
+        [ "side_tab", "namespacerare_1_1widgets_1_1side__tab.html", [
+          [ "SideTabBar", "classrare_1_1widgets_1_1side__tab_1_1_side_tab_bar.html", "classrare_1_1widgets_1_1side__tab_1_1_side_tab_bar" ],
+          [ "SideTabContainer", "classrare_1_1widgets_1_1side__tab_1_1_side_tab_container.html", "classrare_1_1widgets_1_1side__tab_1_1_side_tab_container" ],
+          [ "SideTabWidget", "classrare_1_1widgets_1_1side__tab_1_1_side_tab_widget.html", "classrare_1_1widgets_1_1side__tab_1_1_side_tab_widget" ]
         ] ],
         [ "sliding_stack", "namespacerare_1_1widgets_1_1sliding__stack.html", [
           [ "SlidingStackedWidget", "classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html", "classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget" ]

@@ -27,10 +27,10 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1utils_1_1extra__widgets_1_1_side_tab_container.html#a91ab0752374c3f97048137450dd3f146" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="96.91,-100.5 96.91,-130.5 224.91,-130.5 224.91,-100.5 96.91,-100.5"/>
-<text text-anchor="start" x="104.91" y="-118.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.extra_widgets.</text>
-<text text-anchor="middle" x="160.91" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">SideTabContainer.setTitle</text>
+<g id="a_node2"><a xlink:href="classrare_1_1widgets_1_1side__tab_1_1_side_tab_container.html#a91ab0752374c3f97048137450dd3f146" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="95.91,-100.5 95.91,-130.5 225.91,-130.5 225.91,-100.5 95.91,-100.5"/>
+<text text-anchor="start" x="103.91" y="-118.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.side_tab.Side</text>
+<text text-anchor="middle" x="160.91" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">TabContainer.setTitle</text>
 </a>
 </g>
 </g>
@@ -75,8 +75,8 @@
 <!-- Node2&#45;&gt;Node3 -->
 <g id="edge4" class="edge">
 <title>Node2&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M224.94,-115.5C236.62,-115.5 248.97,-115.5 261.08,-115.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="261.18,-119 271.18,-115.5 261.18,-112 261.18,-119"/>
+<path fill="none" stroke="midnightblue" d="M225.95,-115.5C237.32,-115.5 249.29,-115.5 261.05,-115.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="261.3,-119 271.3,-115.5 261.3,-112 261.3,-119"/>
 </g>
 <!-- Node3&#45;&gt;Node3 -->
 <g id="edge15" class="edge">

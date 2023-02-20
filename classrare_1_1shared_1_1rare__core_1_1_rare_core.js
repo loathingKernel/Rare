@@ -14,7 +14,7 @@ var classrare_1_1shared_1_1rare__core_1_1_rare_core =
     [ "game_list", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#ac4a25c947b93e07b68dd8ac7d1f17f5f", null ],
     [ "games", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a8b6d96777b61ca0df458868188d67107", null ],
     [ "games_and_dlcs", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a844056ea6564ca86dbcb79b8c5c53302", null ],
-    [ "get_game", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a3f6890f4f6275235e83a337a0009dbf7", null ],
+    [ "get_game", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a79c176b5faed55afa14f43bf9096caf5", null ],
     [ "has_dlcs", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a3d354988ea83f08f931189c011b196c1", null ],
     [ "has_saves", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a68395f7577f6b1a63a7a62dbf1a4c6d0", null ],
     [ "image_manager", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#af626fd87a4280875286ed304d4270f61", null ],

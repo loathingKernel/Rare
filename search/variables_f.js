@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['padding_0',['padding',['../classrare_1_1utils_1_1extra__widgets_1_1_side_tab_bar.html#a617e63465d49ca090d265e7030dd1296',1,'rare::utils::extra_widgets::SideTabBar']]],
+  ['padding_0',['padding',['../classrare_1_1widgets_1_1side__tab_1_1_side_tab_bar.html#a617e63465d49ca090d265e7030dd1296',1,'rare::widgets::side_tab::SideTabBar']]],
   ['page_1',['page',['../classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist.html#a05430e67d4ad4dc578863c9d0c4fdd3f',1,'rare::ui::components::tabs::store::wishlist::Ui_Wishlist']]],
   ['pages_2',['pages',['../classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#a498d041f9402a250ae456764e4506fb0',1,'rare::components::dialogs::login::LoginDialog']]],
   ['paint_5fimage_3',['paint_image',['../classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#a972b95cebec03ef0e711ac4ece44c921',1,'rare::widgets::image_widget::ImageWidget']]],
@@ -10,7 +10,7 @@ var searchData=
   ['path_5fedit_7',['path_edit',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_game_pop_up.html#a2a393c83c8590532e6394a249446c204',1,'rare.components.tabs.games.game_info.move_game.MoveGamePopUp.path_edit()'],['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#a2a393c83c8590532e6394a249446c204',1,'rare.components.tabs.games.integrations.import_group.ImportGroup.path_edit()']]],
   ['path_5fedit_5flabel_8',['path_edit_label',['../classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_ui___import_group.html#ab595b3a09d61e8606a4a686262cf8aee',1,'rare::ui::components::tabs::games::integrations::import_group::Ui_ImportGroup']]],
   ['path_5fedit_5flayout_9',['path_edit_layout',['../classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_ui___import_group.html#af4e6562b365b8e154d5c338342ccead6',1,'rare::ui::components::tabs::games::integrations::import_group::Ui_ImportGroup']]],
-  ['path_5fselect_10',['path_select',['../classrare_1_1ui_1_1utils_1_1pathedit_1_1_ui___path_edit.html#a09d95e895cd981b8dff6b689a0ad566d',1,'rare.ui.utils.pathedit.Ui_PathEdit.path_select()'],['../classrare_1_1utils_1_1extra__widgets_1_1_path_edit.html#a09d95e895cd981b8dff6b689a0ad566d',1,'rare.utils.extra_widgets.PathEdit.path_select()']]],
+  ['path_5fselect_10',['path_select',['../classrare_1_1ui_1_1utils_1_1pathedit_1_1_ui___path_edit.html#a09d95e895cd981b8dff6b689a0ad566d',1,'rare.ui.utils.pathedit.Ui_PathEdit.path_select()'],['../classrare_1_1widgets_1_1indicator__edit_1_1_path_edit.html#a09d95e895cd981b8dff6b689a0ad566d',1,'rare.widgets.indicator_edit.PathEdit.path_select()']]],
   ['pathedit_11',['PathEdit',['../namespacerare_1_1ui_1_1utils_1_1pathedit.html#a514a837c880830fc5090e5084ba61bc6',1,'rare::ui::utils::pathedit']]],
   ['pixmap_12',['pixmap',['../classrare_1_1models_1_1game_1_1_rare_game.html#acffa85dc875ba8bc4c40e81486b82b47',1,'rare::models::game::RareGame']]],
   ['platform_13',['platform',['../classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#adc3a21ccb616231a81529950cab007f4',1,'rare::ui::components::tabs::games::game_info::game_info::Ui_GameInfo']]],

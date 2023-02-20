@@ -10,6 +10,6 @@ var searchData=
   ['on_5fworker_5fresult_7',['on_worker_result',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a64dd35f139577016bc6417719d65d969',1,'rare::components::dialogs::install_dialog::InstallDialog']]],
   ['open_5fbrowser_8',['open_browser',['../classrare_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_browser_login.html#a86308e9b1d58a4dc965ba3fdb3769bc3',1,'rare::components::dialogs::login::browser_login::BrowserLogin']]],
   ['open_5fdir_9',['open_dir',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#aa0cf5bfa7b037eb698860e0a32da24d8',1,'rare::components::tabs::settings::rare::RareSettings']]],
-  ['option_5fchanged_10',['option_changed',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aa51e6226cd56f521d72412361aba31ec',1,'rare::components::dialogs::install_dialog::InstallDialog']]],
+  ['option_5fchanged_10',['option_changed',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#abdfe46421b60f1ef4e6ccc5d2b9a1395',1,'rare::components::dialogs::install_dialog::InstallDialog']]],
   ['overlay_5finstallation_5ffinished_11',['overlay_installation_finished',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html#a871a7af4a00cedf7965270c7bff34cca',1,'rare::components::tabs::games::integrations::eos_group::EOSGroup']]]
 ];

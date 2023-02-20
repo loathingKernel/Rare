@@ -36,6 +36,6 @@ var searchData=
   ['wrappersettings_33',['WrapperSettings',['../namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper.html#a30fec76c459b89b8cc2266a3429751e5',1,'rare::ui::components::tabs::settings::widgets::wrapper']]],
   ['writer_5fqueue_34',['writer_queue',['../classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#a415e80ea19aed08747b8b9c98178877b',1,'rare::lgndr::downloader::mp::manager::DLManager']]],
   ['writer_5fresult_5fq_35',['writer_result_q',['../classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#ad27dd13bc030d8aa5c9cb90de4376f09',1,'rare::lgndr::downloader::mp::manager::DLManager']]],
-  ['wrong_5fformat_36',['wrong_format',['../classrare_1_1utils_1_1extra__widgets_1_1_indicator_reasons.html#aeca05a3c94d401c1b6ec58cbf48d0252',1,'rare::utils::extra_widgets::IndicatorReasons']]],
-  ['wrong_5fpath_37',['wrong_path',['../classrare_1_1utils_1_1extra__widgets_1_1_indicator_reasons.html#a36c50c65a22a2bd5ba82807229a88dbc',1,'rare::utils::extra_widgets::IndicatorReasons']]]
+  ['wrong_5fformat_36',['WRONG_FORMAT',['../classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_common.html#ad40688c2c1a7f1e7e27509e1cd3c6380',1,'rare::widgets::indicator_edit::IndicatorReasonsCommon']]],
+  ['wrong_5fpath_37',['WRONG_PATH',['../classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_common.html#ad601c25b317a2e79109381adfe91160f',1,'rare::widgets::indicator_edit::IndicatorReasonsCommon']]]
 ];
