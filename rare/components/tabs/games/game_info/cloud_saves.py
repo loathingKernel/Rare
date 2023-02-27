@@ -13,11 +13,12 @@ from rare.ui.components.tabs.games.game_info.cloud_widget import Ui_CloudWidget
 from rare.ui.components.tabs.games.game_info.sync_widget import Ui_SyncWidget
 from rare.utils.misc import icon, get_raw_save_path
 from rare.widgets.indicator_edit import PathEdit, IndicatorReasonsCommon
+from rare.widgets.side_tab import SideTabContents
 
 logger = getLogger("CloudWidget")
 
 
-class CloudSaveTab(QStackedWidget):
+class CloudSaveTab(QStackedWidget, SideTabContents):
     def __init__(self, parent=None):
         super().__init__(parent=parent)
         self.main_widget = QWidget()
@@ -160,14 +161,16 @@ class CloudSaveTab(QStackedWidget):
     def update_game(self, rgame: RareGame):
         if self.rgame:
             self.rgame.signals.widget.update.disconnect(self.state_update)
+
         self.rgame = rgame
-        self.title.setTitle(rgame.title)
+
+        self.set_title.emit(rgame.title)
+        self.rgame.signals.widget.update.connect(self.state_update)
         if not rgame.igame or not rgame.game.supports_cloud_saves:
             self.setCurrentIndex(1)
             self.setDisabled(True)
             return
 
-        self.rgame.signals.widget.update.connect(self.state_update)
         self.change = False
         self.setDisabled(False)
         self.setCurrentIndex(0)

@@ -13,9 +13,10 @@ from rare.lgndr.core import LegendaryCore
 from rare.models.apiresults import ApiResults
 from rare.models.game import RareGame, RareEosOverlay
 from rare.models.signals import GlobalSignals
-from .workers import QueueWorker, VerifyWorker, MoveWorker
 from .image_manager import ImageManager
+from .workers import QueueWorker, VerifyWorker, MoveWorker
 from .workers.worker import QueueWorkerInfo, QueueWorkerState
+from ..models.base_game import RareGameBase
 
 logger = getLogger("RareCore")
 

@@ -19,7 +19,7 @@ from rare.models.launcher import ErrorModel, Actions, FinishedModel, BaseModel, 
 from rare.widgets.rare_app import RareApp
 from .console import Console
 from .lgd_helper import get_launch_args, InitArgs, get_configured_process, LaunchArgs, GameArgsError
-
+from ..models.base_game import RareGameSlim
 
 logger = logging.getLogger("RareLauncher")
 
@@ -84,8 +84,8 @@ class GameProcessApp(RareApp):
         self.core = LegendaryCore()
         self.args = args
 
-        # game = self.core.get_game(self.app_name)
-        # self.rgame = RareGame(self.core, None, game)
+        game = self.core.get_game(self.app_name)
+        self.rgame = RareGameSlim(self.core, game)
 
         lang = self.settings.value("language", self.core.language_code, type=str)
         self.load_translator(lang)
@@ -103,7 +103,6 @@ class GameProcessApp(RareApp):
             self.success = False
             return
         self.server.newConnection.connect(self.new_server_connection)
-
         self.game_process.finished.connect(self.game_finished)
         self.game_process.errorOccurred.connect(
             lambda err: self.error_occurred(self.game_process.errorString()))
@@ -200,8 +199,8 @@ class GameProcessApp(RareApp):
                 self.console.log(f"Do not start {self.app_name}")
                 self.console.accept_close = True
             print(args.executable, " ".join(args.args))
-
             self.stop()
+            return
         self.game_process.start(args.executable, args.args)
 
     def error_occurred(self, error_str: str):
