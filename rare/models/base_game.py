@@ -6,7 +6,7 @@ from enum import IntEnum
 from logging import getLogger
 from typing import Optional, List
 
-from PyQt5.QtCore import QObject, pyqtSignal, QRunnable, QThreadPool
+from PyQt5.QtCore import QObject, pyqtSignal, QRunnable, QThreadPool, QSettings
 from legendary.models.game import SaveGameFile, SaveGameStatus, Game, InstalledGame
 
 from rare.lgndr.core import LegendaryCore
@@ -207,6 +207,10 @@ class RareGameSlim(RareGameBase):
             QThreadPool.globalInstance().start(worker)
         else:
             _download()
+
+    @property
+    def auto_sync_saves(self):
+        return self.game.supports_cloud_saves and QSettings().value(f"{self.app_name}/auto_sync_cloud", True, bool)
 
     def update_savefile(self):
         saves = self.core.get_save_games(self.app_name)
