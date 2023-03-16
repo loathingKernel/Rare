@@ -5,7 +5,7 @@ var classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings =
     [ "create_desktop_link", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#acbdecb0ebee6bfdd06b50d506b83dc8f", null ],
     [ "create_start_menu_link", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#ab6bc55b1a41c05573f50beb1dbd55788", null ],
     [ "init_checkboxes", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#ae12fd6fae303f16bfb139ed7a3f9095a", null ],
-    [ "on_color_select_changed", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a4f071387917e3f46b8a5091e2bfbbb6c", null ],
+    [ "on_color_select_changed", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a90cb3001f3434da6e78215b640255d50", null ],
     [ "on_style_select_changed", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a89311b671a3e7f2390af32d7a6dcca9f", null ],
     [ "open_dir", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#aa0cf5bfa7b037eb698860e0a32da24d8", null ],
     [ "save_window_size", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#ae1e82c979fe6d0632f0d2af69fac13db", null ],

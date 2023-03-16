@@ -9,5 +9,6 @@ var classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_
     [ "changeable", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#ad4d6fca703b0cd593e7383d465861016", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "possible_proton_combos", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#ac7077ca407292ca6a0e7a83c295a0bb8", null ],
-    [ "proton_prefix", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#ae657da7d63f3cb88fdcb35e38bacd427", null ]
+    [ "proton_prefix", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#ae657da7d63f3cb88fdcb35e38bacd427", null ],
+    [ "ui", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#ac492f8de2d00b6c4282e766bfadaf2e7", null ]
 ];

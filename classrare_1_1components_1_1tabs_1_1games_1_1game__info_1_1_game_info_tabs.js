@@ -4,6 +4,8 @@ var classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs =
     [ "keyPressEvent", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#a38473d0107ff68c119a1eba5e50a10a6", null ],
     [ "update_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#a31df619d45c585656d938a0c09e9d115", null ],
     [ "args", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
+    [ "cloud_saves_index", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#a368e339a1ba675d984d3dc34f03402ef", null ],
+    [ "cloud_saves_tab", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#aa6db0c22d86278844839fd1f8e192b00", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "dlc_index", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#a7b26ff06d852ac3ffa370145d6b66fae", null ],
     [ "dlc_tab", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#a32d2123d2aba0cce60c76989b6d744f5", null ],

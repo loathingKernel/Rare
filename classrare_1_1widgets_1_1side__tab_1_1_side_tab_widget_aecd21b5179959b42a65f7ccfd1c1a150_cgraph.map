@@ -1,7 +1,6 @@
 <map id="__init__" name="__init__">
-<area shape="rect" id="node1" title=" " alt="" coords="6,104,73,131"/>
-<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1side__tab_1_1_side_tab_widget.html#a01a0cb9168b84779ed84d5c0870c4ba7" title=" " alt="" coords="190,29,255,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1side__tab_1_1_side_tab_widget.html#ae425e34e82f4b85be50e4d334bb75372" title=" " alt="" coords="181,104,264,131"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61" title=" " alt="" coords="121,179,324,221"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#a24f265d0ef5609d54a66b7915440d1fe" title=" " alt="" coords="372,97,566,138"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,67,72,93"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1side__tab_1_1_side_tab_widget.html#a2201807ac095a4fd54df2d0488e284f4" title=" " alt="" coords="129,29,194,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1side__tab_1_1_side_tab_widget.html#ae425e34e82f4b85be50e4d334bb75372" title=" " alt="" coords="120,104,203,131"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#a24f265d0ef5609d54a66b7915440d1fe" title=" " alt="" coords="251,97,445,138"/>
 </map>

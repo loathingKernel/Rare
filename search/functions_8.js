@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['handle_5fapi_5fworker_5fresult_0',['handle_api_worker_result',['../classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#aee4569ca4c897dc7267f45b238710288',1,'rare::components::dialogs::launch_dialog::LaunchDialog']]],
+  ['handle_5fresult_0',['handle_result',['../classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a557a283c60ff93bd049fc24fa25aab1d',1,'rare::shared::rare_core::RareCore']]],
   ['handle_5ftoggle_1',['handle_toggle',['../classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_check_box.html#a8b64389a338c017bf6d5987eda346be6',1,'rare::components::tabs::shop::shop_widget::CheckBox']]],
   ['handle_5fwishlist_5fupdate_2',['handle_wishlist_update',['../classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_shop_game_info.html#a7d2f9ef6ff9afb2d5ed07a5bfa4e3872',1,'rare::components::tabs::shop::game_info::ShopGameInfo']]],
   ['has_5fdlcs_3',['has_dlcs',['../classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a3d354988ea83f08f931189c011b196c1',1,'rare::shared::rare_core::RareCore']]],

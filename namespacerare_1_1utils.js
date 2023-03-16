@@ -43,5 +43,18 @@ var namespacerare_1_1utils =
       [ "load_json", "namespacerare_1_1utils_1_1steam__grades.html#a65145276c5b5f93556777b0f2f8ceb25", null ],
       [ "replace_chars", "namespacerare_1_1utils_1_1steam__grades.html#ad3b12806a1c6d2fafdf5b29368fc09c0", null ],
       [ "url", "namespacerare_1_1utils_1_1steam__grades.html#aa03c1ef4c41f36b048cf58d5aade7653", null ]
+    ] ],
+    [ "wine", "namespacerare_1_1utils_1_1wine.html", [
+      [ "convert_to_unix_path", "namespacerare_1_1utils_1_1wine.html#a0ca9787710984496cff10717662dd9de", null ],
+      [ "convert_to_windows_path", "namespacerare_1_1utils_1_1wine.html#adf66c193f1654c7ad9041458f7a182a9", null ],
+      [ "environ", "namespacerare_1_1utils_1_1wine.html#a3e0e44d0642fac15638667a61e26901f", null ],
+      [ "execute", "namespacerare_1_1utils_1_1wine.html#aad0b276c9033cf8ac39b51d056bb5f81", null ],
+      [ "prefix", "namespacerare_1_1utils_1_1wine.html#ab3d3500158ba432dc898bf9beda76c3b", null ],
+      [ "query_reg_key", "namespacerare_1_1utils_1_1wine.html#a18f894fe6b02cbb7c9434518fc422985", null ],
+      [ "query_reg_path", "namespacerare_1_1utils_1_1wine.html#aaada99a167fe1485b0b7b318de61eeb8", null ],
+      [ "read_registry", "namespacerare_1_1utils_1_1wine.html#ad20739cd9a8e0e58d212bae4af906c56", null ],
+      [ "resolve_path", "namespacerare_1_1utils_1_1wine.html#aabd62e8d7f67f2b36ee0a31582b751cf", null ],
+      [ "wine", "namespacerare_1_1utils_1_1wine.html#a70cb70a777b532d098a67807ec2eb581", null ],
+      [ "winepath", "namespacerare_1_1utils_1_1wine.html#a86d638709b956ceca1a005a10dc225c1", null ]
     ] ]
 ];

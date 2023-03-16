@@ -12,7 +12,6 @@ var classrare_1_1components_1_1tabs_1_1games_1_1_games_tab =
     [ "toggle_view", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a133e93b663ba0fe277649d67d97b4c6e", null ],
     [ "update_count_games_label", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a2efffcc49dcc1c9f2d26040e865a660b", null ],
     [ "active_filter", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a31a7e4a2d43a0a98984a4133a5a1416b", null ],
-    [ "api_results", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#ad7b20f7b4c7321a556850e4f68c1cea5", null ],
     [ "args", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "game_info_page", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#aae2902e5ed19967419cec96c770d466f", null ],

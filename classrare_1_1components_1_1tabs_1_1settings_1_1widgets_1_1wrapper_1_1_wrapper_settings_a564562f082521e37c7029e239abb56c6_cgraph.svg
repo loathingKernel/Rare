@@ -43,10 +43,10 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="118.53,-95 118.53,-125 260.53,-125 260.53,-95 118.53,-95"/>
-<text text-anchor="start" x="126.53" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareGame</text>
-<text text-anchor="middle" x="189.53" y="-102" font-family="Helvetica,sans-Serif" font-size="10.00">Base.app_name</text>
+<text text-anchor="start" x="126.53" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.base_game.Rare</text>
+<text text-anchor="middle" x="189.53" y="-102" font-family="Helvetica,sans-Serif" font-size="10.00">GameBase.app_name</text>
 </a>
 </g>
 </g>

@@ -1,14 +1,4 @@
 <map id="launch" name="launch">
-<area shape="rect" id="node1" title=" " alt="" coords="9,246,69,273"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4" title=" " alt="" coords="132,29,305,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="585,93,759,135"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#aef61a46ee0001482844bc4bd4a210663" title=" " alt="" coords="646,263,698,290"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#aee4569ca4c897dc7267f45b238710288" title=" " alt="" coords="368,181,537,207"/>
-<area shape="rect" id="node9" href="$namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" title=" " alt="" coords="404,261,501,287"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a56ebc7d291a804d91f54ac948321822d" title=" " alt="" coords="154,221,283,247"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61" title=" " alt="" coords="117,397,320,439"/>
-<area shape="rect" id="node12" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a06c4b536741879fff3171eae8160d5dc" title=" " alt="" coords="159,487,278,514"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aabbe79631981014e737e83fa4e978346" title=" " alt="" coords="823,173,997,215"/>
-<area shape="rect" id="node6" href="$namespacerare_1_1shared.html#a85c0c971674daed7d514febc1ef18eb2" title=" " alt="" coords="807,263,1013,290"/>
-<area shape="rect" id="node7" href="$classrare_1_1app_1_1_app.html#a00347c5912221be99bd702b4fc741d29" title=" " alt="" coords="835,338,985,365"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,29,65,56"/>
+<area shape="rect" id="node2" href="$classrare_1_1app_1_1_rare.html#a00347c5912221be99bd702b4fc741d29" title=" " alt="" coords="113,29,268,56"/>
 </map>

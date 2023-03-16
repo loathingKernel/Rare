@@ -1,9 +1,10 @@
 <map id="install_path" name="install_path">
-<area shape="rect" id="node1" title=" " alt="" coords="5,126,93,153"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1d41bab3b2d0fe0ab1275442aac0f74b" title=" " alt="" coords="149,51,237,78"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a7bc00fcfc3d4a34476d191b522f5bcec" title=" " alt="" coords="146,126,239,153"/>
-<area shape="rect" id="node7" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ae8eea7f05df591bbd18ba200690027f8" title=" " alt="" coords="141,201,244,227"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="292,29,571,71"/>
-<area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="337,119,526,160"/>
-<area shape="rect" id="node6" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="345,208,518,249"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,93,107"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ab4497a00f2030cf37a1005cd4a03db92" title=" " alt="" coords="144,29,232,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a278563422a00c7eb39dfc65d0b71f51a" title="Property to report if a Game is an Origin game." alt="" coords="387,29,457,56"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a7bc00fcfc3d4a34476d191b522f5bcec" title=" " alt="" coords="141,201,235,228"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="283,105,561,146"/>
+<area shape="rect" id="node6" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="327,194,517,235"/>
+<area shape="rect" id="node7" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="335,283,509,325"/>
+<area shape="rect" id="node8" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ae8eea7f05df591bbd18ba200690027f8" title=" " alt="" coords="371,373,473,400"/>
 </map>

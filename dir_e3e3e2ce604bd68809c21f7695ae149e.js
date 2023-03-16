@@ -8,7 +8,7 @@ var dir_e3e3e2ce604bd68809c21f7695ae149e =
     [ "debug.py", "debug_8py.html", [
       [ "DebugSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1debug_1_1_debug_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1debug_1_1_debug_settings" ]
     ] ],
-    [ "default_game_settings.py", "default__game__settings_8py.html", "default__game__settings_8py" ],
+    [ "game_settings.py", "components_2tabs_2settings_2game__settings_8py.html", "components_2tabs_2settings_2game__settings_8py" ],
     [ "legendary.py", "components_2tabs_2settings_2legendary_8py.html", "components_2tabs_2settings_2legendary_8py" ],
     [ "rare.py", "components_2tabs_2settings_2rare_8py.html", "components_2tabs_2settings_2rare_8py" ]
 ];

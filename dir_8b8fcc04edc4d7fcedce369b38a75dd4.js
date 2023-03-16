@@ -1,6 +1,7 @@
 var dir_8b8fcc04edc4d7fcedce369b38a75dd4 =
 [
     [ "__init__.py", "shared_2workers_2____init_____8py.html", null ],
+    [ "fetch.py", "fetch_8py.html", "fetch_8py" ],
     [ "install_info.py", "install__info_8py.html", "install__info_8py" ],
     [ "move.py", "move_8py.html", "move_8py" ],
     [ "uninstall.py", "uninstall_8py.html", "uninstall_8py" ],

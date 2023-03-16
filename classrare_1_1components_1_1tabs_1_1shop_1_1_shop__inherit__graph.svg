@@ -17,7 +17,7 @@
 <text text-anchor="middle" x="61.5" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">Shop</text>
 <polyline fill="none" stroke="black" points="0,-181.5 123,-181.5 "/>
 <text text-anchor="start" x="8" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="8" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ api_results</text>
+<text text-anchor="start" x="8" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
 <text text-anchor="start" x="8" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ api_core</text>
 <text text-anchor="start" x="8" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ shop</text>
 <text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wishlist_widget</text>

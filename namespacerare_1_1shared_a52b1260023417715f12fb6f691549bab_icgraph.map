@@ -1,7 +1,5 @@
 <map id="LegendaryCoreSingleton" name="LegendaryCoreSingleton">
-<area shape="rect" id="node1" title=" " alt="" coords="667,71,829,97"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1app.html#a938c7182b0c44921f1089bdfe1ec24eb" title=" " alt="" coords="409,29,546,56"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group.html#ab88008cbc1c148b0dbe5844c35b5f7ed" title=" " alt="" coords="336,105,619,146"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1game__launch__helper.html#a82c7246b0e4557e01f0dac14783baa38" title=" " alt="" coords="29,29,264,56"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html#ae51350a186f0277d85d4e0e7fd5a8518" title=" " alt="" coords="5,105,288,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="667,37,829,63"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group.html#ab88008cbc1c148b0dbe5844c35b5f7ed" title=" " alt="" coords="336,29,619,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html#ae51350a186f0277d85d4e0e7fd5a8518" title=" " alt="" coords="5,29,288,71"/>
 </map>

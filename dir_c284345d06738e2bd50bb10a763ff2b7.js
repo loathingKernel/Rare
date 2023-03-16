@@ -14,6 +14,7 @@ var dir_c284345d06738e2bd50bb10a763ff2b7 =
       [ "LibraryLayout", "classrare_1_1widgets_1_1library__layout_1_1_library_layout.html", "classrare_1_1widgets_1_1library__layout_1_1_library_layout" ]
     ] ],
     [ "rare_app.py", "rare__app_8py.html", [
+      [ "RareAppException", "classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html", "classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception" ],
       [ "RareApp", "classrare_1_1widgets_1_1rare__app_1_1_rare_app.html", "classrare_1_1widgets_1_1rare__app_1_1_rare_app" ]
     ] ],
     [ "side_tab.py", "side__tab_8py.html", "side__tab_8py" ],

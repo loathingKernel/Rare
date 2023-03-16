@@ -73,10 +73,10 @@ var sectionId = 'dynsection-7';
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game_base.html#a9d2c0ef8e0253d5f0d0bcf1f7ad80fa5" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a9d2c0ef8e0253d5f0d0bcf1f7ad80fa5" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="463,-139.5 463,-169.5 605,-169.5 605,-139.5 463,-139.5"/>
-<text text-anchor="start" x="471" y="-157.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareGame</text>
-<text text-anchor="middle" x="534" y="-146.5" font-family="Helvetica,sans-Serif" font-size="10.00">Base.title</text>
+<text text-anchor="start" x="471" y="-157.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.base_game.Rare</text>
+<text text-anchor="middle" x="534" y="-146.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameBase.title</text>
 </a>
 </g>
 </g>

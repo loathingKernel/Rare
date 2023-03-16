@@ -27,7 +27,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="namespacerare_1_1utils_1_1misc.html#ada2f7cd0a2a48cfcbc7a40c3b9dfc03c" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="namespacerare_1_1utils_1_1misc.html#a0a1d2124185f1449d3f4f0c225e5e823" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="221,-6 221,-25 311,-25 311,-6 221,-6"/>
 <text text-anchor="middle" x="266" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">set_color_pallete</text>
 </a>
@@ -48,7 +48,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a4f071387917e3f46b8a5091e2bfbbb6c" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a90cb3001f3434da6e78215b640255d50" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-30.5 185,-30.5 185,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.rare.</text>
 <text text-anchor="middle" x="92.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">RareSettings.on_color_select_changed</text>

@@ -1,6 +1,6 @@
 var namespacerare_1_1models =
 [
-    [ "apiresults", "namespacerare_1_1models_1_1apiresults.html", "namespacerare_1_1models_1_1apiresults" ],
+    [ "base_game", "namespacerare_1_1models_1_1base__game.html", "namespacerare_1_1models_1_1base__game" ],
     [ "game", "namespacerare_1_1models_1_1game.html", "namespacerare_1_1models_1_1game" ],
     [ "install", "namespacerare_1_1models_1_1install.html", "namespacerare_1_1models_1_1install" ],
     [ "launcher", "namespacerare_1_1models_1_1launcher.html", "namespacerare_1_1models_1_1launcher" ],

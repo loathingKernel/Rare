@@ -1,0 +1,3 @@
+<map id="load_pixmap" name="load_pixmap">
+<area shape="rect" id="node1" title="Do not call this function, call set_pixmap instead." alt="" coords="5,29,100,56"/>
+</map>

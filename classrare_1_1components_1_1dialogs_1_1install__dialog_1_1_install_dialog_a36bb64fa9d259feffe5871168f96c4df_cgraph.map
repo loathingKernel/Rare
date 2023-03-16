@@ -1,9 +1,8 @@
 <map id="on_worker_failed" name="on_worker_failed">
-<area shape="rect" id="node1" title=" " alt="" coords="5,157,125,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,112,125,139"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a138282883753fa5f7af306a3bb35ceaf" title=" " alt="" coords="245,29,319,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a7e95a1a89e48f7f756bcea2a62a14a62" title=" " alt="" coords="190,105,374,146"/>
-<area shape="rect" id="node10" href="$classrare_1_1game__launch__helper_1_1console_1_1_console.html#a7e95a1a89e48f7f756bcea2a62a14a62" title=" " alt="" coords="173,194,391,235"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61" title=" " alt="" coords="181,283,383,325"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a7e95a1a89e48f7f756bcea2a62a14a62" title=" " alt="" coords="190,194,374,235"/>
+<area shape="rect" id="node10" href="$classrare_1_1game__launch__helper_1_1console_1_1_console.html#a7e95a1a89e48f7f756bcea2a62a14a62" title=" " alt="" coords="173,105,391,146"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a91465b9ae57cdea67cbcbb58986892d7" title=" " alt="" coords="453,93,642,149"/>
 <area shape="rect" id="node9" href="$classrare_1_1game__launch__helper_1_1console_1_1_console.html#a91465b9ae57cdea67cbcbb58986892d7" title=" " alt="" coords="439,198,656,239"/>
 <area shape="rect" id="node5" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a72a86e9e97d577472c8a8af9e4a67949" title=" " alt="" coords="704,150,859,191"/>

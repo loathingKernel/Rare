@@ -1,5 +1,6 @@
 <map id="get_time" name="get_time">
-<area shape="rect" id="node1" title=" " alt="" coords="541,37,613,63"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad688e83ab96ce32b1ed9e5ccc83d0ee8" title="Stops the active download, by optionally skipping the queue." alt="" coords="279,29,493,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a91ee81dee5df73fb4e3057d7c12624e0" title=" " alt="" coords="5,29,231,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="828,37,900,63"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad688e83ab96ce32b1ed9e5ccc83d0ee8" title="Stops the active download, by optionally skipping the queue." alt="" coords="565,29,780,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a91ee81dee5df73fb4e3057d7c12624e0" title=" " alt="" coords="292,29,517,71"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a11794ca2c7c3add2ed90cd2edb79b927" title=" " alt="" coords="5,29,244,71"/>
 </map>

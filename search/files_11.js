@@ -11,5 +11,6 @@ var searchData=
   ['sliding_5fstack_2epy_8',['sliding_stack.py',['../sliding__stack_8py.html',1,'']]],
   ['steam_5fgrades_2epy_9',['steam_grades.py',['../steam__grades_8py.html',1,'']]],
   ['store_2epy_10',['store.py',['../store_8py.html',1,'']]],
-  ['sync_5fsave_5fdialog_2epy_11',['sync_save_dialog.py',['../sync__save__dialog_8py.html',1,'']]]
+  ['sync_5fsave_5fdialog_2epy_11',['sync_save_dialog.py',['../sync__save__dialog_8py.html',1,'']]],
+  ['sync_5fwidget_2epy_12',['sync_widget.py',['../sync__widget_8py.html',1,'']]]
 ];

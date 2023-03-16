@@ -1,6 +1,5 @@
 <map id="update_wishlist" name="update_wishlist">
-<area shape="rect" id="node1" title=" " alt="" coords="5,74,117,101"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,37,117,63"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_shop_game_info.html#a3fc8c31e9c09c30d1480d83be79cd5bd" title=" " alt="" coords="347,29,601,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#a3fc8c31e9c09c30d1480d83be79cd5bd" title=" " alt="" coords="165,111,299,138"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61" title=" " alt="" coords="373,119,575,160"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#a3fc8c31e9c09c30d1480d83be79cd5bd" title=" " alt="" coords="165,74,299,101"/>
 </map>

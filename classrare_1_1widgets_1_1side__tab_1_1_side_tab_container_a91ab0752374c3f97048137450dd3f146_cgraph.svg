@@ -73,10 +73,10 @@ var sectionId = 'dynsection-4';
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game_base.html#a9d2c0ef8e0253d5f0d0bcf1f7ad80fa5" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a9d2c0ef8e0253d5f0d0bcf1f7ad80fa5" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="85.15,-100.5 85.15,-130.5 227.15,-130.5 227.15,-100.5 85.15,-100.5"/>
-<text text-anchor="start" x="93.15" y="-118.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareGame</text>
-<text text-anchor="middle" x="156.15" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">Base.title</text>
+<text text-anchor="start" x="93.15" y="-118.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.base_game.Rare</text>
+<text text-anchor="middle" x="156.15" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameBase.title</text>
 </a>
 </g>
 </g>
@@ -143,10 +143,10 @@ var sectionId = 'dynsection-4';
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game_base.html#ae1cd35b1295fa44fd6906c1bcf28fd20" target="_top" xlink:title=" ">
+<g id="a_node7"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_base.html#ae1cd35b1295fa44fd6906c1bcf28fd20" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="296.65,-0.5 296.65,-30.5 438.65,-30.5 438.65,-0.5 296.65,-0.5"/>
-<text text-anchor="start" x="304.65" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareGame</text>
-<text text-anchor="middle" x="367.65" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Base.app_title</text>
+<text text-anchor="start" x="304.65" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.base_game.Rare</text>
+<text text-anchor="middle" x="367.65" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameBase.app_title</text>
 </a>
 </g>
 </g>

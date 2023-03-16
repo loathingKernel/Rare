@@ -54,19 +54,19 @@
 <path fill="none" stroke="midnightblue" d="M50.71,-77.5C71.57,-77.5 101.86,-77.5 125.09,-77.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="125.21,-81 135.21,-77.5 125.21,-74 125.21,-81"/>
 </g>
-<!-- Node5 -->
-<g id="node5" class="node">
-<title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#aa1ce5c203733553579a07cf1db0da9df" target="_top" xlink:title=" ">
+<!-- Node6 -->
+<g id="node6" class="node">
+<title>Node6</title>
+<g id="a_node6"><a xlink:href="classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#aa1ce5c203733553579a07cf1db0da9df" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="86.41,-0.5 86.41,-30.5 233.41,-30.5 233.41,-0.5 86.41,-0.5"/>
 <text text-anchor="start" x="94.41" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.indicator</text>
 <text text-anchor="middle" x="159.91" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_edit.IndicatorLineEdit.setText</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node5 -->
-<g id="edge7" class="edge">
-<title>Node1&#45;&gt;Node5</title>
+<!-- Node1&#45;&gt;Node6 -->
+<g id="edge9" class="edge">
+<title>Node1&#45;&gt;Node6</title>
 <path fill="none" stroke="midnightblue" d="M46.82,-67.95C65.6,-59.16 94.01,-45.87 117.53,-34.86"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="119.03,-38.02 126.61,-30.62 116.06,-31.68 119.03,-38.02"/>
 </g>
@@ -86,20 +86,41 @@
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="classrare_1_1widgets_1_1elide__label_1_1_elide_label.html#ad0cb63dd476fec536e87e7176b127a36" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="269.41,-68 269.41,-87 349.41,-87 349.41,-68 269.41,-68"/>
-<text text-anchor="middle" x="309.41" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">__setElideText</text>
+<polygon fill="white" stroke="black" points="269.41,-96 269.41,-115 349.41,-115 349.41,-96 269.41,-96"/>
+<text text-anchor="middle" x="309.41" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">__setElideText</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge5" class="edge">
 <title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M184.61,-77.5C204.65,-77.5 234.03,-77.5 259.13,-77.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="259.23,-81 269.23,-77.5 259.23,-74 259.23,-81"/>
+<path fill="none" stroke="midnightblue" d="M184.61,-82C204.65,-85.8 234.03,-91.38 259.13,-96.15"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="258.76,-99.64 269.23,-98.06 260.06,-92.76 258.76,-99.64"/>
+</g>
+<!-- Node5 -->
+<g id="node5" class="node">
+<title>Node5</title>
+<g id="a_node5"><a xlink:href="classrare_1_1widgets_1_1elide__label_1_1_elide_label.html#a33360da8f4ed32e6e51e3f3490c3a9da" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="278.41,-40 278.41,-59 340.41,-59 340.41,-40 278.41,-40"/>
+<text text-anchor="middle" x="309.41" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00">setToolTip</text>
+</a>
+</g>
+</g>
+<!-- Node3&#45;&gt;Node5 -->
+<g id="edge7" class="edge">
+<title>Node3&#45;&gt;Node5</title>
+<path fill="none" stroke="midnightblue" d="M184.61,-73C207.21,-68.71 241.69,-62.17 268.52,-57.07"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="269.22,-60.5 278.39,-55.2 267.92,-53.62 269.22,-60.5"/>
 </g>
 <!-- Node5&#45;&gt;Node5 -->
 <g id="edge8" class="edge">
 <title>Node5&#45;&gt;Node5</title>
+<path fill="none" stroke="midnightblue" d="M286.6,-59.26C275.5,-68.07 283.1,-77.5 309.41,-77.5 326.67,-77.5 335.88,-73.44 337.04,-68.15"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="340.06,-66.39 332.22,-59.26 333.9,-69.72 340.06,-66.39"/>
+</g>
+<!-- Node6&#45;&gt;Node6 -->
+<g id="edge10" class="edge">
+<title>Node6&#45;&gt;Node6</title>
 <path fill="none" stroke="midnightblue" d="M136.56,-30.66C130.93,-40.06 138.71,-49 159.91,-49 172.83,-49 180.76,-45.68 183.72,-40.96"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="187.2,-40.49 183.26,-30.66 180.21,-40.8 187.2,-40.49"/>
 </g>

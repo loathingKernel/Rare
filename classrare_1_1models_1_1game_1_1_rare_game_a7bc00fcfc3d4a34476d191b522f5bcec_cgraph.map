@@ -1,6 +1,7 @@
 <map id="store_igame" name="store_igame">
-<area shape="rect" id="node1" title=" " alt="" coords="5,126,99,153"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,171,99,198"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="147,29,425,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="191,119,381,160"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23" title=" " alt="" coords="191,119,381,160"/>
 <area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="199,208,373,249"/>
+<area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ae8eea7f05df591bbd18ba200690027f8" title=" " alt="" coords="235,298,337,325"/>
 </map>

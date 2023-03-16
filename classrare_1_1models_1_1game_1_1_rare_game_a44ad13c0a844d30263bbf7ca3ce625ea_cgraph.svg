@@ -48,7 +48,7 @@ if (edges && edges.length) {
 <script type="text/javascript">
 var viewWidth = 657;
 var viewHeight = 449;
-var sectionId = 'dynsection-57';
+var sectionId = 'dynsection-71';
 </script>
 <script xlink:href="svgpan.js"/>
 <svg id="graph" class="graph">
@@ -89,10 +89,10 @@ var sectionId = 'dynsection-57';
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="142.5,-325.5 142.5,-355.5 284.5,-355.5 284.5,-325.5 142.5,-325.5"/>
-<text text-anchor="start" x="150.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareGame</text>
-<text text-anchor="middle" x="213.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">Base.app_name</text>
+<text text-anchor="start" x="150.5" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.base_game.Rare</text>
+<text text-anchor="middle" x="213.5" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameBase.app_name</text>
 </a>
 </g>
 </g>
@@ -325,26 +325,26 @@ var sectionId = 'dynsection-57';
 <!-- Node13 -->
 <g id="node13" class="node">
 <title>Node13</title>
-<g id="a_node13"><a xlink:href="classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="354,-67.5 354,-97.5 489,-97.5 489,-67.5 354,-67.5"/>
-<text text-anchor="start" x="362" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.workers.worker.</text>
-<text text-anchor="middle" x="421.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">Worker.signals</text>
+<g id="a_node13"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="356.5,-67.5 356.5,-97.5 486.5,-97.5 486.5,-67.5 356.5,-67.5"/>
+<text text-anchor="start" x="364.5" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.rare_core.Rare</text>
+<text text-anchor="middle" x="421.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">Core.signals</text>
 </a>
 </g>
 </g>
 <!-- Node12&#45;&gt;Node13 -->
 <g id="edge23" class="edge">
 <title>Node12&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M259.71,-84.84C284.28,-84.48 315.35,-84.03 343.61,-83.62"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="343.93,-87.12 353.88,-83.47 343.83,-80.12 343.93,-87.12"/>
+<path fill="none" stroke="midnightblue" d="M259.71,-84.84C285.03,-84.47 317.24,-84 346.17,-83.58"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="346.3,-87.08 356.25,-83.44 346.2,-80.08 346.3,-87.08"/>
 </g>
 <!-- Node14 -->
 <g id="node14" class="node">
 <title>Node14</title>
-<g id="a_node14"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="356.5,-0.5 356.5,-30.5 486.5,-30.5 486.5,-0.5 356.5,-0.5"/>
-<text text-anchor="start" x="364.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.rare_core.Rare</text>
-<text text-anchor="middle" x="421.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Core.signals</text>
+<g id="a_node14"><a xlink:href="classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="354,-0.5 354,-30.5 489,-30.5 489,-0.5 354,-0.5"/>
+<text text-anchor="start" x="362" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.workers.worker.</text>
+<text text-anchor="middle" x="421.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Worker.signals</text>
 </a>
 </g>
 </g>

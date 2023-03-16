@@ -109,9 +109,9 @@ $(document).ready(function(){initNavTree('paths_8py_source.html',''); initResiza
 <div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="comment"># lk: delete old Rare directories</span></div>
 <div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span><span class="keywordflow">for</span> old_dir <span class="keywordflow">in</span> [</div>
 <div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>    Path(QStandardPaths.writableLocation(QStandardPaths.CacheLocation), <span class="stringliteral">&quot;rare&quot;</span>).joinpath(<span class="stringliteral">&quot;tmp&quot;</span>),</div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>    Path(QStandardPaths.writableLocation(QStandardPaths.DataLocation), <span class="stringliteral">&quot;rare&quot;</span>).joinpath(<span class="stringliteral">&quot;images&quot;</span>),</div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>    Path(QStandardPaths.writableLocation(QStandardPaths.AppDataLocation), <span class="stringliteral">&quot;rare&quot;</span>).joinpath(<span class="stringliteral">&quot;images&quot;</span>),</div>
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>    Path(QStandardPaths.writableLocation(QStandardPaths.CacheLocation), <span class="stringliteral">&quot;rare&quot;</span>),</div>
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>    Path(QStandardPaths.writableLocation(QStandardPaths.DataLocation), <span class="stringliteral">&quot;rare&quot;</span>),</div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>    Path(QStandardPaths.writableLocation(QStandardPaths.AppDataLocation), <span class="stringliteral">&quot;rare&quot;</span>),</div>
 <div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>]:</div>
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>    <span class="keywordflow">if</span> old_dir.exists():</div>
 <div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>        <span class="comment"># lk: case-sensitive matching on Winblows</span></div>
@@ -126,7 +126,7 @@ $(document).ready(function(){initNavTree('paths_8py_source.html',''); initResiza
 <div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span> </div>
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span> </div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b">   39</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b">data_dir</a>() -&gt; Path:</div>
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    <span class="keywordflow">return</span> Path(QStandardPaths.writableLocation(QStandardPaths.DataLocation))</div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    <span class="keywordflow">return</span> Path(QStandardPaths.writableLocation(QStandardPaths.AppDataLocation))</div>
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span> </div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span> </div>
 <div class="line"><a id="l00043" name="l00043"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1paths.html#a967cf7dd54d6f29434b1b44099984396">   43</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacerare_1_1utils_1_1paths.html#a967cf7dd54d6f29434b1b44099984396">cache_dir</a>() -&gt; Path:</div>
@@ -218,7 +218,7 @@ $(document).ready(function(){initNavTree('paths_8py_source.html',''); initResiza
 <div class="line"><a id="l00129" name="l00129"></a><span class="lineno">  129</span>            <span class="keywordflow">if</span> sys.executable == os.path.abspath(sys.argv[0]):</div>
 <div class="line"><a id="l00130" name="l00130"></a><span class="lineno">  130</span>                executable = [sys.executable]</div>
 <div class="line"><a id="l00131" name="l00131"></a><span class="lineno">  131</span>            <span class="keywordflow">else</span>:</div>
-<div class="line"><a id="l00132" name="l00132"></a><span class="lineno">  132</span>                executable = [sys.executable, os.path.abspath(sys.argv[0])]</div>
+<div class="line"><a id="l00132" name="l00132"></a><span class="lineno">  132</span>                executable = [os.path.abspath(sys.argv[0])]</div>
 <div class="line"><a id="l00133" name="l00133"></a><span class="lineno">  133</span>    <span class="keywordflow">elif</span> platform.system() == <span class="stringliteral">&quot;Windows&quot;</span>:</div>
 <div class="line"><a id="l00134" name="l00134"></a><span class="lineno">  134</span>        executable = [sys.executable]</div>
 <div class="line"><a id="l00135" name="l00135"></a><span class="lineno">  135</span> </div>

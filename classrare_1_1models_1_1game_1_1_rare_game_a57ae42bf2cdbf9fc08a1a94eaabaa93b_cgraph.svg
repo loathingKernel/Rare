@@ -43,10 +43,10 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="127.48,-201.5 127.48,-231.5 269.48,-231.5 269.48,-201.5 127.48,-201.5"/>
-<text text-anchor="start" x="135.48" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareGame</text>
-<text text-anchor="middle" x="198.48" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">Base.app_name</text>
+<text text-anchor="start" x="135.48" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.base_game.Rare</text>
+<text text-anchor="middle" x="198.48" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameBase.app_name</text>
 </a>
 </g>
 </g>
@@ -59,10 +59,10 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game_base.html#a5c91214c9c0ce70e64033ac6a3494d76" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a5c91214c9c0ce70e64033ac6a3494d76" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="127.48,-134.5 127.48,-164.5 269.48,-164.5 269.48,-134.5 127.48,-134.5"/>
-<text text-anchor="start" x="135.48" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareGame</text>
-<text text-anchor="middle" x="198.48" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">Base.is_idle</text>
+<text text-anchor="start" x="135.48" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.base_game.Rare</text>
+<text text-anchor="middle" x="198.48" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameBase.is_idle</text>
 </a>
 </g>
 </g>

@@ -1,7 +1,8 @@
 <map id="__init__" name="__init__">
-<area shape="rect" id="node1" title=" " alt="" coords="6,112,73,139"/>
+<area shape="rect" id="node1" title=" " alt="" coords="6,141,73,168"/>
 <area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1misc.html#a5b215592bbad86ea6d2c3b46280baae8" title=" " alt="" coords="154,29,283,56"/>
 <area shape="rect" id="node3" href="$classrare_1_1widgets_1_1elide__label_1_1_elide_label.html#aa25390a39bbdce0c91c93bb8adac619b" title=" " alt="" coords="136,105,301,146"/>
-<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#aa1ce5c203733553579a07cf1db0da9df" title=" " alt="" coords="121,194,317,235"/>
-<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1elide__label_1_1_elide_label.html#ad0cb63dd476fec536e87e7176b127a36" title=" " alt="" coords="365,97,494,153"/>
+<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1elide__label_1_1_elide_label.html#a33360da8f4ed32e6e51e3f3490c3a9da" title=" " alt="" coords="365,163,547,205"/>
+<area shape="rect" id="node6" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#aa1ce5c203733553579a07cf1db0da9df" title=" " alt="" coords="121,246,317,287"/>
+<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1elide__label_1_1_elide_label.html#ad0cb63dd476fec536e87e7176b127a36" title=" " alt="" coords="391,59,521,115"/>
 </map>

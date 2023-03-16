@@ -1,5 +1,6 @@
 var namespacerare_1_1shared_1_1workers =
 [
+    [ "fetch", "namespacerare_1_1shared_1_1workers_1_1fetch.html", "namespacerare_1_1shared_1_1workers_1_1fetch" ],
     [ "install_info", "namespacerare_1_1shared_1_1workers_1_1install__info.html", "namespacerare_1_1shared_1_1workers_1_1install__info" ],
     [ "move", "namespacerare_1_1shared_1_1workers_1_1move.html", "namespacerare_1_1shared_1_1workers_1_1move" ],
     [ "uninstall", "namespacerare_1_1shared_1_1workers_1_1uninstall.html", "namespacerare_1_1shared_1_1workers_1_1uninstall" ],

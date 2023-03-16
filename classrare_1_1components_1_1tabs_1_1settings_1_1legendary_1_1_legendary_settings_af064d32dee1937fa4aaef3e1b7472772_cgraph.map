@@ -1,6 +1,5 @@
 <map id="cleanup" name="cleanup">
-<area shape="rect" id="node1" title=" " alt="" coords="6,119,73,146"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="136,29,309,71"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1misc.html#a1316c13802b7e0cd9c6301199c789346" title=" " alt="" coords="146,119,299,146"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_image_worker.html#abfb44fdc3f5ec4c03f5d2e72900deb61" title=" " alt="" coords="121,195,324,236"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,72,105"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="120,29,293,71"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1misc.html#a3544b31f50ff739b7e8bb4ab751026b7" title=" " alt="" coords="121,119,293,146"/>
 </map>
