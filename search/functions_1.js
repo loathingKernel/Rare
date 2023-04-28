@@ -27,12 +27,11 @@ var searchData=
   ['append_24',['append',['../classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html#a8c909c8e182e8839599dc449b55f3e5f',1,'rare::components::tabs::downloads::groups::UpdateGroup']]],
   ['append_5favailable_25',['append_available',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html#a6fc286f0eda3ae10ed68fd8daf1566c8',1,'rare::components::tabs::games::game_info::game_dlc::GameDlc']]],
   ['append_5finstalled_26',['append_installed',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html#a4ce7fd48e7721902c3001ec88974679a',1,'rare::components::tabs::games::game_info::game_dlc::GameDlc']]],
-  ['append_5frow_27',['append_row',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html#ae38c470a1cbefa92857f68f71d1ecfc1',1,'rare::components::tabs::settings::widgets::env_vars::EnvVars']]],
-  ['appendchild_28',['appendChild',['../classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#a9e0bdb9411d3f1a0ee32a3c82126dd3a',1,'rare::utils::json_formatter::QJsonTreeItem']]],
-  ['applications_5fdir_29',['applications_dir',['../namespacerare_1_1utils_1_1paths.html#a929db13896ab79cbbe77bc82ad2698fc',1,'rare::utils::paths']]],
-  ['args_30',['args',['../classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4',1,'rare::shared::rare_core::RareCore']]],
-  ['argumentssingleton_31',['ArgumentsSingleton',['../namespacerare_1_1shared.html#a5acede398e4ceb67fa3e6bc1c91734d0',1,'rare::shared']]],
-  ['as_5fdict_32',['as_dict',['../classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html#a55dca0afa9f8205575d7e5ea2a6c10cb',1,'rare::models::game::RareGame::Metadata']]],
-  ['as_5finstall_5fkwargs_33',['as_install_kwargs',['../classrare_1_1models_1_1install_1_1_install_options_model.html#aa751cfbb4ac95de3ceb26796312aeab8',1,'rare::models::install::InstallOptionsModel']]],
-  ['auto_5fsync_5fsaves_34',['auto_sync_saves',['../classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a34fdf2c85c8c7358e5d5f65cace4a6b7',1,'rare::models::base_game::RareGameSlim']]]
+  ['appendchild_27',['appendChild',['../classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#a9e0bdb9411d3f1a0ee32a3c82126dd3a',1,'rare::utils::json_formatter::QJsonTreeItem']]],
+  ['applications_5fdir_28',['applications_dir',['../namespacerare_1_1utils_1_1paths.html#a929db13896ab79cbbe77bc82ad2698fc',1,'rare::utils::paths']]],
+  ['args_29',['args',['../classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4',1,'rare::shared::rare_core::RareCore']]],
+  ['argumentssingleton_30',['ArgumentsSingleton',['../namespacerare_1_1shared.html#a5acede398e4ceb67fa3e6bc1c91734d0',1,'rare::shared']]],
+  ['as_5fdict_31',['as_dict',['../classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html#a55dca0afa9f8205575d7e5ea2a6c10cb',1,'rare::models::game::RareGame::Metadata']]],
+  ['as_5finstall_5fkwargs_32',['as_install_kwargs',['../classrare_1_1models_1_1install_1_1_install_options_model.html#aa751cfbb4ac95de3ceb26796312aeab8',1,'rare::models::install::InstallOptionsModel']]],
+  ['auto_5fsync_5fsaves_33',['auto_sync_saves',['../classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a34fdf2c85c8c7358e5d5f65cace4a6b7',1,'rare::models::base_game::RareGameSlim']]]
 ];

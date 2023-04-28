@@ -11,6 +11,7 @@ var searchData=
   ['eglsyncworker_8',['EGLSyncWorker',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker.html',1,'rare::components::tabs::games::integrations::egl_sync_group']]],
   ['elidelabel_9',['ElideLabel',['../classrare_1_1widgets_1_1elide__label_1_1_elide_label.html',1,'rare::widgets::elide_label']]],
   ['envvars_10',['EnvVars',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html',1,'rare::components::tabs::settings::widgets::env_vars']]],
-  ['eosgroup_11',['EOSGroup',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html',1,'rare::components::tabs::games::integrations::eos_group']]],
-  ['errormodel_12',['ErrorModel',['../classrare_1_1models_1_1launcher_1_1_error_model.html',1,'rare::models::launcher']]]
+  ['envvarstablemodel_11',['EnvVarsTableModel',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html',1,'rare::components::tabs::settings::widgets::env_vars_model']]],
+  ['eosgroup_12',['EOSGroup',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html',1,'rare::components::tabs::games::integrations::eos_group']]],
+  ['errormodel_13',['ErrorModel',['../classrare_1_1models_1_1launcher_1_1_error_model.html',1,'rare::models::launcher']]]
 ];

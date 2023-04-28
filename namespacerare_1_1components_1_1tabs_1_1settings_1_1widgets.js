@@ -2,6 +2,7 @@ var namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets =
 [
     [ "dxvk", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk.html", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk" ],
     [ "env_vars", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars.html", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars" ],
+    [ "env_vars_model", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model.html", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model" ],
     [ "linux", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux.html", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux" ],
     [ "mangohud", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1mangohud.html", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1mangohud" ],
     [ "overlay_settings", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings.html", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings" ],

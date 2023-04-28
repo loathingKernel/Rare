@@ -4,7 +4,8 @@ var dir_90609c02637dbf8153bc283331604401 =
     [ "dxvk.py", "components_2tabs_2settings_2widgets_2dxvk_8py.html", [
       [ "DxvkSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_dxvk_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_dxvk_settings" ]
     ] ],
-    [ "env_vars.py", "components_2tabs_2settings_2widgets_2env__vars_8py.html", "components_2tabs_2settings_2widgets_2env__vars_8py" ],
+    [ "env_vars.py", "env__vars_8py.html", "env__vars_8py" ],
+    [ "env_vars_model.py", "env__vars__model_8py.html", "env__vars__model_8py" ],
     [ "linux.py", "components_2tabs_2settings_2widgets_2linux_8py.html", "components_2tabs_2settings_2widgets_2linux_8py" ],
     [ "mangohud.py", "mangohud_8py.html", "mangohud_8py" ],
     [ "overlay_settings.py", "overlay__settings_8py.html", "overlay__settings_8py" ],

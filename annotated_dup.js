@@ -170,6 +170,10 @@ var annotated_dup =
               [ "env_vars", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars.html", [
                 [ "EnvVars", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars" ]
               ] ],
+              [ "env_vars_model", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model.html", [
+                [ "EnvVarsTableModel", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model" ],
+                [ "MainDialog", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_main_dialog.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_main_dialog" ]
+              ] ],
               [ "linux", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux.html", [
                 [ "LinuxSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux_1_1_linux_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux_1_1_linux_settings" ]
               ] ],
@@ -476,9 +480,6 @@ var annotated_dup =
                 [ "dxvk", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk.html", [
                   [ "Ui_DxvkSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_ui___dxvk_settings.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_ui___dxvk_settings" ]
                 ] ],
-                [ "env_vars", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars.html", [
-                  [ "Ui_EnvVars", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_ui___env_vars.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_ui___env_vars" ]
-                ] ],
                 [ "overlay", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html", [
                   [ "Ui_OverlaySettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings" ]
                 ] ],
@@ -564,6 +565,9 @@ var annotated_dup =
         ] ],
         [ "library_layout", "namespacerare_1_1widgets_1_1library__layout.html", [
           [ "LibraryLayout", "classrare_1_1widgets_1_1library__layout_1_1_library_layout.html", "classrare_1_1widgets_1_1library__layout_1_1_library_layout" ]
+        ] ],
+        [ "loading_widget", "namespacerare_1_1widgets_1_1loading__widget.html", [
+          [ "LoadingWidget", "classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html", "classrare_1_1widgets_1_1loading__widget_1_1_loading_widget" ]
         ] ],
         [ "rare_app", "namespacerare_1_1widgets_1_1rare__app.html", [
           [ "RareApp", "classrare_1_1widgets_1_1rare__app_1_1_rare_app.html", "classrare_1_1widgets_1_1rare__app_1_1_rare_app" ],

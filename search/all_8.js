@@ -11,7 +11,7 @@ var searchData=
   ['hasheightforwidth_8',['hasHeightForWidth',['../classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a72c3563fa51a025ef82d48d381c46e6e',1,'rare::widgets::flow_layout::FlowLayout']]],
   ['head_5fbar_9',['head_bar',['../classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a1ca62d022b16aa84c51653f5d6aa84b3',1,'rare::components::tabs::games::GamesTab']]],
   ['head_5fbar_2epy_10',['head_bar.py',['../head__bar_8py.html',1,'']]],
-  ['headerdata_11',['headerData',['../classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#a7dadeab95a39961860c43a9374fe6c13',1,'rare::utils::json_formatter::QJsonModel']]],
+  ['headerdata_11',['headerData',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#a0387adc65e32dba135b7e0ddb3bf1da7',1,'rare.components.tabs.settings.widgets.env_vars_model.EnvVarsTableModel.headerData()'],['../classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#a7dadeab95a39961860c43a9374fe6c13',1,'rare.utils.json_formatter.QJsonModel.headerData()']]],
   ['heightforwidth_12',['heightForWidth',['../classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a2dc56ed9b2e524cfc31b3ca5abd00b56',1,'rare::widgets::flow_layout::FlowLayout']]],
   ['hidden_13',['HIDDEN',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_activation_states.html#a949200642db58e08b1c260c29a2ce2b4',1,'rare::components::tabs::settings::widgets::overlay_settings::ActivationStates']]],
   ['hide_14',['hide',['../classrare_1_1components_1_1main__window_1_1_main_window.html#a0b10d6f6237209134f8bf6bbcb6bfba6',1,'rare::components::main_window::MainWindow']]],

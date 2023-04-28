@@ -1,12 +1,13 @@
 <map id="add_wishlist_items" name="add_wishlist_items">
-<area shape="rect" id="node1" title=" " alt="" coords="1245,149,1379,175"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#aea7c4ced230e9462362c980c5ea47b4d" title=" " alt="" coords="1118,78,1165,105"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#a1588283f05f1e5890f0e0dab63904ece" title=" " alt="" coords="1085,186,1197,213"/>
-<area shape="rect" id="node3" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#ad149341d7d849ff957baee565b19c123" title=" " alt="" coords="569,29,729,71"/>
-<area shape="rect" id="node4" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#ac9b61a5d2b7f34200733fd959135686f" title=" " alt="" coords="844,71,1004,112"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html#a0ed8f09084c5b3f678964c952b4995fd" title=" " alt="" coords="5,185,213,241"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist.html#af3c7e539406b02c61ba2f2217a5cdf17" title=" " alt="" coords="811,212,1037,253"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html#a2c92258495c9a5c9f54e517068ed965b" title=" " alt="" coords="5,291,213,347"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist.html#a7121fb58d29cad3edf2ebb23d073256a" title=" " alt="" coords="536,212,763,253"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist.html#a1588283f05f1e5890f0e0dab63904ece" title=" " alt="" coords="261,233,488,275"/>
+<area shape="rect" id="node1" title=" " alt="" coords="1285,207,1419,234"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#aea7c4ced230e9462362c980c5ea47b4d" title=" " alt="" coords="1158,141,1205,167"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#a1588283f05f1e5890f0e0dab63904ece" title=" " alt="" coords="1125,245,1237,271"/>
+<area shape="rect" id="node3" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#ad149341d7d849ff957baee565b19c123" title=" " alt="" coords="589,29,749,71"/>
+<area shape="rect" id="node4" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#ac9b61a5d2b7f34200733fd959135686f" title=" " alt="" coords="884,101,1044,143"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#a51829b63adb24ac48d350dee60181002" title=" " alt="" coords="536,140,803,181"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html#a0ed8f09084c5b3f678964c952b4995fd" title=" " alt="" coords="5,266,213,322"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist.html#af3c7e539406b02c61ba2f2217a5cdf17" title=" " alt="" coords="851,293,1077,335"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html#a2c92258495c9a5c9f54e517068ed965b" title=" " alt="" coords="5,373,213,429"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist.html#a7121fb58d29cad3edf2ebb23d073256a" title=" " alt="" coords="556,293,783,335"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist.html#a1588283f05f1e5890f0e0dab63904ece" title=" " alt="" coords="261,315,488,356"/>
 </map>

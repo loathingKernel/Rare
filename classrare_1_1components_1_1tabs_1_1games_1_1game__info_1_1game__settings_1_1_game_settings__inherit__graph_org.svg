@@ -42,9 +42,9 @@
 <text text-anchor="start" x="8" y="-307.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
 <text text-anchor="start" x="8" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
 <text text-anchor="start" x="8" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrapper_settings</text>
-<text text-anchor="start" x="8" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ linux_settings</text>
-<text text-anchor="start" x="8" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ proton_settings</text>
-<text text-anchor="start" x="8" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ env_vars</text>
+<text text-anchor="start" x="8" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ env_vars</text>
+<text text-anchor="start" x="8" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ linux_settings</text>
+<text text-anchor="start" x="8" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ proton_settings</text>
 <text text-anchor="start" x="8" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ app_name</text>
 <text text-anchor="start" x="8" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ change</text>
 <polyline fill="none" stroke="black" points="0,-223.5 110,-223.5 "/>
@@ -82,20 +82,21 @@
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="classrare_1_1widgets_1_1side__tab_1_1_side_tab_contents.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="128,-243 128,-300 220,-300 220,-243 128,-243"/>
-<text text-anchor="middle" x="174" y="-288" font-family="Helvetica,sans-Serif" font-size="10.00">SideTabContents</text>
-<polyline fill="none" stroke="black" points="128,-281 220,-281 "/>
-<text text-anchor="start" x="136" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">+ set_title</text>
-<polyline fill="none" stroke="black" points="128,-262 220,-262 "/>
-<text text-anchor="middle" x="174" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="black" points="128,-237.5 128,-305.5 220,-305.5 220,-237.5 128,-237.5"/>
+<text text-anchor="middle" x="174" y="-293.5" font-family="Helvetica,sans-Serif" font-size="10.00">SideTabContents</text>
+<polyline fill="none" stroke="black" points="128,-286.5 220,-286.5 "/>
+<text text-anchor="start" x="136" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ set_title</text>
+<text text-anchor="start" x="136" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ bool</text>
+<polyline fill="none" stroke="black" points="128,-256.5 220,-256.5 "/>
+<text text-anchor="middle" x="174" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node4&#45;&gt;Node1 -->
 <g id="edge3" class="edge">
 <title>Node4&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M162.2,-232.93C155.38,-211.21 146.54,-183.08 138.3,-156.84"/>
-<polygon fill="none" stroke="midnightblue" points="158.94,-234.24 165.28,-242.73 165.62,-232.14 158.94,-234.24"/>
+<path fill="none" stroke="midnightblue" d="M160.46,-227.41C153.91,-206.55 145.84,-180.86 138.27,-156.77"/>
+<polygon fill="none" stroke="midnightblue" points="157.21,-228.74 163.55,-237.23 163.89,-226.64 157.21,-228.74"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
@@ -113,7 +114,7 @@
 <!-- Node5&#45;&gt;Node4 -->
 <g id="edge4" class="edge">
 <title>Node5&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M174,-376.21C174,-352.23 174,-321.75 174,-300.05"/>
+<path fill="none" stroke="midnightblue" d="M174,-376.37C174,-354.32 174,-326.72 174,-305.52"/>
 <polygon fill="none" stroke="midnightblue" points="170.5,-376.38 174,-386.38 177.5,-376.38 170.5,-376.38"/>
 </g>
 </g>

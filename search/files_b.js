@@ -10,5 +10,6 @@ var searchData=
   ['linux_2epy_7',['linux.py',['../components_2tabs_2settings_2widgets_2linux_8py.html',1,'(Global Namespace)'],['../ui_2components_2tabs_2settings_2linux_8py.html',1,'(Global Namespace)']]],
   ['list_5fgame_5fwidget_2epy_8',['list_game_widget.py',['../list__game__widget_8py.html',1,'']]],
   ['list_5fwidget_2epy_9',['list_widget.py',['../list__widget_8py.html',1,'']]],
-  ['login_5fdialog_2epy_10',['login_dialog.py',['../login__dialog_8py.html',1,'']]]
+  ['loading_5fwidget_2epy_10',['loading_widget.py',['../loading__widget_8py.html',1,'']]],
+  ['login_5fdialog_2epy_11',['login_dialog.py',['../login__dialog_8py.html',1,'']]]
 ];

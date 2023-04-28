@@ -88,9 +88,6 @@ var hierarchy =
         [ "RareSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html", null ]
       ] ],
       [ "Ui_DxvkSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_ui___dxvk_settings.html", null ],
-      [ "Ui_EnvVars", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_ui___env_vars.html", [
-        [ "EnvVars", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html", null ]
-      ] ],
       [ "Ui_OverlaySettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html", [
         [ "OverlaySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_overlay_settings.html", [
           [ "DxvkSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_dxvk_settings.html", null ],
@@ -179,6 +176,9 @@ var hierarchy =
     [ "Protocol", null, [
       [ "GetBooleanChoiceProtocol", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_get_boolean_choice_protocol.html", null ]
     ] ],
+    [ "QAbstractTableModel", null, [
+      [ "EnvVarsTableModel", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html", null ]
+    ] ],
     [ "QApplication", null, [
       [ "RareApp", "classrare_1_1widgets_1_1rare__app_1_1_rare_app.html", [
         [ "Rare", "classrare_1_1app_1_1_rare.html", null ],
@@ -202,6 +202,7 @@ var hierarchy =
       [ "LoginDialog", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html", null ],
       [ "PathInputDialog", "classrare_1_1components_1_1dialogs_1_1path__input__dialog_1_1_path_input_dialog.html", null ],
       [ "UninstallDialog", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html", null ],
+      [ "MainDialog", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_main_dialog.html", null ],
       [ "Console", "classrare_1_1game__launch__helper_1_1console_1_1_console.html", null ],
       [ "ConsoleEnv", "classrare_1_1game__launch__helper_1_1console_1_1_console_env.html", null ]
     ] ],
@@ -246,7 +247,8 @@ var hierarchy =
       [ "ProgressLabel", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_progress_label.html", null ],
       [ "ImageLabel", "classrare_1_1utils_1_1extra__widgets_1_1_image_label.html", null ],
       [ "WaitingSpinner", "classrare_1_1utils_1_1extra__widgets_1_1_waiting_spinner.html", null ],
-      [ "ElideLabel", "classrare_1_1widgets_1_1elide__label_1_1_elide_label.html", null ]
+      [ "ElideLabel", "classrare_1_1widgets_1_1elide__label_1_1_elide_label.html", null ],
+      [ "LoadingWidget", "classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html", null ]
     ] ],
     [ "QLayout", null, [
       [ "FlowLayout", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html", [

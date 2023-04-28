@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['data_0',['data',['../classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#a4e4c22d807e3917e7df173503e85bdb7',1,'rare::utils::json_formatter::QJsonModel']]],
+  ['data_0',['data',['../classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#a4e4c22d807e3917e7df173503e85bdb7',1,'rare.utils.json_formatter.QJsonModel.data()'],['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#a7fb7481cde47ad081b3122a22a92f2ee',1,'rare.components.tabs.settings.widgets.env_vars_model.EnvVarsTableModel.data()']]],
   ['data_5fdir_1',['data_dir',['../namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b',1,'rare::utils::paths']]],
   ['data_5freceived_2',['data_received',['../classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_shop_game_info.html#a3612bf04e2cca6087ffd14758c32f9b8',1,'rare::components::tabs::shop::game_info::ShopGameInfo']]],
   ['debug_3',['debug',['../classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a638ad502789318f48d47f71beb983c0a',1,'rare::lgndr::glue::monkeys::LgndrIndirectLogger']]],

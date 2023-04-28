@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['failed_0',['failed',['../classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker_1_1_signals.html#a4af14f376aef238cb4e75252d40eeb82',1,'rare::shared::workers::install_info::InstallInfoWorker::Signals']]],
-  ['failed_1',['FAILED',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_result.html#a1b36e350a0ccd3034b122070e6c27196',1,'rare::components::tabs::games::integrations::import_group::ImportResult']]],
+  ['failed_0',['FAILED',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_result.html#a1b36e350a0ccd3034b122070e6c27196',1,'rare::components::tabs::games::integrations::import_group::ImportResult']]],
+  ['failed_1',['failed',['../classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker_1_1_signals.html#a4af14f376aef238cb4e75252d40eeb82',1,'rare::shared::workers::install_info::InstallInfoWorker::Signals']]],
   ['fd_2',['fd',['../classrare_1_1utils_1_1singleton_1_1_single_instance.html#a44f21d5190b5a6df8089f54799628d7e',1,'rare::utils::singleton::SingleInstance']]],
   ['feedback_3',['feedback',['../classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker.html#aecc50b4643d1ea45de7afe20e729c160',1,'rare::shared::workers::worker::QueueWorker']]],
   ['file_5fnot_5fexists_4',['FILE_NOT_EXISTS',['../classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_common.html#a8027f87547425ebe896eb8cb62a59c25',1,'rare::widgets::indicator_edit::IndicatorReasonsCommon']]],

@@ -25,6 +25,7 @@ var searchData=
   ['linuxsettings_22',['LinuxSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux_1_1_linux_settings.html',1,'rare::components::tabs::settings::widgets::linux']]],
   ['listgamewidget_23',['ListGameWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html',1,'rare::components::tabs::games::game_widgets::list_game_widget']]],
   ['listwidget_24',['ListWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget.html',1,'rare::components::tabs::games::game_widgets::list_widget']]],
-  ['logindialog_25',['LoginDialog',['../classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html',1,'rare::components::dialogs::login']]],
-  ['loginpages_26',['LoginPages',['../classrare_1_1components_1_1dialogs_1_1login_1_1_login_pages.html',1,'rare::components::dialogs::login']]]
+  ['loadingwidget_25',['LoadingWidget',['../classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html',1,'rare::widgets::loading_widget']]],
+  ['logindialog_26',['LoginDialog',['../classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html',1,'rare::components::dialogs::login']]],
+  ['loginpages_27',['LoginPages',['../classrare_1_1components_1_1dialogs_1_1login_1_1_login_pages.html',1,'rare::components::dialogs::login']]]
 ];

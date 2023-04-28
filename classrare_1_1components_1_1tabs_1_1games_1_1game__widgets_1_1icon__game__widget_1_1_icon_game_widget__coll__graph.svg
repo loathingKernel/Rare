@@ -110,14 +110,12 @@ var sectionId = 'dynsection-1';
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="13.5,-397.5 13.5,-520.5 114.5,-520.5 114.5,-397.5 13.5,-397.5"/>
-<text text-anchor="middle" x="64" y="-508.5" font-family="Helvetica,sans-Serif" font-size="10.00">LibraryWidget</text>
-<polyline fill="none" stroke="black" points="13.5,-501.5 114.5,-501.5 "/>
-<text text-anchor="start" x="21.5" y="-489.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ progress_label</text>
-<polyline fill="none" stroke="black" points="13.5,-482.5 114.5,-482.5 "/>
-<text text-anchor="start" x="21.5" y="-470.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="21.5" y="-459.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ event()</text>
-<text text-anchor="start" x="21.5" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ resizeEvent()</text>
+<polygon fill="white" stroke="black" points="13.5,-397.5 13.5,-498.5 114.5,-498.5 114.5,-397.5 13.5,-397.5"/>
+<text text-anchor="middle" x="64" y="-486.5" font-family="Helvetica,sans-Serif" font-size="10.00">LibraryWidget</text>
+<polyline fill="none" stroke="black" points="13.5,-479.5 114.5,-479.5 "/>
+<text text-anchor="start" x="21.5" y="-467.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ progress_label</text>
+<polyline fill="none" stroke="black" points="13.5,-460.5 114.5,-460.5 "/>
+<text text-anchor="start" x="21.5" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
 <text text-anchor="start" x="21.5" y="-437.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ progressPixmap()</text>
 <text text-anchor="start" x="21.5" y="-426.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ showProgress()</text>
 <text text-anchor="start" x="21.5" y="-415.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ updateProgress()</text>
@@ -128,14 +126,14 @@ var sectionId = 'dynsection-1';
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M64,-387.42C64,-378.73 64,-369.68 64,-360.5"/>
-<polygon fill="none" stroke="midnightblue" points="60.5,-387.43 64,-397.43 67.5,-387.43 60.5,-387.43"/>
+<path fill="none" stroke="midnightblue" d="M64,-387.25C64,-378.8 64,-369.87 64,-360.76"/>
+<polygon fill="none" stroke="midnightblue" points="60.5,-387.3 64,-397.3 67.5,-387.3 60.5,-387.3"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="classrare_1_1widgets_1_1image__widget_1_1_image_widget.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="0,-557.5 0,-746.5 128,-746.5 128,-557.5 0,-557.5"/>
+<polygon fill="white" stroke="black" points="0,-535.5 0,-746.5 128,-746.5 128,-535.5 0,-535.5"/>
 <text text-anchor="middle" x="64" y="-734.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageWidget</text>
 <polyline fill="none" stroke="black" points="0,-727.5 128,-727.5 "/>
 <text text-anchor="start" x="8" y="-715.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_image</text>
@@ -146,21 +144,23 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="8" y="-663.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
 <text text-anchor="start" x="8" y="-652.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setOpacity()</text>
 <text text-anchor="start" x="8" y="-641.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPixmap()</text>
-<text text-anchor="start" x="8" y="-630.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFixedSize()</text>
-<text text-anchor="start" x="8" y="-619.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBorder()</text>
-<text text-anchor="start" x="8" y="-608.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_image_empty()</text>
-<text text-anchor="start" x="8" y="-597.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_image_cover()</text>
-<text text-anchor="start" x="8" y="-586.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_overlay_rounded()</text>
-<text text-anchor="start" x="8" y="-575.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_overlay_squared()</text>
-<text text-anchor="start" x="8" y="-564.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paintEvent()</text>
+<text text-anchor="start" x="8" y="-630.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ sizeHint()</text>
+<text text-anchor="start" x="8" y="-619.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ minimumSizeHint()</text>
+<text text-anchor="start" x="8" y="-608.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFixedSize()</text>
+<text text-anchor="start" x="8" y="-597.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBorder()</text>
+<text text-anchor="start" x="8" y="-586.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_image_empty()</text>
+<text text-anchor="start" x="8" y="-575.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_image_cover()</text>
+<text text-anchor="start" x="8" y="-564.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_overlay_rounded()</text>
+<text text-anchor="start" x="8" y="-553.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_overlay_squared()</text>
+<text text-anchor="start" x="8" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paintEvent()</text>
 </a>
 </g>
 </g>
 <!-- Node4&#45;&gt;Node3 -->
 <g id="edge3" class="edge">
 <title>Node4&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M64,-547.23C64,-538.19 64,-529.26 64,-520.75"/>
-<polygon fill="none" stroke="midnightblue" points="60.5,-547.46 64,-557.46 67.5,-547.46 60.5,-547.46"/>
+<path fill="none" stroke="midnightblue" d="M64,-525.23C64,-516.05 64,-507.12 64,-498.79"/>
+<polygon fill="none" stroke="midnightblue" points="60.5,-525.28 64,-535.28 67.5,-525.28 60.5,-525.28"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
@@ -178,8 +178,8 @@ var sectionId = 'dynsection-1';
 <!-- Node5&#45;&gt;Node4 -->
 <g id="edge4" class="edge">
 <title>Node5&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M64,-773.22C64,-765.01 64,-755.99 64,-746.68"/>
-<polygon fill="none" stroke="midnightblue" points="60.5,-773.48 64,-783.48 67.5,-773.48 60.5,-773.48"/>
+<path fill="none" stroke="midnightblue" d="M64,-773.23C64,-765.04 64,-755.99 64,-746.58"/>
+<polygon fill="none" stroke="midnightblue" points="60.5,-773.47 64,-783.47 67.5,-773.47 60.5,-773.47"/>
 </g>
 </g>
 </svg>

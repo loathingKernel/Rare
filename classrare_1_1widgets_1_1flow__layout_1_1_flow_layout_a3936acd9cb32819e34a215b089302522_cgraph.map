@@ -1,4 +1,6 @@
 <map id="sizeHint" name="sizeHint">
-<area shape="rect" id="node1" title=" " alt="" coords="5,29,75,56"/>
-<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a464fdd6525ee797b1d8e4bdf6441983d" title=" " alt="" coords="123,29,223,56"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,112,75,139"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a464fdd6525ee797b1d8e4bdf6441983d" title=" " alt="" coords="153,29,253,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#a35061dd226fbf32b76578ca1f0759ce1" title=" " alt="" coords="123,105,283,146"/>
+<area shape="rect" id="node4" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#acbb44b417d59fdabb258afc05df6e499" title=" " alt="" coords="123,194,283,235"/>
 </map>

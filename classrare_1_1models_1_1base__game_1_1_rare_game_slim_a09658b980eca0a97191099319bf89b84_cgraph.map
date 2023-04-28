@@ -1,9 +1,11 @@
 <map id="load_saves" name="load_saves">
-<area shape="rect" id="node1" title="Use only in a thread." alt="" coords="5,157,93,183"/>
+<area shape="rect" id="node1" title="Use only in a thread." alt="" coords="5,235,93,262"/>
 <area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="181,29,354,71"/>
 <area shape="rect" id="node3" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#ae67c92b74c05707f28c4430681aaa860" title=" " alt="" coords="226,119,309,146"/>
 <area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ae67c92b74c05707f28c4430681aaa860" title=" " alt="" coords="141,194,393,221"/>
 <area shape="rect" id="node5" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a4c5d7b0b818760d1a69d2dca743a2f4b" title="SaveGameFiles across games." alt="" coords="181,269,354,311"/>
+<area shape="rect" id="node8" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" title=" " alt="" coords="177,359,357,400"/>
+<area shape="rect" id="node9" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="181,448,354,489"/>
 <area shape="rect" id="node6" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a68395f7577f6b1a63a7a62dbf1a4c6d0" title="RareGames that have SaveGameFiles associated with them." alt="" coords="441,269,615,311"/>
 <area shape="rect" id="node7" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a311e604b365ca958c3ae7b143b6190ce" title=" " alt="" coords="663,269,836,311"/>
 </map>
