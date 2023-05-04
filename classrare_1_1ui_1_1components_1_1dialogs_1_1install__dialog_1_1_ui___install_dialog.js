@@ -3,6 +3,8 @@ var classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install
     [ "retranslateUi", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#a56bff3d53dd19016fecbf1db9db10206", null ],
     [ "setupUi", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#ab02d752b2bd33897f1b49d136e3c652e", null ],
     [ "advanced_layout", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#a0d505688f1fbd955124739b1aa61f2ea", null ],
+    [ "avail_space", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#afd1dad7edf2d58d73c2d259f344cc55a", null ],
+    [ "avail_space_lbl", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#a09a8012b0a3ec65c5f850ca4ebaa8e6b", null ],
     [ "button_layout", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#af54cbe3db384197ecbe2cfc1fe3f589e", null ],
     [ "cancel_button", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#a06d67fd44905ec8020f272b5d87f0569", null ],
     [ "download_size_label", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#a305044e55965f700aa3dae65a7dd38fd", null ],

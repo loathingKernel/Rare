@@ -24,7 +24,7 @@ var searchData=
   ['queued_5fcontainer_21',['queued_container',['../classrare_1_1components_1_1main__window_1_1_main_window.html#a977caf497a400fbd3c5aea459be200f4',1,'rare::components::main_window::MainWindow']]],
   ['queued_5flabel_22',['queued_label',['../classrare_1_1components_1_1main__window_1_1_main_window.html#a5e45985d54fe11d8761b81078631b732',1,'rare::components::main_window::MainWindow']]],
   ['queued_5fscroll_23',['queued_scroll',['../classrare_1_1components_1_1main__window_1_1_main_window.html#a5fabd01ac61f0bdfc79b6eef6d945fcd',1,'rare::components::main_window::MainWindow']]],
-  ['queued_5fworkers_24',['queued_workers',['../classrare_1_1shared_1_1rare__core_1_1_rare_core.html#ac55a28dd736cb62170bf15f2ce329145',1,'rare::shared::rare_core::RareCore']]],
+  ['queued_5fworkers_24',['queued_workers',['../classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a780163e59723a97218b5b14874d486f8',1,'rare::shared::rare_core::RareCore']]],
   ['queuegroup_25',['QueueGroup',['../classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html',1,'rare::components::tabs::downloads::groups']]],
   ['queueinfowidget_26',['QueueInfoWidget',['../namespacerare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__info__widget.html#ab770387e3b8773b897e91ef9ccc19a27',1,'rare.ui.components.tabs.downloads.queue_info_widget.QueueInfoWidget()'],['../classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_queue_info_widget.html',1,'QueueInfoWidget']]],
   ['queuewidget_27',['QueueWidget',['../classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_queue_widget.html',1,'rare::components::tabs::downloads::widgets']]],

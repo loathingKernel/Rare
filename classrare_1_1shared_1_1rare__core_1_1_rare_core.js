@@ -1,7 +1,7 @@
 var classrare_1_1shared_1_1rare__core_1_1_rare_core =
 [
     [ "__init__", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aef5087eda294b25d77daf490e4bf4f9e", null ],
-    [ "active_workers", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a045eabfda64d529988a6806270464a23", null ],
+    [ "active_workers", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a43753a33b5c6b5a5a38a721451322faa", null ],
     [ "args", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4", null ],
     [ "bit32_games", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a1a0556f7a341fe2972f17d14c6ad733f", null ],
     [ "core", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56", null ],
@@ -27,7 +27,7 @@ var classrare_1_1shared_1_1rare__core_1_1_rare_core =
     [ "non_asset_games", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#af4ea42e05d7b0e4d308127cb51652089", null ],
     [ "origin_games", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aa69bdc3ab831ce3dfcdefde6915069c5", null ],
     [ "queue_info", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a9c562ac22f28ccd99973a6471725b154", null ],
-    [ "queued_workers", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#ac55a28dd736cb62170bf15f2ce329145", null ],
+    [ "queued_workers", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a780163e59723a97218b5b14874d486f8", null ],
     [ "resolve_origin", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#af29ac67bc30fc5530252b2a234b84188", null ],
     [ "saves", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a4c5d7b0b818760d1a69d2dca743a2f4b", null ],
     [ "signals", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c", null ],

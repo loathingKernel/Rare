@@ -8,7 +8,7 @@ var classrare_1_1components_1_1tabs_1_1games_1_1_games_tab =
     [ "show_egl_sync", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#aa557f7017fd3d741f70da369de681935", null ],
     [ "show_eos_ubisoft", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#ad313deb7826dee92f035763ebb227957", null ],
     [ "show_game_info", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a09ad02746b43edc7bbeade971378aa4e", null ],
-    [ "show_import", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a09112a84338c2459d2e5c28d3b641337", null ],
+    [ "show_import", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#afda815913f9185986c3c782371483248", null ],
     [ "toggle_view", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a133e93b663ba0fe277649d67d97b4c6e", null ],
     [ "update_count_games_label", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a2efffcc49dcc1c9f2d26040e865a660b", null ],
     [ "active_filter", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a31a7e4a2d43a0a98984a4133a5a1416b", null ],

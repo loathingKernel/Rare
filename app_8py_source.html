@@ -93,7 +93,7 @@ $(document).ready(function(){initNavTree('app_8py_source.html',''); initResizabl
 <div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">import</span> sys</div>
 <div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">import</span> traceback</div>
 <div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">from</span> argparse <span class="keyword">import</span> Namespace</div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">from</span> datetime <span class="keyword">import</span> datetime</div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">from</span> datetime <span class="keyword">import</span> datetime, timezone</div>
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="keyword">from</span> typing <span class="keyword">import</span> Optional</div>
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span> </div>
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">import</span> requests.exceptions</div>
@@ -159,8 +159,8 @@ $(document).ready(function(){initNavTree('app_8py_source.html',''); initResizabl
 <div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>        self.<a class="code hl_variable" href="classrare_1_1app_1_1_rare.html#a0c10ff102a5db53103d1f83b9f08f7fb">launch_dialog</a>launch_dialog.login()</div>
 <div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span> </div>
 <div class="line"><a id="l00072" name="l00072"></a><span class="lineno"><a class="line" href="classrare_1_1app_1_1_rare.html#a220a81c6097c255b60ace038f4b0c9cb">   72</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1app_1_1_rare.html#a220a81c6097c255b60ace038f4b0c9cb">poke_timer</a>(self):</div>
-<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>        dt_exp = datetime.fromisoformat(self.<a class="code hl_variable" href="classrare_1_1app_1_1_rare.html#ab65a1cfe05166d06195718a9587d7b86">core</a>core.lgd.userdata[<span class="stringliteral">&#39;expires_at&#39;</span>][:-1])</div>
-<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>        dt_now = datetime.utcnow()</div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>        dt_exp = datetime.fromisoformat(self.<a class="code hl_variable" href="classrare_1_1app_1_1_rare.html#ab65a1cfe05166d06195718a9587d7b86">core</a>core.lgd.userdata[<span class="stringliteral">&#39;expires_at&#39;</span>][:-1]).replace(tzinfo=timezone.utc)</div>
+<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>        dt_now = datetime.utcnow().replace(tzinfo=timezone.utc)</div>
 <div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>        td = abs(dt_exp - dt_now)</div>
 <div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>        self.<a class="code hl_variable" href="classrare_1_1app_1_1_rare.html#a9fabcf6aa0647a2414f7cb1a2ab2634a">timer</a>timer.<a class="code hl_function" href="namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76">start</a>(int(td.total_seconds() - 60) * 1000)</div>
 <div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>        logger.info(f<span class="stringliteral">&quot;Renewed session expires at {self.core.lgd.userdata[&#39;expires_at&#39;]}&quot;</span>)</div>

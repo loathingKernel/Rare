@@ -14,6 +14,7 @@ var classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog =
     [ "on_worker_finished", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a0e948650b87686717868c3ee60c2c910", null ],
     [ "on_worker_result", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a64dd35f139577016bc6417719d65d969", null ],
     [ "option_changed", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#abdfe46421b60f1ef4e6ccc5d2b9a1395", null ],
+    [ "save_install_edit", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a0644ae4e0ef848cb9b9d3f2c03507d05", null ],
     [ "setup_sdl_list", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#af08eb86a6f16adaa0961469759a916ad", null ],
     [ "verify_clicked", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a77e69cb6973b2c8a40dfed17abe7d453", null ],
     [ "advanced", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a5ec6fa53e931faae02de724c82c37c76", null ],

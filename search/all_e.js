@@ -21,7 +21,7 @@ var searchData=
   ['non_5freload_5foption_5fchanged_18',['non_reload_option_changed',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a7e5a0b8264228713151cebd02cb08d95',1,'rare::components::dialogs::install_dialog::InstallDialog']]],
   ['nonassetworker_19',['NonAssetWorker',['../classrare_1_1shared_1_1workers_1_1fetch_1_1_non_asset_worker.html',1,'rare::shared::workers::fetch']]],
   ['none_5fprice_20',['none_price',['../classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1store_1_1_ui___shop_widget.html#a777345efa0c16c02834781d01268936d',1,'rare::ui::components::tabs::store::store::Ui_ShopWidget']]],
-  ['normal_21',['Normal',['../classrare_1_1shared_1_1image__manager_1_1_image_size.html#abb5b863a4c7a7cc7d18a288c908b9f0b',1,'rare::shared::image_manager::ImageSize']]],
+  ['normal_21',['Normal',['../classrare_1_1models_1_1image_1_1_image_size.html#abb5b863a4c7a7cc7d18a288c908b9f0b',1,'rare::models::image::ImageSize']]],
   ['not_5finstalled_22',['NOT_INSTALLED',['../classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_common.html#ac4d54d575f79229763df4e7f9d9a0feb',1,'rare::widgets::indicator_edit::IndicatorReasonsCommon']]],
   ['notification_23',['notification',['../classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#a8a6787d1c8ee16160e40f364f75c86c3',1,'rare::ui::components::tabs::settings::rare::Ui_RareSettings']]],
   ['notify_24',['notify',['../classrare_1_1models_1_1signals_1_1_global_signals_1_1_application_signals.html#a8be027e92ffe21dcfaac8debe0df5d2a',1,'rare.models.signals.GlobalSignals.ApplicationSignals.notify()'],['../classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#aeba9eb52bdc65fc7ad88177173d1f32d',1,'rare.components.tray_icon.TrayIcon.notify()']]],

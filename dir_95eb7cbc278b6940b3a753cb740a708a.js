@@ -3,6 +3,11 @@ var dir_95eb7cbc278b6940b3a753cb740a708a =
     [ "__init__.py", "models_2____init_____8py.html", null ],
     [ "base_game.py", "base__game_8py.html", "base__game_8py" ],
     [ "game.py", "game_8py.html", "game_8py" ],
+    [ "image.py", "image_8py.html", [
+      [ "Orientation", "classrare_1_1models_1_1image_1_1_orientation.html", null ],
+      [ "ImageSize", "classrare_1_1models_1_1image_1_1_image_size.html", "classrare_1_1models_1_1image_1_1_image_size" ],
+      [ "ImageSize.Preset", "classrare_1_1models_1_1image_1_1_image_size_1_1_preset.html", "classrare_1_1models_1_1image_1_1_image_size_1_1_preset" ]
+    ] ],
     [ "install.py", "install_8py.html", [
       [ "InstallOptionsModel", "classrare_1_1models_1_1install_1_1_install_options_model.html", "classrare_1_1models_1_1install_1_1_install_options_model" ],
       [ "InstallDownloadModel", "classrare_1_1models_1_1install_1_1_install_download_model.html", null ],

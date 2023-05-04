@@ -131,61 +131,63 @@ var sectionId = 'dynsection-0';
 <g id="node5" class="node">
 <title>Node5</title>
 <g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="286.5,-33.5 286.5,-222.5 416.5,-222.5 416.5,-33.5 286.5,-33.5"/>
-<text text-anchor="middle" x="351.5" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameDlc</text>
-<polyline fill="none" stroke="black" points="286.5,-203.5 416.5,-203.5 "/>
-<text text-anchor="start" x="294.5" y="-191.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
-<text text-anchor="start" x="294.5" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="294.5" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
-<text text-anchor="start" x="294.5" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
-<polyline fill="none" stroke="black" points="286.5,-151.5 416.5,-151.5 "/>
-<text text-anchor="start" x="294.5" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="294.5" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ list_installed()</text>
-<text text-anchor="start" x="294.5" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ list_available()</text>
-<text text-anchor="start" x="294.5" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ get_installed()</text>
-<text text-anchor="start" x="294.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ get_available()</text>
-<text text-anchor="start" x="294.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_installed_page()</text>
-<text text-anchor="start" x="294.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_available_page()</text>
-<text text-anchor="start" x="294.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ append_installed()</text>
-<text text-anchor="start" x="294.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ append_available()</text>
-<text text-anchor="start" x="294.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_dlcs()</text>
+<polygon fill="white" stroke="black" points="286.5,-28 286.5,-228 416.5,-228 416.5,-28 286.5,-28"/>
+<text text-anchor="middle" x="351.5" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">GameDlc</text>
+<polyline fill="none" stroke="black" points="286.5,-209 416.5,-209 "/>
+<text text-anchor="start" x="294.5" y="-197" font-family="Helvetica,sans-Serif" font-size="10.00">+ implements_scrollarea</text>
+<text text-anchor="start" x="294.5" y="-186" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
+<text text-anchor="start" x="294.5" y="-175" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="294.5" y="-164" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
+<text text-anchor="start" x="294.5" y="-153" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
+<polyline fill="none" stroke="black" points="286.5,-146 416.5,-146 "/>
+<text text-anchor="start" x="294.5" y="-134" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="294.5" y="-123" font-family="Helvetica,sans-Serif" font-size="10.00">+ list_installed()</text>
+<text text-anchor="start" x="294.5" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">+ list_available()</text>
+<text text-anchor="start" x="294.5" y="-101" font-family="Helvetica,sans-Serif" font-size="10.00">+ get_installed()</text>
+<text text-anchor="start" x="294.5" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">+ get_available()</text>
+<text text-anchor="start" x="294.5" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_installed_page()</text>
+<text text-anchor="start" x="294.5" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_available_page()</text>
+<text text-anchor="start" x="294.5" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">+ append_installed()</text>
+<text text-anchor="start" x="294.5" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">+ append_available()</text>
+<text text-anchor="start" x="294.5" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_dlcs()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M351.5,-281.73C351.5,-264.21 351.5,-243.31 351.5,-222.68"/>
+<path fill="none" stroke="midnightblue" d="M351.5,-282.07C351.5,-266.04 351.5,-247.15 351.5,-228.21"/>
 <polygon fill="none" stroke="midnightblue" points="348,-282.17 351.5,-292.17 355,-282.17 348,-282.17"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
 <g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="434.5,-39 434.5,-217 550.5,-217 550.5,-39 434.5,-39"/>
-<text text-anchor="middle" x="492.5" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">GameInfo</text>
-<polyline fill="none" stroke="black" points="434.5,-198 550.5,-198 "/>
-<text text-anchor="start" x="442.5" y="-186" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
-<text text-anchor="start" x="442.5" y="-175" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
-<text text-anchor="start" x="442.5" y="-164" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="442.5" y="-153" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
-<text text-anchor="start" x="442.5" y="-142" font-family="Helvetica,sans-Serif" font-size="10.00">+ image</text>
-<text text-anchor="start" x="442.5" y="-131" font-family="Helvetica,sans-Serif" font-size="10.00">+ move_game_pop_up</text>
-<text text-anchor="start" x="442.5" y="-120" font-family="Helvetica,sans-Serif" font-size="10.00">+ steam_grade_ratings</text>
-<text text-anchor="start" x="442.5" y="-109" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
-<polyline fill="none" stroke="black" points="434.5,-102 550.5,-102 "/>
-<text text-anchor="start" x="442.5" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="442.5" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+ repair_game()</text>
-<text text-anchor="start" x="442.5" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ verify_game()</text>
-<text text-anchor="start" x="442.5" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">+ move_game()</text>
-<text text-anchor="start" x="442.5" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
+<polygon fill="white" stroke="black" points="434.5,-33.5 434.5,-222.5 550.5,-222.5 550.5,-33.5 434.5,-33.5"/>
+<text text-anchor="middle" x="492.5" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameInfo</text>
+<polyline fill="none" stroke="black" points="434.5,-203.5 550.5,-203.5 "/>
+<text text-anchor="start" x="442.5" y="-191.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
+<text text-anchor="start" x="442.5" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
+<text text-anchor="start" x="442.5" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="442.5" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
+<text text-anchor="start" x="442.5" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ image</text>
+<text text-anchor="start" x="442.5" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ move_game_pop_up</text>
+<text text-anchor="start" x="442.5" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ steam_grade_ratings</text>
+<text text-anchor="start" x="442.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
+<text text-anchor="start" x="442.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ import_clicked</text>
+<polyline fill="none" stroke="black" points="434.5,-96.5 550.5,-96.5 "/>
+<text text-anchor="start" x="442.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="442.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ repair_game()</text>
+<text text-anchor="start" x="442.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ verify_game()</text>
+<text text-anchor="start" x="442.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ move_game()</text>
+<text text-anchor="start" x="442.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M399.08,-285.27C408.44,-276.17 417.75,-266.18 425.5,-256 434.64,-244 443.2,-230.58 450.95,-217.08"/>
+<path fill="none" stroke="midnightblue" d="M399.08,-285.27C408.44,-276.17 417.75,-266.18 425.5,-256 433.36,-245.69 440.79,-234.33 447.64,-222.77"/>
 <polygon fill="none" stroke="midnightblue" points="396.45,-282.94 391.6,-292.36 401.27,-288.02 396.45,-282.94"/>
 </g>
 <!-- Node7 -->

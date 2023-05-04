@@ -1,8 +1,5 @@
 var image__manager_8py =
 [
-    [ "Orientation", "classrare_1_1shared_1_1image__manager_1_1_orientation.html", null ],
-    [ "ImageSize", "classrare_1_1shared_1_1image__manager_1_1_image_size.html", "classrare_1_1shared_1_1image__manager_1_1_image_size" ],
-    [ "ImageSize.Preset", "classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset.html", "classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset" ],
     [ "ImageManager", "classrare_1_1shared_1_1image__manager_1_1_image_manager.html", "classrare_1_1shared_1_1image__manager_1_1_image_manager" ],
     [ "ImageManager.Worker", "classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker.html", "classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker" ],
     [ "ImageManager.Worker.Signals", "classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker_1_1_signals.html", null ],

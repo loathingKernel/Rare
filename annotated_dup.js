@@ -315,6 +315,10 @@ var annotated_dup =
           [ "RareEosOverlay", "classrare_1_1models_1_1game_1_1_rare_eos_overlay.html", "classrare_1_1models_1_1game_1_1_rare_eos_overlay" ],
           [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", "classrare_1_1models_1_1game_1_1_rare_game" ]
         ] ],
+        [ "image", "namespacerare_1_1models_1_1image.html", [
+          [ "ImageSize", "classrare_1_1models_1_1image_1_1_image_size.html", "classrare_1_1models_1_1image_1_1_image_size" ],
+          [ "Orientation", "classrare_1_1models_1_1image_1_1_orientation.html", null ]
+        ] ],
         [ "install", "namespacerare_1_1models_1_1install.html", [
           [ "InstallDownloadModel", "classrare_1_1models_1_1install_1_1_install_download_model.html", null ],
           [ "InstallOptionsModel", "classrare_1_1models_1_1install_1_1_install_options_model.html", "classrare_1_1models_1_1install_1_1_install_options_model" ],
@@ -340,9 +344,7 @@ var annotated_dup =
           [ "GameProcess", "classrare_1_1shared_1_1game__process_1_1_game_process.html", "classrare_1_1shared_1_1game__process_1_1_game_process" ]
         ] ],
         [ "image_manager", "namespacerare_1_1shared_1_1image__manager.html", [
-          [ "ImageManager", "classrare_1_1shared_1_1image__manager_1_1_image_manager.html", "classrare_1_1shared_1_1image__manager_1_1_image_manager" ],
-          [ "ImageSize", "classrare_1_1shared_1_1image__manager_1_1_image_size.html", "classrare_1_1shared_1_1image__manager_1_1_image_size" ],
-          [ "Orientation", "classrare_1_1shared_1_1image__manager_1_1_orientation.html", null ]
+          [ "ImageManager", "classrare_1_1shared_1_1image__manager_1_1_image_manager.html", "classrare_1_1shared_1_1image__manager_1_1_image_manager" ]
         ] ],
         [ "rare_core", "namespacerare_1_1shared_1_1rare__core.html", [
           [ "RareCore", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html", "classrare_1_1shared_1_1rare__core_1_1_rare_core" ]

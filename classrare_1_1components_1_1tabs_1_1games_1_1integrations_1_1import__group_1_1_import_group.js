@@ -7,6 +7,7 @@ var classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_
     [ "import_folder_changed", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#ae0eb67daec2b068f800e0270d984af63", null ],
     [ "path_changed", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#a15e71de6245a3435379eb75461f15bc8", null ],
     [ "path_edit_callback", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#a73d508812f73fc699ac06695230c63b1", null ],
+    [ "set_game", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#a699334cac596547e7c6c3d9e2216968a", null ],
     [ "app_name_edit", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#acab432ed33077ce0d5677bea99fdd6e0", null ],
     [ "app_name_list", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#a8a0f355b11b2a6139329f3af569b7f23", null ],
     [ "button_info_stack", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#aeea95fed687974119dbc701338df5fc6", null ],

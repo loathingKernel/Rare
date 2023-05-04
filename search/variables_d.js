@@ -14,7 +14,7 @@ var searchData=
   ['no_5fwrite_5fperm_11',['NO_WRITE_PERM',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_path_edit_reasons.html#ac6ff4fb86285b03d26f0fbffa0d2b35c',1,'rare::components::tabs::games::game_info::move_game::MovePathEditReasons']]],
   ['non_5fasset_12',['NON_ASSET',['../classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker_1_1_result.html#ad1391875bf061dc214f602d6e118da87',1,'rare::shared::workers::fetch::FetchWorker::Result']]],
   ['none_5fprice_13',['none_price',['../classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1store_1_1_ui___shop_widget.html#a777345efa0c16c02834781d01268936d',1,'rare::ui::components::tabs::store::store::Ui_ShopWidget']]],
-  ['normal_14',['Normal',['../classrare_1_1shared_1_1image__manager_1_1_image_size.html#abb5b863a4c7a7cc7d18a288c908b9f0b',1,'rare::shared::image_manager::ImageSize']]],
+  ['normal_14',['Normal',['../classrare_1_1models_1_1image_1_1_image_size.html#abb5b863a4c7a7cc7d18a288c908b9f0b',1,'rare::models::image::ImageSize']]],
   ['not_5finstalled_15',['NOT_INSTALLED',['../classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_common.html#ac4d54d575f79229763df4e7f9d9a0feb',1,'rare::widgets::indicator_edit::IndicatorReasonsCommon']]],
   ['notification_16',['notification',['../classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#a8a6787d1c8ee16160e40f364f75c86c3',1,'rare::ui::components::tabs::settings::rare::Ui_RareSettings']]],
   ['notify_17',['notify',['../classrare_1_1models_1_1signals_1_1_global_signals_1_1_application_signals.html#a8be027e92ffe21dcfaac8debe0df5d2a',1,'rare::models::signals::GlobalSignals::ApplicationSignals']]],

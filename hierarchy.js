@@ -24,7 +24,7 @@ var hierarchy =
       [ "LgndrCLILogHandler", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_c_l_i_log_handler.html", null ],
       [ "LgndrCoreLogHandler", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_core_log_handler.html", null ]
     ] ],
-    [ "ImageSize", "classrare_1_1shared_1_1image__manager_1_1_image_size.html", null ],
+    [ "ImageSize", "classrare_1_1models_1_1image_1_1_image_size.html", null ],
     [ "ImageUrlModel", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_image_url_model.html", null ],
     [ "ImportedGame", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_imported_game.html", null ],
     [ "InstallDownloadModel", "classrare_1_1models_1_1install_1_1_install_download_model.html", null ],
@@ -130,7 +130,7 @@ var hierarchy =
       ] ]
     ] ],
     [ "PathSpec", "classrare_1_1models_1_1pathspec_1_1_path_spec.html", null ],
-    [ "ImageSize.Preset", "classrare_1_1shared_1_1image__manager_1_1_image_size_1_1_preset.html", null ],
+    [ "ImageSize.Preset", "classrare_1_1models_1_1image_1_1_image_size_1_1_preset.html", null ],
     [ "QAbstractItemModel", null, [
       [ "QJsonModel", "classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html", null ]
     ] ],
@@ -150,7 +150,7 @@ var hierarchy =
     [ "UninstallOptionsModel", "classrare_1_1models_1_1install_1_1_uninstall_options_model.html", null ],
     [ "Enum", null, [
       [ "ActivationStates", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_activation_states.html", null ],
-      [ "Orientation", "classrare_1_1shared_1_1image__manager_1_1_orientation.html", null ],
+      [ "Orientation", "classrare_1_1models_1_1image_1_1_orientation.html", null ],
       [ "ImageWidget.Border", "classrare_1_1widgets_1_1image__widget_1_1_image_widget_1_1_border.html", null ]
     ] ],
     [ "IntEnum", null, [

@@ -11,6 +11,7 @@ var classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game
     [ "update_dlcs", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html#af05e53bab1b000d9acc6908e5516192e", null ],
     [ "update_installed_page", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html#a3895241f010a101eabc8b0507bb37069", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html#ab65a1cfe05166d06195718a9587d7b86", null ],
+    [ "implements_scrollarea", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html#a667d39fdfabe75662c24e6268ad500fd", null ],
     [ "rgame", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html#a29f3c8f8d4ae84548a9e5b962851f8a0", null ],
     [ "signals", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html#a0de0a2c91773619dac1660c29940c55e", null ],
     [ "ui", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html#ac492f8de2d00b6c4282e766bfadaf2e7", null ]
