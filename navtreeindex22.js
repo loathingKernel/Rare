@@ -1,7 +1,5 @@
 var NAVTREEINDEX22 =
 {
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1shop__game__info.html#a913f124e7ec09e131318e1e3bcaaa935":[6,0,0,7,0,2,3,0,2],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1shop__game__info.html#ac492f8de2d00b6c4282e766bfadaf2e7":[6,0,0,7,0,2,3,0,3],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1shop__game__info.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,3,0,1],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1store.html":[6,0,0,7,0,2,3,1],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1store.html#ac492f8de2d00b6c4282e766bfadaf2e7":[6,0,0,7,0,2,3,1,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX22 =
 "tab__widgets_8py.html":[8,0,0,0,1,6],
 "tab__widgets_8py_source.html":[8,0,0,0,1,6],
 "thread_8py.html":[8,0,0,0,1,1,3],
-"thread_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,1,1,3,3]
+"thread_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,1,1,3,3],
+"thread_8py_source.html":[8,0,0,0,1,1,3],
+"tray__icon_8py.html":[8,0,0,0,4]
 };

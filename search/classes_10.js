@@ -1,25 +1,7 @@
 var searchData=
 [
-  ['searchresults_0',['SearchResults',['../classrare_1_1components_1_1tabs_1_1shop_1_1search__results_1_1_search_results.html',1,'rare::components::tabs::shop::search_results']]],
-  ['selectviewwidget_1',['SelectViewWidget',['../classrare_1_1utils_1_1extra__widgets_1_1_select_view_widget.html',1,'rare::utils::extra_widgets']]],
-  ['settingstab_2',['SettingsTab',['../classrare_1_1components_1_1tabs_1_1settings_1_1_settings_tab.html',1,'rare::components::tabs::settings']]],
-  ['shop_3',['Shop',['../classrare_1_1components_1_1tabs_1_1shop_1_1_shop.html',1,'rare::components::tabs::shop']]],
-  ['shopapicore_4',['ShopApiCore',['../classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html',1,'rare::components::tabs::shop::shop_api_core']]],
-  ['shopgame_5',['ShopGame',['../classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_shop_game.html',1,'rare::components::tabs::shop::shop_models']]],
-  ['shopgameinfo_6',['ShopGameInfo',['../classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_shop_game_info.html',1,'rare::components::tabs::shop::game_info']]],
-  ['shopwidget_7',['ShopWidget',['../classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html',1,'rare::components::tabs::shop::shop_widget']]],
-  ['sidetabbar_8',['SideTabBar',['../classrare_1_1widgets_1_1side__tab_1_1_side_tab_bar.html',1,'rare::widgets::side_tab']]],
-  ['sidetabcontainer_9',['SideTabContainer',['../classrare_1_1widgets_1_1side__tab_1_1_side_tab_container.html',1,'rare::widgets::side_tab']]],
-  ['sidetabcontents_10',['SideTabContents',['../classrare_1_1widgets_1_1side__tab_1_1_side_tab_contents.html',1,'rare::widgets::side_tab']]],
-  ['sidetabcontentsprotocol_11',['SideTabContentsProtocol',['../classrare_1_1widgets_1_1side__tab_1_1_side_tab_contents_protocol.html',1,'rare::widgets::side_tab']]],
-  ['sidetabwidget_12',['SideTabWidget',['../classrare_1_1widgets_1_1side__tab_1_1_side_tab_widget.html',1,'rare::widgets::side_tab']]],
-  ['signals_13',['Signals',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_worker_1_1_signals.html',1,'ImportWorker.Signals'],['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker_1_1_signals.html',1,'UbiConnectWorker.Signals'],['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker_1_1_signals.html',1,'UbiGetInfoWorker.Signals'],['../classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker_1_1_signals.html',1,'RefreshGameMetaWorker.Signals'],['../classrare_1_1game__launch__helper_1_1_pre_launch_thread_1_1_signals.html',1,'PreLaunchThread.Signals'],['../classrare_1_1game__launch__helper_1_1_sync_check_worker_1_1_signals.html',1,'SyncCheckWorker.Signals'],['../classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals.html',1,'RareGameBase.Signals'],['../classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker_1_1_signals.html',1,'ImageManager.Worker.Signals'],['../classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker_1_1_signals.html',1,'FetchWorker.Signals'],['../classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker_1_1_signals.html',1,'InstallInfoWorker.Signals'],['../classrare_1_1shared_1_1workers_1_1move_1_1_move_worker_1_1_signals.html',1,'MoveWorker.Signals'],['../classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker_1_1_signals.html',1,'UninstallWorker.Signals'],['../classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker_1_1_signals.html',1,'VerifyWorker.Signals'],['../classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_resolver_1_1_signals.html',1,'WineResolver.Signals'],['../classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_1_1_signals.html',1,'QueueWorker.Signals'],['../classrare_1_1utils_1_1misc_1_1_cloud_worker_1_1_signals.html',1,'CloudWorker.Signals'],['../classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable_1_1_signals.html',1,'EditFuncRunnable.Signals']]],
-  ['singleinstance_14',['SingleInstance',['../classrare_1_1utils_1_1singleton_1_1_single_instance.html',1,'rare::utils::singleton']]],
-  ['singleinstanceexception_15',['SingleInstanceException',['../classrare_1_1utils_1_1singleton_1_1_single_instance_exception.html',1,'rare::utils::singleton']]],
-  ['slidingstackedwidget_16',['SlidingStackedWidget',['../classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html',1,'rare::widgets::sliding_stack']]],
-  ['socialbutton_17',['SocialButton',['../classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_social_button.html',1,'rare::components::tabs::shop::game_info']]],
-  ['state_18',['State',['../classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_state.html',1,'rare::models::base_game::RareGameBase']]],
-  ['statechangedmodel_19',['StateChangedModel',['../classrare_1_1models_1_1launcher_1_1_state_changed_model.html',1,'rare::models::launcher']]],
-  ['states_20',['States',['../classrare_1_1models_1_1launcher_1_1_state_changed_model_1_1_states.html',1,'rare::models::launcher::StateChangedModel']]],
-  ['synccheckworker_21',['SyncCheckWorker',['../classrare_1_1game__launch__helper_1_1_sync_check_worker.html',1,'rare::game_launch_helper']]]
+  ['tabbuttonwidget_0',['TabButtonWidget',['../classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_tab_button_widget.html',1,'rare::components::tabs::tab_widgets']]],
+  ['tagcheckbox_1',['TagCheckBox',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box.html',1,'rare::components::dialogs::install_dialog']]],
+  ['textinputfield_2',['TextInputField',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_text_input_field.html',1,'rare::components::tabs::settings::widgets::overlay_settings']]],
+  ['trayicon_3',['TrayIcon',['../classrare_1_1components_1_1tray__icon_1_1_tray_icon.html',1,'rare::components::tray_icon']]]
 ];

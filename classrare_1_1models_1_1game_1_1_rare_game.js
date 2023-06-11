@@ -27,7 +27,7 @@ var classrare_1_1models_1_1game_1_1_rare_game =
     [ "needs_verification", "classrare_1_1models_1_1game_1_1_rare_game.html#a1a4bfcf7c05fd421c0ca97ef40937cf8", null ],
     [ "refresh_pixmap", "classrare_1_1models_1_1game_1_1_rare_game.html#a974efcc254c209206208ddd4d9f391a8", null ],
     [ "remote_version", "classrare_1_1models_1_1game_1_1_rare_game.html#adf94568f84b36f0c783d76df96936a8b", null ],
-    [ "repair", "classrare_1_1models_1_1game_1_1_rare_game.html#aa5142e78cf34574b723237f85dd662ce", null ],
+    [ "repair", "classrare_1_1models_1_1game_1_1_rare_game.html#a1af54dec5ecebc74c9e5d6fdd9e32612", null ],
     [ "repair_file", "classrare_1_1models_1_1game_1_1_rare_game.html#ab45e02ca446eec97ef2a9d3c20253a73", null ],
     [ "save_path", "classrare_1_1models_1_1game_1_1_rare_game.html#ae67c92b74c05707f28c4430681aaa860", null ],
     [ "save_path", "classrare_1_1models_1_1game_1_1_rare_game.html#a539fe458d8793eac2e6173614cb92cf4", null ],

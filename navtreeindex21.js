@@ -1,7 +1,5 @@
 var NAVTREEINDEX21 =
 {
-"namespacerare_1_1components_1_1tabs_1_1settings_1_1legendary.html":[6,0,0,2,2,3,3],
-"namespacerare_1_1components_1_1tabs_1_1settings_1_1legendary.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,2,2,3,3,2],
 "namespacerare_1_1components_1_1tabs_1_1settings_1_1rare.html":[6,0,0,2,2,3,4],
 "namespacerare_1_1components_1_1tabs_1_1settings_1_1rare.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,2,2,3,4,2],
 "namespacerare_1_1components_1_1tabs_1_1settings_1_1rare.html#aa175cbfe74f4454eeedb6dff363c5a2e":[6,0,0,2,2,3,4,1],
@@ -99,7 +97,7 @@ var NAVTREEINDEX21 =
 "namespacerare_1_1shared_1_1rare__core.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,6,2,1],
 "namespacerare_1_1shared_1_1workers.html":[6,0,0,6,3],
 "namespacerare_1_1shared_1_1workers_1_1fetch.html":[6,0,0,6,3,0],
-"namespacerare_1_1shared_1_1workers_1_1fetch.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,6,3,0,3],
+"namespacerare_1_1shared_1_1workers_1_1fetch.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,6,3,0,1],
 "namespacerare_1_1shared_1_1workers_1_1install__info.html":[6,0,0,6,3,1],
 "namespacerare_1_1shared_1_1workers_1_1install__info.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,6,3,1,1],
 "namespacerare_1_1shared_1_1workers_1_1move.html":[6,0,0,6,3,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX21 =
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper.html#ac492f8de2d00b6c4282e766bfadaf2e7":[6,0,0,7,0,2,2,6,3,2],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,7,0,2,2,6,3,1],
 "namespacerare_1_1ui_1_1components_1_1tabs_1_1store.html":[6,0,0,7,0,2,3],
-"namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1shop__game__info.html":[6,0,0,7,0,2,3,0]
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1shop__game__info.html":[6,0,0,7,0,2,3,0],
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1shop__game__info.html#a913f124e7ec09e131318e1e3bcaaa935":[6,0,0,7,0,2,3,0,2],
+"namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1shop__game__info.html#ac492f8de2d00b6c4282e766bfadaf2e7":[6,0,0,7,0,2,3,0,3]
 };

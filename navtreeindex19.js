@@ -1,7 +1,5 @@
 var NAVTREEINDEX19 =
 {
-"components_2tabs_2settings_2about_8py.html":[8,0,0,0,1,3,2],
-"components_2tabs_2settings_2about_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,1,3,2,2],
 "components_2tabs_2settings_2about_8py.html#ac1dbb48f4b91b2a65eb3fb6310d83a14":[8,0,0,0,1,3,2,1],
 "components_2tabs_2settings_2about_8py_source.html":[8,0,0,0,1,3,2],
 "components_2tabs_2settings_2game__settings_8py.html":[8,0,0,0,1,3,4],
@@ -142,7 +140,7 @@ var NAVTREEINDEX19 =
 "extra__widgets_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,6,2,4],
 "extra__widgets_8py_source.html":[8,0,0,6,2],
 "fetch_8py.html":[8,0,0,4,0,1],
-"fetch_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,4,0,1,5],
+"fetch_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,4,0,1,3],
 "fetch_8py_source.html":[8,0,0,4,0,1],
 "files.html":[8,0],
 "flow__layout_8py.html":[8,0,0,7,3],
@@ -155,8 +153,8 @@ var NAVTREEINDEX19 =
 "functions_d.html":[7,3,0,4],
 "functions_e.html":[7,3,0,5],
 "functions_f.html":[7,3,0,6],
-"functions_func.html":[7,3,1],
 "functions_func.html":[7,3,1,0],
+"functions_func.html":[7,3,1],
 "functions_func_a.html":[7,3,1,1],
 "functions_func_b.html":[7,3,1,2],
 "functions_func_c.html":[7,3,1,3],
@@ -196,8 +194,8 @@ var NAVTREEINDEX19 =
 "functions_t.html":[7,3,0,20],
 "functions_u.html":[7,3,0,21],
 "functions_v.html":[7,3,0,22],
-"functions_vars.html":[7,3,2],
 "functions_vars.html":[7,3,2,0],
+"functions_vars.html":[7,3,2],
 "functions_vars_b.html":[7,3,2,1],
 "functions_vars_c.html":[7,3,2,2],
 "functions_vars_d.html":[7,3,2,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX19 =
 "head__bar_8py.html":[8,0,0,0,1,2,4],
 "head__bar_8py_source.html":[8,0,0,0,1,2,4],
 "hierarchy.html":[7,2],
-"icon__game__widget_8py.html":[8,0,0,0,1,2,1,2]
+"icon__game__widget_8py.html":[8,0,0,0,1,2,1,2],
+"icon__game__widget_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,1,2,1,2,1],
+"icon__game__widget_8py_source.html":[8,0,0,0,1,2,1,2]
 };

@@ -351,9 +351,7 @@ var annotated_dup =
         ] ],
         [ "workers", "namespacerare_1_1shared_1_1workers.html", [
           [ "fetch", "namespacerare_1_1shared_1_1workers_1_1fetch.html", [
-            [ "FetchWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker" ],
-            [ "GamesWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_games_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_games_worker" ],
-            [ "NonAssetWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_non_asset_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_non_asset_worker" ]
+            [ "FetchWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker" ]
           ] ],
           [ "install_info", "namespacerare_1_1shared_1_1workers_1_1install__info.html", [
             [ "InstallInfoWorker", "classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker.html", "classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker" ]

@@ -1,7 +1,5 @@
 var NAVTREEINDEX23 =
 {
-"thread_8py_source.html":[8,0,0,0,1,1,3],
-"tray__icon_8py.html":[8,0,0,0,4],
 "tray__icon_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,4,1],
 "tray__icon_8py_source.html":[8,0,0,0,4],
 "ubisoft__group_8py.html":[8,0,0,0,1,2,2,4],

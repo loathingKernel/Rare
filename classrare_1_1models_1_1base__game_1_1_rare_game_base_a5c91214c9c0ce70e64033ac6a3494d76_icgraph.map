@@ -1,8 +1,9 @@
 <map id="is_idle" name="is_idle">
-<area shape="rect" id="node1" title=" " alt="" coords="823,119,881,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="823,157,881,183"/>
 <area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a4431ce8cf18e5dd3414d8882e585bd8d" title=" " alt="" coords="548,29,761,71"/>
 <area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_game.html#aae0820b518a5472343effc0dbeac6a1f" title=" " alt="" coords="541,119,768,146"/>
-<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a57ae42bf2cdbf9fc08a1a94eaabaa93b" title=" " alt="" coords="535,194,775,221"/>
+<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1af54dec5ecebc74c9e5d6fdd9e32612" title=" " alt="" coords="543,194,767,221"/>
+<area shape="rect" id="node7" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a57ae42bf2cdbf9fc08a1a94eaabaa93b" title=" " alt="" coords="535,269,775,295"/>
 <area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ab82459b9faa06688eab18988ab4024e6" title=" " alt="" coords="256,37,487,63"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" title=" " alt="" coords="5,29,208,71"/>
 </map>

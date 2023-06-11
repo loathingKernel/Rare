@@ -141,27 +141,28 @@ var sectionId = 'dynsection-0';
 <g id="node6" class="node">
 <title>Node6</title>
 <g id="a_node6"><a xlink:href="classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="377,-182.5 377,-261.5 449,-261.5 449,-182.5 377,-182.5"/>
-<text text-anchor="middle" x="413" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">FetchWorker</text>
-<polyline fill="none" stroke="black" points="377,-242.5 449,-242.5 "/>
-<text text-anchor="start" x="385" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
-<text text-anchor="start" x="385" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="385" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
-<polyline fill="none" stroke="black" points="377,-201.5 449,-201.5 "/>
-<text text-anchor="start" x="385" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<polygon fill="white" stroke="black" points="377,-177 377,-267 449,-267 449,-177 377,-177"/>
+<text text-anchor="middle" x="413" y="-255" font-family="Helvetica,sans-Serif" font-size="10.00">FetchWorker</text>
+<polyline fill="none" stroke="black" points="377,-248 449,-248 "/>
+<text text-anchor="start" x="385" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
+<text text-anchor="start" x="385" y="-225" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="385" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
+<polyline fill="none" stroke="black" points="377,-207 449,-207 "/>
+<text text-anchor="start" x="385" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="385" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ run_real()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M440.55,-299.47C435.95,-286.7 431.21,-273.53 426.97,-261.79"/>
+<path fill="none" stroke="midnightblue" d="M440.6,-299.62C436.66,-288.67 432.61,-277.42 428.86,-267.02"/>
 <polygon fill="none" stroke="midnightblue" points="437.35,-300.91 444.03,-309.13 443.94,-298.54 437.35,-300.91"/>
 </g>
-<!-- Node9 -->
-<g id="node9" class="node">
-<title>Node9</title>
-<g id="a_node9"><a xlink:href="classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker.html" target="_top" xlink:title=" ">
+<!-- Node7 -->
+<g id="node7" class="node">
+<title>Node7</title>
+<g id="a_node7"><a xlink:href="classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="467,-177 467,-267 557,-267 557,-177 467,-177"/>
 <text text-anchor="middle" x="512" y="-255" font-family="Helvetica,sans-Serif" font-size="10.00">InstallInfoWorker</text>
 <polyline fill="none" stroke="black" points="467,-248 557,-248 "/>
@@ -174,16 +175,16 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node9 -->
-<g id="edge8" class="edge">
-<title>Node1&#45;&gt;Node9</title>
+<!-- Node1&#45;&gt;Node7 -->
+<g id="edge6" class="edge">
+<title>Node1&#45;&gt;Node7</title>
 <path fill="none" stroke="midnightblue" d="M483.83,-299.62C487.86,-288.67 491.99,-277.42 495.81,-267.02"/>
 <polygon fill="none" stroke="midnightblue" points="480.5,-298.54 480.33,-309.13 487.07,-300.95 480.5,-298.54"/>
 </g>
-<!-- Node10 -->
-<g id="node10" class="node">
-<title>Node10</title>
-<g id="a_node10"><a xlink:href="classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html" target="_top" xlink:title=" ">
+<!-- Node8 -->
+<g id="node8" class="node">
+<title>Node8</title>
+<g id="a_node8"><a xlink:href="classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="575,-171.5 575,-272.5 661,-272.5 661,-171.5 575,-171.5"/>
 <text text-anchor="middle" x="618" y="-260.5" font-family="Helvetica,sans-Serif" font-size="10.00">UninstallWorker</text>
 <polyline fill="none" stroke="black" points="575,-253.5 661,-253.5 "/>
@@ -197,16 +198,16 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node10 -->
-<g id="edge9" class="edge">
-<title>Node1&#45;&gt;Node10</title>
+<!-- Node1&#45;&gt;Node8 -->
+<g id="edge7" class="edge">
+<title>Node1&#45;&gt;Node8</title>
 <path fill="none" stroke="midnightblue" d="M502.65,-326.57C522.1,-310.74 545.56,-291.23 566,-273 568.9,-270.42 571.86,-267.72 574.82,-264.99"/>
 <polygon fill="none" stroke="midnightblue" points="500.42,-323.87 494.85,-332.88 504.82,-329.31 500.42,-323.87"/>
 </g>
-<!-- Node11 -->
-<g id="node11" class="node">
-<title>Node11</title>
-<g id="a_node11"><a xlink:href="classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_resolver.html" target="_top" xlink:title=" ">
+<!-- Node9 -->
+<g id="node9" class="node">
+<title>Node9</title>
+<g id="a_node9"><a xlink:href="classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_resolver.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="679.5,-171.5 679.5,-272.5 756.5,-272.5 756.5,-171.5 679.5,-171.5"/>
 <text text-anchor="middle" x="718" y="-260.5" font-family="Helvetica,sans-Serif" font-size="10.00">WineResolver</text>
 <polyline fill="none" stroke="black" points="679.5,-253.5 756.5,-253.5 "/>
@@ -220,16 +221,16 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node11 -->
-<g id="edge10" class="edge">
-<title>Node1&#45;&gt;Node11</title>
+<!-- Node1&#45;&gt;Node9 -->
+<g id="edge8" class="edge">
+<title>Node1&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M504.48,-347.14C548.4,-333.61 617.75,-308.66 670,-273 673.18,-270.83 676.32,-268.42 679.37,-265.87"/>
 <polygon fill="none" stroke="midnightblue" points="503.26,-343.85 494.7,-350.09 505.28,-350.55 503.26,-343.85"/>
 </g>
-<!-- Node12 -->
-<g id="node12" class="node">
-<title>Node12</title>
-<g id="a_node12"><a xlink:href="classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker.html" target="_top" xlink:title="Base queueable worker class.">
+<!-- Node10 -->
+<g id="node10" class="node">
+<title>Node10</title>
+<g id="a_node10"><a xlink:href="classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker.html" target="_top" xlink:title="Base queueable worker class.">
 <polygon fill="white" stroke="black" points="774.5,-171.5 774.5,-272.5 855.5,-272.5 855.5,-171.5 774.5,-171.5"/>
 <text text-anchor="middle" x="815" y="-260.5" font-family="Helvetica,sans-Serif" font-size="10.00">QueueWorker</text>
 <polyline fill="none" stroke="black" points="774.5,-253.5 855.5,-253.5 "/>
@@ -243,9 +244,9 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node12 -->
-<g id="edge11" class="edge">
-<title>Node1&#45;&gt;Node12</title>
+<!-- Node1&#45;&gt;Node10 -->
+<g id="edge9" class="edge">
+<title>Node1&#45;&gt;Node10</title>
 <path fill="none" stroke="midnightblue" d="M504.7,-353.81C565.91,-344.9 680.53,-322.6 765,-273 768.18,-271.14 771.29,-269.02 774.32,-266.74"/>
 <polygon fill="none" stroke="midnightblue" points="504.04,-350.37 494.63,-355.23 505.02,-357.3 504.04,-350.37"/>
 </g>
@@ -268,48 +269,10 @@ var sectionId = 'dynsection-0';
 <path fill="none" stroke="midnightblue" d="M462,-437.35C462,-428.8 462,-419.58 462,-410.61"/>
 <polygon fill="none" stroke="midnightblue" points="458.5,-437.4 462,-447.4 465.5,-437.4 458.5,-437.4"/>
 </g>
-<!-- Node7 -->
-<g id="node7" class="node">
-<title>Node7</title>
-<g id="a_node7"><a xlink:href="classrare_1_1shared_1_1workers_1_1fetch_1_1_games_worker.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="322.5,-39 322.5,-96 401.5,-96 401.5,-39 322.5,-39"/>
-<text text-anchor="middle" x="362" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">GamesWorker</text>
-<polyline fill="none" stroke="black" points="322.5,-77 401.5,-77 "/>
-<text text-anchor="middle" x="362" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="322.5,-58 401.5,-58 "/>
-<text text-anchor="start" x="330.5" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">+ run_real()</text>
-</a>
-</g>
-</g>
-<!-- Node6&#45;&gt;Node7 -->
-<g id="edge6" class="edge">
-<title>Node6&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M396.74,-172.39C388.33,-147.24 378.37,-117.45 371.28,-96.24"/>
-<polygon fill="none" stroke="midnightblue" points="393.51,-173.75 400,-182.12 400.15,-171.53 393.51,-173.75"/>
-</g>
-<!-- Node8 -->
-<g id="node8" class="node">
-<title>Node8</title>
-<g id="a_node8"><a xlink:href="classrare_1_1shared_1_1workers_1_1fetch_1_1_non_asset_worker.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="419.5,-39 419.5,-96 510.5,-96 510.5,-39 419.5,-39"/>
-<text text-anchor="middle" x="465" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">NonAssetWorker</text>
-<polyline fill="none" stroke="black" points="419.5,-77 510.5,-77 "/>
-<text text-anchor="middle" x="465" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="419.5,-58 510.5,-58 "/>
-<text text-anchor="start" x="427.5" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">+ run_real()</text>
-</a>
-</g>
-</g>
-<!-- Node6&#45;&gt;Node8 -->
-<g id="edge7" class="edge">
-<title>Node6&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M429.58,-172.39C438.15,-147.24 448.31,-117.45 455.54,-96.24"/>
-<polygon fill="none" stroke="midnightblue" points="426.17,-171.53 426.26,-182.12 432.8,-173.79 426.17,-171.53"/>
-</g>
-<!-- Node13 -->
-<g id="node13" class="node">
-<title>Node13</title>
-<g id="a_node13"><a xlink:href="classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html" target="_top" xlink:title=" ">
+<!-- Node11 -->
+<g id="node11" class="node">
+<title>Node11</title>
+<g id="a_node11"><a xlink:href="classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="720.5,-0.5 720.5,-134.5 801.5,-134.5 801.5,-0.5 720.5,-0.5"/>
 <text text-anchor="middle" x="761" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">MoveWorker</text>
 <polyline fill="none" stroke="black" points="720.5,-115.5 801.5,-115.5 "/>
@@ -326,16 +289,16 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node12&#45;&gt;Node13 -->
-<g id="edge12" class="edge">
-<title>Node12&#45;&gt;Node13</title>
+<!-- Node10&#45;&gt;Node11 -->
+<g id="edge10" class="edge">
+<title>Node10&#45;&gt;Node11</title>
 <path fill="none" stroke="midnightblue" d="M794.09,-161.95C790.93,-153.02 787.65,-143.76 784.44,-134.69"/>
 <polygon fill="none" stroke="midnightblue" points="790.83,-163.23 797.47,-171.49 797.43,-160.89 790.83,-163.23"/>
 </g>
-<!-- Node14 -->
-<g id="node14" class="node">
-<title>Node14</title>
-<g id="a_node14"><a xlink:href="classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html" target="_top" xlink:title=" ">
+<!-- Node12 -->
+<g id="node12" class="node">
+<title>Node12</title>
+<g id="a_node12"><a xlink:href="classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="819.5,-6 819.5,-129 918.5,-129 918.5,-6 819.5,-6"/>
 <text text-anchor="middle" x="869" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00">VerifyWorker</text>
 <polyline fill="none" stroke="black" points="819.5,-110 918.5,-110 "/>
@@ -351,9 +314,9 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node12&#45;&gt;Node14 -->
-<g id="edge13" class="edge">
-<title>Node12&#45;&gt;Node14</title>
+<!-- Node10&#45;&gt;Node12 -->
+<g id="edge11" class="edge">
+<title>Node10&#45;&gt;Node12</title>
 <path fill="none" stroke="midnightblue" d="M835.95,-161.82C839.74,-151.13 843.7,-139.96 847.5,-129.22"/>
 <polygon fill="none" stroke="midnightblue" points="832.57,-160.89 832.53,-171.49 839.17,-163.23 832.57,-160.89"/>
 </g>

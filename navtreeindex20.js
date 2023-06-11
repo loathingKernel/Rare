@@ -1,7 +1,5 @@
 var NAVTREEINDEX20 =
 {
-"icon__game__widget_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,1,2,1,2,1],
-"icon__game__widget_8py_source.html":[8,0,0,0,1,2,1,2],
 "icon__widget_8py.html":[8,0,0,0,1,2,1,3],
 "icon__widget_8py_source.html":[8,0,0,0,1,2,1,3],
 "image_8py.html":[8,0,0,3,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX20 =
 "namespacerare_1_1components_1_1tabs_1_1settings_1_1about.html#ac1dbb48f4b91b2a65eb3fb6310d83a14":[6,0,0,2,2,3,0,1],
 "namespacerare_1_1components_1_1tabs_1_1settings_1_1debug.html":[6,0,0,2,2,3,1],
 "namespacerare_1_1components_1_1tabs_1_1settings_1_1game__settings.html":[6,0,0,2,2,3,2],
-"namespacerare_1_1components_1_1tabs_1_1settings_1_1game__settings.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,2,2,3,2,2]
+"namespacerare_1_1components_1_1tabs_1_1settings_1_1game__settings.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,2,2,3,2,2],
+"namespacerare_1_1components_1_1tabs_1_1settings_1_1legendary.html":[6,0,0,2,2,3,3],
+"namespacerare_1_1components_1_1tabs_1_1settings_1_1legendary.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,2,2,3,3,2]
 };
