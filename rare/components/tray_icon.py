@@ -5,6 +5,7 @@ from PyQt5.QtCore import pyqtSignal, pyqtSlot, QSettings
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import QSystemTrayIcon, QMenu, QAction, QApplication
 
+from rare.models.options import options
 from rare.shared import RareCore
 
 logger = getLogger("TrayIcon")
@@ -61,7 +62,7 @@ class TrayIcon(QSystemTrayIcon):
 
     @pyqtSlot(str)
     def notify(self, app_name: str):
-        if self.settings.value("notification", True, bool):
+        if self.settings.value(*options.notification):
             self.showMessage(
                 self.tr("Download finished"),
                 self.tr("Download finished. {} is playable now").format(
