@@ -9,6 +9,7 @@ var classrare_1_1models_1_1base__game_1_1_rare_game_slim =
     [ "is_win32", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a8e715359c3ecbc7c4431eab18f52b604", null ],
     [ "latest_save", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a404bbb07be9289ca5650e32cb2c01eeb", null ],
     [ "load_saves", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a09658b980eca0a97191099319bf89b84", null ],
+    [ "platforms", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a030a686885e9e90bfbcd7f7f61fa318b", null ],
     [ "raw_save_path", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#ae8eb31126e127eca7f2462691555aa69", null ],
     [ "raw_save_path_mac", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a0f2d9c223a1b00d1d2b0c985ad743b2b", null ],
     [ "save_game_state", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a299a7ea18948f61b7235c7bf6e7fa8af", null ],

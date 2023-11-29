@@ -4,6 +4,7 @@ var dir_ef8924b2d63133e6517fd29e74e0600f =
     [ "config_helper.py", "config__helper_8py.html", "config__helper_8py" ],
     [ "extra_widgets.py", "extra__widgets_8py.html", "extra__widgets_8py" ],
     [ "json_formatter.py", "json__formatter_8py.html", "json__formatter_8py" ],
+    [ "metrics.py", "metrics_8py.html", "metrics_8py" ],
     [ "misc.py", "misc_8py.html", "misc_8py" ],
     [ "paths.py", "paths_8py.html", "paths_8py" ],
     [ "qt_requests.py", "qt__requests_8py.html", "qt__requests_8py" ],

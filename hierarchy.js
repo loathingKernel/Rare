@@ -97,9 +97,7 @@ var hierarchy =
       [ "Ui_RPCSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_ui___r_p_c_settings.html", [
         [ "RPCSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings.html", null ]
       ] ],
-      [ "Ui_WrapperSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_ui___wrapper_settings.html", [
-        [ "WrapperSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html", null ]
-      ] ],
+      [ "Ui_WrapperSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_ui___wrapper_settings.html", null ],
       [ "Ui_shop_info", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1shop__game__info_1_1_ui__shop__info.html", [
         [ "ShopGameInfo", "classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_shop_game_info.html", null ]
       ] ],
@@ -148,6 +146,7 @@ var hierarchy =
     [ "StateChangedModel.States", "classrare_1_1models_1_1launcher_1_1_state_changed_model_1_1_states.html", null ],
     [ "UIUpdate", "classrare_1_1lgndr_1_1models_1_1downloading_1_1_u_i_update.html", null ],
     [ "UninstallOptionsModel", "classrare_1_1models_1_1install_1_1_uninstall_options_model.html", null ],
+    [ "Wrapper", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper.html", null ],
     [ "Enum", null, [
       [ "ActivationStates", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_activation_states.html", null ],
       [ "Orientation", "classrare_1_1models_1_1image_1_1_orientation.html", null ],
@@ -200,11 +199,11 @@ var hierarchy =
       [ "InstallDialog", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html", null ],
       [ "LaunchDialog", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html", null ],
       [ "LoginDialog", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html", null ],
-      [ "PathInputDialog", "classrare_1_1components_1_1dialogs_1_1path__input__dialog_1_1_path_input_dialog.html", null ],
       [ "UninstallDialog", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html", null ],
       [ "MainDialog", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_main_dialog.html", null ],
       [ "Console", "classrare_1_1game__launch__helper_1_1console_1_1_console.html", null ],
-      [ "ConsoleEnv", "classrare_1_1game__launch__helper_1_1console_1_1_console_env.html", null ]
+      [ "ConsoleEnv", "classrare_1_1game__launch__helper_1_1console_1_1_console_env.html", null ],
+      [ "PathInputDialog", "classrare_1_1widgets_1_1path__input__dialog_1_1_path_input_dialog.html", null ]
     ] ],
     [ "QFileIconProvider", null, [
       [ "PathEditIconProvider", "classrare_1_1widgets_1_1indicator__edit_1_1_path_edit_icon_provider.html", null ]
@@ -219,6 +218,7 @@ var hierarchy =
         [ "AvailableGameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_available_game_dlc_widget.html", null ],
         [ "InstalledGameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_installed_game_dlc_widget.html", null ]
       ] ],
+      [ "UbiLinkWidget", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html", null ],
       [ "WrapperWidget", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_widget.html", null ],
       [ "CollapsibleFrame", "classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame.html", null ]
     ] ],
@@ -390,7 +390,6 @@ var hierarchy =
       [ "MoveGamePopUp", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_game_pop_up.html", null ],
       [ "GameListHeadBar", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_game_list_head_bar.html", null ],
       [ "IntegrationsWidget", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_widget.html", null ],
-      [ "UbiLinkWidget", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html", null ],
       [ "About", "classrare_1_1components_1_1tabs_1_1settings_1_1about_1_1_about.html", null ],
       [ "DebugSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1debug_1_1_debug_settings.html", null ],
       [ "DefaultGameSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1game__settings_1_1_default_game_settings.html", [

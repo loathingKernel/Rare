@@ -13,6 +13,5 @@ var namespacerare =
     [ "shared", "namespacerare_1_1shared.html", "namespacerare_1_1shared" ],
     [ "ui", "namespacerare_1_1ui.html", "namespacerare_1_1ui" ],
     [ "utils", "namespacerare_1_1utils.html", "namespacerare_1_1utils" ],
-    [ "widgets", "namespacerare_1_1widgets.html", "namespacerare_1_1widgets" ],
-    [ "code_name", "namespacerare.html#aa19420c12586b7fc41c10b58631a6c30", null ]
+    [ "widgets", "namespacerare_1_1widgets.html", "namespacerare_1_1widgets" ]
 ];

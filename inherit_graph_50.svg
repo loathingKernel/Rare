@@ -9,9 +9,9 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 176)">
 <title>Graphical Class Hierarchy</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-176 170,-176 170,4 -4,4"/>
-<!-- Node192 -->
+<!-- Node193 -->
 <g id="node1" class="node">
-<title>Node192</title>
+<title>Node193</title>
 <g id="a_node1"><a xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="0,-76.5 0,-95.5 48,-95.5 48,-76.5 0,-76.5"/>
 <text text-anchor="middle" x="24" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">QLabel</text>
@@ -27,69 +27,69 @@
 </a>
 </g>
 </g>
-<!-- Node192&#45;&gt;Node0 -->
+<!-- Node193&#45;&gt;Node0 -->
 <g id="edge1" class="edge">
-<title>Node192&#45;&gt;Node0</title>
+<title>Node193&#45;&gt;Node0</title>
 <path fill="none" stroke="midnightblue" d="M40.33,-103.58C51.56,-115.72 67.64,-131.67 84,-143 89.06,-146.5 94.86,-149.67 100.45,-152.37"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="42.68,-100.96 33.38,-95.88 37.48,-105.65 42.68,-100.96"/>
 </g>
-<!-- Node194 -->
+<!-- Node195 -->
 <g id="node3" class="node">
-<title>Node194</title>
+<title>Node195</title>
 <g id="a_node3"><a xlink:href="classrare_1_1utils_1_1extra__widgets_1_1_image_label.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="91,-114.5 91,-133.5 159,-133.5 159,-114.5 91,-114.5"/>
 <text text-anchor="middle" x="125" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageLabel</text>
 </a>
 </g>
 </g>
-<!-- Node192&#45;&gt;Node194 -->
+<!-- Node193&#45;&gt;Node195 -->
 <g id="edge2" class="edge">
-<title>Node192&#45;&gt;Node194</title>
+<title>Node193&#45;&gt;Node195</title>
 <path fill="none" stroke="midnightblue" d="M57.66,-98.54C71.19,-103.73 86.63,-109.65 99.2,-114.48"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="58.8,-95.23 48.21,-94.91 56.29,-101.76 58.8,-95.23"/>
 </g>
-<!-- Node195 -->
+<!-- Node196 -->
 <g id="node4" class="node">
-<title>Node195</title>
+<title>Node196</title>
 <g id="a_node4"><a xlink:href="classrare_1_1utils_1_1extra__widgets_1_1_waiting_spinner.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="84,-76.5 84,-95.5 166,-95.5 166,-76.5 84,-76.5"/>
 <text text-anchor="middle" x="125" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">WaitingSpinner</text>
 </a>
 </g>
 </g>
-<!-- Node192&#45;&gt;Node195 -->
+<!-- Node193&#45;&gt;Node196 -->
 <g id="edge3" class="edge">
-<title>Node192&#45;&gt;Node195</title>
+<title>Node193&#45;&gt;Node196</title>
 <path fill="none" stroke="midnightblue" d="M58.48,-86C66.64,-86 75.45,-86 83.88,-86"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="58.21,-82.5 48.21,-86 58.21,-89.5 58.21,-82.5"/>
 </g>
-<!-- Node196 -->
+<!-- Node197 -->
 <g id="node5" class="node">
-<title>Node196</title>
+<title>Node197</title>
 <g id="a_node5"><a xlink:href="classrare_1_1widgets_1_1elide__label_1_1_elide_label.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="94,-38.5 94,-57.5 156,-57.5 156,-38.5 94,-38.5"/>
 <text text-anchor="middle" x="125" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">ElideLabel</text>
 </a>
 </g>
 </g>
-<!-- Node192&#45;&gt;Node196 -->
+<!-- Node193&#45;&gt;Node197 -->
 <g id="edge4" class="edge">
-<title>Node192&#45;&gt;Node196</title>
+<title>Node193&#45;&gt;Node197</title>
 <path fill="none" stroke="midnightblue" d="M57.66,-73.46C71.19,-68.27 86.63,-62.35 99.2,-57.52"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="56.29,-70.24 48.21,-77.09 58.8,-76.77 56.29,-70.24"/>
 </g>
-<!-- Node197 -->
+<!-- Node198 -->
 <g id="node6" class="node">
-<title>Node197</title>
+<title>Node198</title>
 <g id="a_node6"><a xlink:href="classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="84.5,-0.5 84.5,-19.5 165.5,-19.5 165.5,-0.5 84.5,-0.5"/>
 <text text-anchor="middle" x="125" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">LoadingWidget</text>
 </a>
 </g>
 </g>
-<!-- Node192&#45;&gt;Node197 -->
+<!-- Node193&#45;&gt;Node198 -->
 <g id="edge5" class="edge">
-<title>Node192&#45;&gt;Node197</title>
+<title>Node193&#45;&gt;Node198</title>
 <path fill="none" stroke="midnightblue" d="M40.33,-68.42C51.56,-56.28 67.64,-40.33 84,-29 89.06,-25.5 94.86,-22.33 100.45,-19.63"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="37.48,-66.35 33.38,-76.12 42.68,-71.04 37.48,-66.35"/>
 </g>

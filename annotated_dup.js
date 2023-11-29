@@ -29,9 +29,6 @@ var annotated_dup =
             [ "LoginDialog", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog" ],
             [ "LoginPages", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_pages.html", null ]
           ] ],
-          [ "path_input_dialog", "namespacerare_1_1components_1_1dialogs_1_1path__input__dialog.html", [
-            [ "PathInputDialog", "classrare_1_1components_1_1dialogs_1_1path__input__dialog_1_1_path_input_dialog.html", "classrare_1_1components_1_1dialogs_1_1path__input__dialog_1_1_path_input_dialog" ]
-          ] ],
           [ "uninstall_dialog", "namespacerare_1_1components_1_1dialogs_1_1uninstall__dialog.html", [
             [ "UninstallDialog", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog" ]
           ] ]
@@ -197,6 +194,7 @@ var annotated_dup =
                 [ "RPCSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings" ]
               ] ],
               [ "wrapper", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper.html", [
+                [ "Wrapper", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper.html", null ],
                 [ "WrapperContainer", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_container.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_container" ],
                 [ "WrapperSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings" ],
                 [ "WrapperWidget", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_widget.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_widget" ]
@@ -568,6 +566,9 @@ var annotated_dup =
         ] ],
         [ "loading_widget", "namespacerare_1_1widgets_1_1loading__widget.html", [
           [ "LoadingWidget", "classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html", "classrare_1_1widgets_1_1loading__widget_1_1_loading_widget" ]
+        ] ],
+        [ "path_input_dialog", "namespacerare_1_1widgets_1_1path__input__dialog.html", [
+          [ "PathInputDialog", "classrare_1_1widgets_1_1path__input__dialog_1_1_path_input_dialog.html", "classrare_1_1widgets_1_1path__input__dialog_1_1_path_input_dialog" ]
         ] ],
         [ "rare_app", "namespacerare_1_1widgets_1_1rare__app.html", [
           [ "RareApp", "classrare_1_1widgets_1_1rare__app_1_1_rare_app.html", "classrare_1_1widgets_1_1rare__app_1_1_rare_app" ],

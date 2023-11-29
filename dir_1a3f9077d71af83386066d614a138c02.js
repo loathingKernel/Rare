@@ -8,7 +8,7 @@ var dir_1a3f9077d71af83386066d614a138c02 =
     [ "ui", "dir_c4b6f383211fe022bd2154732eb842e4.html", "dir_c4b6f383211fe022bd2154732eb842e4" ],
     [ "utils", "dir_ef8924b2d63133e6517fd29e74e0600f.html", "dir_ef8924b2d63133e6517fd29e74e0600f" ],
     [ "widgets", "dir_c284345d06738e2bd50bb10a763ff2b7.html", "dir_c284345d06738e2bd50bb10a763ff2b7" ],
-    [ "__init__.py", "____init_____8py.html", "____init_____8py" ],
+    [ "__init__.py", "____init_____8py.html", null ],
     [ "__main__.py", "____main_____8py.html", "____main_____8py" ],
     [ "app.py", "app_8py.html", "app_8py" ]
 ];

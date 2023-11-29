@@ -23,6 +23,7 @@ var classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1
     [ "lbl_version", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#a7b41747ad0361eba24170539abb2d6cf", null ],
     [ "left_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#a002fcf2e00d56c5407dfc47ed725fa54", null ],
     [ "main_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#a8bca68c145928164b86a7af9df216eea", null ],
+    [ "modify_button", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#a4e849c1712de3d8e4f953907f9042f17", null ],
     [ "move_button", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#a414b101528e9c1c1ab275900e9ea7589", null ],
     [ "move_button_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#ae496060f1605e1bb11c5b8ef6484c908", null ],
     [ "move_button_page", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html#a2004747a1ef1a7869c1f50d0b506bb56", null ],

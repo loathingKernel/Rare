@@ -1,5 +1,6 @@
 var namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper =
 [
+    [ "Wrapper", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper.html", null ],
     [ "WrapperContainer", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_container.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_container" ],
     [ "WrapperSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings" ],
     [ "WrapperWidget", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_widget.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_widget" ],

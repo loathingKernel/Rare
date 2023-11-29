@@ -9,9 +9,6 @@ var dir_18cbd76dd1c6c7aa3caca2c4bbf73923 =
       [ "TagCheckBox", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box" ]
     ] ],
     [ "launch_dialog.py", "components_2dialogs_2launch__dialog_8py.html", "components_2dialogs_2launch__dialog_8py" ],
-    [ "path_input_dialog.py", "path__input__dialog_8py.html", [
-      [ "PathInputDialog", "classrare_1_1components_1_1dialogs_1_1path__input__dialog_1_1_path_input_dialog.html", "classrare_1_1components_1_1dialogs_1_1path__input__dialog_1_1_path_input_dialog" ]
-    ] ],
     [ "uninstall_dialog.py", "uninstall__dialog_8py.html", [
       [ "UninstallDialog", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog" ]
     ] ]

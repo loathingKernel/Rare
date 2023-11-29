@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['ok_0',['ok',['../classrare_1_1components_1_1dialogs_1_1path__input__dialog_1_1_path_input_dialog.html#ad84836d8c75631fe228f22dd4b942eb9',1,'rare::components::dialogs::path_input_dialog::PathInputDialog']]],
+  ['ok_0',['ok',['../classrare_1_1widgets_1_1path__input__dialog_1_1_path_input_dialog.html#ad84836d8c75631fe228f22dd4b942eb9',1,'rare::widgets::path_input_dialog::PathInputDialog']]],
   ['on_5fcolor_5fselect_5fchanged_1',['on_color_select_changed',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a90cb3001f3434da6e78215b640255d50',1,'rare::components::tabs::settings::rare::RareSettings']]],
   ['on_5fexit_2',['on_exit',['../classrare_1_1game__launch__helper_1_1_rare_launcher.html#ad0256d0c2293a5030e42884d8de9484d',1,'rare::game_launch_helper::RareLauncher']]],
   ['on_5fexit_5fapp_3',['on_exit_app',['../classrare_1_1app_1_1_rare.html#a5787982134eee7c93a6c96adf93d7833',1,'rare.app.Rare.on_exit_app()'],['../classrare_1_1components_1_1main__window_1_1_main_window.html#a169b1b2e83dc150c9070079570870826',1,'rare.components.main_window.MainWindow.on_exit_app()']]],

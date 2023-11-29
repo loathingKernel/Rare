@@ -60,17 +60,17 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1dialogs_1_1path__input__dialog_1_1_path_input_dialog.html#a807ed97eee69cbd1e4b9077ac361d77c" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="592.5,-459.5 592.5,-489.5 768.5,-489.5 768.5,-459.5 592.5,-459.5"/>
-<text text-anchor="start" x="600.5" y="-477.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.dialogs.path</text>
-<text text-anchor="middle" x="680.5" y="-466.5" font-family="Helvetica,sans-Serif" font-size="10.00">_input_dialog.PathInputDialog.cancel</text>
+<g id="a_node4"><a xlink:href="classrare_1_1widgets_1_1path__input__dialog_1_1_path_input_dialog.html#a807ed97eee69cbd1e4b9077ac361d77c" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="606,-459.5 606,-489.5 755,-489.5 755,-459.5 606,-459.5"/>
+<text text-anchor="start" x="614" y="-477.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.path_input</text>
+<text text-anchor="middle" x="680.5" y="-466.5" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.PathInputDialog.cancel</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M823.08,-326.24C819,-357.29 806.59,-417.4 770,-450.5 766.22,-453.92 762.01,-456.86 757.52,-459.38"/>
+<path fill="none" stroke="midnightblue" d="M823.08,-326.24C819,-357.29 806.59,-417.4 770,-450.5 765.63,-454.45 760.68,-457.76 755.4,-460.53"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="826.57,-326.56 824.24,-316.22 819.62,-325.76 826.57,-326.56"/>
 </g>
 <!-- Node5 -->
@@ -124,10 +124,10 @@
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="classrare_1_1components_1_1dialogs_1_1path__input__dialog_1_1_path_input_dialog.html#ad84836d8c75631fe228f22dd4b942eb9" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="601.5,-191.5 601.5,-221.5 759.5,-221.5 759.5,-191.5 601.5,-191.5"/>
-<text text-anchor="start" x="609.5" y="-209.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.dialogs.path</text>
-<text text-anchor="middle" x="680.5" y="-198.5" font-family="Helvetica,sans-Serif" font-size="10.00">_input_dialog.PathInputDialog.ok</text>
+<g id="a_node9"><a xlink:href="classrare_1_1widgets_1_1path__input__dialog_1_1_path_input_dialog.html#ad84836d8c75631fe228f22dd4b942eb9" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="615,-191.5 615,-221.5 746,-221.5 746,-191.5 615,-191.5"/>
+<text text-anchor="start" x="623" y="-209.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.path_input</text>
+<text text-anchor="middle" x="680.5" y="-198.5" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.PathInputDialog.ok</text>
 </a>
 </g>
 </g>

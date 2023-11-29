@@ -16,6 +16,9 @@ var dir_c284345d06738e2bd50bb10a763ff2b7 =
     [ "loading_widget.py", "loading__widget_8py.html", [
       [ "LoadingWidget", "classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html", "classrare_1_1widgets_1_1loading__widget_1_1_loading_widget" ]
     ] ],
+    [ "path_input_dialog.py", "path__input__dialog_8py.html", [
+      [ "PathInputDialog", "classrare_1_1widgets_1_1path__input__dialog_1_1_path_input_dialog.html", "classrare_1_1widgets_1_1path__input__dialog_1_1_path_input_dialog" ]
+    ] ],
     [ "rare_app.py", "rare__app_8py.html", [
       [ "RareAppException", "classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html", "classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception" ],
       [ "RareApp", "classrare_1_1widgets_1_1rare__app_1_1_rare_app.html", "classrare_1_1widgets_1_1rare__app_1_1_rare_app" ]

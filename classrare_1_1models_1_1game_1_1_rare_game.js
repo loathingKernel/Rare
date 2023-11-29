@@ -2,6 +2,7 @@ var classrare_1_1models_1_1game_1_1_rare_game =
 [
     [ "Metadata", "classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html", "classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata" ],
     [ "__init__", "classrare_1_1models_1_1game_1_1_rare_game.html#a2288a260998ac4af2794ebf8a160c2a1", null ],
+    [ "add_dlc", "classrare_1_1models_1_1game_1_1_rare_game.html#ae1b80e70cd9f1369c04c162f16bfd810", null ],
     [ "can_launch", "classrare_1_1models_1_1game_1_1_rare_game.html#a4431ce8cf18e5dd3414d8882e585bd8d", null ],
     [ "can_run_offline", "classrare_1_1models_1_1game_1_1_rare_game.html#af3b5f267d190558f0bbc61ea26f269bd", null ],
     [ "developer", "classrare_1_1models_1_1game_1_1_rare_game.html#aa2ba827d90a83c62accef320a7009e6f", null ],
@@ -21,6 +22,7 @@ var classrare_1_1models_1_1game_1_1_rare_game =
     [ "is_unreal", "classrare_1_1models_1_1game_1_1_rare_game.html#a9830be59bfb2ba21c1f2afb0a715f61e", null ],
     [ "launch", "classrare_1_1models_1_1game_1_1_rare_game.html#ab82459b9faa06688eab18988ab4024e6", null ],
     [ "load_pixmap", "classrare_1_1models_1_1game_1_1_rare_game.html#adfa8209bdf5c830e0a0cd5b2a453f74d", null ],
+    [ "modify", "classrare_1_1models_1_1game_1_1_rare_game.html#aef20d094578870f90347cdd968d2991b", null ],
     [ "needs_repair", "classrare_1_1models_1_1game_1_1_rare_game.html#a1e5f462f6a7e72f83a96f5b085bb3eec", null ],
     [ "needs_repair", "classrare_1_1models_1_1game_1_1_rare_game.html#a855fed13710ca727732e116634d27293", null ],
     [ "needs_verification", "classrare_1_1models_1_1game_1_1_rare_game.html#a75a2e37cdbb1feeb806eb179a21fa568", null ],
@@ -31,6 +33,7 @@ var classrare_1_1models_1_1game_1_1_rare_game =
     [ "repair_file", "classrare_1_1models_1_1game_1_1_rare_game.html#ab45e02ca446eec97ef2a9d3c20253a73", null ],
     [ "save_path", "classrare_1_1models_1_1game_1_1_rare_game.html#ae67c92b74c05707f28c4430681aaa860", null ],
     [ "save_path", "classrare_1_1models_1_1game_1_1_rare_game.html#a539fe458d8793eac2e6173614cb92cf4", null ],
+    [ "sdl_name", "classrare_1_1models_1_1game_1_1_rare_game.html#ae141cc89854309f3f2298a616b09b12b", null ],
     [ "set_installed", "classrare_1_1models_1_1game_1_1_rare_game.html#a590836cea8227c1cb3994dabf184ecab", null ],
     [ "set_origin_attributes", "classrare_1_1models_1_1game_1_1_rare_game.html#afb0966909d9062fa9eb0e80827694818", null ],
     [ "set_pixmap", "classrare_1_1models_1_1game_1_1_rare_game.html#ab97aa84611663113dd2196fb2661c60e", null ],

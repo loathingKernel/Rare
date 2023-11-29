@@ -16,6 +16,7 @@ var classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog =
     [ "option_changed", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#abdfe46421b60f1ef4e6ccc5d2b9a1395", null ],
     [ "save_install_edit", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a0644ae4e0ef848cb9b9d3f2c03507d05", null ],
     [ "setup_sdl_list", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#af08eb86a6f16adaa0961469759a916ad", null ],
+    [ "showEvent", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#af997cabd23f14f71f7f87c986ccd582c", null ],
     [ "verify_clicked", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a77e69cb6973b2c8a40dfed17abe7d453", null ],
     [ "advanced", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a5ec6fa53e931faae02de724c82c37c76", null ],
     [ "config_tags", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#adc26f1ff8642e08b2abba898cd256fc1", null ],

@@ -3,6 +3,7 @@ var classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_
     [ "__init__", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a6c734fe46844d27ba3c41824b2080754", null ],
     [ "eventFilter", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a29aa0e12f6edcbda01a5314f0f528bbe", null ],
     [ "mousePressEvent", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5", null ],
+    [ "showEvent", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#af997cabd23f14f71f7f87c986ccd582c", null ],
     [ "update_actions", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a34f4910ec773ae8e2d8a116f14104a72", null ],
     [ "update_buttons", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a181eb4c4af9ab8ddf05f84cb255cf265", null ],
     [ "update_state", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#ada4904cab960c53f234fc113a7fcf349", null ],

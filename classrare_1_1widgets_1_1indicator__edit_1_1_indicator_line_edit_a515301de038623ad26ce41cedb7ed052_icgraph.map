@@ -1,7 +1,6 @@
 <map id="text" name="text">
-<area shape="rect" id="node1" title=" " alt="" coords="348,161,391,187"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_widget.html#a945b8d6db900564ddaa60ff23dcfe175" title=" " alt="" coords="5,29,300,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#a051a5c88b188dc1e47f120d327dd4d99" title=" " alt="" coords="96,119,209,146"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_text_input_field.html#aa7dafe1167a93bb64bf5fd1ad8a637dd" title=" " alt="" coords="9,195,296,236"/>
-<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1indicator__edit_1_1_path_edit.html#abe4b5c68f01943de2b98afa429bd7e37" title=" " alt="" coords="77,284,229,325"/>
+<area shape="rect" id="node1" title=" " alt="" coords="340,112,383,139"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#a051a5c88b188dc1e47f120d327dd4d99" title=" " alt="" coords="92,29,205,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_text_input_field.html#aa7dafe1167a93bb64bf5fd1ad8a637dd" title=" " alt="" coords="5,105,292,146"/>
+<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1indicator__edit_1_1_path_edit.html#abe4b5c68f01943de2b98afa429bd7e37" title=" " alt="" coords="73,194,225,235"/>
 </map>

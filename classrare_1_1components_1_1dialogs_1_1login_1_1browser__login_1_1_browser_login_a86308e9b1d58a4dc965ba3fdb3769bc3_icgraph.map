@@ -1,6 +1,7 @@
 <map id="open_browser" name="open_browser">
-<area shape="rect" id="node1" title=" " alt="" coords="300,126,403,153"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1about_1_1_about.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="12,29,245,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about_1_1_ui___about.html#a4d1b855c338c25278371a1de05008efe" title=" " alt="" coords="5,119,252,160"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1about_1_1_about.html#a9cffc6ef9de14ab9ea46cc13bbc07e50" title=" " alt="" coords="12,208,245,249"/>
+<area shape="rect" id="node1" title=" " alt="" coords="581,126,684,153"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1about_1_1_about.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="293,29,527,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about_1_1_ui___about.html#a4d1b855c338c25278371a1de05008efe" title=" " alt="" coords="287,119,533,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1about_1_1_about.html#a9cffc6ef9de14ab9ea46cc13bbc07e50" title=" " alt="" coords="293,208,527,249"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1about_1_1_about.html#af997cabd23f14f71f7f87c986ccd582c" title=" " alt="" coords="5,208,239,249"/>
 </map>

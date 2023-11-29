@@ -9,6 +9,9 @@ var namespacerare_1_1utils =
     ] ],
     [ "extra_widgets", "namespacerare_1_1utils_1_1extra__widgets.html", "namespacerare_1_1utils_1_1extra__widgets" ],
     [ "json_formatter", "namespacerare_1_1utils_1_1json__formatter.html", "namespacerare_1_1utils_1_1json__formatter" ],
+    [ "metrics", "namespacerare_1_1utils_1_1metrics.html", [
+      [ "timelogger", "namespacerare_1_1utils_1_1metrics.html#a5d090481123c8dc931923165fc7fc29b", null ]
+    ] ],
     [ "misc", "namespacerare_1_1utils_1_1misc.html", "namespacerare_1_1utils_1_1misc" ],
     [ "paths", "namespacerare_1_1utils_1_1paths.html", [
       [ "applications_dir", "namespacerare_1_1utils_1_1paths.html#a929db13896ab79cbbe77bc82ad2698fc", null ],

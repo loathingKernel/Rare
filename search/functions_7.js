@@ -23,7 +23,7 @@ var searchData=
   ['get_5flaunch_5fargs_20',['get_launch_args',['../namespacerare_1_1game__launch__helper_1_1lgd__helper.html#afcd485bca949660a217da52d0ab1fe2f',1,'rare::game_launch_helper::lgd_helper']]],
   ['get_5foptions_21',['get_options',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a004987011909ef3b326e6d95f6393ec0',1,'rare::components::dialogs::install_dialog::InstallDialog']]],
   ['get_5forigin_5fparams_22',['get_origin_params',['../namespacerare_1_1game__launch__helper_1_1lgd__helper.html#a779675eb6724f70a5f10f2806fcfb3e4',1,'rare::game_launch_helper::lgd_helper']]],
-  ['get_5fpath_23',['get_path',['../classrare_1_1components_1_1dialogs_1_1path__input__dialog_1_1_path_input_dialog.html#a9557d516f860fca144312e10a2c5f8e8',1,'rare::components::dialogs::path_input_dialog::PathInputDialog']]],
+  ['get_5fpath_23',['get_path',['../classrare_1_1widgets_1_1path__input__dialog_1_1_path_input_dialog.html#a9557d516f860fca144312e10a2c5f8e8',1,'rare::widgets::path_input_dialog::PathInputDialog']]],
   ['get_5fpixmap_24',['get_pixmap',['../classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a3b1de8015f7ce54f54de678b8e854838',1,'rare::shared::image_manager::ImageManager']]],
   ['get_5frare_5fexecutable_25',['get_rare_executable',['../namespacerare_1_1utils_1_1paths.html#a5aae2af81c71e81b5a7ce0c16db5ba19',1,'rare::utils::paths']]],
   ['get_5frating_26',['get_rating',['../namespacerare_1_1utils_1_1steam__grades.html#a19744bb6cba6816375637c10fc252c0d',1,'rare::utils::steam_grades']]],
