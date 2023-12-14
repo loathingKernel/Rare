@@ -1,8 +1,7 @@
 <map id="paint_image_empty" name="paint_image_empty">
-<area shape="rect" id="node1" title=" " alt="" coords="912,126,1047,153"/>
-<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#afe7221063d2a4d7b1e1f42fb85f5d06f" title=" " alt="" coords="653,119,864,160"/>
+<area shape="rect" id="node1" title=" " alt="" coords="912,86,1047,113"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#afe7221063d2a4d7b1e1f42fb85f5d06f" title=" " alt="" coords="653,79,864,120"/>
 <area shape="rect" id="node3" href="$classrare_1_1utils_1_1extra__widgets_1_1_image_label.html#a29f0251454b3bdbf53b196a41cfb5c44" title=" " alt="" coords="382,29,549,71"/>
-<area shape="rect" id="node4" href="$classrare_1_1utils_1_1extra__widgets_1_1_image_label.html#aab3809d017e8e9a18638a2b3caf6e7b5" title=" " alt="" coords="382,119,549,160"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#aba6dbd857b7a02c2f1fbd7d472416b54" title=" " alt="" coords="325,209,605,265"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#a1990ae73849da7538f16b24becb60023" title=" " alt="" coords="5,209,277,265"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#aba6dbd857b7a02c2f1fbd7d472416b54" title=" " alt="" coords="325,119,605,175"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html#a1990ae73849da7538f16b24becb60023" title=" " alt="" coords="5,119,277,175"/>
 </map>

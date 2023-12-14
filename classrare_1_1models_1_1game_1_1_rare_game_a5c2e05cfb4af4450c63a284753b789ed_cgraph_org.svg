@@ -90,9 +90,9 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_shop_game_info.html#a4f57f5554cceb40e5b1bb5c4e285dfd8" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1game__info_1_1_shop_game_info.html#a4f57f5554cceb40e5b1bb5c4e285dfd8" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="149,-392 149,-422 315,-422 315,-392 149,-392"/>
-<text text-anchor="start" x="157" y="-410" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.shop.game</text>
+<text text-anchor="start" x="157" y="-410" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.game</text>
 <text text-anchor="middle" x="232" y="-399" font-family="Helvetica,sans-Serif" font-size="10.00">_info.ShopGameInfo.update_game</text>
 </a>
 </g>

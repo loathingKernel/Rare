@@ -1,13 +1,11 @@
 var classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog =
 [
     [ "__init__", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a6aeedb257142077750b67cbc9726a811", null ],
-    [ "cancel_clicked", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#ad983629da6604069e3e3f432ed5897f8", null ],
     [ "closeEvent", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#ac2059187ee3abe729fa7c41326035440", null ],
     [ "error_box", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a138282883753fa5f7af306a3bb35ceaf", null ],
     [ "execute", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aa902973791e81c8c4542da337b86289b", null ],
     [ "get_download_info", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aca780d78b993a295a93507a4a6d12a69", null ],
     [ "get_options", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a004987011909ef3b326e6d95f6393ec0", null ],
-    [ "install_clicked", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a94a8b5c7b325b9d23514362ea0545a44", null ],
     [ "keyPressEvent", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aae6d1c9dda7295a1d302c2aa59ad3482", null ],
     [ "non_reload_option_changed", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a7e5a0b8264228713151cebd02cb08d95", null ],
     [ "on_worker_failed", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a36bb64fa9d259feffe5871168f96c4df", null ],
@@ -17,7 +15,6 @@ var classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog =
     [ "save_install_edit", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a0644ae4e0ef848cb9b9d3f2c03507d05", null ],
     [ "setup_sdl_list", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#af08eb86a6f16adaa0961469759a916ad", null ],
     [ "showEvent", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#af997cabd23f14f71f7f87c986ccd582c", null ],
-    [ "verify_clicked", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a77e69cb6973b2c8a40dfed17abe7d453", null ],
     [ "advanced", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a5ec6fa53e931faae02de724c82c37c76", null ],
     [ "config_tags", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#adc26f1ff8642e08b2abba898cd256fc1", null ],
     [ "core", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#ab65a1cfe05166d06195718a9587d7b86", null ],

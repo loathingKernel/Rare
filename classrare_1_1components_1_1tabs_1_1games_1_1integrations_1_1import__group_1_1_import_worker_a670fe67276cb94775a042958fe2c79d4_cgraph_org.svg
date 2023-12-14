@@ -73,42 +73,42 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="122.49,-268.5 122.49,-298.5 264.49,-298.5 264.49,-268.5 122.49,-268.5"/>
-<text text-anchor="start" x="130.49" y="-286.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.base_game.Rare</text>
-<text text-anchor="middle" x="193.49" y="-275.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameBase.app_name</text>
+<g id="a_node5"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="128.49,-268.5 128.49,-298.5 258.49,-298.5 258.49,-268.5 128.49,-268.5"/>
+<text text-anchor="start" x="136.49" y="-286.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.rare_core.Rare</text>
+<text text-anchor="middle" x="193.49" y="-275.5" font-family="Helvetica,sans-Serif" font-size="10.00">Core.core</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M46.24,-252.52C61.47,-255.75 86.9,-261.13 112.32,-266.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="111.91,-270.01 122.42,-268.66 113.36,-263.16 111.91,-270.01"/>
+<path fill="none" stroke="midnightblue" d="M46.24,-252.52C62.7,-256.01 91.07,-262.01 118.46,-267.82"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="117.98,-271.29 128.48,-269.94 119.43,-264.44 117.98,-271.29"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="128.49,-201.5 128.49,-231.5 258.49,-231.5 258.49,-201.5 128.49,-201.5"/>
-<text text-anchor="start" x="136.49" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.rare_core.Rare</text>
-<text text-anchor="middle" x="193.49" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">Core.core</text>
+<g id="a_node6"><a xlink:href="namespacerare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group.html#a19d213e48e75c05fdbe2d4dc61c63865" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="81.99,-201.5 81.99,-231.5 304.99,-231.5 304.99,-201.5 81.99,-201.5"/>
+<text text-anchor="start" x="89.99" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.integrations.import</text>
+<text text-anchor="middle" x="193.49" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.find_app_name</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge7" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M46.24,-246.57C62.7,-243.19 91.07,-237.35 118.46,-231.72"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="119.39,-235.1 128.48,-229.66 117.98,-228.25 119.39,-235.1"/>
+<path fill="none" stroke="midnightblue" d="M46.24,-246.57C60.87,-243.56 84.89,-238.62 109.28,-233.61"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="110.27,-236.98 119.36,-231.54 108.86,-230.12 110.27,-236.98"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="namespacerare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group.html#a19d213e48e75c05fdbe2d4dc61c63865" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="81.99,-134.5 81.99,-164.5 304.99,-164.5 304.99,-134.5 81.99,-134.5"/>
-<text text-anchor="start" x="89.99" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.integrations.import</text>
-<text text-anchor="middle" x="193.49" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.find_app_name</text>
+<g id="a_node7"><a xlink:href="namespacerare_1_1lgndr_1_1glue_1_1monkeys.html#a3b028375297e60dc678f0afef132134d" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="126.49,-134.5 126.49,-164.5 260.49,-164.5 260.49,-134.5 126.49,-134.5"/>
+<text text-anchor="start" x="134.49" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.lgndr.glue.monkeys.get</text>
+<text text-anchor="middle" x="193.49" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">_boolean_choice_factory</text>
 </a>
 </g>
 </g>

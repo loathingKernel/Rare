@@ -59,9 +59,9 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_check_box.html#a8b64389a338c017bf6d5987eda346be6" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_check_box.html#a8b64389a338c017bf6d5987eda346be6" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="207,-0.5 207,-30.5 366,-30.5 366,-0.5 207,-0.5"/>
-<text text-anchor="start" x="215" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.shop.shop</text>
+<text text-anchor="start" x="215" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.shop</text>
 <text text-anchor="middle" x="286.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_widget.CheckBox.handle_toggle</text>
 </a>
 </g>

@@ -1,7 +1,6 @@
 <map id="closeEvent" name="closeEvent">
-<area shape="rect" id="node1" title=" " alt="" coords="5,119,92,146"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4" title=" " alt="" coords="140,29,313,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a0b10d6f6237209134f8bf6bbcb6bfba6" title=" " alt="" coords="203,119,250,146"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a46ccd4f97f2d441f241bbe8cf235a4e9" title=" " alt="" coords="165,194,288,221"/>
-<area shape="rect" id="node4" href="$classrare_1_1models_1_1image_1_1_image_size_1_1_preset.html#a39bd2b8ea4e12bd297244ec77cb5a1fa" title=" " alt="" coords="361,112,556,153"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,92,101"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a0b10d6f6237209134f8bf6bbcb6bfba6" title=" " alt="" coords="178,37,225,63"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a46ccd4f97f2d441f241bbe8cf235a4e9" title=" " alt="" coords="140,111,263,138"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1image_1_1_image_size_1_1_preset.html#a39bd2b8ea4e12bd297244ec77cb5a1fa" title=" " alt="" coords="311,29,505,71"/>
 </map>

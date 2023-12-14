@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 927;
+var viewWidth = 914;
 var viewHeight = 513;
 var sectionId = 'dynsection-0';
 </script>
@@ -54,7 +54,7 @@ var sectionId = 'dynsection-0';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>Worker</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-509 922.5,-509 922.5,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-509 909.5,-509 909.5,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
@@ -273,52 +273,51 @@ var sectionId = 'dynsection-0';
 <g id="node11" class="node">
 <title>Node11</title>
 <g id="a_node11"><a xlink:href="classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="720.5,-0.5 720.5,-134.5 801.5,-134.5 801.5,-0.5 720.5,-0.5"/>
-<text text-anchor="middle" x="761" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">MoveWorker</text>
-<polyline fill="none" stroke="black" points="720.5,-115.5 801.5,-115.5 "/>
-<text text-anchor="start" x="728.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
-<text text-anchor="start" x="728.5" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="728.5" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
-<text text-anchor="start" x="728.5" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ dst_path</text>
-<text text-anchor="start" x="728.5" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ dst_exists</text>
-<polyline fill="none" stroke="black" points="720.5,-52.5 801.5,-52.5 "/>
-<text text-anchor="start" x="728.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="728.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ worker_info()</text>
-<text text-anchor="start" x="728.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ progress()</text>
-<text text-anchor="start" x="728.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ run_real()</text>
+<polygon fill="white" stroke="black" points="725.5,-0.5 725.5,-134.5 806.5,-134.5 806.5,-0.5 725.5,-0.5"/>
+<text text-anchor="middle" x="766" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">MoveWorker</text>
+<polyline fill="none" stroke="black" points="725.5,-115.5 806.5,-115.5 "/>
+<text text-anchor="start" x="733.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
+<text text-anchor="start" x="733.5" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="733.5" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
+<text text-anchor="start" x="733.5" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ dst_path</text>
+<text text-anchor="start" x="733.5" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ dst_exists</text>
+<polyline fill="none" stroke="black" points="725.5,-52.5 806.5,-52.5 "/>
+<text text-anchor="start" x="733.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="733.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ worker_info()</text>
+<text text-anchor="start" x="733.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ progress()</text>
+<text text-anchor="start" x="733.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ run_real()</text>
 </a>
 </g>
 </g>
 <!-- Node10&#45;&gt;Node11 -->
 <g id="edge10" class="edge">
 <title>Node10&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M794.09,-161.95C790.93,-153.02 787.65,-143.76 784.44,-134.69"/>
-<polygon fill="none" stroke="midnightblue" points="790.83,-163.23 797.47,-171.49 797.43,-160.89 790.83,-163.23"/>
+<path fill="none" stroke="midnightblue" d="M796.03,-161.95C793.16,-153.02 790.18,-143.76 787.27,-134.69"/>
+<polygon fill="none" stroke="midnightblue" points="792.7,-163.04 799.09,-171.49 799.36,-160.9 792.7,-163.04"/>
 </g>
 <!-- Node12 -->
 <g id="node12" class="node">
 <title>Node12</title>
 <g id="a_node12"><a xlink:href="classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="819.5,-6 819.5,-129 918.5,-129 918.5,-6 819.5,-6"/>
-<text text-anchor="middle" x="869" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00">VerifyWorker</text>
-<polyline fill="none" stroke="black" points="819.5,-110 918.5,-110 "/>
-<text text-anchor="start" x="827.5" y="-98" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
-<text text-anchor="start" x="827.5" y="-87" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="827.5" y="-76" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
-<text text-anchor="start" x="827.5" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
-<polyline fill="none" stroke="black" points="819.5,-58 918.5,-58 "/>
-<text text-anchor="start" x="827.5" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="827.5" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">+ status_callback()</text>
-<text text-anchor="start" x="827.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">+ worker_info()</text>
-<text text-anchor="start" x="827.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">+ run_real()</text>
+<polygon fill="white" stroke="black" points="824.5,-11.5 824.5,-123.5 905.5,-123.5 905.5,-11.5 824.5,-11.5"/>
+<text text-anchor="middle" x="865" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">VerifyWorker</text>
+<polyline fill="none" stroke="black" points="824.5,-104.5 905.5,-104.5 "/>
+<text text-anchor="start" x="832.5" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
+<text text-anchor="start" x="832.5" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="832.5" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
+<text text-anchor="start" x="832.5" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
+<polyline fill="none" stroke="black" points="824.5,-52.5 905.5,-52.5 "/>
+<text text-anchor="start" x="832.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="832.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ worker_info()</text>
+<text text-anchor="start" x="832.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ run_real()</text>
 </a>
 </g>
 </g>
 <!-- Node10&#45;&gt;Node12 -->
 <g id="edge11" class="edge">
 <title>Node10&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M835.95,-161.82C839.74,-151.13 843.7,-139.96 847.5,-129.22"/>
-<polygon fill="none" stroke="midnightblue" points="832.57,-160.89 832.53,-171.49 839.17,-163.23 832.57,-160.89"/>
+<path fill="none" stroke="midnightblue" d="M834.35,-161.98C838.49,-149.35 842.85,-136.05 846.94,-123.57"/>
+<polygon fill="none" stroke="midnightblue" points="831.02,-160.89 831.23,-171.49 837.67,-163.08 831.02,-160.89"/>
 </g>
 </g>
 </svg>

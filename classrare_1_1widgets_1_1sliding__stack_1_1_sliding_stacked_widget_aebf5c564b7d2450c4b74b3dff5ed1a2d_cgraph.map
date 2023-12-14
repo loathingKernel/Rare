@@ -1,11 +1,12 @@
 <map id="swipeTriggered" name="swipeTriggered">
 <area shape="rect" id="node1" title=" " alt="" coords="5,165,116,191"/>
 <area shape="rect" id="node2" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#a9a7d3e7c9b6471dae3067db5f869f4fe" title=" " alt="" coords="164,202,251,229"/>
-<area shape="rect" id="node9" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#adf3e2dc0b60437cf278f8a25d92f9a96" title=" " alt="" coords="164,127,251,154"/>
+<area shape="rect" id="node10" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#adf3e2dc0b60437cf278f8a25d92f9a96" title=" " alt="" coords="164,127,251,154"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html#adaaa57688d92e19605bdc1a271c51e6e" title=" " alt="" coords="437,29,693,71"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#adaaa57688d92e19605bdc1a271c51e6e" title=" " alt="" coords="437,284,693,325"/>
 <area shape="rect" id="node5" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#adaaa57688d92e19605bdc1a271c51e6e" title=" " alt="" coords="484,195,647,236"/>
 <area shape="rect" id="node6" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#a14a7f7a305b607aa29aa0dfa7f6047d5" title=" " alt="" coords="299,139,389,166"/>
 <area shape="rect" id="node7" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ab032482dfc53fdfe48836e74a00f0871" title=" " alt="" coords="515,119,615,146"/>
-<area shape="rect" id="node8" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ad33b03cf3496c64ea301895641933e64" title=" " alt="" coords="741,119,872,146"/>
+<area shape="rect" id="node8" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ad33b03cf3496c64ea301895641933e64" title=" " alt="" coords="757,78,888,105"/>
+<area shape="rect" id="node9" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a8e7bec55adcc4afe502cf1e17b59a589" title=" " alt="" coords="741,153,904,195"/>
 </map>

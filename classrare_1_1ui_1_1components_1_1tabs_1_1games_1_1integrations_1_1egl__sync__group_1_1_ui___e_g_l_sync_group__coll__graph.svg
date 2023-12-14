@@ -18,10 +18,10 @@
 <polyline fill="none" stroke="black" points="0,-104.5 120,-104.5 "/>
 <text text-anchor="start" x="8" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ egl_sync_layout</text>
 <text text-anchor="start" x="8" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ egl_path_edit_label</text>
-<text text-anchor="start" x="8" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ egl_path_edit_layout</text>
-<text text-anchor="start" x="8" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ egl_sync_check_label</text>
-<text text-anchor="start" x="8" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ egl_sync_check</text>
-<text text-anchor="start" x="8" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ import_export_layout</text>
+<text text-anchor="start" x="8" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ egl_sync_check_label</text>
+<text text-anchor="start" x="8" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ egl_sync_check</text>
+<text text-anchor="start" x="8" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ import_export_layout</text>
+<text text-anchor="start" x="8" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ egl_path_info_label</text>
 <polyline fill="none" stroke="black" points="0,-30.5 120,-30.5 "/>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setupUi()</text>
 <text text-anchor="start" x="8" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ retranslateUi()</text>

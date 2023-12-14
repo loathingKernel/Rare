@@ -41,9 +41,10 @@ var searchData=
   ['ui_5fwishlistwidget_38',['Ui_WishlistWidget',['../classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html',1,'rare::ui::components::tabs::store::wishlist_widget']]],
   ['ui_5fwrappersettings_39',['Ui_WrapperSettings',['../classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_ui___wrapper_settings.html',1,'rare::ui::components::tabs::settings::widgets::wrapper']]],
   ['uiupdate_40',['UIUpdate',['../classrare_1_1lgndr_1_1models_1_1downloading_1_1_u_i_update.html',1,'rare::lgndr::models::downloading']]],
-  ['uninstalldialog_41',['UninstallDialog',['../classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html',1,'rare::components::dialogs::uninstall_dialog']]],
-  ['uninstalloptionsmodel_42',['UninstallOptionsModel',['../classrare_1_1models_1_1install_1_1_uninstall_options_model.html',1,'rare::models::install']]],
-  ['uninstallworker_43',['UninstallWorker',['../classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html',1,'rare::shared::workers::uninstall']]],
-  ['updategroup_44',['UpdateGroup',['../classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html',1,'rare::components::tabs::downloads::groups']]],
-  ['updatewidget_45',['UpdateWidget',['../classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_update_widget.html',1,'rare::components::tabs::downloads::widgets']]]
+  ['uiupdateprotocol_41',['UiUpdateProtocol',['../classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_ui_update_protocol.html',1,'rare::lgndr::glue::monkeys']]],
+  ['uninstalldialog_42',['UninstallDialog',['../classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html',1,'rare::components::dialogs::uninstall_dialog']]],
+  ['uninstalloptionsmodel_43',['UninstallOptionsModel',['../classrare_1_1models_1_1install_1_1_uninstall_options_model.html',1,'rare::models::install']]],
+  ['uninstallworker_44',['UninstallWorker',['../classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html',1,'rare::shared::workers::uninstall']]],
+  ['updategroup_45',['UpdateGroup',['../classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html',1,'rare::components::tabs::downloads::groups']]],
+  ['updatewidget_46',['UpdateWidget',['../classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_update_widget.html',1,'rare::components::tabs::downloads::widgets']]]
 ];

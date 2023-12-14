@@ -20,8 +20,8 @@
 <text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ImageWide</text>
 <text text-anchor="start" x="8" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Display</text>
 <text text-anchor="start" x="8" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ DisplayWide</text>
-<text text-anchor="start" x="8" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Wide</text>
-<text text-anchor="start" x="8" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Normal</text>
+<text text-anchor="start" x="8" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryWide</text>
+<text text-anchor="start" x="8" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Library</text>
 <text text-anchor="start" x="8" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Small</text>
 <text text-anchor="start" x="8" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ SmallWide</text>
 <text text-anchor="start" x="8" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Smaller</text>

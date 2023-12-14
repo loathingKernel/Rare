@@ -394,17 +394,17 @@ var sectionId = 'dynsection-4';
 <!-- Node26 -->
 <g id="node26" class="node">
 <title>Node26</title>
-<g id="a_node26"><a xlink:href="namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="348.5,-0.5 348.5,-19.5 421.5,-19.5 421.5,-0.5 348.5,-0.5"/>
-<text text-anchor="middle" x="385" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.app.start</text>
+<g id="a_node26"><a xlink:href="namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="330,-0.5 330,-19.5 440,-19.5 440,-0.5 330,-0.5"/>
+<text text-anchor="middle" x="385" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.start</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node26 -->
 <g id="edge40" class="edge">
 <title>Node5&#45;&gt;Node26</title>
-<path fill="none" stroke="midnightblue" d="M235,-509.47C240.79,-506.74 246.1,-503.03 250,-498 311.56,-418.51 225.58,-127.36 286,-47 298.47,-30.41 319.3,-21.26 338.55,-16.21"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="339.47,-19.59 348.42,-13.93 337.89,-12.77 339.47,-19.59"/>
+<path fill="none" stroke="midnightblue" d="M235,-509.47C240.79,-506.74 246.1,-503.03 250,-498 311.56,-418.51 225.58,-127.36 286,-47 294.53,-35.65 306.97,-27.79 320.14,-22.33"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="321.64,-25.51 329.82,-18.77 319.22,-18.94 321.64,-25.51"/>
 </g>
 <!-- Node14&#45;&gt;Node14 -->
 <g id="edge16" class="edge">

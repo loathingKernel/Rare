@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,249,76,276"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,275,76,301"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group_1_1_move_direction.html" title=" " alt="" coords="124,5,305,32"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_result_code.html" title=" " alt="" coords="164,56,265,83"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_result.html" title=" " alt="" coords="167,107,263,133"/>
@@ -8,7 +8,8 @@
 <area shape="rect" id="node7" href="$classrare_1_1shared_1_1game__process_1_1_game_process_1_1_code.html" title=" " alt="" coords="145,275,284,301"/>
 <area shape="rect" id="node8" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker_1_1_result.html" title=" " alt="" coords="147,325,283,352"/>
 <area shape="rect" id="node9" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_state.html" title=" " alt="" coords="149,376,281,403"/>
-<area shape="rect" id="node10" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons.html" title="Empty enumeration with auto&#45;generated enumeration values." alt="" coords="153,427,276,453"/>
-<area shape="rect" id="node12" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_common.html" title=" " alt="" coords="127,477,302,504"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_path_edit_reasons.html" title=" " alt="" coords="353,427,508,453"/>
+<area shape="rect" id="node10" href="$classrare_1_1utils_1_1misc_1_1_exit_codes.html" title=" " alt="" coords="175,427,255,453"/>
+<area shape="rect" id="node11" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons.html" title="Empty enumeration with auto&#45;generated enumeration values." alt="" coords="153,477,276,504"/>
+<area shape="rect" id="node13" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_common.html" title=" " alt="" coords="127,528,302,555"/>
+<area shape="rect" id="node12" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_path_edit_reasons.html" title=" " alt="" coords="353,477,508,504"/>
 </map>

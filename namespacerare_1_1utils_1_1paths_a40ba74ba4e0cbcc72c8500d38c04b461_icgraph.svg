@@ -27,9 +27,9 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="namespacerare_1_1____main____.html#add42217d54476fc931cfda4d8515bf43" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="18,-78.5 18,-97.5 119,-97.5 119,-78.5 18,-78.5"/>
-<text text-anchor="middle" x="68.5" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.__main__.main</text>
+<g id="a_node2"><a xlink:href="namespacerare_1_1main.html#a532d4b899b39c9f08370e91c54b63e33" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="28.5,-78.5 28.5,-97.5 108.5,-97.5 108.5,-78.5 28.5,-78.5"/>
+<text text-anchor="middle" x="68.5" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.main.main</text>
 </a>
 </g>
 </g>

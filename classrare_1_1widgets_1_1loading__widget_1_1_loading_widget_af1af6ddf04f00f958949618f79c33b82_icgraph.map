@@ -1,5 +1,4 @@
 <map id="start" name="start">
-<area shape="rect" id="node1" title=" " alt="" coords="519,37,567,63"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_browse_model.html#a563276b55376fdd9f495c321c5408906" title=" " alt="" coords="263,29,471,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1install_1_1_install_options_model.html#aa751cfbb4ac95de3ceb26796312aeab8" title=" " alt="" coords="5,29,215,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="263,37,311,63"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_browse_model.html#a563276b55376fdd9f495c321c5408906" title=" " alt="" coords="5,29,215,71"/>
 </map>

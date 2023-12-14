@@ -5,7 +5,6 @@ var classrare_1_1components_1_1main__window_1_1_main_window =
     [ "close", "classrare_1_1components_1_1main__window_1_1_main_window.html#ad9f81f4c56e23ca3c206b1e9374fc137", null ],
     [ "closeEvent", "classrare_1_1components_1_1main__window_1_1_main_window.html#ac30eecc0cad05eea8f29e2c9d6a0e273", null ],
     [ "hide", "classrare_1_1components_1_1main__window_1_1_main_window.html#a0b10d6f6237209134f8bf6bbcb6bfba6", null ],
-    [ "on_exit_app", "classrare_1_1components_1_1main__window_1_1_main_window.html#a169b1b2e83dc150c9070079570870826", null ],
     [ "show", "classrare_1_1components_1_1main__window_1_1_main_window.html#a7e95a1a89e48f7f756bcea2a62a14a62", null ],
     [ "timer_finished", "classrare_1_1components_1_1main__window_1_1_main_window.html#aa932131ff73a2a934f2f2da848314955", null ],
     [ "toggle", "classrare_1_1components_1_1main__window_1_1_main_window.html#a76ef2ebd71b1a1858194134725b6c800", null ],

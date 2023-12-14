@@ -16,6 +16,7 @@ var namespacerare_1_1utils =
     [ "paths", "namespacerare_1_1utils_1_1paths.html", [
       [ "applications_dir", "namespacerare_1_1utils_1_1paths.html#a929db13896ab79cbbe77bc82ad2698fc", null ],
       [ "cache_dir", "namespacerare_1_1utils_1_1paths.html#a967cf7dd54d6f29434b1b44099984396", null ],
+      [ "config_dir", "namespacerare_1_1utils_1_1paths.html#a2419f82da4851d8206432f8517af3fa0", null ],
       [ "create_desktop_link", "namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5", null ],
       [ "create_dirs", "namespacerare_1_1utils_1_1paths.html#a15cafb5c4232740ebdcd62826468fd10", null ],
       [ "data_dir", "namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b", null ],
@@ -51,13 +52,13 @@ var namespacerare_1_1utils =
       [ "convert_to_unix_path", "namespacerare_1_1utils_1_1wine.html#a0ca9787710984496cff10717662dd9de", null ],
       [ "convert_to_windows_path", "namespacerare_1_1utils_1_1wine.html#adf66c193f1654c7ad9041458f7a182a9", null ],
       [ "environ", "namespacerare_1_1utils_1_1wine.html#a3e0e44d0642fac15638667a61e26901f", null ],
-      [ "execute", "namespacerare_1_1utils_1_1wine.html#aad0b276c9033cf8ac39b51d056bb5f81", null ],
+      [ "execute", "namespacerare_1_1utils_1_1wine.html#ac5a05a1e80417ee006b08c8c2615d2b5", null ],
       [ "prefix", "namespacerare_1_1utils_1_1wine.html#ab3d3500158ba432dc898bf9beda76c3b", null ],
       [ "query_reg_key", "namespacerare_1_1utils_1_1wine.html#a18f894fe6b02cbb7c9434518fc422985", null ],
       [ "query_reg_path", "namespacerare_1_1utils_1_1wine.html#aaada99a167fe1485b0b7b318de61eeb8", null ],
       [ "read_registry", "namespacerare_1_1utils_1_1wine.html#ad20739cd9a8e0e58d212bae4af906c56", null ],
       [ "resolve_path", "namespacerare_1_1utils_1_1wine.html#aabd62e8d7f67f2b36ee0a31582b751cf", null ],
       [ "wine", "namespacerare_1_1utils_1_1wine.html#a70cb70a777b532d098a67807ec2eb581", null ],
-      [ "winepath", "namespacerare_1_1utils_1_1wine.html#a86d638709b956ceca1a005a10dc225c1", null ]
+      [ "logger", "namespacerare_1_1utils_1_1wine.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ]
     ] ]
 ];

@@ -75,9 +75,9 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1shop_1_1search__results_1_1_search_results.html#ab169e0df1d040c3f4e4be3234617ad11" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1_search_results.html#ab169e0df1d040c3f4e4be3234617ad11" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="232,-67.5 232,-97.5 409,-97.5 409,-67.5 232,-67.5"/>
-<text text-anchor="start" x="240" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.shop.search</text>
+<text text-anchor="start" x="240" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.search</text>
 <text text-anchor="middle" x="320.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">_results.SearchResults.show_results</text>
 </a>
 </g>
@@ -131,9 +131,9 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1shop_1_1search__results_1_1_search_results.html#a077e1e9e6f074ee2b580447a204e00ec" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1_search_results.html#a077e1e9e6f074ee2b580447a204e00ec" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-67.5 0,-97.5 172,-97.5 172,-67.5 0,-67.5"/>
-<text text-anchor="start" x="8" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.shop.search</text>
+<text text-anchor="start" x="8" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.search</text>
 <text text-anchor="middle" x="86" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">_results.SearchResults.load_results</text>
 </a>
 </g>

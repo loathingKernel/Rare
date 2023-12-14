@@ -3,10 +3,10 @@ var searchData=
   ['qjsonmodel_0',['QJsonModel',['../classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html',1,'rare::utils::json_formatter']]],
   ['qjsontreeitem_1',['QJsonTreeItem',['../classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html',1,'rare::utils::json_formatter']]],
   ['ql_2',['ql',['../classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a86a6e93a196ee4ea762bb6c573cd6069',1,'rare::lgndr::cli::LegendaryCLI']]],
-  ['qprocessenvironment_3',['QProcessEnvironment',['../classrare_1_1game__launch__helper_1_1lgd__helper_1_1_launch_args.html#aa10ff1b058ab4d770c9ddc21bae372f0',1,'rare::game_launch_helper::lgd_helper::LaunchArgs']]],
+  ['qprocessenvironment_3',['QProcessEnvironment',['../classrare_1_1launcher_1_1lgd__helper_1_1_launch_args.html#aa10ff1b058ab4d770c9ddc21bae372f0',1,'rare::launcher::lgd_helper::LaunchArgs']]],
   ['qt_5frequests_2epy_4',['qt_requests.py',['../qt__requests_8py.html',1,'']]],
   ['qt_5ftranslator_5',['qt_translator',['../classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#a3c8e52a9c805a9433ba1dba64966bfc5',1,'rare::widgets::rare_app::RareApp']]],
-  ['qtrequestmanager_6',['QtRequestManager',['../classrare_1_1utils_1_1qt__requests_1_1_qt_request_manager.html',1,'rare::utils::qt_requests']]],
+  ['qtrequests_6',['QtRequests',['../classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html',1,'rare::utils::qt_requests']]],
   ['query_5freg_5fkey_7',['query_reg_key',['../namespacerare_1_1utils_1_1wine.html#a18f894fe6b02cbb7c9434518fc422985',1,'rare::utils::wine']]],
   ['query_5freg_5fpath_8',['query_reg_path',['../namespacerare_1_1utils_1_1wine.html#aaada99a167fe1485b0b7b318de61eeb8',1,'rare::utils::wine']]],
   ['queue_5fbase_5flayout_9',['queue_base_layout',['../classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__base__widget_1_1_ui___queue_base_widget.html#a957ad0a0d76a8228c8328af3bed22fcd',1,'rare::ui::components::tabs::downloads::queue_base_widget::Ui_QueueBaseWidget']]],
@@ -32,5 +32,6 @@ var searchData=
   ['queueworkerinfo_29',['QueueWorkerInfo',['../classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_info.html',1,'rare::shared::workers::worker']]],
   ['queueworkerstate_30',['QueueWorkerState',['../classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_state.html',1,'rare::shared::workers::worker']]],
   ['quit_31',['quit',['../classrare_1_1models_1_1signals_1_1_global_signals_1_1_application_signals.html#aabe3caba392c94aba7bb55af66802b05',1,'rare::models::signals::GlobalSignals::ApplicationSignals']]],
-  ['quit_5fapp_32',['quit_app',['../classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a6334c2d2519f6671e854ad46873c4dcc',1,'rare::components::dialogs::launch_dialog::LaunchDialog']]]
+  ['quit_5fbutton_32',['quit_button',['../classrare_1_1components_1_1tabs_1_1account_1_1_account_widget.html#af3cf0562cbf1ee08a01ac2070681629a',1,'rare::components::tabs::account::AccountWidget']]],
+  ['qurl_33',['QUrl',['../classrare_1_1utils_1_1qt__requests_1_1_request_queue_item.html#a2072eb59be7c7c036c3c41b479bd2015',1,'rare::utils::qt_requests::RequestQueueItem']]]
 ];

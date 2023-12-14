@@ -13,7 +13,6 @@ var classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install
     [ "install_dialog_label", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#a9ad16989b444cb12b596481b11e08e97", null ],
     [ "install_dialog_layout", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#a847bbbe64c2081748cbe9e2629ae9265", null ],
     [ "install_dir_label", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#a72efefd255315433c6849a408f7222d3", null ],
-    [ "install_dir_layout", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#a09dc9400af76883674428db2688697b8", null ],
     [ "install_size_label", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#a133d5864b0e03ba7e694205ff0e9433f", null ],
     [ "install_size_text", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#ab465274c47c8602cfb325cbcbd1fe0e1", null ],
     [ "platform_combo", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#a957be94fd0dde80f452e09970ecd09d6", null ],

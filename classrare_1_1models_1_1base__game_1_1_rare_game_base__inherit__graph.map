@@ -1,7 +1,7 @@
 <map id="RareGameBase" name="RareGameBase">
-<area shape="rect" id="node1" title=" " alt="" coords="96,131,211,399"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html" title=" " alt="" coords="5,447,149,671"/>
-<area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html" title=" " alt="" coords="173,491,288,627"/>
-<area shape="rect" id="node2" title=" " alt="" coords="118,5,189,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game.html" title=" " alt="" coords="15,719,140,1060"/>
+<area shape="rect" id="node1" title=" " alt="" coords="116,131,231,399"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html" title=" " alt="" coords="5,447,176,729"/>
+<area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html" title=" " alt="" coords="200,535,315,641"/>
+<area shape="rect" id="node2" title=" " alt="" coords="138,5,209,83"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game.html" title=" " alt="" coords="28,777,153,1119"/>
 </map>

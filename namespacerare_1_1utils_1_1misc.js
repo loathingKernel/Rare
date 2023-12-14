@@ -1,6 +1,6 @@
 var namespacerare_1_1utils_1_1misc =
 [
-    [ "CloudWorker", "classrare_1_1utils_1_1misc_1_1_cloud_worker.html", "classrare_1_1utils_1_1misc_1_1_cloud_worker" ],
+    [ "ExitCodes", "classrare_1_1utils_1_1misc_1_1_exit_codes.html", null ],
     [ "elide_text", "namespacerare_1_1utils_1_1misc.html#ab90611bbc9774a302e11102e58e698e2", null ],
     [ "format_size", "namespacerare_1_1utils_1_1misc.html#a3544b31f50ff739b7e8bb4ab751026b7", null ],
     [ "get_color_schemes", "namespacerare_1_1utils_1_1misc.html#a34b334ddbf93b69c95cce79f7a92e173", null ],
@@ -14,8 +14,5 @@ var namespacerare_1_1utils_1_1misc =
     [ "set_color_pallete", "namespacerare_1_1utils_1_1misc.html#a0a1d2124185f1449d3f4f0c225e5e823", null ],
     [ "set_style_sheet", "namespacerare_1_1utils_1_1misc.html#a0e697f47ccaa4704ff2b095b9d6e397f", null ],
     [ "widget_object_name", "namespacerare_1_1utils_1_1misc.html#a2ec81ab292b3a30c9099fbaf508e69a6", null ],
-    [ "color_group_map", "namespacerare_1_1utils_1_1misc.html#a9ccc93f7a3ed65f49b9fe37adfefbc4a", null ],
-    [ "color_role_map", "namespacerare_1_1utils_1_1misc.html#a80d14eb6df22f3a9bc6132267cd0321c", null ],
-    [ "logger", "namespacerare_1_1utils_1_1misc.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ],
-    [ "settings", "namespacerare_1_1utils_1_1misc.html#a6cddb5e40c21eadd2ded85bc51f79822", null ]
+    [ "logger", "namespacerare_1_1utils_1_1misc.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ]
 ];

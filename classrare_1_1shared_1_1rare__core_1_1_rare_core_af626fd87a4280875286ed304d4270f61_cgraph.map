@@ -1,6 +1,6 @@
 <map id="image_manager" name="image_manager">
-<area shape="rect" id="node1" title=" " alt="" coords="5,112,120,139"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,120,131"/>
 <area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="235,29,281,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" title=" " alt="" coords="168,105,348,146"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="227,195,289,221"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="227,104,289,131"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" title=" " alt="" coords="168,179,348,221"/>
 </map>

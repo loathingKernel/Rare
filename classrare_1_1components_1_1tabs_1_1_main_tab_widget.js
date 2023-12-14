@@ -1,7 +1,6 @@
 var classrare_1_1components_1_1tabs_1_1_main_tab_widget =
 [
     [ "__init__", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a75020e7f3888d6f837fae592b305add8", null ],
-    [ "logout", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a674007c506f7fe69c039f7f08438879e", null ],
     [ "mouse_clicked", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a60e20012db9d0080309b0831320ce13c", null ],
     [ "resizeEvent", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a0815964d2d7e4debf9b3e7cff7840436", null ],
     [ "account_widget", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a00a0921c2b880ff52eb24ae9b26d9020", null ],

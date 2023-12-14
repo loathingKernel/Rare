@@ -2,6 +2,7 @@ var paths_8py =
 [
     [ "applications_dir", "paths_8py.html#a929db13896ab79cbbe77bc82ad2698fc", null ],
     [ "cache_dir", "paths_8py.html#a967cf7dd54d6f29434b1b44099984396", null ],
+    [ "config_dir", "paths_8py.html#a2419f82da4851d8206432f8517af3fa0", null ],
     [ "create_desktop_link", "paths_8py.html#a6013706d2f5027e7d2979078186b11e5", null ],
     [ "create_dirs", "paths_8py.html#a15cafb5c4232740ebdcd62826468fd10", null ],
     [ "data_dir", "paths_8py.html#aa160c55be4d6aad43da3d35e8a1dc97b", null ],

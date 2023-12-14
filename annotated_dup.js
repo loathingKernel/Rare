@@ -1,10 +1,6 @@
 var annotated_dup =
 [
     [ "rare", "namespacerare.html", [
-      [ "app", "namespacerare_1_1app.html", [
-        [ "Rare", "classrare_1_1app_1_1_rare.html", "classrare_1_1app_1_1_rare" ],
-        [ "RareException", "classrare_1_1app_1_1_rare_exception.html", "classrare_1_1app_1_1_rare_exception" ]
-      ] ],
       [ "components", "namespacerare_1_1components.html", [
         [ "dialogs", "namespacerare_1_1components_1_1dialogs.html", [
           [ "cloud_save_dialog", "namespacerare_1_1components_1_1dialogs_1_1cloud__save__dialog.html", [
@@ -26,8 +22,7 @@ var annotated_dup =
               [ "ImportLogin", "classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html", "classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login" ]
             ] ],
             [ "LandingPage", "classrare_1_1components_1_1dialogs_1_1login_1_1_landing_page.html", "classrare_1_1components_1_1dialogs_1_1login_1_1_landing_page" ],
-            [ "LoginDialog", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog" ],
-            [ "LoginPages", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_pages.html", null ]
+            [ "LoginDialog", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog" ]
           ] ],
           [ "uninstall_dialog", "namespacerare_1_1components_1_1dialogs_1_1uninstall__dialog.html", [
             [ "UninstallDialog", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog" ]
@@ -202,38 +197,38 @@ var annotated_dup =
             ] ],
             [ "SettingsTab", "classrare_1_1components_1_1tabs_1_1settings_1_1_settings_tab.html", "classrare_1_1components_1_1tabs_1_1settings_1_1_settings_tab" ]
           ] ],
-          [ "shop", "namespacerare_1_1components_1_1tabs_1_1shop.html", [
-            [ "constants", "namespacerare_1_1components_1_1tabs_1_1shop_1_1constants.html", [
-              [ "Constants", "classrare_1_1components_1_1tabs_1_1shop_1_1constants_1_1_constants.html", "classrare_1_1components_1_1tabs_1_1shop_1_1constants_1_1_constants" ]
+          [ "store", "namespacerare_1_1components_1_1tabs_1_1store.html", [
+            [ "constants", "namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html", [
+              [ "Constants", "classrare_1_1components_1_1tabs_1_1store_1_1constants_1_1_constants.html", "classrare_1_1components_1_1tabs_1_1store_1_1constants_1_1_constants" ]
             ] ],
-            [ "game_info", "namespacerare_1_1components_1_1tabs_1_1shop_1_1game__info.html", [
-              [ "ShopGameInfo", "classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_shop_game_info.html", "classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_shop_game_info" ],
-              [ "SocialButton", "classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_social_button.html", "classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_social_button" ]
+            [ "game_info", "namespacerare_1_1components_1_1tabs_1_1store_1_1game__info.html", [
+              [ "ShopGameInfo", "classrare_1_1components_1_1tabs_1_1store_1_1game__info_1_1_shop_game_info.html", "classrare_1_1components_1_1tabs_1_1store_1_1game__info_1_1_shop_game_info" ],
+              [ "SocialButton", "classrare_1_1components_1_1tabs_1_1store_1_1game__info_1_1_social_button.html", "classrare_1_1components_1_1tabs_1_1store_1_1game__info_1_1_social_button" ]
             ] ],
-            [ "game_widgets", "namespacerare_1_1components_1_1tabs_1_1shop_1_1game__widgets.html", [
-              [ "GameWidget", "classrare_1_1components_1_1tabs_1_1shop_1_1game__widgets_1_1_game_widget.html", "classrare_1_1components_1_1tabs_1_1shop_1_1game__widgets_1_1_game_widget" ],
-              [ "WishlistWidget", "classrare_1_1components_1_1tabs_1_1shop_1_1game__widgets_1_1_wishlist_widget.html", "classrare_1_1components_1_1tabs_1_1shop_1_1game__widgets_1_1_wishlist_widget" ]
+            [ "game_widgets", "namespacerare_1_1components_1_1tabs_1_1store_1_1game__widgets.html", [
+              [ "GameWidget", "classrare_1_1components_1_1tabs_1_1store_1_1game__widgets_1_1_game_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1game__widgets_1_1_game_widget" ],
+              [ "WishlistWidget", "classrare_1_1components_1_1tabs_1_1store_1_1game__widgets_1_1_wishlist_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1game__widgets_1_1_wishlist_widget" ]
             ] ],
-            [ "search_results", "namespacerare_1_1components_1_1tabs_1_1shop_1_1search__results.html", [
-              [ "_SearchResultItem", "classrare_1_1components_1_1tabs_1_1shop_1_1search__results_1_1___search_result_item.html", "classrare_1_1components_1_1tabs_1_1shop_1_1search__results_1_1___search_result_item" ],
-              [ "SearchResults", "classrare_1_1components_1_1tabs_1_1shop_1_1search__results_1_1_search_results.html", "classrare_1_1components_1_1tabs_1_1shop_1_1search__results_1_1_search_results" ]
+            [ "search_results", "namespacerare_1_1components_1_1tabs_1_1store_1_1search__results.html", [
+              [ "_SearchResultItem", "classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1___search_result_item.html", "classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1___search_result_item" ],
+              [ "SearchResults", "classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1_search_results.html", "classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1_search_results" ]
             ] ],
-            [ "shop_api_core", "namespacerare_1_1components_1_1tabs_1_1shop_1_1shop__api__core.html", [
-              [ "ShopApiCore", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core.html", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__api__core_1_1_shop_api_core" ]
+            [ "shop_api_core", "namespacerare_1_1components_1_1tabs_1_1store_1_1shop__api__core.html", [
+              [ "ShopApiCore", "classrare_1_1components_1_1tabs_1_1store_1_1shop__api__core_1_1_shop_api_core.html", "classrare_1_1components_1_1tabs_1_1store_1_1shop__api__core_1_1_shop_api_core" ]
             ] ],
-            [ "shop_models", "namespacerare_1_1components_1_1tabs_1_1shop_1_1shop__models.html", [
-              [ "BrowseModel", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_browse_model.html", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_browse_model" ],
-              [ "ImageUrlModel", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_image_url_model.html", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_image_url_model" ],
-              [ "ShopGame", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_shop_game.html", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__models_1_1_shop_game" ]
+            [ "shop_models", "namespacerare_1_1components_1_1tabs_1_1store_1_1shop__models.html", [
+              [ "BrowseModel", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_browse_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_browse_model" ],
+              [ "ImageUrlModel", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_image_url_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_image_url_model" ],
+              [ "ShopGame", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_shop_game.html", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_shop_game" ]
             ] ],
-            [ "shop_widget", "namespacerare_1_1components_1_1tabs_1_1shop_1_1shop__widget.html", [
-              [ "CheckBox", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_check_box.html", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_check_box" ],
-              [ "ShopWidget", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html", "classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget" ]
+            [ "shop_widget", "namespacerare_1_1components_1_1tabs_1_1store_1_1shop__widget.html", [
+              [ "CheckBox", "classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_check_box.html", "classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_check_box" ],
+              [ "ShopWidget", "classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_shop_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_shop_widget" ]
             ] ],
-            [ "wishlist", "namespacerare_1_1components_1_1tabs_1_1shop_1_1wishlist.html", [
-              [ "Wishlist", "classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist.html", "classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist" ]
+            [ "wishlist", "namespacerare_1_1components_1_1tabs_1_1store_1_1wishlist.html", [
+              [ "Wishlist", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist.html", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist" ]
             ] ],
-            [ "Shop", "classrare_1_1components_1_1tabs_1_1shop_1_1_shop.html", "classrare_1_1components_1_1tabs_1_1shop_1_1_shop" ]
+            [ "Shop", "classrare_1_1components_1_1tabs_1_1store_1_1_shop.html", "classrare_1_1components_1_1tabs_1_1store_1_1_shop" ]
           ] ],
           [ "tab_widgets", "namespacerare_1_1components_1_1tabs_1_1tab__widgets.html", [
             [ "MainTabBar", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_main_tab_bar.html", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_main_tab_bar" ],
@@ -243,23 +238,25 @@ var annotated_dup =
         ] ],
         [ "tray_icon", "namespacerare_1_1components_1_1tray__icon.html", [
           [ "TrayIcon", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html", "classrare_1_1components_1_1tray__icon_1_1_tray_icon" ]
-        ] ]
+        ] ],
+        [ "Rare", "classrare_1_1components_1_1_rare.html", "classrare_1_1components_1_1_rare" ],
+        [ "RareException", "classrare_1_1components_1_1_rare_exception.html", "classrare_1_1components_1_1_rare_exception" ]
       ] ],
-      [ "game_launch_helper", "namespacerare_1_1game__launch__helper.html", [
-        [ "console", "namespacerare_1_1game__launch__helper_1_1console.html", [
-          [ "Console", "classrare_1_1game__launch__helper_1_1console_1_1_console.html", "classrare_1_1game__launch__helper_1_1console_1_1_console" ],
-          [ "ConsoleEdit", "classrare_1_1game__launch__helper_1_1console_1_1_console_edit.html", "classrare_1_1game__launch__helper_1_1console_1_1_console_edit" ],
-          [ "ConsoleEnv", "classrare_1_1game__launch__helper_1_1console_1_1_console_env.html", "classrare_1_1game__launch__helper_1_1console_1_1_console_env" ]
+      [ "launcher", "namespacerare_1_1launcher.html", [
+        [ "console", "namespacerare_1_1launcher_1_1console.html", [
+          [ "Console", "classrare_1_1launcher_1_1console_1_1_console.html", "classrare_1_1launcher_1_1console_1_1_console" ],
+          [ "ConsoleEdit", "classrare_1_1launcher_1_1console_1_1_console_edit.html", "classrare_1_1launcher_1_1console_1_1_console_edit" ],
+          [ "ConsoleEnv", "classrare_1_1launcher_1_1console_1_1_console_env.html", "classrare_1_1launcher_1_1console_1_1_console_env" ]
         ] ],
-        [ "lgd_helper", "namespacerare_1_1game__launch__helper_1_1lgd__helper.html", [
-          [ "GameArgsError", "classrare_1_1game__launch__helper_1_1lgd__helper_1_1_game_args_error.html", null ],
-          [ "InitArgs", "classrare_1_1game__launch__helper_1_1lgd__helper_1_1_init_args.html", "classrare_1_1game__launch__helper_1_1lgd__helper_1_1_init_args" ],
-          [ "LaunchArgs", "classrare_1_1game__launch__helper_1_1lgd__helper_1_1_launch_args.html", "classrare_1_1game__launch__helper_1_1lgd__helper_1_1_launch_args" ]
+        [ "lgd_helper", "namespacerare_1_1launcher_1_1lgd__helper.html", [
+          [ "GameArgsError", "classrare_1_1launcher_1_1lgd__helper_1_1_game_args_error.html", null ],
+          [ "InitArgs", "classrare_1_1launcher_1_1lgd__helper_1_1_init_args.html", "classrare_1_1launcher_1_1lgd__helper_1_1_init_args" ],
+          [ "LaunchArgs", "classrare_1_1launcher_1_1lgd__helper_1_1_launch_args.html", "classrare_1_1launcher_1_1lgd__helper_1_1_launch_args" ]
         ] ],
-        [ "PreLaunchThread", "classrare_1_1game__launch__helper_1_1_pre_launch_thread.html", "classrare_1_1game__launch__helper_1_1_pre_launch_thread" ],
-        [ "RareLauncher", "classrare_1_1game__launch__helper_1_1_rare_launcher.html", "classrare_1_1game__launch__helper_1_1_rare_launcher" ],
-        [ "RareLauncherException", "classrare_1_1game__launch__helper_1_1_rare_launcher_exception.html", "classrare_1_1game__launch__helper_1_1_rare_launcher_exception" ],
-        [ "SyncCheckWorker", "classrare_1_1game__launch__helper_1_1_sync_check_worker.html", "classrare_1_1game__launch__helper_1_1_sync_check_worker" ]
+        [ "PreLaunchThread", "classrare_1_1launcher_1_1_pre_launch_thread.html", "classrare_1_1launcher_1_1_pre_launch_thread" ],
+        [ "RareLauncher", "classrare_1_1launcher_1_1_rare_launcher.html", "classrare_1_1launcher_1_1_rare_launcher" ],
+        [ "RareLauncherException", "classrare_1_1launcher_1_1_rare_launcher_exception.html", "classrare_1_1launcher_1_1_rare_launcher_exception" ],
+        [ "SyncCheckWorker", "classrare_1_1launcher_1_1_sync_check_worker.html", "classrare_1_1launcher_1_1_sync_check_worker" ]
       ] ],
       [ "lgndr", "namespacerare_1_1lgndr.html", [
         [ "cli", "namespacerare_1_1lgndr_1_1cli.html", [
@@ -278,23 +275,30 @@ var annotated_dup =
         [ "glue", "namespacerare_1_1lgndr_1_1glue.html", [
           [ "arguments", "namespacerare_1_1lgndr_1_1glue_1_1arguments.html", [
             [ "LgndrImportGameArgs", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_import_game_args.html", null ],
-            [ "LgndrInstallGameArgs", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_args.html", null ],
+            [ "LgndrInstallGameArgs", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_args.html", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_args" ],
             [ "LgndrInstallGameRealArgs", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_args.html", null ],
             [ "LgndrInstallGameRealRet", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_ret.html", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_ret" ],
             [ "LgndrUninstallGameArgs", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_uninstall_game_args.html", null ],
             [ "LgndrVerifyGameArgs", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_verify_game_args.html", null ]
           ] ],
           [ "exception", "namespacerare_1_1lgndr_1_1glue_1_1exception.html", [
-            [ "LgndrCLILogHandler", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_c_l_i_log_handler.html", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_c_l_i_log_handler" ],
-            [ "LgndrCoreLogHandler", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_core_log_handler.html", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_core_log_handler" ],
             [ "LgndrException", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_exception.html", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_exception" ],
+            [ "LgndrLogHandler", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_log_handler.html", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_log_handler" ],
             [ "LgndrWarning", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_warning.html", "classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_warning" ]
           ] ],
           [ "monkeys", "namespacerare_1_1lgndr_1_1glue_1_1monkeys.html", [
             [ "DLManagerSignals", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_d_l_manager_signals.html", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_d_l_manager_signals" ],
             [ "GetBooleanChoiceProtocol", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_get_boolean_choice_protocol.html", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_get_boolean_choice_protocol" ],
             [ "LgndrIndirectLogger", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger" ],
-            [ "LgndrIndirectStatus", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_status.html", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_status" ]
+            [ "LgndrIndirectStatus", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_status.html", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_status" ],
+            [ "SdlPromptProtocol", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_sdl_prompt_protocol.html", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_sdl_prompt_protocol" ],
+            [ "UiUpdateProtocol", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_ui_update_protocol.html", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_ui_update_protocol" ],
+            [ "VerifyStdoutProtocol", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_verify_stdout_protocol.html", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_verify_stdout_protocol" ]
+          ] ]
+        ] ],
+        [ "lfs", "namespacerare_1_1lgndr_1_1lfs.html", [
+          [ "lgndry", "namespacerare_1_1lgndr_1_1lfs_1_1lgndry.html", [
+            [ "LGDLFS", "classrare_1_1lgndr_1_1lfs_1_1lgndry_1_1_l_g_d_l_f_s.html", "classrare_1_1lgndr_1_1lfs_1_1lgndry_1_1_l_g_d_l_f_s" ]
           ] ]
         ] ],
         [ "models", "namespacerare_1_1lgndr_1_1models.html", [
@@ -523,11 +527,11 @@ var annotated_dup =
           [ "QJsonTreeItem", "classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html", "classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item" ]
         ] ],
         [ "misc", "namespacerare_1_1utils_1_1misc.html", [
-          [ "CloudWorker", "classrare_1_1utils_1_1misc_1_1_cloud_worker.html", "classrare_1_1utils_1_1misc_1_1_cloud_worker" ]
+          [ "ExitCodes", "classrare_1_1utils_1_1misc_1_1_exit_codes.html", null ]
         ] ],
         [ "qt_requests", "namespacerare_1_1utils_1_1qt__requests.html", [
-          [ "QtRequestManager", "classrare_1_1utils_1_1qt__requests_1_1_qt_request_manager.html", "classrare_1_1utils_1_1qt__requests_1_1_qt_request_manager" ],
-          [ "RequestQueueItem", "classrare_1_1utils_1_1qt__requests_1_1_request_queue_item.html", null ]
+          [ "QtRequests", "classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html", "classrare_1_1utils_1_1qt__requests_1_1_qt_requests" ],
+          [ "RequestQueueItem", "classrare_1_1utils_1_1qt__requests_1_1_request_queue_item.html", "classrare_1_1utils_1_1qt__requests_1_1_request_queue_item" ]
         ] ],
         [ "rpc", "namespacerare_1_1utils_1_1rpc.html", [
           [ "DiscordRPC", "classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html", "classrare_1_1utils_1_1rpc_1_1_discord_r_p_c" ]

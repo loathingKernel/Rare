@@ -1,6 +1,6 @@
 var classrare_1_1widgets_1_1flow__layout_1_1_flow_layout =
 [
-    [ "__init__", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a43b40547e8d029e1f8baf7be616ef8df", null ],
+    [ "__init__", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a39d165427992dd2720f91929a88cde17", null ],
     [ "__del__", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a41a65d7030dd1006b177d0bc24e1a12b", null ],
     [ "addItem", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#ac013a9b39bc854e0b7fef623c7683b88", null ],
     [ "count", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#adaaa57688d92e19605bdc1a271c51e6e", null ],
@@ -9,11 +9,18 @@ var classrare_1_1widgets_1_1flow__layout_1_1_flow_layout =
     [ "hasHeightForWidth", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a72c3563fa51a025ef82d48d381c46e6e", null ],
     [ "heightForWidth", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a2dc56ed9b2e524cfc31b3ca5abd00b56", null ],
     [ "horizontalSpacing", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a198240b6ed8eb4be3d26adb4ca03aa8d", null ],
+    [ "indexOf", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#ac61d968c1124dbb2a7568dd382e91a7d", null ],
+    [ "indexOf", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a8e7bec55adcc4afe502cf1e17b59a589", null ],
     [ "itemAt", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a19391bf7e33a6e6ff9f94258f12c48ce", null ],
     [ "minimumSize", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a464fdd6525ee797b1d8e4bdf6441983d", null ],
+    [ "removeItem", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a484f1ca405f8127c47e95f07b397bdb4", null ],
     [ "setGeometry", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#afe23566a105be4d4343f0010ab0c0c81", null ],
+    [ "setHorizontalSpacing", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a37c989eef403c331274abb201417758f", null ],
+    [ "setSpacing", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#aa82ef07aa7fca73268543b5ccad28a02", null ],
+    [ "setVerticalSpacing", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a236db087f1240d5f13e7be27e7f30cfe", null ],
     [ "sizeHint", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a3936acd9cb32819e34a215b089302522", null ],
     [ "smartSpacing", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a2e8d545883a85a6757198adec7da2731", null ],
+    [ "spacing", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a31c485a3f120449c066b32f58cef2879", null ],
     [ "takeAt", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a85cb351dc7e31a8e2c5476cc6d09d503", null ],
     [ "verticalSpacing", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a339c0461a90b6d3b3eee250fbc47aefb", null ]
 ];

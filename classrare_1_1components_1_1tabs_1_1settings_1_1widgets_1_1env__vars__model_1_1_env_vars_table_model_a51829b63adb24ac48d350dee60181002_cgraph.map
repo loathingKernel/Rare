@@ -1,16 +1,15 @@
 <map id="reset" name="reset">
-<area shape="rect" id="node1" title=" " alt="" coords="9,255,59,282"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1shop_1_1_shop.html#aea7c4ced230e9462362c980c5ea47b4d" title=" " alt="" coords="329,69,509,111"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#aea7c4ced230e9462362c980c5ea47b4d" title=" " alt="" coords="315,159,523,200"/>
-<area shape="rect" id="node10" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#a7125a31f39d8e562e0cd2a4da479966d" title="Load from dictionary." alt="" coords="339,413,499,455"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#af606f4e4030d9f355dc7210e79796813" title=" " alt="" coords="396,338,443,365"/>
-<area shape="rect" id="node13" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#ac9b61a5d2b7f34200733fd959135686f" title=" " alt="" coords="107,248,267,289"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#acc22d28ca5b75335e3309accf015adc6" title=" " alt="" coords="579,260,818,301"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1shop_1_1game__info_1_1_shop_game_info.html#a3fc8c31e9c09c30d1480d83be79cd5bd" title=" " alt="" coords="874,56,1129,97"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#a3fc8c31e9c09c30d1480d83be79cd5bd" title=" " alt="" coords="571,29,826,71"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#ad40685079c149157f03614f3b66fe2f3" title=" " alt="" coords="581,171,817,212"/>
-<area shape="rect" id="node8" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="915,315,1088,356"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1shop_1_1shop__widget_1_1_shop_widget.html#afe8e8ac663d9c09dad3a1364f128945b" title=" " alt="" coords="891,171,1111,212"/>
-<area shape="rect" id="node12" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#a50716b520de2d44af336e0fc4b43d54f" title=" " alt="" coords="671,326,727,353"/>
-<area shape="rect" id="node14" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#aff464267544e4efc9b770c8320c8f199" title=" " alt="" coords="339,248,499,289"/>
+<area shape="rect" id="node1" title=" " alt="" coords="9,350,59,377"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_shop_widget.html#aea7c4ced230e9462362c980c5ea47b4d" title=" " alt="" coords="315,187,525,228"/>
+<area shape="rect" id="node9" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#a7125a31f39d8e562e0cd2a4da479966d" title="Load from dictionary." alt="" coords="340,473,500,515"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#af606f4e4030d9f355dc7210e79796813" title=" " alt="" coords="397,309,443,335"/>
+<area shape="rect" id="node12" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#ac9b61a5d2b7f34200733fd959135686f" title=" " alt="" coords="107,384,267,425"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_shop_widget.html#acc22d28ca5b75335e3309accf015adc6" title=" " alt="" coords="581,260,819,301"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1store_1_1game__info_1_1_shop_game_info.html#a3fc8c31e9c09c30d1480d83be79cd5bd" title=" " alt="" coords="875,56,1130,97"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_shop_widget.html#a3fc8c31e9c09c30d1480d83be79cd5bd" title=" " alt="" coords="573,29,827,71"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_shop_widget.html#ad40685079c149157f03614f3b66fe2f3" title=" " alt="" coords="582,171,818,212"/>
+<area shape="rect" id="node7" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="916,315,1089,356"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_shop_widget.html#afe8e8ac663d9c09dad3a1364f128945b" title=" " alt="" coords="893,171,1113,212"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#a50716b520de2d44af336e0fc4b43d54f" title=" " alt="" coords="672,326,728,353"/>
+<area shape="rect" id="node13" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#aff464267544e4efc9b770c8320c8f199" title=" " alt="" coords="340,384,500,425"/>
 </map>

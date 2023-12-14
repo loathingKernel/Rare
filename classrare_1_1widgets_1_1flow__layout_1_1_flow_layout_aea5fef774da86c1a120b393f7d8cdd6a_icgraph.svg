@@ -147,17 +147,17 @@ var sectionId = 'dynsection-11';
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1game__launch__helper_1_1console_1_1_console.html#a39d165427992dd2720f91929a88cde17" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="27.5,-67.5 27.5,-97.5 190.5,-97.5 190.5,-67.5 27.5,-67.5"/>
-<text text-anchor="start" x="35.5" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.game_launch_helper.console.</text>
-<text text-anchor="middle" x="109" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">Console.__init__</text>
+<g id="a_node5"><a xlink:href="classrare_1_1launcher_1_1console_1_1_console.html#a39d165427992dd2720f91929a88cde17" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="35,-67.5 35,-97.5 183,-97.5 183,-67.5 35,-67.5"/>
+<text text-anchor="start" x="43" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.launcher.console.Console.</text>
+<text text-anchor="middle" x="109" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">__init__</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node5 -->
 <g id="edge7" class="edge">
 <title>Node3&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M290.61,-57.73C262.09,-61.64 224.47,-66.8 190.95,-71.4"/>
+<path fill="none" stroke="midnightblue" d="M290.7,-57.71C260,-61.93 218.72,-67.59 183.38,-72.44"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="291.26,-61.17 300.69,-56.34 290.3,-54.24 291.26,-61.17"/>
 </g>
 <!-- Node6 -->
@@ -203,7 +203,7 @@ var sectionId = 'dynsection-11';
 <!-- Node7&#45;&gt;Node5 -->
 <g id="edge14" class="edge">
 <title>Node7&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M243.54,-100.82C226.01,-98.41 207.79,-95.91 190.66,-93.56"/>
+<path fill="none" stroke="midnightblue" d="M243.65,-100.83C223.51,-98.07 202.46,-95.18 183.19,-92.54"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="243.39,-104.33 253.77,-102.22 244.34,-97.39 243.39,-104.33"/>
 </g>
 <!-- Node7&#45;&gt;Node6 -->

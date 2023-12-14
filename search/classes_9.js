@@ -1,20 +1,20 @@
 var searchData=
 [
   ['landingpage_0',['LandingPage',['../classrare_1_1components_1_1dialogs_1_1login_1_1_landing_page.html',1,'rare::components::dialogs::login']]],
-  ['launchargs_1',['LaunchArgs',['../classrare_1_1game__launch__helper_1_1lgd__helper_1_1_launch_args.html',1,'rare::game_launch_helper::lgd_helper']]],
+  ['launchargs_1',['LaunchArgs',['../classrare_1_1launcher_1_1lgd__helper_1_1_launch_args.html',1,'rare::launcher::lgd_helper']]],
   ['launchdialog_2',['LaunchDialog',['../classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html',1,'rare::components::dialogs::launch_dialog']]],
   ['legendarycli_3',['LegendaryCLI',['../classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html',1,'rare::lgndr::cli']]],
   ['legendarycore_4',['LegendaryCore',['../classrare_1_1lgndr_1_1core_1_1_legendary_core.html',1,'rare::lgndr::core']]],
   ['legendarysettings_5',['LegendarySettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html',1,'rare::components::tabs::settings::legendary']]],
-  ['lgndrcliloghandler_6',['LgndrCLILogHandler',['../classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_c_l_i_log_handler.html',1,'rare::lgndr::glue::exception']]],
-  ['lgndrcoreloghandler_7',['LgndrCoreLogHandler',['../classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_core_log_handler.html',1,'rare::lgndr::glue::exception']]],
-  ['lgndrexception_8',['LgndrException',['../classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_exception.html',1,'rare::lgndr::glue::exception']]],
-  ['lgndrimportgameargs_9',['LgndrImportGameArgs',['../classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_import_game_args.html',1,'rare::lgndr::glue::arguments']]],
-  ['lgndrindirectlogger_10',['LgndrIndirectLogger',['../classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html',1,'rare::lgndr::glue::monkeys']]],
-  ['lgndrindirectstatus_11',['LgndrIndirectStatus',['../classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_status.html',1,'rare::lgndr::glue::monkeys']]],
-  ['lgndrinstallgameargs_12',['LgndrInstallGameArgs',['../classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_args.html',1,'rare::lgndr::glue::arguments']]],
-  ['lgndrinstallgamerealargs_13',['LgndrInstallGameRealArgs',['../classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_args.html',1,'rare::lgndr::glue::arguments']]],
-  ['lgndrinstallgamerealret_14',['LgndrInstallGameRealRet',['../classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_ret.html',1,'rare::lgndr::glue::arguments']]],
+  ['lgdlfs_6',['LGDLFS',['../classrare_1_1lgndr_1_1lfs_1_1lgndry_1_1_l_g_d_l_f_s.html',1,'rare::lgndr::lfs::lgndry']]],
+  ['lgndrexception_7',['LgndrException',['../classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_exception.html',1,'rare::lgndr::glue::exception']]],
+  ['lgndrimportgameargs_8',['LgndrImportGameArgs',['../classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_import_game_args.html',1,'rare::lgndr::glue::arguments']]],
+  ['lgndrindirectlogger_9',['LgndrIndirectLogger',['../classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html',1,'rare::lgndr::glue::monkeys']]],
+  ['lgndrindirectstatus_10',['LgndrIndirectStatus',['../classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_status.html',1,'rare::lgndr::glue::monkeys']]],
+  ['lgndrinstallgameargs_11',['LgndrInstallGameArgs',['../classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_args.html',1,'rare::lgndr::glue::arguments']]],
+  ['lgndrinstallgamerealargs_12',['LgndrInstallGameRealArgs',['../classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_args.html',1,'rare::lgndr::glue::arguments']]],
+  ['lgndrinstallgamerealret_13',['LgndrInstallGameRealRet',['../classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_ret.html',1,'rare::lgndr::glue::arguments']]],
+  ['lgndrloghandler_14',['LgndrLogHandler',['../classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_log_handler.html',1,'rare::lgndr::glue::exception']]],
   ['lgndruninstallgameargs_15',['LgndrUninstallGameArgs',['../classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_uninstall_game_args.html',1,'rare::lgndr::glue::arguments']]],
   ['lgndrverifygameargs_16',['LgndrVerifyGameArgs',['../classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_verify_game_args.html',1,'rare::lgndr::glue::arguments']]],
   ['lgndrwarning_17',['LgndrWarning',['../classrare_1_1lgndr_1_1glue_1_1exception_1_1_lgndr_warning.html',1,'rare::lgndr::glue::exception']]],
@@ -26,6 +26,5 @@ var searchData=
   ['listgamewidget_23',['ListGameWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html',1,'rare::components::tabs::games::game_widgets::list_game_widget']]],
   ['listwidget_24',['ListWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget.html',1,'rare::components::tabs::games::game_widgets::list_widget']]],
   ['loadingwidget_25',['LoadingWidget',['../classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html',1,'rare::widgets::loading_widget']]],
-  ['logindialog_26',['LoginDialog',['../classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html',1,'rare::components::dialogs::login']]],
-  ['loginpages_27',['LoginPages',['../classrare_1_1components_1_1dialogs_1_1login_1_1_login_pages.html',1,'rare::components::dialogs::login']]]
+  ['logindialog_26',['LoginDialog',['../classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html',1,'rare::components::dialogs::login']]]
 ];

@@ -102,17 +102,17 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1game__launch__helper_1_1console_1_1_console.html#a39d165427992dd2720f91929a88cde17" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="27.5,-57 27.5,-87 190.5,-87 190.5,-57 27.5,-57"/>
-<text text-anchor="start" x="35.5" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">rare.game_launch_helper.console.</text>
-<text text-anchor="middle" x="109" y="-64" font-family="Helvetica,sans-Serif" font-size="10.00">Console.__init__</text>
+<g id="a_node5"><a xlink:href="classrare_1_1launcher_1_1console_1_1_console.html#a39d165427992dd2720f91929a88cde17" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="35,-57 35,-87 183,-87 183,-57 35,-57"/>
+<text text-anchor="start" x="43" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">rare.launcher.console.Console.</text>
+<text text-anchor="middle" x="109" y="-64" font-family="Helvetica,sans-Serif" font-size="10.00">__init__</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node5 -->
 <g id="edge7" class="edge">
 <title>Node3&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M248.29,-51.59C229.76,-54.32 209.68,-57.29 190.72,-60.08"/>
+<path fill="none" stroke="midnightblue" d="M248.26,-51.59C227.23,-54.7 204.21,-58.09 183.09,-61.21"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="249.03,-55.01 258.41,-50.09 248.01,-48.09 249.03,-55.01"/>
 </g>
 <!-- Node6 -->
@@ -157,7 +157,7 @@
 <!-- Node7&#45;&gt;Node5 -->
 <g id="edge14" class="edge">
 <title>Node7&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M274.77,-96.32C250.24,-92.7 219.19,-88.12 190.68,-83.91"/>
+<path fill="none" stroke="midnightblue" d="M274.66,-96.31C247.99,-92.37 213.62,-87.3 183.19,-82.8"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="274.45,-99.81 284.85,-97.81 275.47,-92.89 274.45,-99.81"/>
 </g>
 <!-- Node7&#45;&gt;Node6 -->

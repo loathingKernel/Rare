@@ -1,4 +1,4 @@
 <map id="install_size" name="install_size">
-<area shape="rect" id="node1" title="Property to report the installation size of an InstalledGame." alt="" coords="5,29,92,56"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a278563422a00c7eb39dfc65d0b71f51a" title="Property to report if a Game is an Origin game." alt="" coords="140,29,211,56"/>
+<area shape="rect" id="node1" title="Property to report the installation size of an InstalledGame." alt="" coords="5,37,92,63"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a278563422a00c7eb39dfc65d0b71f51a" title="Property to report if a Game is an Origin game." alt="" coords="140,29,329,71"/>
 </map>

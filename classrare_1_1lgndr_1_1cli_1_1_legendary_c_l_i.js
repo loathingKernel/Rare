@@ -2,6 +2,7 @@ var classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i =
 [
     [ "__init__", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#ad033a8bcd806e4171695d2744602e58c", null ],
     [ "__del__", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a41a65d7030dd1006b177d0bc24e1a12b", null ],
+    [ "egs_sync", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#ab83dc4a70b642b97fdfe1b8163f10d98", null ],
     [ "import_game", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a881d11b24342715864e29b218219f5f4", null ],
     [ "install_game", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a4aaa726f3b4643dc9fc5f027294fc9c9", null ],
     [ "install_game_cleanup", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a7de93b9e2b51b491d5c70be49680f66d", null ],

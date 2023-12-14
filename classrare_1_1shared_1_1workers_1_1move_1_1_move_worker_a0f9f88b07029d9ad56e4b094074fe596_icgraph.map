@@ -1,10 +1,9 @@
 <map id="progress" name="progress">
-<area shape="rect" id="node1" title=" " alt="" coords="535,215,607,242"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals.html#a41a65d7030dd1006b177d0bc24e1a12b" title=" " alt="" coords="265,29,455,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aaa74ecf58689d52b7b0ee618709228aa" title=" " alt="" coords="273,119,447,160"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a79c176b5faed55afa14f43bf9096caf5" title=" " alt="" coords="273,208,447,249"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="233,297,487,339"/>
-<area shape="rect" id="node7" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="326,387,394,414"/>
-<area shape="rect" id="node5" href="$classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a945b62f837b48b68ec1ec24a8b3ec130" title=" " alt="" coords="12,208,179,249"/>
-<area shape="rect" id="node8" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="5,380,185,421"/>
+<area shape="rect" id="node1" title=" " alt="" coords="471,171,543,198"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals.html#a41a65d7030dd1006b177d0bc24e1a12b" title=" " alt="" coords="233,29,423,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aaa74ecf58689d52b7b0ee618709228aa" title=" " alt="" coords="241,119,415,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a79c176b5faed55afa14f43bf9096caf5" title=" " alt="" coords="241,208,415,249"/>
+<area shape="rect" id="node6" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="294,299,362,326"/>
+<area shape="rect" id="node5" href="$classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a945b62f837b48b68ec1ec24a8b3ec130" title=" " alt="" coords="12,205,179,247"/>
+<area shape="rect" id="node7" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="5,295,185,336"/>
 </map>

@@ -1,5 +1,6 @@
 var classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager =
 [
+    [ "__init__", "classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#a4ee122c130dd6755d8cecc348c37be3b", null ],
     [ "run_real", "classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#a8ab35d074c65f417a6a0bf36e97bc7a8", null ],
     [ "active_tasks", "classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#aa031158d488fa0bcd253571016f2305b", null ],
     [ "bytes_decompressed_since_last", "classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#a90b5f37e377bb6c2642b9ab1cb67a156", null ],

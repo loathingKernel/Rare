@@ -86,7 +86,7 @@ var sectionId = 'dynsection-0';
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1shop_1_1wishlist_1_1_wishlist.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-145.5 123,-145.5 123,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="61.5" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00">Wishlist</text>
 <polyline fill="none" stroke="black" points="0,-126.5 123,-126.5 "/>

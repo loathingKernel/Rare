@@ -1,14 +1,12 @@
 var namespacerare =
 [
-    [ "__main__", "namespacerare_1_1____main____.html", [
-      [ "main", "namespacerare_1_1____main____.html#add42217d54476fc931cfda4d8515bf43", null ],
-      [ "stderr", "namespacerare_1_1____main____.html#a967f1e1a5a55f4e39ee6686dbb351941", null ],
-      [ "stdout", "namespacerare_1_1____main____.html#ae6b0515ae8a991c3aa2c521bcc11953b", null ]
-    ] ],
-    [ "app", "namespacerare_1_1app.html", "namespacerare_1_1app" ],
+    [ "__main__", "namespacerare_1_1____main____.html", null ],
     [ "components", "namespacerare_1_1components.html", "namespacerare_1_1components" ],
-    [ "game_launch_helper", "namespacerare_1_1game__launch__helper.html", "namespacerare_1_1game__launch__helper" ],
+    [ "launcher", "namespacerare_1_1launcher.html", "namespacerare_1_1launcher" ],
     [ "lgndr", "namespacerare_1_1lgndr.html", "namespacerare_1_1lgndr" ],
+    [ "main", "namespacerare_1_1main.html", [
+      [ "main", "namespacerare_1_1main.html#a532d4b899b39c9f08370e91c54b63e33", null ]
+    ] ],
     [ "models", "namespacerare_1_1models.html", "namespacerare_1_1models" ],
     [ "shared", "namespacerare_1_1shared.html", "namespacerare_1_1shared" ],
     [ "ui", "namespacerare_1_1ui.html", "namespacerare_1_1ui" ],

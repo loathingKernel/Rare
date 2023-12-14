@@ -1,6 +1,6 @@
 <map id="VerifyWorker" name="VerifyWorker">
-<area shape="rect" id="node1" title=" " alt="" coords="5,499,137,664"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker.html" title="Base queueable worker class." alt="" coords="17,315,125,451"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html" title="Base QRunnable class." alt="" coords="28,131,115,267"/>
-<area shape="rect" id="node4" title=" " alt="" coords="28,5,115,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,499,113,649"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker.html" title="Base queueable worker class." alt="" coords="5,315,113,451"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html" title="Base QRunnable class." alt="" coords="16,131,103,267"/>
+<area shape="rect" id="node4" title=" " alt="" coords="16,5,103,83"/>
 </map>

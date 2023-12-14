@@ -43,17 +43,17 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1game__launch__helper_1_1console_1_1_console.html#a39d165427992dd2720f91929a88cde17" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="27.5,-57 27.5,-87 190.5,-87 190.5,-57 27.5,-57"/>
-<text text-anchor="start" x="35.5" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">rare.game_launch_helper.console.</text>
-<text text-anchor="middle" x="109" y="-64" font-family="Helvetica,sans-Serif" font-size="10.00">Console.__init__</text>
+<g id="a_node3"><a xlink:href="classrare_1_1launcher_1_1console_1_1_console.html#a39d165427992dd2720f91929a88cde17" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="35,-57 35,-87 183,-87 183,-57 35,-57"/>
+<text text-anchor="start" x="43" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">rare.launcher.console.Console.</text>
+<text text-anchor="middle" x="109" y="-64" font-family="Helvetica,sans-Serif" font-size="10.00">__init__</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M243.49,-72C227.46,-72 208.91,-72 190.84,-72"/>
+<path fill="none" stroke="midnightblue" d="M243.52,-72C225.16,-72 203.51,-72 183.04,-72"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="243.64,-75.5 253.64,-72 243.64,-68.5 243.64,-75.5"/>
 </g>
 <!-- Node4 -->

@@ -1,6 +1,6 @@
 <map id="RareGame" name="RareGame">
-<area shape="rect" id="node1" title=" " alt="" coords="15,719,140,1060"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html" title=" " alt="" coords="5,447,149,671"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html" title=" " alt="" coords="20,131,135,399"/>
-<area shape="rect" id="node4" title=" " alt="" coords="42,5,113,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="28,777,153,1119"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html" title=" " alt="" coords="5,447,176,729"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html" title=" " alt="" coords="33,131,148,399"/>
+<area shape="rect" id="node4" title=" " alt="" coords="55,5,126,83"/>
 </map>

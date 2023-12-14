@@ -1,7 +1,6 @@
 var misc_8py =
 [
-    [ "CloudWorker", "classrare_1_1utils_1_1misc_1_1_cloud_worker.html", "classrare_1_1utils_1_1misc_1_1_cloud_worker" ],
-    [ "CloudWorker.Signals", "classrare_1_1utils_1_1misc_1_1_cloud_worker_1_1_signals.html", null ],
+    [ "ExitCodes", "classrare_1_1utils_1_1misc_1_1_exit_codes.html", null ],
     [ "elide_text", "misc_8py.html#ab90611bbc9774a302e11102e58e698e2", null ],
     [ "format_size", "misc_8py.html#a3544b31f50ff739b7e8bb4ab751026b7", null ],
     [ "get_color_schemes", "misc_8py.html#a34b334ddbf93b69c95cce79f7a92e173", null ],
@@ -15,8 +14,5 @@ var misc_8py =
     [ "set_color_pallete", "misc_8py.html#a0a1d2124185f1449d3f4f0c225e5e823", null ],
     [ "set_style_sheet", "misc_8py.html#a0e697f47ccaa4704ff2b095b9d6e397f", null ],
     [ "widget_object_name", "misc_8py.html#a2ec81ab292b3a30c9099fbaf508e69a6", null ],
-    [ "color_group_map", "misc_8py.html#a9ccc93f7a3ed65f49b9fe37adfefbc4a", null ],
-    [ "color_role_map", "misc_8py.html#a80d14eb6df22f3a9bc6132267cd0321c", null ],
-    [ "logger", "misc_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ],
-    [ "settings", "misc_8py.html#a6cddb5e40c21eadd2ded85bc51f79822", null ]
+    [ "logger", "misc_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ]
 ];

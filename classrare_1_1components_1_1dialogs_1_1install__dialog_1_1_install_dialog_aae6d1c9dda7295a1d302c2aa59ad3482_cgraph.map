@@ -1,6 +1,5 @@
 <map id="keyPressEvent" name="keyPressEvent">
-<area shape="rect" id="node1" title=" " alt="" coords="5,58,115,85"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#ad983629da6604069e3e3f432ed5897f8" title=" " alt="" coords="163,58,271,85"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a807a18e046713d82f8c5828f7837d229" title=" " alt="" coords="319,5,503,47"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#ad9f81f4c56e23ca3c206b1e9374fc137" title=" " alt="" coords="319,95,503,136"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,115,61"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aa3fa5335eeda27150a50124a3f93f58c" title=" " alt="" coords="230,5,325,32"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html#aa3fa5335eeda27150a50124a3f93f58c" title=" " alt="" coords="163,57,392,98"/>
 </map>

@@ -13,5 +13,6 @@ var searchData=
   ['envvars_10',['EnvVars',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html',1,'rare::components::tabs::settings::widgets::env_vars']]],
   ['envvarstablemodel_11',['EnvVarsTableModel',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html',1,'rare::components::tabs::settings::widgets::env_vars_model']]],
   ['eosgroup_12',['EOSGroup',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html',1,'rare::components::tabs::games::integrations::eos_group']]],
-  ['errormodel_13',['ErrorModel',['../classrare_1_1models_1_1launcher_1_1_error_model.html',1,'rare::models::launcher']]]
+  ['errormodel_13',['ErrorModel',['../classrare_1_1models_1_1launcher_1_1_error_model.html',1,'rare::models::launcher']]],
+  ['exitcodes_14',['ExitCodes',['../classrare_1_1utils_1_1misc_1_1_exit_codes.html',1,'rare::utils::misc']]]
 ];

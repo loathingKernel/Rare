@@ -1,7 +1,4 @@
 <map id="import_dlcs_changed" name="import_dlcs_changed">
-<area shape="rect" id="node1" title=" " alt="" coords="5,97,151,124"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#a6f35ba5e6e3b417292cab17a81e86f03" title=" " alt="" coords="210,5,361,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#a35e2316d644110aa67d7de02371bd40d" title=" " alt="" coords="219,56,351,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="199,131,372,173"/>
-<area shape="rect" id="node5" href="$namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" title=" " alt="" coords="237,221,334,248"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,29,151,56"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a2ea70458cdf24fb494a2872ce9685e11" title=" " alt="" coords="199,29,429,56"/>
 </map>

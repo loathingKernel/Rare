@@ -43,17 +43,17 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="namespacerare_1_1app.html#a37fb442592b19edb2dcdd368df2d2d76" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="161.5,-0.5 161.5,-19.5 234.5,-19.5 234.5,-0.5 161.5,-0.5"/>
-<text text-anchor="middle" x="198" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.app.start</text>
+<g id="a_node3"><a xlink:href="namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="143,-0.5 143,-19.5 253,-19.5 253,-0.5 143,-0.5"/>
+<text text-anchor="middle" x="198" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.start</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M94.96,-31.45C112.87,-27.68 133.41,-23.36 151.35,-19.59"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="152.22,-22.99 161.29,-17.51 150.78,-16.14 152.22,-22.99"/>
+<path fill="none" stroke="midnightblue" d="M94.96,-31.45C109.75,-28.34 126.33,-24.85 141.75,-21.61"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="142.63,-25 151.69,-19.52 141.19,-18.15 142.63,-25"/>
 </g>
 <!-- Node2&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
