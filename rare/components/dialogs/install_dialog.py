@@ -300,7 +300,7 @@ class InstallDialog(QDialog):
 
     def __on_cancel(self):
         if self.config_tags is not None:
-            config_helper.add_option(self.rgame.app_name, 'install_tags', ','.join(self.config_tags))
+            config_helper.set_option(self.rgame.app_name, 'install_tags', ','.join(self.config_tags))
         else:
             # lk: this is purely for cleaning any install tags we might have added erroneously to the config
             config_helper.remove_option(self.rgame.app_name, 'install_tags')
