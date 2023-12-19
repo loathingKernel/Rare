@@ -1,4 +1,3 @@
-import platform
 from typing import Union
 
 from PyQt5.QtCore import QProcessEnvironment, pyqtSignal, QSize, Qt
@@ -14,7 +13,7 @@ from PyQt5.QtWidgets import (
     QSizePolicy, QTableWidgetItem, QHeaderView, QApplication,
 )
 
-from rare.ui.components.extra.console_env import Ui_ConsoleEnv
+from rare.ui.launcher.console_env import Ui_ConsoleEnv
 
 
 class Console(QDialog):

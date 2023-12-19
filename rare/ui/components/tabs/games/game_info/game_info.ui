@@ -398,7 +398,7 @@
            <item>
             <widget class="QPushButton" name="modify_button">
              <property name="text">
-              <string>Modify Installation</string>
+              <string>Modify</string>
              </property>
             </widget>
            </item>
@@ -427,7 +427,7 @@
                <item>
                 <widget class="QPushButton" name="verify_button">
                  <property name="text">
-                  <string>Verify Installation</string>
+                  <string>Verify</string>
                  </property>
                 </widget>
                </item>
@@ -464,7 +464,7 @@
            <item>
             <widget class="QPushButton" name="repair_button">
              <property name="text">
-              <string>Repair Installation</string>
+              <string>Repair</string>
              </property>
             </widget>
            </item>
@@ -491,7 +491,7 @@
                 <number>0</number>
                </property>
                <item>
-                <widget class="QToolButton" name="move_button">
+                <widget class="QPushButton" name="move_button">
                  <property name="sizePolicy">
                   <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
                    <horstretch>0</horstretch>
@@ -499,16 +499,7 @@
                   </sizepolicy>
                  </property>
                  <property name="text">
-                  <string>Move Installation</string>
-                 </property>
-                 <property name="popupMode">
-                  <enum>QToolButton::InstantPopup</enum>
-                 </property>
-                 <property name="toolButtonStyle">
-                  <enum>Qt::ToolButtonTextOnly</enum>
-                 </property>
-                 <property name="arrowType">
-                  <enum>Qt::DownArrow</enum>
+                  <string>Move</string>
                  </property>
                 </widget>
                </item>
@@ -545,7 +536,7 @@
            <item>
             <widget class="QPushButton" name="uninstall_button">
              <property name="text">
-              <string>Uninstall Game</string>
+              <string>Uninstall</string>
              </property>
             </widget>
            </item>
@@ -568,14 +559,14 @@
            <item>
             <widget class="QPushButton" name="install_button">
              <property name="text">
-              <string>Install Game</string>
+              <string>Install</string>
              </property>
             </widget>
            </item>
            <item>
             <widget class="QPushButton" name="import_button">
              <property name="text">
-              <string>Import Game</string>
+              <string>Import</string>
              </property>
             </widget>
            </item>

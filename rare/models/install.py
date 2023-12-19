@@ -103,7 +103,7 @@ class UninstallOptionsModel:
         This model's options
 
         :return:
-            Tuple of `accepted` `keep_files` `keep_config`
+            Tuple of `accepted` `keep_files` `keep_config` `keep_overlay_keys`
         """
         return self.accepted, self.keep_config, self.keep_files, self.keep_overlay_keys
 
@@ -113,10 +113,38 @@ class UninstallOptionsModel:
         Set this model's options
 
         :param values:
-            Tuple of `accepted` `keep_files` `keep_config`
+            Tuple of `accepted` `keep_files` `keep_config` `keep_overlay_keys`
         :return:
         """
         self.accepted = values[0]
         self.keep_files = values[1]
         self.keep_config = values[2]
         self.keep_overlay_keys = values[3]
+
+
+@dataclass
+class SelectiveDownloadsModel:
+    app_name: str
+    accepted: bool = None
+    install_tag: Optional[List[str]] = None
+
+    def __bool__(self):
+        return (
+            bool(self.app_name)
+            and (self.accepted is not None)
+            and (self.install_tag is not None)
+        )
+
+
+@dataclass
+class MoveGameModel:
+    app_name: str
+    accepted: bool = None
+    target_path: Optional[str] = None
+
+    def __bool__(self):
+        return (
+            bool(self.app_name)
+            and (self.accepted is not None)
+            and (self.target_path is not None)
+        )
