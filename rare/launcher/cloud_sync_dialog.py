@@ -51,10 +51,9 @@ class CloudSyncDialog(ButtonDialog):
         if dt_remote and dt_local:
             self.sync_ui.age_label_local.setText(f"<b>{newer}</b>" if dt_remote < dt_local else " ")
             self.sync_ui.age_label_remote.setText(f"<b>{newer}</b>" if dt_remote > dt_local else " ")
-        # Set status, if one of them is None
-        elif dt_remote and not dt_local:
+        elif dt_remote:
             self.status = CloudSyncDialogResult.DOWNLOAD
-        elif not dt_remote and dt_local:
+        elif dt_local:
             self.status = CloudSyncDialogResult.UPLOAD
         else:
             self.status = CloudSyncDialogResult.SKIP

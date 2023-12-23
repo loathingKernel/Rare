@@ -158,13 +158,13 @@ class RareSettings(QWidget, Ui_RareSettings):
 
     def create_start_menu_link(self):
         try:
-            if not os.path.exists(self.start_menu_link):
-                if not create_desktop_link(app_name="rare_shortcut", link_type="start_menu"):
-                    return
-                self.startmenu_link_btn.setText(self.tr("Remove start menu link"))
-            else:
+            if os.path.exists(self.start_menu_link):
                 os.remove(self.start_menu_link)
                 self.startmenu_link_btn.setText(self.tr("Create start menu link"))
+            elif not create_desktop_link(app_name="rare_shortcut", link_type="start_menu"):
+                return
+            else:
+                self.startmenu_link_btn.setText(self.tr("Remove start menu link"))
         except PermissionError as e:
             logger.error(str(e))
             QMessageBox.warning(
@@ -175,13 +175,13 @@ class RareSettings(QWidget, Ui_RareSettings):
 
     def create_desktop_link(self):
         try:
-            if not os.path.exists(self.desktop_link):
-                if not create_desktop_link(app_name="rare_shortcut", link_type="desktop"):
-                    return
-                self.desktop_link_btn.setText(self.tr("Remove Desktop link"))
-            else:
+            if os.path.exists(self.desktop_link):
                 os.remove(self.desktop_link)
                 self.desktop_link_btn.setText(self.tr("Create desktop link"))
+            elif not create_desktop_link(app_name="rare_shortcut", link_type="desktop"):
+                return
+            else:
+                self.desktop_link_btn.setText(self.tr("Remove Desktop link"))
         except PermissionError as e:
             logger.error(str(e))
             logger.warning(

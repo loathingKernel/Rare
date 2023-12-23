@@ -53,7 +53,7 @@ class EnvVars(QGroupBox):
         return super().showEvent(a0)
 
     def keyPressEvent(self, e):
-        if e.key() == Qt.Key_Delete or e.key() == Qt.Key_Backspace:
+        if e.key() in [Qt.Key_Delete, Qt.Key_Backspace]:
             indexes = self.table_view.selectedIndexes()
             if not len(indexes):
                 return

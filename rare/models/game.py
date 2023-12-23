@@ -340,10 +340,7 @@ class RareGame(RareGameSlim):
 
         @return bool If the games needs to be verified
         """
-        if self.igame is not None:
-            return self.igame.needs_verification
-        else:
-            return False
+        return self.igame.needs_verification if self.igame is not None else False
 
     @needs_verification.setter
     def needs_verification(self, needs: bool) -> None:
@@ -503,9 +500,7 @@ class RareGame(RareGameSlim):
         if self.is_installed:
             if (not self.is_idle) or self.needs_verification:
                 return False
-            if self.is_foreign and not self.can_run_offline:
-                return False
-            return True
+            return bool(not self.is_foreign or self.can_run_offline)
         return False
 
     def set_pixmap(self):
@@ -644,7 +639,7 @@ class RareEosOverlay(RareGameBase):
         reg_paths = eos.query_registry_entries(prefix)
         if old_path := reg_paths["overlay_path"]:
             if os.path.normpath(old_path) == path:
-                logger.info(f"Overlay already enabled, nothing to do.")
+                logger.info("Overlay already enabled, nothing to do.")
                 return True
             else:
                 logger.info(f'Updating overlay registry entries from "{old_path}" to "{path}"')
@@ -652,7 +647,7 @@ class RareEosOverlay(RareGameBase):
         try:
             eos.add_registry_entries(path, prefix)
         except PermissionError as e:
-            logger.error(f"Exception while writing registry to enable the overlay .")
+            logger.error("Exception while writing registry to enable the overlay .")
             logger.error(e)
             return False
         logger.info(f"Enabled overlay at: {path} for prefix: {prefix}")
@@ -665,7 +660,7 @@ class RareEosOverlay(RareGameBase):
         try:
             eos.remove_registry_entries(prefix)
         except PermissionError as e:
-            logger.error(f"Exception while writing registry to disable the overlay.")
+            logger.error("Exception while writing registry to disable the overlay.")
             logger.error(e)
             return False
         return True

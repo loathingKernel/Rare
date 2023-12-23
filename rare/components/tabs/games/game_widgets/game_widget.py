@@ -186,7 +186,7 @@ class GameWidget(LibraryWidget):
                     self.ui.tooltip_label.setText(self.hover_strings["has_update"])
                 elif self.rgame.is_foreign and self.rgame.can_run_offline:
                     self.ui.tooltip_label.setText(self.hover_strings["is_foreign"])
-                elif self.rgame.can_launch:
+                else:
                     self.ui.tooltip_label.setText(self.hover_strings["can_launch"])
                 return True
             if a1.type() == QEvent.Leave:

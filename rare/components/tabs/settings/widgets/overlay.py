@@ -140,12 +140,11 @@ class OverlaySettings(QGroupBox):
             return
         elif self.ui.show_overlay_combo.currentIndex() == 2:
             self.ui.options_group.setDisabled(False)
-            # custom options
-            var_names = []
-            for var_name, cb in self.checkboxes.items():
-                if cb.isChecked():
-                    var_names.append(var_name)
-
+            var_names = [
+                var_name
+                for var_name, cb in self.checkboxes.items()
+                if cb.isChecked()
+            ]
             for var_name, widget in self.values.items():
                 text = widget.getValue()
                 if text not in ["default", ""]:

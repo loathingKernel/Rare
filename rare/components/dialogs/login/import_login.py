@@ -62,11 +62,11 @@ class ImportLogin(QFrame):
             os.path.expanduser("~/.wine"),
             os.path.expanduser("~/Games/epic-games-store"),
         ]
-        prefixes = []
-        for prefix in possible_prefixes:
-            if os.path.exists(os.path.join(prefix, self.egl_appdata)):
-                prefixes.append(prefix)
-        return prefixes
+        return [
+            prefix
+            for prefix in possible_prefixes
+            if os.path.exists(os.path.join(prefix, self.egl_appdata))
+        ]
 
     def prefix_path(self):
         prefix_dialog = QFileDialog(self, self.tr("Choose path"), os.path.expanduser("~/"))
@@ -78,23 +78,20 @@ class ImportLogin(QFrame):
     def is_valid(self) -> bool:
         if os.name == "nt":
             return self.found
-        else:
-            egl_wine_pfx = self.ui.prefix_combo.currentText()
-            try:
-                wine_folders = get_shell_folders(read_registry(egl_wine_pfx), egl_wine_pfx)
-                self.egl_appdata = os.path.realpath(
-                    os.path.join(wine_folders['Local AppData'], 'EpicGamesLauncher', 'Saved', 'Config', 'Windows'))
-                if path_exists := os.path.exists(self.egl_appdata):
-                    self.ui.status_label.setText(self.text_egl_found)
-                return path_exists
-            except KeyError:
-                return False
+        egl_wine_pfx = self.ui.prefix_combo.currentText()
+        try:
+            wine_folders = get_shell_folders(read_registry(egl_wine_pfx), egl_wine_pfx)
+            self.egl_appdata = os.path.realpath(
+                os.path.join(wine_folders['Local AppData'], 'EpicGamesLauncher', 'Saved', 'Config', 'Windows'))
+            if path_exists := os.path.exists(self.egl_appdata):
+                self.ui.status_label.setText(self.text_egl_found)
+            return path_exists
+        except KeyError:
+            return False
 
     def do_login(self):
         self.ui.status_label.setText(self.tr("Loading..."))
-        if os.name == "nt":
-            pass
-        else:
+        if os.name != "nt":
             logger.info("Using EGL appdata path at %s", {self.egl_appdata})
             self.core.egl.appdata_path = self.egl_appdata
         try:

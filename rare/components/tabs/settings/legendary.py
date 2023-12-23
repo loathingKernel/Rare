@@ -25,10 +25,7 @@ class RefreshGameMetaWorker(Worker):
         super(RefreshGameMetaWorker, self).__init__()
         self.signals = RefreshGameMetaWorker.Signals()
         self.core = LegendaryCoreSingleton()
-        if platforms:
-            self.platforms = platforms
-        else:
-            self.platforms = ["Windows"]
+        self.platforms = platforms if platforms else ["Windows"]
         self.skip_ue = not include_unreal
 
     def run_real(self) -> None:
@@ -134,9 +131,7 @@ class LegendarySettings(QWidget, Ui_LegendarySettings):
         self.refresh_metadata_button.setVisible(False)
 
     def showEvent(self, a0: QShowEvent):
-        if a0.spontaneous():
-            return super().showEvent(a0)
-        return super().showEvent(a0)
+        return super().showEvent(a0) if a0.spontaneous() else super().showEvent(a0)
 
     def hideEvent(self, a0: QHideEvent):
         if a0.spontaneous():
@@ -157,24 +152,23 @@ class LegendarySettings(QWidget, Ui_LegendarySettings):
 
     @staticmethod
     def locale_edit_cb(text: str) -> Tuple[bool, str, int]:
-        if text:
-            if re.match("^[a-zA-Z]{2,3}[-_][a-zA-Z]{2,3}$", text):
-                language, country = text.replace("_", "-").split("-")
-                text = "-".join([language.lower(), country.upper()])
-            if bool(re.match("^[a-z]{2,3}-[A-Z]{2,3}$", text)):
-                return True, text, IndicatorReasonsCommon.VALID
-            else:
-                return False, text, IndicatorReasonsCommon.WRONG_FORMAT
-        else:
+        if not text:
             return True, text, IndicatorReasonsCommon.VALID
+        if re.match("^[a-zA-Z]{2,3}[-_][a-zA-Z]{2,3}$", text):
+            language, country = text.replace("_", "-").split("-")
+            text = "-".join([language.lower(), country.upper()])
+        return (
+            (True, text, IndicatorReasonsCommon.VALID)
+            if bool(re.match("^[a-z]{2,3}-[A-Z]{2,3}$", text))
+            else (False, text, IndicatorReasonsCommon.WRONG_FORMAT)
+        )
 
     def locale_save_cb(self, text: str):
         if text:
             self.core.egs.language_code, self.core.egs.country_code = text.split("-")
             self.core.lgd.config.set("Legendary", "locale", text)
-        else:
-            if self.core.lgd.config.has_option("Legendary", "locale"):
-                self.core.lgd.config.remove_option("Legendary", "locale")
+        elif self.core.lgd.config.has_option("Legendary", "locale"):
+            self.core.lgd.config.remove_option("Legendary", "locale")
 
     def __mac_path_save(self, text: str) -> None:
         self.__path_save(text, "mac_install_dir")
@@ -189,7 +183,7 @@ class LegendarySettings(QWidget, Ui_LegendarySettings):
         if not text and option in self.core.lgd.config["Legendary"].keys():
             self.core.lgd.config["Legendary"].pop(option)
         else:
-            logger.debug(f"Set %s option in config to %s", option, text)
+            logger.debug("Set %s option in config to %s", option, text)
 
     def max_worker_save(self, workers: str):
         if workers := int(workers):
@@ -217,7 +211,7 @@ class LegendarySettings(QWidget, Ui_LegendarySettings):
     def cleanup(self, keep_manifests: bool):
         before = self.core.lgd.get_dir_size()
         logger.debug("Removing app metadata...")
-        app_names = set(g.app_name for g in self.core.get_assets(update_assets=False))
+        app_names = {g.app_name for g in self.core.get_assets(update_assets=False)}
         self.core.lgd.clean_metadata(app_names)
 
         if not keep_manifests:

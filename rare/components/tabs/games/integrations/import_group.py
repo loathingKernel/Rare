@@ -42,9 +42,7 @@ def find_app_name(path: str, core) -> Optional[str]:
                 return app_name
     elif app_name := LegendaryCLI(core).resolve_aliases(os.path.basename(os.path.normpath(path))):
         # return None if game does not exist (Workaround for overlay)
-        if not core.get_game(app_name):
-            return None
-        return app_name
+        return None if not core.get_game(app_name) else app_name
     else:
         logger.warning(f"Could not find AppName for {path}")
     return None
@@ -263,13 +261,12 @@ class ImportGroup(QGroupBox):
             self.app_name_edit.setText(app_name)
 
     def path_edit_callback(self, path) -> Tuple[bool, str, int]:
-        if os.path.exists(path):
-            if os.path.exists(os.path.join(path, ".egstore")):
-                return True, path, IndicatorReasonsCommon.VALID
-            elif os.path.basename(path) in self.__install_dirs:
-                return True, path, IndicatorReasonsCommon.VALID
-        else:
+        if not os.path.exists(path):
             return False, path, IndicatorReasonsCommon.DIR_NOT_EXISTS
+        if os.path.exists(os.path.join(path, ".egstore")):
+            return True, path, IndicatorReasonsCommon.VALID
+        elif os.path.basename(path) in self.__install_dirs:
+            return True, path, IndicatorReasonsCommon.VALID
         return False, path, IndicatorReasonsCommon.UNDEFINED
 
     @pyqtSlot(str)
@@ -402,11 +399,10 @@ class ImportGroup(QGroupBox):
                 parent=self,
             )
             messagebox.setWindowModality(Qt.NonModal)
-            details: List = []
-            for res in success:
-                details.append(
-                    self.tr("Success: {} imported").format(res.app_title)
-                )
+            details: List = [
+                self.tr("Success: {} imported").format(res.app_title)
+                for res in success
+            ]
             for res in failure:
                 details.append(
                     self.tr("Failed: {} - {}").format(res.app_title, res.message)

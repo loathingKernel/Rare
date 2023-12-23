@@ -67,8 +67,7 @@ class SelectiveDialog(ButtonDialog):
         config_disable_sdl = self.core.lgd.config.getboolean(self.rgame.app_name, "disable_sdl", fallback=False)
         sdl_name = get_sdl_appname(self.rgame.app_name)
         if not config_disable_sdl and sdl_name is not None:
-            sdl_data = self.core.get_sdl_data(sdl_name, platform=platform)
-            if sdl_data:
+            if sdl_data := self.core.get_sdl_data(sdl_name, platform=platform):
                 for tag, info in sdl_data.items():
                     cb = TagCheckBox(info["name"].strip(), info["description"].strip(), info["tags"])
                     if tag == "__required":

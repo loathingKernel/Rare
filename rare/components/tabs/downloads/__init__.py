@@ -107,12 +107,11 @@ class DownloadsTab(QWidget):
         if isinstance(update, str):
             update = self.rcore.get_game(update)
 
-        auto_update = QSettings(self).value(
+        if auto_update := QSettings(self).value(
             f"{update.app_name}/{options.auto_update.key}",
             QSettings(self).value(*options.auto_update),
-            options.auto_update.dtype
-        )
-        if auto_update:
+            options.auto_update.dtype,
+        ):
             self.__get_install_options(
                 InstallOptionsModel(app_name=update.app_name, update=True, silent=True)
             )
@@ -142,9 +141,8 @@ class DownloadsTab(QWidget):
         rgame.state = RareGame.State.IDLE
         if self.updates_group.contains(app_name):
             self.updates_group.set_widget_enabled(app_name, True)
-        else:
-            if rgame.is_installed and rgame.has_update:
-                self.__add_update(app_name)
+        elif rgame.is_installed and rgame.has_update:
+            self.__add_update(app_name)
 
     @pyqtSlot(InstallQueueItemModel)
     def __on_queue_force(self, item: InstallQueueItemModel):
@@ -188,7 +186,7 @@ class DownloadsTab(QWidget):
 
     def __start_download(self, item: InstallQueueItemModel):
         rgame = self.rcore.get_game(item.options.app_name)
-        if not rgame.state == RareGame.State.DOWNLOADING:
+        if rgame.state != RareGame.State.DOWNLOADING:
             logger.error(
                 f"Can't start download {item.options.app_name}"
                 f"due to incompatible state {RareGame.State(rgame.state).name}"

@@ -209,27 +209,26 @@ class InstallDialog(ActionDialog):
             self.config_tags = config_tags.split(",")
         config_disable_sdl = self.core.lgd.config.getboolean(self.rgame.app_name, 'disable_sdl', fallback=False)
         sdl_name = get_sdl_appname(self.rgame.app_name)
-        if not config_disable_sdl and sdl_name is not None:
-            sdl_data = self.core.get_sdl_data(sdl_name, platform=platform)
-            if sdl_data:
-                widget = QWidget(self.selectable)
-                layout = QVBoxLayout(widget)
-                layout.setSpacing(0)
-                for tag, info in sdl_data.items():
-                    cb = TagCheckBox(info["name"].strip(), info["description"].strip(), info["tags"])
-                    if tag == "__required":
-                        cb.setChecked(True)
-                        cb.setDisabled(True)
-                    if self.config_tags is not None:
-                        if all(elem in self.config_tags for elem in info["tags"]):
-                            cb.setChecked(True)
-                    layout.addWidget(cb)
-                    self.selectable_checks.append(cb)
-                for cb in self.selectable_checks:
-                    cb.stateChanged.connect(self.option_changed)
-                self.selectable.setWidget(widget)
-        else:
+        if config_disable_sdl or sdl_name is None:
             self.selectable.setDisabled(True)
+
+        elif sdl_data := self.core.get_sdl_data(sdl_name, platform=platform):
+            widget = QWidget(self.selectable)
+            layout = QVBoxLayout(widget)
+            layout.setSpacing(0)
+            for tag, info in sdl_data.items():
+                cb = TagCheckBox(info["name"].strip(), info["description"].strip(), info["tags"])
+                if tag == "__required":
+                    cb.setChecked(True)
+                    cb.setDisabled(True)
+                if self.config_tags is not None:
+                    if all(elem in self.config_tags for elem in info["tags"]):
+                        cb.setChecked(True)
+                layout.addWidget(cb)
+                self.selectable_checks.append(cb)
+            for cb in self.selectable_checks:
+                cb.stateChanged.connect(self.option_changed)
+            self.selectable.setWidget(widget)
 
     @pyqtSlot(int)
     def check_incompatible_platform(self, index: int):
@@ -294,17 +293,17 @@ class InstallDialog(ActionDialog):
     def non_reload_option_changed(self, option: str):
         if option == "download_only":
             self.__options.no_install = self.advanced.ui.download_only_check.isChecked()
+        elif option == "install_prereqs":
+            self.__options.install_prereqs = self.advanced.ui.install_prereqs_check.isChecked()
         elif option == "shortcut":
             QSettings().setValue("create_shortcut", self.ui.shortcut_check.isChecked())
             self.__options.create_shortcut = self.ui.shortcut_check.isChecked()
-        elif option == "install_prereqs":
-            self.__options.install_prereqs = self.advanced.ui.install_prereqs_check.isChecked()
 
     @staticmethod
     def same_platform(download: InstallDownloadModel) -> bool:
         platform = download.igame.platform
         if pf.system() == "Windows":
-            return platform == "Windows" or platform == "Win32"
+            return platform in ["Windows", "Win32"]
         elif pf.system() == "Darwin":
             return platform == "Mac"
         else:
@@ -317,7 +316,7 @@ class InstallDialog(ActionDialog):
         download_size = download.analysis.dl_size
         install_size = download.analysis.install_size
         # install_size = self.dl_item.download.analysis.disk_space_delta
-        if download_size or (not download_size and (download.game.is_dlc or download.repair)):
+        if download_size or download.game.is_dlc or download.repair:
             self.ui.download_size_text.setText(format_size(download_size))
             self.ui.download_size_text.setStyleSheet("font-style: normal; font-weight: bold")
             self.accept_button.setEnabled(not self.options_changed)

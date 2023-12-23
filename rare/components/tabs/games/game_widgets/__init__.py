@@ -88,35 +88,34 @@ class LibraryWidgetController(QObject):
                 lambda x: (search_text not in x.widget().rgame.app_title.lower(),)
             )
             list_widgets.sort(key=lambda x: (search_text not in x.rgame.app_title.lower(),))
+        elif (newest := order_by == LibraryOrder.NEWEST) or order_by == LibraryOrder.OLDEST:
+            # Sort by grant date
+            self._icon_container.layout().sort(
+                key=lambda x: (x.widget().rgame.is_installed, not x.widget().rgame.is_non_asset, x.widget().rgame.grant_date()),
+                reverse=newest,
+            )
+            list_widgets.sort(
+                key=lambda x: (x.rgame.is_installed, not x.rgame.is_non_asset, x.rgame.grant_date()),
+                reverse=newest,
+            )
+        elif order_by == LibraryOrder.RECENT:
+            # Sort by recently played
+            self._icon_container.layout().sort(
+                key=lambda x: (not x.widget().rgame.is_installed, x.widget().rgame.is_non_asset, x.widget().rgame.metadata.last_played),
+                reverse=True,
+            )
+            list_widgets.sort(
+                key=lambda x: (not x.rgame.is_installed, x.rgame.is_non_asset, x.rgame.metadata.last_played),
+                reverse=True,
+            )
         else:
-            if (newest := order_by == LibraryOrder.NEWEST) or order_by == LibraryOrder.OLDEST:
-                # Sort by grant date
-                self._icon_container.layout().sort(
-                    key=lambda x: (x.widget().rgame.is_installed, not x.widget().rgame.is_non_asset, x.widget().rgame.grant_date()),
-                    reverse=newest,
-                )
-                list_widgets.sort(
-                    key=lambda x: (x.rgame.is_installed, not x.rgame.is_non_asset, x.rgame.grant_date()),
-                    reverse=newest,
-                )
-            elif order_by == LibraryOrder.RECENT:
-                # Sort by recently played
-                self._icon_container.layout().sort(
-                    key=lambda x: (not x.widget().rgame.is_installed, x.widget().rgame.is_non_asset, x.widget().rgame.metadata.last_played),
-                    reverse=True,
-                )
-                list_widgets.sort(
-                    key=lambda x: (not x.rgame.is_installed, x.rgame.is_non_asset, x.rgame.metadata.last_played),
-                    reverse=True,
-                )
-            else:
-                # Sort by title
-                self._icon_container.layout().sort(
-                    key=lambda x: (not x.widget().rgame.is_installed, x.widget().rgame.is_non_asset, x.widget().rgame.app_title)
-                )
-                list_widgets.sort(
-                    key=lambda x: (not x.rgame.is_installed, x.rgame.is_non_asset, x.rgame.app_title)
-                )
+            # Sort by title
+            self._icon_container.layout().sort(
+                key=lambda x: (not x.widget().rgame.is_installed, x.widget().rgame.is_non_asset, x.widget().rgame.app_title)
+            )
+            list_widgets.sort(
+                key=lambda x: (not x.rgame.is_installed, x.rgame.is_non_asset, x.rgame.app_title)
+            )
 
         for idx, wl in enumerate(list_widgets):
             self._list_container.layout().insertWidget(idx, wl)
@@ -124,25 +123,26 @@ class LibraryWidgetController(QObject):
     @pyqtSlot()
     @pyqtSlot(list)
     def update_game_views(self, app_names: List[str] = None):
-        if not app_names:
-            # lk: base it on icon widgets, the two lists should be identical
-            icon_widgets = self._icon_container.findChildren(IconGameWidget)
-            list_widgets = self._list_container.findChildren(ListGameWidget)
-            icon_app_names = set([iw.rgame.app_name for iw in icon_widgets])
-            list_app_names = set([lw.rgame.app_name for lw in list_widgets])
-            games = list(self.rcore.games)
-            game_app_names = set([g.app_name for g in games])
-            new_icon_app_names = game_app_names.difference(icon_app_names)
-            new_list_app_names = game_app_names.difference(list_app_names)
-            for app_name in new_icon_app_names:
-                game = self.rcore.get_game(app_name)
-                iw = IconGameWidget(game)
-                self._icon_container.layout().addWidget(iw)
-            for app_name in new_list_app_names:
-                game = self.rcore.get_game(app_name)
-                lw = ListGameWidget(game)
-                self._list_container.layout().addWidget(lw)
-            self.order_game_views()
+        if app_names:
+            return
+        # lk: base it on icon widgets, the two lists should be identical
+        icon_widgets = self._icon_container.findChildren(IconGameWidget)
+        list_widgets = self._list_container.findChildren(ListGameWidget)
+        icon_app_names = {iw.rgame.app_name for iw in icon_widgets}
+        list_app_names = {lw.rgame.app_name for lw in list_widgets}
+        games = list(self.rcore.games)
+        game_app_names = {g.app_name for g in games}
+        new_icon_app_names = game_app_names.difference(icon_app_names)
+        new_list_app_names = game_app_names.difference(list_app_names)
+        for app_name in new_icon_app_names:
+            game = self.rcore.get_game(app_name)
+            iw = IconGameWidget(game)
+            self._icon_container.layout().addWidget(iw)
+        for app_name in new_list_app_names:
+            game = self.rcore.get_game(app_name)
+            lw = ListGameWidget(game)
+            self._list_container.layout().addWidget(lw)
+        self.order_game_views()
 
     def __find_widget(self, app_name: str) -> Tuple[Union[IconGameWidget, None], Union[ListGameWidget, None]]:
         iw = self._icon_container.findChild(IconGameWidget, app_name)

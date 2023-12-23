@@ -43,7 +43,7 @@ class DLManager(DLManagerReal):
         self.dl_result_q = MPQueue(-1)
         self.writer_result_q = MPQueue(-1)
 
-        self.log.info(f'Starting download workers...')
+        self.log.info('Starting download workers...')
 
         bind_ip = None
         for i in range(self.max_workers):
@@ -197,7 +197,7 @@ class DLManager(DLManagerReal):
 
             time.sleep(self.update_interval)
 
-        for i in range(self.max_workers):
+        for _ in range(self.max_workers):
             self.dl_worker_queue.put_nowait(TerminateWorkerTask())
 
         self.log.info('Waiting for installation to finish...')
@@ -205,7 +205,7 @@ class DLManager(DLManagerReal):
 
         writer_p.join(timeout=10.0)
         if writer_p.exitcode is None:
-            self.log.warning(f'Terminating writer process, no exit code!')
+            self.log.warning('Terminating writer process, no exit code!')
             writer_p.terminate()
 
         # forcibly kill DL workers that are not actually dead yet

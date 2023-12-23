@@ -93,19 +93,13 @@ class EnvVarsTableModel(QAbstractTableModel):
 
     def __is_key_valid(self, value: str):
         match = self.__validator.match(value)
-        if not match:
-            return False
-        return value == match.group(0)
+        return False if not match else value == match.group(0)
 
     def data(self, index: QModelIndex, role: int = Qt.DisplayRole) -> Any:
-        if role == Qt.DisplayRole or role == Qt.EditRole:
+        if role in [Qt.DisplayRole, Qt.EditRole]:
             if index.row() == self.__data_length():
                 return ""
-            if index.column() == 0:
-                return self.__key(index)
-            else:
-                return self.__value(index)
-
+            return self.__key(index) if index.column() == 0 else self.__value(index)
         if role == Qt.TextAlignmentRole:
             if index.column() == 0:
                 return Qt.AlignVCenter + Qt.AlignRight
@@ -134,8 +128,8 @@ class EnvVarsTableModel(QAbstractTableModel):
         if role == Qt.DisplayRole:
             if orientation == Qt.Horizontal:
                 return self.__title(section)
-        if role == Qt.DecorationRole:
-            if orientation == Qt.Vertical:
+        if orientation == Qt.Vertical:
+            if role == Qt.DecorationRole:
                 if section < self.__data_length():
                     if self.__is_readonly(section) or not self.__is_local(section):
                         return icon("mdi.lock", "ei.lock")

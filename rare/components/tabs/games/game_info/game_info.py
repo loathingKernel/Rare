@@ -236,14 +236,13 @@ class GameInfo(QWidget, SideTabContents):
                         QMessageBox.Yes,
                     )
 
-                    if ans == QMessageBox.Yes:
-                        if os.path.isdir(new_install_path):
-                            shutil.rmtree(new_install_path)
-                        else:
-                            os.remove(new_install_path)
-                    else:
+                    if ans != QMessageBox.Yes:
                         return
 
+                    if os.path.isdir(new_install_path):
+                        shutil.rmtree(new_install_path)
+                    else:
+                        os.remove(new_install_path)
         worker = MoveWorker(
             self.core, rgame=rgame, dst_path=model.target_path, dst_exists=dir_exists
         )

@@ -60,10 +60,7 @@ class Shop(QStackedWidget):
         return super().showEvent(a0)
 
     def hideEvent(self, a0: QHideEvent) -> None:
-        if a0.spontaneous():
-            return super().hideEvent(a0)
-        # TODO: Implement store unloading
-        return super().hideEvent(a0)
+        return super().hideEvent(a0) if a0.spontaneous() else super().hideEvent(a0)
 
     def update_wishlist(self):
         self.shop.update_wishlist()

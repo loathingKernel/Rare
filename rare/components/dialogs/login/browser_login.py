@@ -53,18 +53,17 @@ class BrowserLogin(QFrame):
 
     @staticmethod
     def text_changed(text) -> Tuple[bool, str, int]:
-        if text:
-            text = text.strip()
-            if text.startswith("{") and text.endswith("}"):
-                try:
-                    text = json.loads(text).get("authorizationCode")
-                except json.JSONDecodeError:
-                    return False, text, IndicatorReasonsCommon.WRONG_FORMAT
-            elif '"' in text:
-                text = text.strip('"')
-            return len(text) == 32, text, IndicatorReasonsCommon.WRONG_FORMAT
-        else:
+        if not text:
             return False, text, IndicatorReasonsCommon.VALID
+        text = text.strip()
+        if text.startswith("{") and text.endswith("}"):
+            try:
+                text = json.loads(text).get("authorizationCode")
+            except json.JSONDecodeError:
+                return False, text, IndicatorReasonsCommon.WRONG_FORMAT
+        elif '"' in text:
+            text = text.strip('"')
+        return len(text) == 32, text, IndicatorReasonsCommon.WRONG_FORMAT
 
     def do_login(self):
         self.ui.status_label.setText(self.tr("Logging in..."))
@@ -83,9 +82,8 @@ class BrowserLogin(QFrame):
         if not webview_login.webview_available:
             logger.warning("You don't have webengine installed, you will need to manually copy the authorizationCode.")
             QDesktopServices.openUrl(QUrl(self.login_url))
+        elif webview_login.do_webview_login(callback_code=self.core.auth_ex_token):
+            logger.info("Successfully logged in as %s", {self.core.lgd.userdata['displayName']})
+            self.success.emit()
         else:
-            if webview_login.do_webview_login(callback_code=self.core.auth_ex_token):
-                logger.info("Successfully logged in as %s", {self.core.lgd.userdata['displayName']})
-                self.success.emit()
-            else:
-                logger.warning("Failed to login through browser.")
+            logger.warning("Failed to login through browser.")

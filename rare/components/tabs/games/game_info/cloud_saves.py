@@ -113,29 +113,30 @@ class CloudSaves(QWidget, SideTabContents):
         self.rgame.download_saves()
 
     def compute_save_path(self):
-        if self.rgame.is_installed and self.rgame.game.supports_cloud_saves:
-            try:
-                with timelogger(logger, "Detecting save path"):
-                    new_path = self.core.get_save_path(self.rgame.app_name)
-                if platform.system() != "Windows" and not os.path.exists(new_path):
-                    raise ValueError(f'Path "{new_path}" does not exist.')
-            except Exception as e:
-                logger.warning(str(e))
-                resolver = WineSavePathResolver(self.core, self.rgame)
-                if not resolver.environ.get("WINEPREFIX"):
-                    del resolver
-                    self.cloud_save_path_edit.setText("")
-                    QMessageBox.warning(self, "Warning", "No wine prefix selected. Please set it in settings")
-                    return
-                self.cloud_save_path_edit.setText(self.tr("Loading..."))
-                self.cloud_save_path_edit.setDisabled(True)
-                self.compute_save_path_button.setDisabled(True)
-
-                resolver.signals.result_ready.connect(self.__on_wine_resolver_result)
-                QThreadPool.globalInstance().start(resolver)
+        if not self.rgame.is_installed or not self.rgame.game.supports_cloud_saves:
+            return
+        try:
+            with timelogger(logger, "Detecting save path"):
+                new_path = self.core.get_save_path(self.rgame.app_name)
+            if platform.system() != "Windows" and not os.path.exists(new_path):
+                raise ValueError(f'Path "{new_path}" does not exist.')
+        except Exception as e:
+            logger.warning(str(e))
+            resolver = WineSavePathResolver(self.core, self.rgame)
+            if not resolver.environ.get("WINEPREFIX"):
+                del resolver
+                self.cloud_save_path_edit.setText("")
+                QMessageBox.warning(self, "Warning", "No wine prefix selected. Please set it in settings")
                 return
-            else:
-                self.cloud_save_path_edit.setText(new_path)
+            self.cloud_save_path_edit.setText(self.tr("Loading..."))
+            self.cloud_save_path_edit.setDisabled(True)
+            self.compute_save_path_button.setDisabled(True)
+
+            resolver.signals.result_ready.connect(self.__on_wine_resolver_result)
+            QThreadPool.globalInstance().start(resolver)
+            return
+        else:
+            self.cloud_save_path_edit.setText(new_path)
 
     @pyqtSlot(str, str)
     def __on_wine_resolver_result(self, path, app_name):

@@ -29,7 +29,7 @@ class ShopApiCore(QObject):
         self.auth_manager = QtRequests(token=auth_token, parent=self)
 
         self.browse_active = False
-        self.next_browse_request = tuple(())
+        self.next_browse_request = ()
 
     def get_free_games(self, handle_func: callable):
         url = f"https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions?locale={self.language_code}&country={self.country_code}&allowCountries={self.country_code}"
@@ -163,7 +163,7 @@ class ShopApiCore(QObject):
                 return
         else:
             self.browse_games(*self.next_browse_request)  # pylint: disable=E1120
-            self.next_browse_request = tuple(())
+            self.next_browse_request = ()
 
     def get_game(self, slug: str, is_bundle: bool, handle_func):
         url = f"https://store-content.ak.epicgames.com/api/{self.locale}/content/{'products' if not is_bundle else 'bundles'}/{slug}"

@@ -61,9 +61,7 @@ class ShopGame:
         if social_links:
             for item in social_links:
                 if item.startswith("link"):
-                    self.links.append(
-                        tuple((item.replace("link", ""), social_links[item]))
-                    )
+                    self.links.append((item.replace("link", ""), social_links[item]))
         else:
             self.links = []
         self.languages = langs
@@ -95,7 +93,7 @@ class ShopGame:
         tmp.links = []
         for item in links:
             if item.startswith("link"):
-                tmp.links.append(tuple((item.replace("link", ""), links[item])))
+                tmp.links.append((item.replace("link", ""), links[item]))
         tmp.available_voice_langs = api_data["data"]["requirements"].get(
             "languages", "Failed"
         )

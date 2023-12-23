@@ -178,9 +178,7 @@ class RareGameBase(QObject):
 
     @property
     def install_path(self) -> Optional[str]:
-        if self.igame:
-            return self.igame.install_path
-        return None
+        return self.igame.install_path if self.igame else None
 
 
 class RareGameSlim(RareGameBase):
@@ -210,9 +208,7 @@ class RareGameSlim(RareGameBase):
 
     @property
     def save_path(self) -> Optional[str]:
-        if self.igame is not None:
-            return self.igame.save_path
-        return None
+        return self.igame.save_path if self.igame is not None else None
 
     @property
     def latest_save(self) -> Optional[RareSaveGame]:
@@ -303,8 +299,7 @@ class RareGameSlim(RareGameBase):
     @property
     def is_save_up_to_date(self):
         status, (_, _) = self.save_game_state
-        return (status == SaveGameStatus.SAME_AGE) \
-            or (status == SaveGameStatus.NO_SAVE)
+        return status in [SaveGameStatus.SAME_AGE, SaveGameStatus.NO_SAVE]
 
     @property
     def raw_save_path(self) -> str:

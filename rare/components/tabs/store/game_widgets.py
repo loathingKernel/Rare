@@ -52,12 +52,9 @@ class GameWidget(QWidget):
             mini_layout.addWidget(
                 QLabel(discount_price if discount_price != "0" else self.tr("Free"))
             )
-            mini_layout.addWidget(price_label)
-        else:
-            if price == "0":
-                price_label.setText(self.tr("Free"))
-            mini_layout.addWidget(price_label)
-
+        elif price == "0":
+            price_label.setText(self.tr("Free"))
+        mini_layout.addWidget(price_label)
         for c in r'<>?":|\/*':
             json_info["title"] = json_info["title"].replace(c, "")
 
@@ -137,6 +134,3 @@ class WishlistWidget(QWidget, Ui_WishlistWidget):
         # left button
         if e.button() == 1:
             self.open_game.emit(self.game)
-        # right
-        elif e.button() == 2:
-            pass  # self.showMenu(e)
