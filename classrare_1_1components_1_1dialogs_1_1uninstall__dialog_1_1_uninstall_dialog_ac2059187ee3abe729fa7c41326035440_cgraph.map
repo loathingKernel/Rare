@@ -1,4 +1,6 @@
 <map id="closeEvent" name="closeEvent">
-<area shape="rect" id="node1" title=" " alt="" coords="5,37,92,63"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,126,92,153"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#ad9f81f4c56e23ca3c206b1e9374fc137" title=" " alt="" coords="140,29,324,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a8639372c33e15084a7f7c4d9d87b7bfe" title=" " alt="" coords="143,119,321,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1dialogs_1_1_test_dialog.html#a8639372c33e15084a7f7c4d9d87b7bfe" title=" " alt="" coords="149,208,315,249"/>
 </map>

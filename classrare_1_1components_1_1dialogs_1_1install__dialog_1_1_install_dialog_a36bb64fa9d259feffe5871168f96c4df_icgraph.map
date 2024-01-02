@@ -1,5 +1,7 @@
 <map id="on_worker_failed" name="on_worker_failed">
-<area shape="rect" id="node1" title=" " alt="" coords="299,29,419,56"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aca780d78b993a295a93507a4a6d12a69" title=" " alt="" coords="120,29,251,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aa902973791e81c8c4542da337b86289b" title=" " alt="" coords="5,29,72,56"/>
+<area shape="rect" id="node1" title=" " alt="" coords="563,94,683,121"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aca780d78b993a295a93507a4a6d12a69" title=" " alt="" coords="384,94,515,121"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a91c6c5717fad488963fe42e9bc046c11" title=" " alt="" coords="229,69,336,95"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aa902973791e81c8c4542da337b86289b" title=" " alt="" coords="60,119,127,146"/>
+<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html#a10c562aecba2dac76244db2a3ffd290d" title=" " alt="" coords="5,29,181,71"/>
 </map>

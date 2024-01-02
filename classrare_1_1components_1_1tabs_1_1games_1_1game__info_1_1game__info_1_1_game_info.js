@@ -4,7 +4,7 @@ var classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_gam
     [ "move_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a8f63c64f7175861f1d408bbeab2f5855", null ],
     [ "repair_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a0c1ec5a8b5b81f2e8b0483bfd9330a81", null ],
     [ "update_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a31df619d45c585656d938a0c09e9d115", null ],
-    [ "verify_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a3f0a6718ec31407232d59668556eed16", null ],
+    [ "verify_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#ad98d231f7b0a60e8aa3b72120eebf843", null ],
     [ "args", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "image", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a42cb5f5737262947250c709931232c69", null ],

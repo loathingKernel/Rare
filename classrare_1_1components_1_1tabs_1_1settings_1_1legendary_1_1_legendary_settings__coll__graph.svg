@@ -59,24 +59,24 @@ var sectionId = 'dynsection-1';
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="23.5,-0.5 23.5,-189.5 140.5,-189.5 140.5,-0.5 23.5,-0.5"/>
+<polygon fill="#bfbfbf" stroke="black" points="24,-0.5 24,-189.5 140,-189.5 140,-0.5 24,-0.5"/>
 <text text-anchor="middle" x="82" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00">LegendarySettings</text>
-<polyline fill="none" stroke="black" points="23.5,-170.5 140.5,-170.5 "/>
-<text text-anchor="start" x="31.5" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
-<text text-anchor="start" x="31.5" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="31.5" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ install_dir</text>
-<text text-anchor="start" x="31.5" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ locale_edit</text>
-<polyline fill="none" stroke="black" points="23.5,-118.5 140.5,-118.5 "/>
-<text text-anchor="start" x="31.5" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="31.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ refresh_game_meta()</text>
-<text text-anchor="start" x="31.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ locale_save_cb()</text>
-<text text-anchor="start" x="31.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ path_save()</text>
-<text text-anchor="start" x="31.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_worker_save()</text>
-<text text-anchor="start" x="31.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_memory_save()</text>
-<text text-anchor="start" x="31.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ preferred_cdn_save()</text>
-<text text-anchor="start" x="31.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ disable_https_save()</text>
-<text text-anchor="start" x="31.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ cleanup()</text>
-<text text-anchor="start" x="31.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ locale_edit_cb()</text>
+<polyline fill="none" stroke="black" points="24,-170.5 140,-170.5 "/>
+<text text-anchor="start" x="32" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<text text-anchor="start" x="32" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="32" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ mac_install_dir</text>
+<text text-anchor="start" x="32" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ install_dir</text>
+<text text-anchor="start" x="32" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ locale_edit</text>
+<polyline fill="none" stroke="black" points="24,-107.5 140,-107.5 "/>
+<text text-anchor="start" x="32" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="32" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ refresh_metadata()</text>
+<text text-anchor="start" x="32" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ locale_save_cb()</text>
+<text text-anchor="start" x="32" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_worker_save()</text>
+<text text-anchor="start" x="32" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_memory_save()</text>
+<text text-anchor="start" x="32" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ preferred_cdn_save()</text>
+<text text-anchor="start" x="32" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ disable_https_save()</text>
+<text text-anchor="start" x="32" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ cleanup()</text>
+<text text-anchor="start" x="32" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ locale_edit_cb()</text>
 </a>
 </g>
 </g>
@@ -116,7 +116,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="80.5" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_workers_layout</text>
 <text text-anchor="start" x="80.5" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_worker_spin</text>
 <text text-anchor="start" x="80.5" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_workers_info_label</text>
-<text text-anchor="start" x="80.5" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 20 more...</text>
+<text text-anchor="start" x="80.5" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 22 more...</text>
 <polyline fill="none" stroke="black" points="72.5,-256.5 201.5,-256.5 "/>
 <text text-anchor="start" x="80.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setupUi()</text>
 <text text-anchor="start" x="80.5" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ retranslateUi()</text>

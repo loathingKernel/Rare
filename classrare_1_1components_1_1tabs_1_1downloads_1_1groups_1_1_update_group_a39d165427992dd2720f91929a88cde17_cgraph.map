@@ -1,11 +1,5 @@
 <map id="__init__" name="__init__">
-<area shape="rect" id="node1" title=" " alt="" coords="5,217,72,243"/>
-<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1side__tab_1_1_side_tab_container.html#a91ab0752374c3f97048137450dd3f146" title=" " alt="" coords="120,164,293,205"/>
-<area shape="rect" id="node9" href="$namespacerare_1_1utils_1_1misc.html#a2ec81ab292b3a30c9099fbaf508e69a6" title=" " alt="" coords="135,253,278,295"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a9d2c0ef8e0253d5f0d0bcf1f7ad80fa5" title=" " alt="" coords="341,164,531,205"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#ae1cd35b1295fa44fd6906c1bcf28fd20" title=" " alt="" coords="579,29,857,71"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_item.html#ae1cd35b1295fa44fd6906c1bcf28fd20" title=" " alt="" coords="579,119,857,160"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_item.html#ae1cd35b1295fa44fd6906c1bcf28fd20" title=" " alt="" coords="579,208,857,249"/>
-<area shape="rect" id="node8" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#ae1cd35b1295fa44fd6906c1bcf28fd20" title=" " alt="" coords="623,297,813,339"/>
-<area shape="rect" id="node7" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="905,208,1079,249"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,82,72,109"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1side__tab_1_1_side_tab_container.html#a91ab0752374c3f97048137450dd3f146" title=" " alt="" coords="120,29,293,71"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1misc.html#a2ec81ab292b3a30c9099fbaf508e69a6" title=" " alt="" coords="135,119,278,160"/>
 </map>

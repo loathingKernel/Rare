@@ -101,8 +101,29 @@ Why Rare?</h1>
 <li>Packages, packages everywhere</li>
 </ul>
 <h1><a class="anchor" id="autotoc_md5"></a>
-Issues</h1>
-<p >If you run into any issues, please report it by creating an issue on GitHub or on Discord: <a href="https://discord.gg/YvmABK9YSk">https://discord.gg/YvmABK9YSk</a></p>
+Reporing issues</h1>
+<p >If you run into any issues, you can report them by creating an issue on GitHub: <a href="https://github.com/RareDevs/Rare/issues/new/choose">https://github.com/RareDevs/Rare/issues/new/choose</a></p>
+<p >When reporting issues, it is helpful to also include the logs with your issue. You can find the longs in the following locations depending on your operating system</p>
+<table class="markdownTable">
+<tr class="markdownTableHead">
+<th class="markdownTableHeadNone">OS   </th><th class="markdownTableHeadNone">Path    </th></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">Windows   </td><td class="markdownTableBodyNone"><code>C:\Users\&lt;username&gt;\AppData\Local\Rare\Rare\cache\logs</code>    </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">Linux   </td><td class="markdownTableBodyNone"><code>/home/&lt;username&gt;/.cache/Rare/Rare/logs</code>    </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">masOS   </td><td class="markdownTableBodyNone"><code>/Users/&lt;username&gt;/Library/Caches/Rare/Rare/logs</code>   </td></tr>
+</table>
+<p >In these folders you will find files named like below</p>
+<ul>
+<li><code>Rare_23-12-19--11-14.log</code></li>
+</ul>
+<p >These are the logs for the main Rare application. As such are importand when Rare itself is crashing.</p>
+<ul>
+<li><code>RareLauncher_f4e0c1dff48749fa9145c1585699e276_23-12-17--19-53.log</code></li>
+</ul>
+<p >These are the logs for each of the games you run through Rare. Rare uses a separate instance of itself to launch games, and these are the logs of that instance.</p>
+<p >If you don't have a GitHub account or you just want to chat, you also can contact us on Discord: <a href="https://discord.gg/YvmABK9YSk">https://discord.gg/YvmABK9YSk</a></p>
 <h1><a class="anchor" id="autotoc_md6"></a>
 Installation</h1>
 <h2><a class="anchor" id="autotoc_md7"></a>
@@ -156,21 +177,28 @@ Packages</h3>
 Packages</h2>
 <p >In <a href="https://github.com/Dummerle/Rare/releases">releases page</a>, AppImages are available for Linux, a .msi file for windows and a .dmg file for macOS.</p>
 <h2><a class="anchor" id="autotoc_md15"></a>
-Latest packages</h2>
+Latest development version</h2>
 <p >In the <a href="https://github.com/Dummerle/Rare/actions">actions</a> tab you can find packages for the latest commits.</p>
 <p ><b>Note</b>: They might be unstable and likely broken.</p>
 <h2><a class="anchor" id="autotoc_md16"></a>
 Installation via pip (platform independent)</h2>
 <p >Execute <code>pip install Rare</code> for all users, or <code>pip install Rare --user</code> for the current user only.</p>
-<p >Linux, Mac and FreeBSD: execute <code>rare</code> in your terminal.</p>
-<p >Windows: execute <code>pythonw -m rare</code> in cmd</p>
-<p >It is possible to create a desktop link, or a start menu link. Execute the command above with <code>--desktop-shortcut</code> or <code>--startmenu-shortcut</code> option, alternatively you can create them in the settings.</p>
-<p ><b>Note about $PATH</b>:</p>
 <ul>
-<li>On Linux <code>/home/user/.local/bin</code> must be in your PATH.</li>
-<li>On Windows <code>PythonInstallationDirectory\Scripts</code> must be in your PATH.</li>
-<li>On Mac <code>/Users/user/Library/Python/3.x/bin</code> must be in your PATH.</li>
+<li>Linux, macOS and FreeBSD: execute <code>rare</code> in your terminal.</li>
+<li>Windows: execute <code>pythonw -m rare</code> in cmd</li>
 </ul>
+<p >It is possible to create a desktop link, or a start menu link. Execute the command above with <code>--desktop-shortcut</code> or <code>--startmenu-shortcut</code> option, alternatively you can create them in the settings.</p>
+<p ><b>Note about $PATH</b>: Depending on your operating system and the <code>python</code> distribution, the following paths might need to be in your environment's <code>PATH</code></p>
+<table class="markdownTable">
+<tr class="markdownTableHead">
+<th class="markdownTableHeadNone">OS   </th><th class="markdownTableHeadNone">Path    </th></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">Windows   </td><td class="markdownTableBodyNone"><code>&lt;python_installation_folder&gt;\Scripts</code>    </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">Linux   </td><td class="markdownTableBodyNone"><code>/home/&lt;username&gt;/.local/bin</code>    </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">masOS   </td><td class="markdownTableBodyNone"><code>/Users/&lt;username&gt;/Library/Python/3.x/bin</code>   </td></tr>
+</table>
 <h2><a class="anchor" id="autotoc_md17"></a>
 Run from source</h2>
 <ol type="1">

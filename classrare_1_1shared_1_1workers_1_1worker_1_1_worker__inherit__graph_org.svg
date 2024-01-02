@@ -74,43 +74,46 @@
 <g id="node5" class="node">
 <title>Node5</title>
 <g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="229.5,-182.5 229.5,-261.5 358.5,-261.5 358.5,-182.5 229.5,-182.5"/>
-<text text-anchor="middle" x="294" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">RefreshGameMetaWorker</text>
-<polyline fill="none" stroke="black" points="229.5,-242.5 358.5,-242.5 "/>
-<text text-anchor="start" x="237.5" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
-<text text-anchor="start" x="237.5" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<polyline fill="none" stroke="black" points="229.5,-212.5 358.5,-212.5 "/>
-<text text-anchor="start" x="237.5" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="237.5" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ run_real()</text>
+<polygon fill="white" stroke="black" points="229.5,-171.5 229.5,-272.5 358.5,-272.5 358.5,-171.5 229.5,-171.5"/>
+<text text-anchor="middle" x="294" y="-260.5" font-family="Helvetica,sans-Serif" font-size="10.00">RefreshGameMetaWorker</text>
+<polyline fill="none" stroke="black" points="229.5,-253.5 358.5,-253.5 "/>
+<text text-anchor="start" x="237.5" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
+<text text-anchor="start" x="237.5" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="237.5" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ platforms</text>
+<text text-anchor="start" x="237.5" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ skip_ue</text>
+<polyline fill="none" stroke="black" points="229.5,-201.5 358.5,-201.5 "/>
+<text text-anchor="start" x="237.5" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="237.5" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ run_real()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M421.33,-326.08C397.32,-306.64 366.8,-281.93 341.65,-261.58"/>
+<path fill="none" stroke="midnightblue" d="M421.29,-326.04C401.48,-310.01 377.25,-290.4 355.27,-272.6"/>
 <polygon fill="none" stroke="midnightblue" points="419.23,-328.88 429.21,-332.45 423.64,-323.44 419.23,-328.88"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
 <g id="a_node6"><a xlink:href="classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="377,-177 377,-267 449,-267 449,-177 377,-177"/>
-<text text-anchor="middle" x="413" y="-255" font-family="Helvetica,sans-Serif" font-size="10.00">FetchWorker</text>
-<polyline fill="none" stroke="black" points="377,-248 449,-248 "/>
-<text text-anchor="start" x="385" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
-<text text-anchor="start" x="385" y="-225" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="385" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
-<polyline fill="none" stroke="black" points="377,-207 449,-207 "/>
-<text text-anchor="start" x="385" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="385" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ run_real()</text>
+<polygon fill="white" stroke="black" points="377,-171.5 377,-272.5 449,-272.5 449,-171.5 377,-171.5"/>
+<text text-anchor="middle" x="413" y="-260.5" font-family="Helvetica,sans-Serif" font-size="10.00">FetchWorker</text>
+<polyline fill="none" stroke="black" points="377,-253.5 449,-253.5 "/>
+<text text-anchor="start" x="385" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
+<text text-anchor="start" x="385" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="385" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
+<text text-anchor="start" x="385" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<polyline fill="none" stroke="black" points="377,-201.5 449,-201.5 "/>
+<text text-anchor="start" x="385" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="385" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ run_real()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M440.6,-299.62C436.66,-288.67 432.61,-277.42 428.86,-267.02"/>
+<path fill="none" stroke="midnightblue" d="M440.59,-299.57C437.38,-290.66 434.09,-281.55 430.97,-272.86"/>
 <polygon fill="none" stroke="midnightblue" points="437.35,-300.91 444.03,-309.13 443.94,-298.54 437.35,-300.91"/>
 </g>
 <!-- Node7 -->

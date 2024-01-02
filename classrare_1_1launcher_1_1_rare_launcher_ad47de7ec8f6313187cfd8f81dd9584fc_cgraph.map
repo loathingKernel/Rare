@@ -1,9 +1,10 @@
 <map id="check_saves_finished" name="check_saves_finished">
-<area shape="rect" id="node1" title=" " alt="" coords="5,157,156,184"/>
-<area shape="rect" id="node2" href="$classrare_1_1launcher_1_1_rare_launcher.html#ac2d7fc08d8189d84d207151df722ee19" title=" " alt="" coords="204,120,309,147"/>
-<area shape="rect" id="node7" href="$classrare_1_1launcher_1_1_rare_launcher.html#ad0256d0c2293a5030e42884d8de9484d" title=" " alt="" coords="225,195,288,221"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="363,194,536,235"/>
-<area shape="rect" id="node4" href="$classrare_1_1launcher_1_1_rare_launcher.html#a1ad309148fd22e4786258dc4a79ec7af" title=" " alt="" coords="394,284,505,311"/>
-<area shape="rect" id="node5" href="$classrare_1_1launcher_1_1_rare_launcher.html#a26ca7c1c7fcdd35378e7be97727047a6" title=" " alt="" coords="426,29,473,56"/>
-<area shape="rect" id="node6" href="$classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html#a26ca7c1c7fcdd35378e7be97727047a6" title=" " alt="" coords="357,105,541,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,120,156,147"/>
+<area shape="rect" id="node2" href="$classrare_1_1launcher_1_1_rare_launcher.html#a4ef8f85fa1b9fee344749ec0b720d2d3" title=" " alt="" coords="204,45,368,72"/>
+<area shape="rect" id="node3" href="$classrare_1_1launcher_1_1_rare_launcher.html#ac2d7fc08d8189d84d207151df722ee19" title=" " alt="" coords="233,195,339,221"/>
+<area shape="rect" id="node8" href="$classrare_1_1launcher_1_1_rare_launcher.html#ad0256d0c2293a5030e42884d8de9484d" title=" " alt="" coords="255,120,317,147"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="421,194,595,235"/>
+<area shape="rect" id="node5" href="$classrare_1_1launcher_1_1_rare_launcher.html#a1ad309148fd22e4786258dc4a79ec7af" title=" " alt="" coords="453,284,563,311"/>
+<area shape="rect" id="node6" href="$classrare_1_1launcher_1_1_rare_launcher.html#a26ca7c1c7fcdd35378e7be97727047a6" title=" " alt="" coords="485,29,531,56"/>
+<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html#a26ca7c1c7fcdd35378e7be97727047a6" title=" " alt="" coords="416,105,600,146"/>
 </map>

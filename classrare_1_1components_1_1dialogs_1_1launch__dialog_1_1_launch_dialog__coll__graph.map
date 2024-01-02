@@ -1,4 +1,5 @@
 <map id="LaunchDialog" name="LaunchDialog">
-<area shape="rect" id="node1" title=" " alt="" coords="5,131,116,369"/>
-<area shape="rect" id="node2" title=" " alt="" coords="27,5,95,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="15,329,126,539"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html" title=" " alt="" coords="5,131,136,281"/>
+<area shape="rect" id="node3" title=" " alt="" coords="37,5,105,83"/>
 </map>

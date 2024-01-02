@@ -2,8 +2,8 @@
 <area shape="rect" id="node1" title="Base QRunnable class." alt="" coords="578,131,665,267"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html" title=" " alt="" coords="5,315,136,451"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html" title=" " alt="" coords="161,329,287,436"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html" title=" " alt="" coords="311,329,483,436"/>
-<area shape="rect" id="node6" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html" title=" " alt="" coords="508,322,604,443"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html" title=" " alt="" coords="311,315,483,451"/>
+<area shape="rect" id="node6" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html" title=" " alt="" coords="508,315,604,451"/>
 <area shape="rect" id="node7" href="$classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker.html" title=" " alt="" coords="628,322,748,443"/>
 <area shape="rect" id="node8" href="$classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html" title=" " alt="" coords="772,315,887,451"/>
 <area shape="rect" id="node9" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_resolver.html" title=" " alt="" coords="911,315,1014,451"/>

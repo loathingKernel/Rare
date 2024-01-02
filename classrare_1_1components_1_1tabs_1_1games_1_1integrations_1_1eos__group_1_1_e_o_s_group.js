@@ -14,5 +14,6 @@ var classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e
     [ "overlay", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html#ad18735e21b9100cb298ea247556c1868", null ],
     [ "prefix_enabled", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html#a90ba98a3a8701cec7d422eafdadc0841", null ],
     [ "signals", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html#a0de0a2c91773619dac1660c29940c55e", null ],
-    [ "threadpool", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html#ad7d6a26c2b0e3239367e07430b368118", null ]
+    [ "threadpool", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html#ad7d6a26c2b0e3239367e07430b368118", null ],
+    [ "ui", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html#ac492f8de2d00b6c4282e766bfadaf2e7", null ]
 ];

@@ -1,3 +1,7 @@
 <map id="remote_version" name="remote_version">
-<area shape="rect" id="node1" title="Property to report the remote version of an InstalledGame." alt="" coords="5,29,116,56"/>
+<area shape="rect" id="node1" title="Property to report the remote version of an InstalledGame." alt="" coords="5,82,116,109"/>
+<area shape="rect" id="node2" href="$classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a3ae4fe315e7d530f77daf1e8d63468e3" title=" " alt="" coords="175,29,342,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a3ae4fe315e7d530f77daf1e8d63468e3" title=" " alt="" coords="164,119,353,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="409,73,583,115"/>
+<area shape="rect" id="node5" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a030a686885e9e90bfbcd7f7f61fa318b" title="Property that holds the platforms a game is available for." alt="" coords="401,163,591,204"/>
 </map>

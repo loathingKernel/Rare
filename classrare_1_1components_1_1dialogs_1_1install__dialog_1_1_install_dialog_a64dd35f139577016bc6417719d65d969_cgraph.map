@@ -1,7 +1,18 @@
 <map id="on_worker_result" name="on_worker_result">
-<area shape="rect" id="node1" title=" " alt="" coords="5,143,127,170"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a807a18e046713d82f8c5828f7837d229" title=" " alt="" coords="175,5,359,47"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#ad9f81f4c56e23ca3c206b1e9374fc137" title=" " alt="" coords="175,95,359,136"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1misc.html#a3544b31f50ff739b7e8bb4ab751026b7" title=" " alt="" coords="181,185,353,211"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a28b2dbb84b35512e356dcdff0827aac2" title=" " alt="" coords="213,259,321,286"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,510,127,537"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a807a18e046713d82f8c5828f7837d229" title=" " alt="" coords="708,159,892,200"/>
+<area shape="rect" id="node3" href="$classrare_1_1launcher_1_1console__dialog_1_1_console_dialog.html#a7df04f32b8c03f8466e5b558ba482582" title=" " alt="" coords="175,204,365,246"/>
+<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a783ddce0cb0d324bc475e9b39f7a6f2f" title=" " alt="" coords="181,414,359,455"/>
+<area shape="rect" id="node12" href="$classrare_1_1widgets_1_1dialogs_1_1_test_dialog.html#a783ddce0cb0d324bc475e9b39f7a6f2f" title=" " alt="" coords="187,503,353,544"/>
+<area shape="rect" id="node14" href="$namespacerare_1_1utils_1_1misc.html#a3544b31f50ff739b7e8bb4ab751026b7" title=" " alt="" coords="184,593,356,620"/>
+<area shape="rect" id="node15" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a28b2dbb84b35512e356dcdff0827aac2" title=" " alt="" coords="216,668,324,694"/>
+<area shape="rect" id="node16" href="$classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html#a7e718e840cb7305e8bf707e866dc75e5" title=" " alt="" coords="182,743,358,784"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#ad9f81f4c56e23ca3c206b1e9374fc137" title=" " alt="" coords="445,70,629,111"/>
+<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a8639372c33e15084a7f7c4d9d87b7bfe" title=" " alt="" coords="448,159,625,200"/>
+<area shape="rect" id="node6" href="$classrare_1_1widgets_1_1dialogs_1_1_test_dialog.html#a8639372c33e15084a7f7c4d9d87b7bfe" title=" " alt="" coords="454,248,619,290"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63" title=" " alt="" coords="481,338,592,365"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63" title=" " alt="" coords="413,414,660,455"/>
+<area shape="rect" id="node10" href="$classrare_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63" title=" " alt="" coords="417,504,657,560"/>
+<area shape="rect" id="node11" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63" title=" " alt="" coords="448,608,625,650"/>
+<area shape="rect" id="node13" href="$classrare_1_1widgets_1_1dialogs_1_1_test_dialog.html#aabea3c93766dc521bfb00bb34037879d" title=" " alt="" coords="454,674,619,715"/>
 </map>

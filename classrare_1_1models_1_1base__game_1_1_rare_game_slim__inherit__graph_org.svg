@@ -63,7 +63,7 @@
 <text text-anchor="start" x="25" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_rgame()</text>
 <text text-anchor="start" x="25" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ developer()</text>
 <text text-anchor="start" x="25" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ install_size()</text>
-<text text-anchor="start" x="25" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 34 more...</text>
+<text text-anchor="start" x="25" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 33 more...</text>
 </a>
 </g>
 </g>
@@ -92,10 +92,10 @@
 <text text-anchor="start" x="29" y="-613.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ is_idle()</text>
 <text text-anchor="start" x="29" y="-602.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ app_name()</text>
 <text text-anchor="start" x="29" y="-591.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ app_title()</text>
-<text text-anchor="start" x="29" y="-580.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ title()</text>
-<text text-anchor="start" x="29" y="-569.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ is_installed()</text>
-<text text-anchor="start" x="29" y="-558.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ set_installed()</text>
-<text text-anchor="start" x="29" y="-547.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 7 more...</text>
+<text text-anchor="start" x="29" y="-580.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ is_installed()</text>
+<text text-anchor="start" x="29" y="-569.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ set_installed()</text>
+<text text-anchor="start" x="29" y="-558.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ platforms()</text>
+<text text-anchor="start" x="29" y="-547.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 9 more...</text>
 </a>
 </g>
 </g>

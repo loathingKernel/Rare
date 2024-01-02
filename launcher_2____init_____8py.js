@@ -7,5 +7,5 @@ var launcher_2____init_____8py =
     [ "RareLauncherException", "classrare_1_1launcher_1_1_rare_launcher_exception.html", "classrare_1_1launcher_1_1_rare_launcher_exception" ],
     [ "RareLauncher", "classrare_1_1launcher_1_1_rare_launcher.html", "classrare_1_1launcher_1_1_rare_launcher" ],
     [ "launch", "launcher_2____init_____8py.html#a8c1e65354fefbb9bdd9c6cdba8afde23", null ],
-    [ "DETACHED_APP_NAMES", "launcher_2____init_____8py.html#af8f65616e7a0d5e0800647b00e16dffe", null ]
+    [ "DETACHED_APP_NAMES", "launcher_2____init_____8py.html#ac401e1a8757aba5d526538753354728f", null ]
 ];

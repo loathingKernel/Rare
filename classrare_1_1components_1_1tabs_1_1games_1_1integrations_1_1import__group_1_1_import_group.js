@@ -3,6 +3,7 @@ var classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_
     [ "__init__", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#a39d165427992dd2720f91929a88cde17", null ],
     [ "app_name_changed", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#ab1f05ad7de57f4f9eeebb68fff4bd523", null ],
     [ "app_name_edit_callback", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#acca5a43c03c8b7109c31e57d0b7414e5", null ],
+    [ "app_name_save_callback", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#a568f76c00567fce72c01c50b773c3108", null ],
     [ "import_dlcs_changed", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#a50b0cbf2d5eb5899e97a94182a1b1e0e", null ],
     [ "import_folder_changed", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#ae0eb67daec2b068f800e0270d984af63", null ],
     [ "path_changed", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#a15e71de6245a3435379eb75461f15bc8", null ],

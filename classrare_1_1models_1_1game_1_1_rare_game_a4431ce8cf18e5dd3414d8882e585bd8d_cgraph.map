@@ -1,13 +1,13 @@
 <map id="can_launch" name="can_launch">
-<area shape="rect" id="node1" title=" " alt="" coords="5,306,93,333"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#af3b5f267d190558f0bbc61ea26f269bd" title="Property to report if a game can run offline." alt="" coords="182,79,290,106"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a446ff523b2db28f598f431a4614f4a96" title="Property to report if a game doesn&#39;t belong to the current account." alt="" coords="197,255,275,282"/>
-<area shape="rect" id="node5" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a823ab7286cb07208f430cc54252c82bb" title=" " alt="" coords="379,29,568,71"/>
-<area shape="rect" id="node6" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a823ab7286cb07208f430cc54252c82bb" title=" " alt="" coords="379,119,568,160"/>
-<area shape="rect" id="node7" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a823ab7286cb07208f430cc54252c82bb" title="Property to report if a game is installed." alt="" coords="430,298,517,325"/>
-<area shape="rect" id="node8" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a278563422a00c7eb39dfc65d0b71f51a" title="Property to report if a Game is an Origin game." alt="" coords="616,361,805,403"/>
-<area shape="rect" id="node9" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a823ab7286cb07208f430cc54252c82bb" title=" " alt="" coords="385,373,561,415"/>
-<area shape="rect" id="node10" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a5c91214c9c0ce70e64033ac6a3494d76" title=" " alt="" coords="141,515,331,556"/>
-<area shape="rect" id="node11" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a75a2e37cdbb1feeb806eb179a21fa568" title="Property to report if a games requires to be verified." alt="" coords="173,605,299,631"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="387,208,560,249"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,327,93,353"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#af3b5f267d190558f0bbc61ea26f269bd" title="Property to report if a game can run offline." alt="" coords="182,29,290,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a446ff523b2db28f598f431a4614f4a96" title="Property to report if a game doesn&#39;t belong to the current account." alt="" coords="197,327,275,353"/>
+<area shape="rect" id="node5" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a823ab7286cb07208f430cc54252c82bb" title=" " alt="" coords="379,155,568,197"/>
+<area shape="rect" id="node6" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a823ab7286cb07208f430cc54252c82bb" title=" " alt="" coords="379,245,568,286"/>
+<area shape="rect" id="node7" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a278563422a00c7eb39dfc65d0b71f51a" title="Property to report if a Game is an Origin game." alt="" coords="616,245,805,286"/>
+<area shape="rect" id="node8" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a823ab7286cb07208f430cc54252c82bb" title="Property to report if a game is installed." alt="" coords="430,424,517,451"/>
+<area shape="rect" id="node9" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a823ab7286cb07208f430cc54252c82bb" title=" " alt="" coords="385,499,561,541"/>
+<area shape="rect" id="node10" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a5c91214c9c0ce70e64033ac6a3494d76" title=" " alt="" coords="141,503,331,545"/>
+<area shape="rect" id="node11" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a75a2e37cdbb1feeb806eb179a21fa568" title="Property to report if a games requires to be verified." alt="" coords="173,593,299,620"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="387,334,560,375"/>
 </map>

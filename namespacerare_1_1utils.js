@@ -2,6 +2,10 @@ var namespacerare_1_1utils =
 [
     [ "config_helper", "namespacerare_1_1utils_1_1config__helper.html", [
       [ "add_option", "namespacerare_1_1utils_1_1config__helper.html#a99c25ff311e1e96204ea957508e4d242", null ],
+      [ "get_game_envvar", "namespacerare_1_1utils_1_1config__helper.html#adba52728aa5f4bcf6d334895d62155d1", null ],
+      [ "get_game_option", "namespacerare_1_1utils_1_1config__helper.html#a1de2f528ca691226c074cdfb7d5c0ab1", null ],
+      [ "get_wine_prefix", "namespacerare_1_1utils_1_1config__helper.html#a9351a483811dd33ee8b6a5ba496b9800", null ],
+      [ "get_wine_prefixes", "namespacerare_1_1utils_1_1config__helper.html#acfc00916c4223563c9eea5d21135b091", null ],
       [ "init_config_handler", "namespacerare_1_1utils_1_1config__helper.html#a688422411d3c7d2c17a4406f5bb1d7ef", null ],
       [ "remove_option", "namespacerare_1_1utils_1_1config__helper.html#a87e50ba35630552f07ee5f47fbe64b4a", null ],
       [ "remove_section", "namespacerare_1_1utils_1_1config__helper.html#a82afa338b29e9daeb329b3f9dcc9500d", null ],
@@ -36,6 +40,7 @@ var namespacerare_1_1utils =
       [ "old_dir", "namespacerare_1_1utils_1_1paths.html#a4105e02c915038c2fea74da035e6e390", null ],
       [ "resources_path", "namespacerare_1_1utils_1_1paths.html#a1fffd922987b63dc24705950d9e82ece", null ]
     ] ],
+    [ "proton", "namespacerare_1_1utils_1_1proton.html", "namespacerare_1_1utils_1_1proton" ],
     [ "qt_requests", "namespacerare_1_1utils_1_1qt__requests.html", "namespacerare_1_1utils_1_1qt__requests" ],
     [ "rpc", "namespacerare_1_1utils_1_1rpc.html", "namespacerare_1_1utils_1_1rpc" ],
     [ "singleton", "namespacerare_1_1utils_1_1singleton.html", "namespacerare_1_1utils_1_1singleton" ],

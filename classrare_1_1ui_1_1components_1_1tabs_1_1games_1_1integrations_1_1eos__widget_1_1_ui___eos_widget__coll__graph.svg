@@ -19,12 +19,12 @@
 <text text-anchor="start" x="8" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ eos_layout</text>
 <text text-anchor="start" x="8" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ overlay_stack</text>
 <text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ overlay_info_page</text>
-<text text-anchor="start" x="8" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ formLayout_3</text>
+<text text-anchor="start" x="8" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ overlay_info_layout</text>
 <text text-anchor="start" x="8" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ installed_version_info_lbl</text>
 <text text-anchor="start" x="8" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ installed_version_lbl</text>
 <text text-anchor="start" x="8" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ installed_path_info_lbl</text>
 <text text-anchor="start" x="8" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ installed_path_lbl</text>
-<text text-anchor="start" x="8" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ horizontalLayout</text>
+<text text-anchor="start" x="8" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ info_buttons_layout</text>
 <text text-anchor="start" x="8" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ uninstall_button</text>
 <text text-anchor="start" x="8" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 12 more...</text>
 <polyline fill="none" stroke="black" points="0,-30.5 134,-30.5 "/>

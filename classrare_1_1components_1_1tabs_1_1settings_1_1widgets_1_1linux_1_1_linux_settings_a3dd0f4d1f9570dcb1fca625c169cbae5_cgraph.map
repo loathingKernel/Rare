@@ -1,5 +1,7 @@
 <map id="load_prefix" name="load_prefix">
-<area shape="rect" id="node1" title=" " alt="" coords="5,37,88,63"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux_1_1_linux_settings.html#ab2299c63524cea4e4bab0c1ff4cc382c" title=" " alt="" coords="136,37,228,63"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="276,29,449,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,111,88,138"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux_1_1_linux_settings.html#ab2299c63524cea4e4bab0c1ff4cc382c" title=" " alt="" coords="207,37,299,63"/>
+<area shape="rect" id="node4" href="$classrare_1_1utils_1_1proton_1_1_steam_runtime.html#a5907ca3bbf8e7cd8f40c3007338f6d02" title=" " alt="" coords="136,111,371,138"/>
+<area shape="rect" id="node5" href="$classrare_1_1utils_1_1proton_1_1_compatibility_tool.html#a5907ca3bbf8e7cd8f40c3007338f6d02" title=" " alt="" coords="160,187,347,228"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="419,29,592,71"/>
 </map>

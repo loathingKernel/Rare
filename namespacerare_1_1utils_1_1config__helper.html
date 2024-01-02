@@ -102,6 +102,14 @@ Functions</h2></td></tr>
 <tr class="separator:a87e50ba35630552f07ee5f47fbe64b4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a82afa338b29e9daeb329b3f9dcc9500d"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1config__helper.html#a82afa338b29e9daeb329b3f9dcc9500d">remove_section</a> (app_name)</td></tr>
 <tr class="separator:a82afa338b29e9daeb329b3f9dcc9500d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1de2f528ca691226c074cdfb7d5c0ab1"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1config__helper.html#a1de2f528ca691226c074cdfb7d5c0ab1">get_game_option</a> (str option, Optional[str] app_name=None, Any fallback=None)</td></tr>
+<tr class="separator:a1de2f528ca691226c074cdfb7d5c0ab1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adba52728aa5f4bcf6d334895d62155d1"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1config__helper.html#adba52728aa5f4bcf6d334895d62155d1">get_game_envvar</a> (str option, Optional[str] app_name=None, Any fallback=None)</td></tr>
+<tr class="separator:adba52728aa5f4bcf6d334895d62155d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9351a483811dd33ee8b6a5ba496b9800"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1config__helper.html#a9351a483811dd33ee8b6a5ba496b9800">get_wine_prefix</a> (Optional[str] app_name=None, Any fallback=None)</td></tr>
+<tr class="separator:a9351a483811dd33ee8b6a5ba496b9800"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acfc00916c4223563c9eea5d21135b091"><td class="memItemLeft" align="right" valign="top">Set[str]&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1config__helper.html#acfc00916c4223563c9eea5d21135b091">get_wine_prefixes</a> ()</td></tr>
+<tr class="separator:acfc00916c4223563c9eea5d21135b091"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="a99c25ff311e1e96204ea957508e4d242" name="a99c25ff311e1e96204ea957508e4d242"></a>
@@ -136,7 +144,7 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="config__helper_8py_source.html#l00022">22</a> of file <a class="el" href="config__helper_8py_source.html">config_helper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="config__helper_8py_source.html#l00023">23</a> of file <a class="el" href="config__helper_8py_source.html">config_helper.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -147,6 +155,175 @@ Here is the call graph for this function:</div>
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1config__helper_a99c25ff311e1e96204ea957508e4d242_icgraph.svg" width="96" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+
+</div>
+</div>
+<a id="adba52728aa5f4bcf6d334895d62155d1" name="adba52728aa5f4bcf6d334895d62155d1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adba52728aa5f4bcf6d334895d62155d1">&#9670;&nbsp;</a></span>get_game_envvar()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"> str rare.utils.config_helper.get_game_envvar </td>
+          <td>(</td>
+          <td class="paramtype">str&#160;</td>
+          <td class="paramname"><em>option</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Optional[str] &#160;</td>
+          <td class="paramname"><em>app_name</em> = <code>None</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Any &#160;</td>
+          <td class="paramname"><em>fallback</em> = <code>None</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="config__helper_8py_source.html#l00057">57</a> of file <a class="el" href="config__helper_8py_source.html">config_helper.py</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1config__helper_adba52728aa5f4bcf6d334895d62155d1_cgraph.svg" width="136" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1config__helper_adba52728aa5f4bcf6d334895d62155d1_icgraph.svg" width="136" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+
+</div>
+</div>
+<a id="a1de2f528ca691226c074cdfb7d5c0ab1" name="a1de2f528ca691226c074cdfb7d5c0ab1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1de2f528ca691226c074cdfb7d5c0ab1">&#9670;&nbsp;</a></span>get_game_option()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"> str rare.utils.config_helper.get_game_option </td>
+          <td>(</td>
+          <td class="paramtype">str&#160;</td>
+          <td class="paramname"><em>option</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Optional[str] &#160;</td>
+          <td class="paramname"><em>app_name</em> = <code>None</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Any &#160;</td>
+          <td class="paramname"><em>fallback</em> = <code>None</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="config__helper_8py_source.html#l00050">50</a> of file <a class="el" href="config__helper_8py_source.html">config_helper.py</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1config__helper_a1de2f528ca691226c074cdfb7d5c0ab1_cgraph.svg" width="132" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1config__helper_a1de2f528ca691226c074cdfb7d5c0ab1_icgraph.svg" width="132" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+
+</div>
+</div>
+<a id="a9351a483811dd33ee8b6a5ba496b9800" name="a9351a483811dd33ee8b6a5ba496b9800"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9351a483811dd33ee8b6a5ba496b9800">&#9670;&nbsp;</a></span>get_wine_prefix()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"> str rare.utils.config_helper.get_wine_prefix </td>
+          <td>(</td>
+          <td class="paramtype">Optional[str] &#160;</td>
+          <td class="paramname"><em>app_name</em> = <code>None</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Any &#160;</td>
+          <td class="paramname"><em>fallback</em> = <code>None</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="config__helper_8py_source.html#l00064">64</a> of file <a class="el" href="config__helper_8py_source.html">config_helper.py</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1config__helper_a9351a483811dd33ee8b6a5ba496b9800_cgraph.svg" width="122" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1config__helper_a9351a483811dd33ee8b6a5ba496b9800_icgraph.svg" width="122" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+
+</div>
+</div>
+<a id="acfc00916c4223563c9eea5d21135b091" name="acfc00916c4223563c9eea5d21135b091"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acfc00916c4223563c9eea5d21135b091">&#9670;&nbsp;</a></span>get_wine_prefixes()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"> Set[str] rare.utils.config_helper.get_wine_prefixes </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="config__helper_8py_source.html#l00078">78</a> of file <a class="el" href="config__helper_8py_source.html">config_helper.py</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1config__helper_acfc00916c4223563c9eea5d21135b091_cgraph.svg" width="136" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1config__helper_acfc00916c4223563c9eea5d21135b091_icgraph.svg" width="136" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 
@@ -168,7 +345,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="config__helper_8py_source.html#l00010">10</a> of file <a class="el" href="config__helper_8py_source.html">config_helper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="config__helper_8py_source.html#l00011">11</a> of file <a class="el" href="config__helper_8py_source.html">config_helper.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -210,7 +387,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="config__helper_8py_source.html#l00031">31</a> of file <a class="el" href="config__helper_8py_source.html">config_helper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="config__helper_8py_source.html#l00032">32</a> of file <a class="el" href="config__helper_8py_source.html">config_helper.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -242,7 +419,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="config__helper_8py_source.html#l00041">41</a> of file <a class="el" href="config__helper_8py_source.html">config_helper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="config__helper_8py_source.html#l00042">42</a> of file <a class="el" href="config__helper_8py_source.html">config_helper.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -273,7 +450,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="config__helper_8py_source.html#l00016">16</a> of file <a class="el" href="config__helper_8py_source.html">config_helper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="config__helper_8py_source.html#l00017">17</a> of file <a class="el" href="config__helper_8py_source.html">config_helper.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">

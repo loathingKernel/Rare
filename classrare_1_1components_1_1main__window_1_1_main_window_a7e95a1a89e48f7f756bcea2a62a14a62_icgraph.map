@@ -1,9 +1,5 @@
 <map id="show" name="show">
-<area shape="rect" id="node1" title=" " alt="" coords="785,192,839,219"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aa902973791e81c8c4542da337b86289b" title=" " alt="" coords="5,100,204,141"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" title=" " alt="" coords="517,96,719,137"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a36bb64fa9d259feffe5871168f96c4df" title=" " alt="" coords="499,185,737,226"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#aa932131ff73a2a934f2f2da848314955" title=" " alt="" coords="567,275,669,302"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a76ef2ebd71b1a1858194134725b6c800" title=" " alt="" coords="589,350,647,376"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aca780d78b993a295a93507a4a6d12a69" title=" " alt="" coords="252,136,451,192"/>
+<area shape="rect" id="node1" title=" " alt="" coords="156,67,209,93"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#aa932131ff73a2a934f2f2da848314955" title=" " alt="" coords="5,29,108,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a76ef2ebd71b1a1858194134725b6c800" title=" " alt="" coords="28,104,85,131"/>
 </map>

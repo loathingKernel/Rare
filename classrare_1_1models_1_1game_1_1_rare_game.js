@@ -13,7 +13,6 @@ var classrare_1_1models_1_1game_1_1_rare_game =
     [ "install_path", "classrare_1_1models_1_1game_1_1_rare_game.html#ab4497a00f2030cf37a1005cd4a03db92", null ],
     [ "install_path", "classrare_1_1models_1_1game_1_1_rare_game.html#a0a82a2571a71e89add24aada56de6e71", null ],
     [ "install_size", "classrare_1_1models_1_1game_1_1_rare_game.html#ad95738186d1a39b3a1ec0605405e9ebc", null ],
-    [ "is_dlc", "classrare_1_1models_1_1game_1_1_rare_game.html#aef0a849df11b29e665072d941527d7a5", null ],
     [ "is_foreign", "classrare_1_1models_1_1game_1_1_rare_game.html#a446ff523b2db28f598f431a4614f4a96", null ],
     [ "is_installed", "classrare_1_1models_1_1game_1_1_rare_game.html#a823ab7286cb07208f430cc54252c82bb", null ],
     [ "is_non_asset", "classrare_1_1models_1_1game_1_1_rare_game.html#aff330cd3e3495874fbccb325e0c95236", null ],

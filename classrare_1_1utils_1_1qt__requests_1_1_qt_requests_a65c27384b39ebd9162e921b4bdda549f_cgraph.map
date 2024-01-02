@@ -1,10 +1,10 @@
 <map id="get" name="get">
-<area shape="rect" id="node1" title=" " alt="" coords="18,132,58,159"/>
-<area shape="rect" id="node2" href="$classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html#a9c2493021751bfd2dbd454dd32f0c46f" title=" " alt="" coords="186,5,241,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html#acaa8cc60a5934e1c137a4cf153e9ac37" title=" " alt="" coords="139,56,288,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html#a96f5260891d939cc4162e555233a2258" title=" " alt="" coords="183,107,244,133"/>
-<area shape="rect" id="node5" href="$classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html#a9d0f4a6b97b761c7f7ca6d4e723a178e" title=" " alt="" coords="155,157,272,184"/>
-<area shape="rect" id="node6" href="$classrare_1_1launcher_1_1console_1_1_console.html#a4db0e98c238d6a69bdbf4b8cc59be732" title=" " alt="" coords="106,232,321,259"/>
-<area shape="rect" id="node7" href="$classrare_1_1launcher_1_1console_1_1_console_edit.html#ac05aadedf6e1be5c365c818989f98d50" title=" " alt="" coords="116,307,311,349"/>
-<area shape="rect" id="node8" href="$classrare_1_1launcher_1_1console_1_1_console_edit.html#ad89ca21019805240d01e41fe61cdbb56" title=" " alt="" coords="369,307,564,349"/>
+<area shape="rect" id="node1" title=" " alt="" coords="14,132,54,159"/>
+<area shape="rect" id="node2" href="$classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html#a9c2493021751bfd2dbd454dd32f0c46f" title=" " alt="" coords="160,5,214,32"/>
+<area shape="rect" id="node3" href="$classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html#acaa8cc60a5934e1c137a4cf153e9ac37" title=" " alt="" coords="112,56,262,83"/>
+<area shape="rect" id="node4" href="$classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html#a96f5260891d939cc4162e555233a2258" title=" " alt="" coords="156,107,218,133"/>
+<area shape="rect" id="node5" href="$classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html#a9d0f4a6b97b761c7f7ca6d4e723a178e" title=" " alt="" coords="128,157,246,184"/>
+<area shape="rect" id="node6" href="$classrare_1_1launcher_1_1console__dialog_1_1_console_dialog.html#a4db0e98c238d6a69bdbf4b8cc59be732" title=" " alt="" coords="102,233,272,274"/>
+<area shape="rect" id="node7" href="$classrare_1_1launcher_1_1console__dialog_1_1_console_edit.html#ac05aadedf6e1be5c365c818989f98d50" title=" " alt="" coords="110,322,264,363"/>
+<area shape="rect" id="node8" href="$classrare_1_1launcher_1_1console__dialog_1_1_console_edit.html#ad89ca21019805240d01e41fe61cdbb56" title=" " alt="" coords="320,315,489,371"/>
 </map>

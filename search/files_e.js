@@ -5,5 +5,5 @@ var searchData=
   ['paths_2epy_2',['paths.py',['../paths_8py.html',1,'']]],
   ['pathspec_2epy_3',['pathspec.py',['../pathspec_8py.html',1,'']]],
   ['pre_5flaunch_2epy_4',['pre_launch.py',['../pre__launch_8py.html',1,'']]],
-  ['proton_2epy_5',['proton.py',['../components_2tabs_2settings_2widgets_2proton_8py.html',1,'(Global Namespace)'],['../ui_2components_2tabs_2settings_2proton_8py.html',1,'(Global Namespace)']]]
+  ['proton_2epy_5',['proton.py',['../components_2tabs_2settings_2widgets_2proton_8py.html',1,'(Global Namespace)'],['../ui_2components_2tabs_2settings_2proton_8py.html',1,'(Global Namespace)'],['../utils_2proton_8py.html',1,'(Global Namespace)']]]
 ];

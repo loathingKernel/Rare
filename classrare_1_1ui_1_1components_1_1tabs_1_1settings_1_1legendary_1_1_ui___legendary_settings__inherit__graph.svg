@@ -72,7 +72,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="8" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_workers_layout</text>
 <text text-anchor="start" x="8" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_worker_spin</text>
 <text text-anchor="start" x="8" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_workers_info_label</text>
-<text text-anchor="start" x="8" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 20 more...</text>
+<text text-anchor="start" x="8" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 22 more...</text>
 <polyline fill="none" stroke="black" points="0,-256.5 129,-256.5 "/>
 <text text-anchor="start" x="8" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setupUi()</text>
 <text text-anchor="start" x="8" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ retranslateUi()</text>
@@ -83,24 +83,24 @@ var sectionId = 'dynsection-0';
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="6,-0.5 6,-189.5 123,-189.5 123,-0.5 6,-0.5"/>
+<polygon fill="white" stroke="black" points="6.5,-0.5 6.5,-189.5 122.5,-189.5 122.5,-0.5 6.5,-0.5"/>
 <text text-anchor="middle" x="64.5" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00">LegendarySettings</text>
-<polyline fill="none" stroke="black" points="6,-170.5 123,-170.5 "/>
-<text text-anchor="start" x="14" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
-<text text-anchor="start" x="14" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="14" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ install_dir</text>
-<text text-anchor="start" x="14" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ locale_edit</text>
-<polyline fill="none" stroke="black" points="6,-118.5 123,-118.5 "/>
-<text text-anchor="start" x="14" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="14" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ refresh_game_meta()</text>
-<text text-anchor="start" x="14" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ locale_save_cb()</text>
-<text text-anchor="start" x="14" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ path_save()</text>
-<text text-anchor="start" x="14" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_worker_save()</text>
-<text text-anchor="start" x="14" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_memory_save()</text>
-<text text-anchor="start" x="14" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ preferred_cdn_save()</text>
-<text text-anchor="start" x="14" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ disable_https_save()</text>
-<text text-anchor="start" x="14" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ cleanup()</text>
-<text text-anchor="start" x="14" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ locale_edit_cb()</text>
+<polyline fill="none" stroke="black" points="6.5,-170.5 122.5,-170.5 "/>
+<text text-anchor="start" x="14.5" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<text text-anchor="start" x="14.5" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="14.5" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ mac_install_dir</text>
+<text text-anchor="start" x="14.5" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ install_dir</text>
+<text text-anchor="start" x="14.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ locale_edit</text>
+<polyline fill="none" stroke="black" points="6.5,-107.5 122.5,-107.5 "/>
+<text text-anchor="start" x="14.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="14.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ refresh_metadata()</text>
+<text text-anchor="start" x="14.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ locale_save_cb()</text>
+<text text-anchor="start" x="14.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_worker_save()</text>
+<text text-anchor="start" x="14.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_memory_save()</text>
+<text text-anchor="start" x="14.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ preferred_cdn_save()</text>
+<text text-anchor="start" x="14.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ disable_https_save()</text>
+<text text-anchor="start" x="14.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ cleanup()</text>
+<text text-anchor="start" x="14.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ locale_edit_cb()</text>
 </a>
 </g>
 </g>
