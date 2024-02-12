@@ -1,4 +1,5 @@
 <map id="is_download_active" name="is_download_active">
-<area shape="rect" id="node1" title=" " alt="" coords="203,29,339,56"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a11794ca2c7c3add2ed90cd2edb79b927" title=" " alt="" coords="5,29,155,56"/>
+<area shape="rect" id="node1" title=" " alt="" coords="360,29,496,56"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a11794ca2c7c3add2ed90cd2edb79b927" title=" " alt="" coords="163,29,312,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad688e83ab96ce32b1ed9e5ccc83d0ee8" title="Stops the active download, by optionally skipping the queue." alt="" coords="5,55,115,81"/>
 </map>

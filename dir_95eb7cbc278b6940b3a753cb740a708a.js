@@ -13,7 +13,8 @@ var dir_95eb7cbc278b6940b3a753cb740a708a =
       [ "InstallDownloadModel", "classrare_1_1models_1_1install_1_1_install_download_model.html", null ],
       [ "InstallQueueItemModel", "classrare_1_1models_1_1install_1_1_install_queue_item_model.html", "classrare_1_1models_1_1install_1_1_install_queue_item_model" ],
       [ "UninstallOptionsModel", "classrare_1_1models_1_1install_1_1_uninstall_options_model.html", "classrare_1_1models_1_1install_1_1_uninstall_options_model" ],
-      [ "SelectiveDownloadsModel", "classrare_1_1models_1_1install_1_1_selective_downloads_model.html", "classrare_1_1models_1_1install_1_1_selective_downloads_model" ]
+      [ "SelectiveDownloadsModel", "classrare_1_1models_1_1install_1_1_selective_downloads_model.html", "classrare_1_1models_1_1install_1_1_selective_downloads_model" ],
+      [ "MoveGameModel", "classrare_1_1models_1_1install_1_1_move_game_model.html", "classrare_1_1models_1_1install_1_1_move_game_model" ]
     ] ],
     [ "launcher.py", "launcher_8py.html", [
       [ "Actions", "classrare_1_1models_1_1launcher_1_1_actions.html", null ],

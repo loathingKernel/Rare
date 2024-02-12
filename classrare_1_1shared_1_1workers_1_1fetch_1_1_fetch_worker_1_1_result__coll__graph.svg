@@ -16,9 +16,9 @@
 <polygon fill="#bfbfbf" stroke="black" points="0,-0.5 0,-79.5 102,-79.5 102,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="51" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">FetchWorker.Result</text>
 <polyline fill="none" stroke="black" points="0,-60.5 102,-60.5 "/>
-<text text-anchor="start" x="8" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ GAMES</text>
-<text text-anchor="start" x="8" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ NON_ASSET</text>
-<text text-anchor="start" x="8" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ COMBINED</text>
+<text text-anchor="start" x="8" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ERROR</text>
+<text text-anchor="start" x="8" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ GAMESDLCS</text>
+<text text-anchor="start" x="8" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ENTITLEMENTS</text>
 <polyline fill="none" stroke="black" points="0,-19.5 102,-19.5 "/>
 <text text-anchor="middle" x="51" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>

@@ -9,10 +9,11 @@ var searchData=
   ['gamelistheadbar_6',['GameListHeadBar',['../classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_game_list_head_bar.html',1,'rare::components::tabs::games::head_bar']]],
   ['gamemetadataview_7',['GameMetadataView',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_metadata_view.html',1,'rare::components::tabs::games::game_info']]],
   ['gameprocess_8',['GameProcess',['../classrare_1_1shared_1_1game__process_1_1_game_process.html',1,'rare::shared::game_process']]],
-  ['gamesettings_9',['GameSettings',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html',1,'rare::components::tabs::games::game_info::game_settings']]],
-  ['gamesignals_10',['GameSignals',['../classrare_1_1models_1_1signals_1_1_global_signals_1_1_game_signals.html',1,'rare::models::signals::GlobalSignals']]],
-  ['gamestab_11',['GamesTab',['../classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html',1,'rare::components::tabs::games']]],
-  ['gamewidget_12',['GameWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html',1,'GameWidget'],['../classrare_1_1components_1_1tabs_1_1store_1_1game__widgets_1_1_game_widget.html',1,'GameWidget']]],
-  ['getbooleanchoiceprotocol_13',['GetBooleanChoiceProtocol',['../classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_get_boolean_choice_protocol.html',1,'rare::lgndr::glue::monkeys']]],
-  ['globalsignals_14',['GlobalSignals',['../classrare_1_1models_1_1signals_1_1_global_signals.html',1,'rare::models::signals']]]
+  ['gamesdlcsworker_9',['GamesDlcsWorker',['../classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html',1,'rare::shared::workers::fetch']]],
+  ['gamesettings_10',['GameSettings',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html',1,'rare::components::tabs::games::game_info::game_settings']]],
+  ['gamesignals_11',['GameSignals',['../classrare_1_1models_1_1signals_1_1_global_signals_1_1_game_signals.html',1,'rare::models::signals::GlobalSignals']]],
+  ['gamestab_12',['GamesTab',['../classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html',1,'rare::components::tabs::games']]],
+  ['gamewidget_13',['GameWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html',1,'GameWidget'],['../classrare_1_1components_1_1tabs_1_1store_1_1game__widgets_1_1_game_widget.html',1,'GameWidget']]],
+  ['getbooleanchoiceprotocol_14',['GetBooleanChoiceProtocol',['../classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_get_boolean_choice_protocol.html',1,'rare::lgndr::glue::monkeys']]],
+  ['globalsignals_15',['GlobalSignals',['../classrare_1_1models_1_1signals_1_1_global_signals.html',1,'rare::models::signals']]]
 ];

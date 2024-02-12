@@ -164,31 +164,30 @@ var sectionId = 'dynsection-0';
 <g id="node6" class="node">
 <title>Node6</title>
 <g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="452,-33.5 452,-222.5 568,-222.5 568,-33.5 452,-33.5"/>
-<text text-anchor="middle" x="510" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameInfo</text>
-<polyline fill="none" stroke="black" points="452,-203.5 568,-203.5 "/>
-<text text-anchor="start" x="460" y="-191.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
-<text text-anchor="start" x="460" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
-<text text-anchor="start" x="460" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="460" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
-<text text-anchor="start" x="460" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ image</text>
-<text text-anchor="start" x="460" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ move_game_pop_up</text>
-<text text-anchor="start" x="460" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ steam_grade_ratings</text>
-<text text-anchor="start" x="460" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
-<text text-anchor="start" x="460" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ import_clicked</text>
-<polyline fill="none" stroke="black" points="452,-96.5 568,-96.5 "/>
-<text text-anchor="start" x="460" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="460" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ repair_game()</text>
-<text text-anchor="start" x="460" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ verify_game()</text>
-<text text-anchor="start" x="460" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ move_game()</text>
-<text text-anchor="start" x="460" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
+<polygon fill="white" stroke="black" points="452,-39 452,-217 568,-217 568,-39 452,-39"/>
+<text text-anchor="middle" x="510" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">GameInfo</text>
+<polyline fill="none" stroke="black" points="452,-198 568,-198 "/>
+<text text-anchor="start" x="460" y="-186" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
+<text text-anchor="start" x="460" y="-175" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
+<text text-anchor="start" x="460" y="-164" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="460" y="-153" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
+<text text-anchor="start" x="460" y="-142" font-family="Helvetica,sans-Serif" font-size="10.00">+ image</text>
+<text text-anchor="start" x="460" y="-131" font-family="Helvetica,sans-Serif" font-size="10.00">+ steam_grade_ratings</text>
+<text text-anchor="start" x="460" y="-120" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
+<text text-anchor="start" x="460" y="-109" font-family="Helvetica,sans-Serif" font-size="10.00">+ import_clicked</text>
+<polyline fill="none" stroke="black" points="452,-102 568,-102 "/>
+<text text-anchor="start" x="460" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="460" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+ repair_game()</text>
+<text text-anchor="start" x="460" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ verify_game()</text>
+<text text-anchor="start" x="460" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">+ move_game()</text>
+<text text-anchor="start" x="460" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M416.58,-285.27C425.94,-276.17 435.25,-266.18 443,-256 450.86,-245.69 458.29,-234.33 465.14,-222.77"/>
+<path fill="none" stroke="midnightblue" d="M416.58,-285.27C425.94,-276.17 435.25,-266.18 443,-256 452.14,-244 460.7,-230.58 468.45,-217.08"/>
 <polygon fill="none" stroke="midnightblue" points="413.95,-282.94 409.1,-292.36 418.77,-288.02 413.95,-282.94"/>
 </g>
 <!-- Node7 -->

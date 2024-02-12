@@ -1,5 +1,7 @@
 <map id="FetchWorker" name="FetchWorker">
-<area shape="rect" id="node1" title=" " alt="" coords="5,315,101,451"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html" title="Base QRunnable class." alt="" coords="10,131,97,267"/>
-<area shape="rect" id="node3" title=" " alt="" coords="10,5,97,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="106,315,202,436"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html" title=" " alt="" coords="5,484,140,576"/>
+<area shape="rect" id="node5" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html" title=" " alt="" coords="165,484,309,576"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html" title="Base QRunnable class." alt="" coords="111,131,197,267"/>
+<area shape="rect" id="node3" title=" " alt="" coords="111,5,197,83"/>
 </map>

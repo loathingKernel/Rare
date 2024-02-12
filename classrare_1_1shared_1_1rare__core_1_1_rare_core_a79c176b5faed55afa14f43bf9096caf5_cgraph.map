@@ -1,11 +1,3 @@
 <map id="get_game" name="get_game">
-<area shape="rect" id="node1" title=" " alt="" coords="5,144,84,171"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a338a598c975402902d9f8c62afdb66a8" title=" " alt="" coords="171,5,267,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a49e55db05eec4eb1ddc6bf3d5609f390" title=" " alt="" coords="137,56,300,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a724232065c10727cbbd833865d37b4f7" title=" " alt="" coords="151,107,287,149"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a54a65028f7047494bbbf2f06a9d5dc9a" title=" " alt="" coords="176,173,261,200"/>
-<area shape="rect" id="node6" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#adde8d30c170a8e9390f675ab733724e9" title=" " alt="" coords="157,224,280,251"/>
-<area shape="rect" id="node7" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a0f9f88b07029d9ad56e4b094074fe596" title=" " alt="" coords="132,299,305,341"/>
-<area shape="rect" id="node8" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" title=" " alt="" coords="353,258,533,299"/>
-<area shape="rect" id="node9" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="412,348,475,375"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,29,84,56"/>
 </map>

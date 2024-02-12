@@ -6,6 +6,7 @@ var annotated_dup =
           [ "install_dialog", "namespacerare_1_1components_1_1dialogs_1_1install__dialog.html", [
             [ "InstallDialog", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog" ],
             [ "InstallDialogAdvanced", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_advanced.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_advanced" ],
+            [ "InstallDialogSelective", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_selective.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_selective" ],
             [ "TagCheckBox", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box" ]
           ] ],
           [ "launch_dialog", "namespacerare_1_1components_1_1dialogs_1_1launch__dialog.html", [
@@ -21,9 +22,12 @@ var annotated_dup =
             [ "LandingPage", "classrare_1_1components_1_1dialogs_1_1login_1_1_landing_page.html", "classrare_1_1components_1_1dialogs_1_1login_1_1_landing_page" ],
             [ "LoginDialog", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog" ]
           ] ],
+          [ "move_dialog", "namespacerare_1_1components_1_1dialogs_1_1move__dialog.html", [
+            [ "MoveDialog", "classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html", "classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog" ],
+            [ "MovePathEditReasons", "classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_path_edit_reasons.html", null ]
+          ] ],
           [ "selective_dialog", "namespacerare_1_1components_1_1dialogs_1_1selective__dialog.html", [
-            [ "SelectiveDialog", "classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog.html", "classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog" ],
-            [ "TagCheckBox", "classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_tag_check_box.html", "classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_tag_check_box" ]
+            [ "SelectiveDialog", "classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog.html", "classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog" ]
           ] ],
           [ "uninstall_dialog", "namespacerare_1_1components_1_1dialogs_1_1uninstall__dialog.html", [
             [ "UninstallDialog", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog" ]
@@ -73,10 +77,6 @@ var annotated_dup =
               [ "game_settings", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings.html", [
                 [ "GameSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings" ]
               ] ],
-              [ "move_game", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game.html", [
-                [ "MoveGamePopUp", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_game_pop_up.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_game_pop_up" ],
-                [ "MovePathEditReasons", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_path_edit_reasons.html", null ]
-              ] ],
               [ "GameInfoTabs", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs" ],
               [ "GameMetadataView", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_metadata_view.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_metadata_view" ]
             ] ],
@@ -118,7 +118,8 @@ var annotated_dup =
               ] ],
               [ "eos_group", "namespacerare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group.html", [
                 [ "CheckForUpdateWorker", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_check_for_update_worker.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_check_for_update_worker" ],
-                [ "EOSGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group" ]
+                [ "EosGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_group.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_group" ],
+                [ "EosPrefixWidget", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_prefix_widget" ]
               ] ],
               [ "import_group", "namespacerare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group.html", [
                 [ "AppNameCompleter", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_app_name_completer.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_app_name_completer" ],
@@ -330,6 +331,7 @@ var annotated_dup =
           [ "InstallDownloadModel", "classrare_1_1models_1_1install_1_1_install_download_model.html", null ],
           [ "InstallOptionsModel", "classrare_1_1models_1_1install_1_1_install_options_model.html", "classrare_1_1models_1_1install_1_1_install_options_model" ],
           [ "InstallQueueItemModel", "classrare_1_1models_1_1install_1_1_install_queue_item_model.html", "classrare_1_1models_1_1install_1_1_install_queue_item_model" ],
+          [ "MoveGameModel", "classrare_1_1models_1_1install_1_1_move_game_model.html", "classrare_1_1models_1_1install_1_1_move_game_model" ],
           [ "SelectiveDownloadsModel", "classrare_1_1models_1_1install_1_1_selective_downloads_model.html", "classrare_1_1models_1_1install_1_1_selective_downloads_model" ],
           [ "UninstallOptionsModel", "classrare_1_1models_1_1install_1_1_uninstall_options_model.html", "classrare_1_1models_1_1install_1_1_uninstall_options_model" ]
         ] ],
@@ -359,7 +361,9 @@ var annotated_dup =
         ] ],
         [ "workers", "namespacerare_1_1shared_1_1workers.html", [
           [ "fetch", "namespacerare_1_1shared_1_1workers_1_1fetch.html", [
-            [ "FetchWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker" ]
+            [ "EntitlementsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker" ],
+            [ "FetchWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker" ],
+            [ "GamesDlcsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker" ]
           ] ],
           [ "install_info", "namespacerare_1_1shared_1_1workers_1_1install__info.html", [
             [ "InstallInfoWorker", "classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker.html", "classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker" ]
@@ -511,11 +515,6 @@ var annotated_dup =
           [ "console_env", "namespacerare_1_1ui_1_1launcher_1_1console__env.html", [
             [ "Ui_ConsoleEnv", "classrare_1_1ui_1_1launcher_1_1console__env_1_1_ui___console_env.html", "classrare_1_1ui_1_1launcher_1_1console__env_1_1_ui___console_env" ]
           ] ]
-        ] ],
-        [ "utils", "namespacerare_1_1ui_1_1utils.html", [
-          [ "pathedit", "namespacerare_1_1ui_1_1utils_1_1pathedit.html", [
-            [ "Ui_PathEdit", "classrare_1_1ui_1_1utils_1_1pathedit_1_1_ui___path_edit.html", "classrare_1_1ui_1_1utils_1_1pathedit_1_1_ui___path_edit" ]
-          ] ]
         ] ]
       ] ],
       [ "utils", "namespacerare_1_1utils.html", [
@@ -592,6 +591,10 @@ var annotated_dup =
         [ "rare_app", "namespacerare_1_1widgets_1_1rare__app.html", [
           [ "RareApp", "classrare_1_1widgets_1_1rare__app_1_1_rare_app.html", "classrare_1_1widgets_1_1rare__app_1_1_rare_app" ],
           [ "RareAppException", "classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html", "classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception" ]
+        ] ],
+        [ "selective_widget", "namespacerare_1_1widgets_1_1selective__widget.html", [
+          [ "SelectiveWidget", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget.html", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget" ],
+          [ "TagCheckBox", "classrare_1_1widgets_1_1selective__widget_1_1_tag_check_box.html", "classrare_1_1widgets_1_1selective__widget_1_1_tag_check_box" ]
         ] ],
         [ "side_tab", "namespacerare_1_1widgets_1_1side__tab.html", [
           [ "SideTabBar", "classrare_1_1widgets_1_1side__tab_1_1_side_tab_bar.html", "classrare_1_1widgets_1_1side__tab_1_1_side_tab_bar" ],

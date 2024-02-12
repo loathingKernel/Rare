@@ -43,7 +43,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1models_1_1install_1_1_uninstall_options_model.html#a4e8c072c785b26c43b4be54870ee4368" target="_top" xlink:title="This model&#39;s options.">
+<g id="a_node4"><a xlink:href="classrare_1_1models_1_1install_1_1_uninstall_options_model.html#a37544c876f82db5970100fd3604ff3bd" target="_top" xlink:title="This model&#39;s options.">
 <polygon fill="white" stroke="black" points="170.5,-0.5 170.5,-30.5 305.5,-30.5 305.5,-0.5 170.5,-0.5"/>
 <text text-anchor="start" x="178.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.install.Uninstall</text>
 <text text-anchor="middle" x="238" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">OptionsModel.values</text>

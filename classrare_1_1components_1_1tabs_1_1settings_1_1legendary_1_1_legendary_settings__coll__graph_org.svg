@@ -70,7 +70,7 @@
 <text text-anchor="start" x="80.5" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_workers_layout</text>
 <text text-anchor="start" x="80.5" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_worker_spin</text>
 <text text-anchor="start" x="80.5" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ max_workers_info_label</text>
-<text text-anchor="start" x="80.5" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 22 more...</text>
+<text text-anchor="start" x="80.5" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 24 more...</text>
 <polyline fill="none" stroke="black" points="72.5,-256.5 201.5,-256.5 "/>
 <text text-anchor="start" x="80.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setupUi()</text>
 <text text-anchor="start" x="80.5" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ retranslateUi()</text>

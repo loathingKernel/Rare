@@ -1,9 +1,0 @@
-<map id="move_game" name="move_game">
-<area shape="rect" id="node1" title=" " alt="" coords="5,148,99,175"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aea1fe2575697ff132d6bd9629fe6c2df" title=" " alt="" coords="160,5,307,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a849f0844767f52dfa892223327e312f9" title=" " alt="" coords="169,56,297,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a6051424c6fb282ae329b5c3eb42170c0" title=" " alt="" coords="169,107,298,133"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4" title=" " alt="" coords="147,182,320,223"/>
-<area shape="rect" id="node6" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="147,271,320,313"/>
-<area shape="rect" id="node7" href="$namespacerare_1_1utils_1_1misc.html#a3544b31f50ff739b7e8bb4ab751026b7" title=" " alt="" coords="147,361,319,388"/>
-</map>

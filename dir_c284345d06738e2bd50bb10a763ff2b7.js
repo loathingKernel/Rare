@@ -24,6 +24,10 @@ var dir_c284345d06738e2bd50bb10a763ff2b7 =
       [ "RareAppException", "classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html", "classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception" ],
       [ "RareApp", "classrare_1_1widgets_1_1rare__app_1_1_rare_app.html", "classrare_1_1widgets_1_1rare__app_1_1_rare_app" ]
     ] ],
+    [ "selective_widget.py", "selective__widget_8py.html", [
+      [ "TagCheckBox", "classrare_1_1widgets_1_1selective__widget_1_1_tag_check_box.html", "classrare_1_1widgets_1_1selective__widget_1_1_tag_check_box" ],
+      [ "SelectiveWidget", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget.html", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget" ]
+    ] ],
     [ "side_tab.py", "side__tab_8py.html", "side__tab_8py" ],
     [ "sliding_stack.py", "sliding__stack_8py.html", [
       [ "SlidingStackedWidget", "classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html", "classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget" ]

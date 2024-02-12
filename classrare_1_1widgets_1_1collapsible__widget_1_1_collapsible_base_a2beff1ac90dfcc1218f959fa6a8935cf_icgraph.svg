@@ -27,10 +27,10 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_group_box.html#a7a3cc2fcaf6ea0e268348fe8c124f63e" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="0,-78.5 0,-119.5 145,-119.5 145,-78.5 0,-78.5"/>
-<text text-anchor="start" x="8" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.collapsible</text>
-<text text-anchor="start" x="8" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">_widget.CollapsibleGroupBox.</text>
+<g id="a_node2"><a xlink:href="classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame.html#ac6a3a775dcab494d813083180cdcfc06" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="7.5,-78.5 7.5,-119.5 137.5,-119.5 137.5,-78.5 7.5,-78.5"/>
+<text text-anchor="start" x="15.5" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.collapsible</text>
+<text text-anchor="start" x="15.5" y="-96.5" font-family="Helvetica,sans-Serif" font-size="10.00">_widget.CollapsibleFrame.</text>
 <text text-anchor="middle" x="72.5" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">__init__</text>
 </a>
 </g>
@@ -38,16 +38,16 @@
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M171.14,-69.02C161.89,-71.86 151.27,-75.12 140.51,-78.42"/>
+<path fill="none" stroke="midnightblue" d="M171.12,-69.02C161.08,-72.11 149.41,-75.69 137.71,-79.28"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="172.4,-72.29 180.93,-66.01 170.35,-65.6 172.4,-72.29"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame.html#a7c64f06254d170c6b6ba834143752610" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="7.5,-0.5 7.5,-41.5 137.5,-41.5 137.5,-0.5 7.5,-0.5"/>
-<text text-anchor="start" x="15.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.collapsible</text>
-<text text-anchor="start" x="15.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">_widget.CollapsibleFrame.</text>
+<g id="a_node3"><a xlink:href="classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_group_box.html#ac6a3a775dcab494d813083180cdcfc06" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="0,-0.5 0,-41.5 145,-41.5 145,-0.5 0,-0.5"/>
+<text text-anchor="start" x="8" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.collapsible</text>
+<text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">_widget.CollapsibleGroupBox.</text>
 <text text-anchor="middle" x="72.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">__init__</text>
 </a>
 </g>
@@ -55,7 +55,7 @@
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M171.12,-50.98C161.08,-47.89 149.41,-44.31 137.71,-40.72"/>
+<path fill="none" stroke="midnightblue" d="M171.14,-50.98C161.89,-48.14 151.27,-44.88 140.51,-41.58"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="170.35,-54.4 180.93,-53.99 172.4,-47.71 170.35,-54.4"/>
 </g>
 <!-- Node2&#45;&gt;Node2 -->

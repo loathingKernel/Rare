@@ -1,7 +1,9 @@
 <map id="done" name="done">
-<area shape="rect" id="node1" title=" " alt="" coords="16,175,67,202"/>
+<area shape="rect" id="node1" title=" " alt="" coords="16,237,67,263"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aff56b365ef2cf8be4188367da8799d3b" title=" " alt="" coords="124,29,341,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog.html#aff56b365ef2cf8be4188367da8799d3b" title=" " alt="" coords="115,119,351,160"/>
-<area shape="rect" id="node4" href="$classrare_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html#aff56b365ef2cf8be4188367da8799d3b" title=" " alt="" coords="118,209,347,265"/>
-<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#aff56b365ef2cf8be4188367da8799d3b" title=" " alt="" coords="183,313,282,339"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html#aff56b365ef2cf8be4188367da8799d3b" title=" " alt="" coords="125,95,340,136"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog.html#aff56b365ef2cf8be4188367da8799d3b" title=" " alt="" coords="115,184,351,225"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html#ac9021613383cc85e1cf08fba192cd56e" title=" " alt="" coords="116,273,349,315"/>
+<area shape="rect" id="node6" href="$classrare_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html#aff56b365ef2cf8be4188367da8799d3b" title=" " alt="" coords="118,363,347,419"/>
+<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#aff56b365ef2cf8be4188367da8799d3b" title=" " alt="" coords="183,467,282,494"/>
 </map>

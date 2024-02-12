@@ -6,7 +6,7 @@ var searchData=
   ['has_5fdlcs_3',['has_dlcs',['../classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a3d354988ea83f08f931189c011b196c1',1,'rare::shared::rare_core::RareCore']]],
   ['has_5fsaves_4',['has_saves',['../classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a68395f7577f6b1a63a7a62dbf1a4c6d0',1,'rare::shared::rare_core::RareCore']]],
   ['has_5fselected_5',['has_selected',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html#ab8b331e136645ce7f917dbb21df15427',1,'rare::components::tabs::games::integrations::egl_sync_group::EGLSyncListGroup']]],
-  ['has_5fupdate_6',['has_update',['../classrare_1_1models_1_1game_1_1_rare_game.html#a1e914552c775e095849d4c5e6e6840bd',1,'rare::models::game::RareGame']]],
+  ['has_5fupdate_6',['has_update',['../classrare_1_1models_1_1game_1_1_rare_game.html#a1e914552c775e095849d4c5e6e6840bd',1,'rare.models.game.RareGame.has_update()'],['../classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a1e914552c775e095849d4c5e6e6840bd',1,'rare.models.game.RareEosOverlay.has_update()']]],
   ['hasheightforwidth_7',['hasHeightForWidth',['../classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a72c3563fa51a025ef82d48d381c46e6e',1,'rare::widgets::flow_layout::FlowLayout']]],
   ['head_5fbar_8',['head_bar',['../classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a1ca62d022b16aa84c51653f5d6aa84b3',1,'rare::components::tabs::games::GamesTab']]],
   ['head_5fbar_2epy_9',['head_bar.py',['../head__bar_8py.html',1,'']]],

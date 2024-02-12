@@ -1,14 +1,23 @@
 var namespacerare_1_1utils =
 [
     [ "config_helper", "namespacerare_1_1utils_1_1config__helper.html", [
-      [ "add_option", "namespacerare_1_1utils_1_1config__helper.html#a99c25ff311e1e96204ea957508e4d242", null ],
+      [ "add_envvar", "namespacerare_1_1utils_1_1config__helper.html#a48dde44d1dcbe734b5ba8b8e4af70089", null ],
+      [ "add_option", "namespacerare_1_1utils_1_1config__helper.html#af2a90b14bea118a5e9f57e8987d53c50", null ],
+      [ "get_envvar", "namespacerare_1_1utils_1_1config__helper.html#a457d37bbe224d5f64555cb8451ca6b18", null ],
       [ "get_game_envvar", "namespacerare_1_1utils_1_1config__helper.html#adba52728aa5f4bcf6d334895d62155d1", null ],
       [ "get_game_option", "namespacerare_1_1utils_1_1config__helper.html#a1de2f528ca691226c074cdfb7d5c0ab1", null ],
+      [ "get_option", "namespacerare_1_1utils_1_1config__helper.html#a139cd7801341b0c268c4f603c6f5071e", null ],
+      [ "get_prefix", "namespacerare_1_1utils_1_1config__helper.html#ae86f8ba0ef328aec9fa241093ab66fa5", null ],
+      [ "get_prefixes", "namespacerare_1_1utils_1_1config__helper.html#ab37d4f0ed222440ea1fe244c49815682", null ],
+      [ "get_proton_compat_data", "namespacerare_1_1utils_1_1config__helper.html#a8fcef7b96fed9ca4c44d3d5f27f3bbac", null ],
+      [ "get_proton_prefixes", "namespacerare_1_1utils_1_1config__helper.html#a5191969ab5a31a55664bfaf7f7b101b5", null ],
       [ "get_wine_prefix", "namespacerare_1_1utils_1_1config__helper.html#a9351a483811dd33ee8b6a5ba496b9800", null ],
       [ "get_wine_prefixes", "namespacerare_1_1utils_1_1config__helper.html#acfc00916c4223563c9eea5d21135b091", null ],
       [ "init_config_handler", "namespacerare_1_1utils_1_1config__helper.html#a688422411d3c7d2c17a4406f5bb1d7ef", null ],
-      [ "remove_option", "namespacerare_1_1utils_1_1config__helper.html#a87e50ba35630552f07ee5f47fbe64b4a", null ],
-      [ "remove_section", "namespacerare_1_1utils_1_1config__helper.html#a82afa338b29e9daeb329b3f9dcc9500d", null ],
+      [ "prefix_exists", "namespacerare_1_1utils_1_1config__helper.html#ab27d1e4173ece43226f5d20853c1a2b3", null ],
+      [ "remove_envvar", "namespacerare_1_1utils_1_1config__helper.html#a16e3dc3b4659116dec694e9463110d8c", null ],
+      [ "remove_option", "namespacerare_1_1utils_1_1config__helper.html#a9ec9617d16f101878b16aa325a3231f1", null ],
+      [ "remove_section", "namespacerare_1_1utils_1_1config__helper.html#a5e4ef4c70ef2e548d6623014935ef0c4", null ],
       [ "save_config", "namespacerare_1_1utils_1_1config__helper.html#a9c8e0fb7cc40aeb2668c9df41056429b", null ]
     ] ],
     [ "extra_widgets", "namespacerare_1_1utils_1_1extra__widgets.html", "namespacerare_1_1utils_1_1extra__widgets" ],

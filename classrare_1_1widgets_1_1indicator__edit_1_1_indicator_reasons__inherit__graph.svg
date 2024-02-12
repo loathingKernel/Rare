@@ -25,7 +25,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_path_edit_reasons.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_path_edit_reasons.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-112.5 116,-112.5 116,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="58" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">MovePathEditReasons</text>
 <polyline fill="none" stroke="black" points="0,-93.5 116,-93.5 "/>

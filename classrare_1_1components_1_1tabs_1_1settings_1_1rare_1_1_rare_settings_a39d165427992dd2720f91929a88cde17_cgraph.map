@@ -1,5 +1,5 @@
 <map id="__init__" name="__init__">
-<area shape="rect" id="node1" title=" " alt="" coords="18,1675,85,1702"/>
+<area shape="rect" id="node1" title=" " alt="" coords="18,1631,85,1658"/>
 <area shape="rect" id="node2" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about_1_1_ui___about.html#aecf22c90797efb0520724683a5834d7b" title=" " alt="" coords="173,29,420,71"/>
 <area shape="rect" id="node3" href="$classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_ui___browser_login.html#a5c4fd2cbf3695d7a20547337b96eb180" title=" " alt="" coords="169,119,424,160"/>
 <area shape="rect" id="node4" href="$classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__settings__widget_1_1_ui___cloud_settings_widget.html#abff2efe28cb33c793e261921b27ec3ac" title=" " alt="" coords="178,209,414,265"/>
@@ -24,20 +24,19 @@
 <area shape="rect" id="node23" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html#ab37ed192689b991bb7d59164be83aa75" title=" " alt="" coords="176,1936,416,1977"/>
 <area shape="rect" id="node24" href="$classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog_1_1_ui___login_dialog.html#ac985d4ebdcee90aefb33fc5c18b176ac" title=" " alt="" coords="179,2025,414,2067"/>
 <area shape="rect" id="node25" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#a7547d9286fbf1bdd60e08571b1daa0d0" title=" " alt="" coords="145,2115,448,2156"/>
-<area shape="rect" id="node26" href="$classrare_1_1ui_1_1utils_1_1pathedit_1_1_ui___path_edit.html#a1f4a695e952c318cdac652c7a122e4d2" title=" " alt="" coords="222,2204,371,2245"/>
-<area shape="rect" id="node27" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1proton_1_1_ui___proton_settings.html#ad7a080267ae6a7b35e584a67c7b3b37a" title=" " alt="" coords="171,2293,422,2335"/>
-<area shape="rect" id="node28" href="$classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__base__widget_1_1_ui___queue_base_widget.html#af8b961b59c8ed71b05df5fda70188c4b" title=" " alt="" coords="156,2383,437,2424"/>
-<area shape="rect" id="node29" href="$classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__info__widget_1_1_ui___queue_info_widget.html#aefcc8d8829322ca67109f1c40df7177b" title=" " alt="" coords="163,2472,430,2513"/>
-<area shape="rect" id="node30" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__widget_1_1_icon_widget.html#a70938cd70d473d7134d3d1db007bd152" title=" " alt="" coords="165,2561,428,2603"/>
-<area shape="rect" id="node31" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget.html#a70938cd70d473d7134d3d1db007bd152" title=" " alt="" coords="170,2651,422,2692"/>
-<area shape="rect" id="node35" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#a1496ca97606f1ac08a3039fc103abcbe" title=" " alt="" coords="178,2740,414,2781"/>
-<area shape="rect" id="node36" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_ui___r_p_c_settings.html#ae804bceb77297720146efef68a8c9e65" title=" " alt="" coords="156,2829,436,2871"/>
-<area shape="rect" id="node37" href="$classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1shop__game__info_1_1_ui__shop__info.html#a7be1415526cc2f8302a71d09e0c8160d" title=" " alt="" coords="185,2919,408,2960"/>
-<area shape="rect" id="node38" href="$classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1store_1_1_ui___shop_widget.html#a35d304ff273c9f22119e228184b42204" title=" " alt="" coords="183,3008,410,3049"/>
-<area shape="rect" id="node39" href="$classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist.html#add087138cd9e2c27080e6c425e49a6a6" title=" " alt="" coords="176,3097,417,3139"/>
-<area shape="rect" id="node40" href="$classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html#aeb4325cdc713f45c320d04f6b18d7ea0" title=" " alt="" coords="177,3187,416,3228"/>
-<area shape="rect" id="node41" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_ui___wrapper_settings.html#a78d0d87c8aca5d009df24722ed80250e" title=" " alt="" coords="142,3276,450,3317"/>
-<area shape="rect" id="node32" href="$namespacerare_1_1utils_1_1misc.html#a5b215592bbad86ea6d2c3b46280baae8" title=" " alt="" coords="583,2575,712,2602"/>
-<area shape="rect" id="node33" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__widget_1_1_icon_widget.html#aaaa372d42348855de8b9f6f8ec6821fa" title=" " alt="" coords="508,2651,788,2692"/>
-<area shape="rect" id="node34" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget.html#aaaa372d42348855de8b9f6f8ec6821fa" title=" " alt="" coords="512,2740,783,2781"/>
+<area shape="rect" id="node26" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1proton_1_1_ui___proton_settings.html#ad7a080267ae6a7b35e584a67c7b3b37a" title=" " alt="" coords="171,2204,422,2245"/>
+<area shape="rect" id="node27" href="$classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__base__widget_1_1_ui___queue_base_widget.html#af8b961b59c8ed71b05df5fda70188c4b" title=" " alt="" coords="156,2293,437,2335"/>
+<area shape="rect" id="node28" href="$classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__info__widget_1_1_ui___queue_info_widget.html#aefcc8d8829322ca67109f1c40df7177b" title=" " alt="" coords="163,2383,430,2424"/>
+<area shape="rect" id="node29" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__widget_1_1_icon_widget.html#a70938cd70d473d7134d3d1db007bd152" title=" " alt="" coords="165,2472,428,2513"/>
+<area shape="rect" id="node30" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget.html#a70938cd70d473d7134d3d1db007bd152" title=" " alt="" coords="170,2561,422,2603"/>
+<area shape="rect" id="node34" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#a1496ca97606f1ac08a3039fc103abcbe" title=" " alt="" coords="178,2651,414,2692"/>
+<area shape="rect" id="node35" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_ui___r_p_c_settings.html#ae804bceb77297720146efef68a8c9e65" title=" " alt="" coords="156,2740,436,2781"/>
+<area shape="rect" id="node36" href="$classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1shop__game__info_1_1_ui__shop__info.html#a7be1415526cc2f8302a71d09e0c8160d" title=" " alt="" coords="185,2829,408,2871"/>
+<area shape="rect" id="node37" href="$classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1store_1_1_ui___shop_widget.html#a35d304ff273c9f22119e228184b42204" title=" " alt="" coords="183,2919,410,2960"/>
+<area shape="rect" id="node38" href="$classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist.html#add087138cd9e2c27080e6c425e49a6a6" title=" " alt="" coords="176,3008,417,3049"/>
+<area shape="rect" id="node39" href="$classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html#aeb4325cdc713f45c320d04f6b18d7ea0" title=" " alt="" coords="177,3097,416,3139"/>
+<area shape="rect" id="node40" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_ui___wrapper_settings.html#a78d0d87c8aca5d009df24722ed80250e" title=" " alt="" coords="142,3187,450,3228"/>
+<area shape="rect" id="node31" href="$namespacerare_1_1utils_1_1misc.html#a5b215592bbad86ea6d2c3b46280baae8" title=" " alt="" coords="583,2486,712,2513"/>
+<area shape="rect" id="node32" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__widget_1_1_icon_widget.html#aaaa372d42348855de8b9f6f8ec6821fa" title=" " alt="" coords="508,2561,788,2603"/>
+<area shape="rect" id="node33" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget.html#aaaa372d42348855de8b9f6f8ec6821fa" title=" " alt="" coords="512,2651,783,2692"/>
 </map>

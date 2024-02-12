@@ -17,6 +17,7 @@ var classrare_1_1models_1_1base__game_1_1_rare_game_base =
     [ "is_overlay", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#ab245637602627f5c8ab39b6042fb8d6d", null ],
     [ "is_win32", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a8e715359c3ecbc7c4431eab18f52b604", null ],
     [ "platforms", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a030a686885e9e90bfbcd7f7f61fa318b", null ],
+    [ "sdl_name", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#ae141cc89854309f3f2298a616b09b12b", null ],
     [ "set_installed", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a590836cea8227c1cb3994dabf184ecab", null ],
     [ "state", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a6e0a6ad2fe4af57f9f196320953d9bdc", null ],
     [ "state", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#aa65a05308c84e8a8226801ab7846f6f2", null ],

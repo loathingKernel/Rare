@@ -74,8 +74,8 @@
 <text text-anchor="start" x="133.5" y="-142" font-family="Helvetica,sans-Serif" font-size="10.00">+ egl_sync_widget</text>
 <text text-anchor="start" x="133.5" y="-131" font-family="Helvetica,sans-Serif" font-size="10.00">+ egl_sync_index</text>
 <text text-anchor="start" x="133.5" y="-120" font-family="Helvetica,sans-Serif" font-size="10.00">+ eos_ubisoft</text>
-<text text-anchor="start" x="133.5" y="-109" font-family="Helvetica,sans-Serif" font-size="10.00">+ ubisoft_group</text>
-<text text-anchor="start" x="133.5" y="-98" font-family="Helvetica,sans-Serif" font-size="10.00">+ eos_group</text>
+<text text-anchor="start" x="133.5" y="-109" font-family="Helvetica,sans-Serif" font-size="10.00">+ eos_group</text>
+<text text-anchor="start" x="133.5" y="-98" font-family="Helvetica,sans-Serif" font-size="10.00">+ ubisoft_group</text>
 <text text-anchor="start" x="133.5" y="-87" font-family="Helvetica,sans-Serif" font-size="10.00">+ eos_ubisoft_index</text>
 <polyline fill="none" stroke="black" points="125.5,-80 235.5,-80 "/>
 <text text-anchor="start" x="133.5" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>

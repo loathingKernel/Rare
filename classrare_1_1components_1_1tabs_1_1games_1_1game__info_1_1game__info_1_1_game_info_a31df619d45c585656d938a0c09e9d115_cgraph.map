@@ -1,8 +1,8 @@
 <map id="update_game" name="update_game">
-<area shape="rect" id="node1" title=" " alt="" coords="5,121,105,148"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aea1fe2575697ff132d6bd9629fe6c2df" title=" " alt="" coords="199,5,345,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a48e6e062bb4c90c9cc95fa4fbfa1a730" title=" " alt="" coords="199,56,345,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="161,107,383,163"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="212,187,332,213"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1move__game_1_1_move_game_pop_up.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="153,237,391,293"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,115,105,141"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aea1fe2575697ff132d6bd9629fe6c2df" title=" " alt="" coords="197,5,344,32"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a48e6e062bb4c90c9cc95fa4fbfa1a730" title=" " alt="" coords="198,56,343,83"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="153,107,388,149"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="159,172,382,228"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="211,252,331,279"/>
 </map>

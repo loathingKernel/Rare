@@ -1,7 +1,8 @@
 <map id="CollapsibleFrame" name="CollapsibleFrame">
-<area shape="rect" id="node1" title=" " alt="" coords="52,403,177,583"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_advanced.html" title=" " alt="" coords="39,631,190,708"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,204,75,281"/>
-<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base.html" title="References:" alt="" coords="99,131,280,355"/>
-<area shape="rect" id="node4" title=" " alt="" coords="161,5,218,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="105,403,230,612"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_advanced.html" title=" " alt="" coords="5,682,156,774"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_selective.html" title=" " alt="" coords="181,660,327,796"/>
+<area shape="rect" id="node2" title=" " alt="" coords="58,204,127,281"/>
+<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base.html" title="References:" alt="" coords="151,131,333,355"/>
+<area shape="rect" id="node4" title=" " alt="" coords="213,5,271,83"/>
 </map>

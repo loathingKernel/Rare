@@ -19,11 +19,12 @@ var searchData=
   ['initargs_16',['InitArgs',['../classrare_1_1launcher_1_1lgd__helper_1_1_init_args.html',1,'rare::launcher::lgd_helper']]],
   ['installdialog_17',['InstallDialog',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html',1,'rare::components::dialogs::install_dialog']]],
   ['installdialogadvanced_18',['InstallDialogAdvanced',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_advanced.html',1,'rare::components::dialogs::install_dialog']]],
-  ['installdownloadmodel_19',['InstallDownloadModel',['../classrare_1_1models_1_1install_1_1_install_download_model.html',1,'rare::models::install']]],
-  ['installedgamedlcwidget_20',['InstalledGameDlcWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_installed_game_dlc_widget.html',1,'rare::components::tabs::games::game_info::game_dlc']]],
-  ['installinfoworker_21',['InstallInfoWorker',['../classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker.html',1,'rare::shared::workers::install_info']]],
-  ['installoptionsmodel_22',['InstallOptionsModel',['../classrare_1_1models_1_1install_1_1_install_options_model.html',1,'rare::models::install']]],
-  ['installqueueitemmodel_23',['InstallQueueItemModel',['../classrare_1_1models_1_1install_1_1_install_queue_item_model.html',1,'rare::models::install']]],
-  ['integrationstabs_24',['IntegrationsTabs',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_tabs.html',1,'rare::components::tabs::games::integrations']]],
-  ['integrationswidget_25',['IntegrationsWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_widget.html',1,'rare::components::tabs::games::integrations']]]
+  ['installdialogselective_19',['InstallDialogSelective',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_selective.html',1,'rare::components::dialogs::install_dialog']]],
+  ['installdownloadmodel_20',['InstallDownloadModel',['../classrare_1_1models_1_1install_1_1_install_download_model.html',1,'rare::models::install']]],
+  ['installedgamedlcwidget_21',['InstalledGameDlcWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_installed_game_dlc_widget.html',1,'rare::components::tabs::games::game_info::game_dlc']]],
+  ['installinfoworker_22',['InstallInfoWorker',['../classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker.html',1,'rare::shared::workers::install_info']]],
+  ['installoptionsmodel_23',['InstallOptionsModel',['../classrare_1_1models_1_1install_1_1_install_options_model.html',1,'rare::models::install']]],
+  ['installqueueitemmodel_24',['InstallQueueItemModel',['../classrare_1_1models_1_1install_1_1_install_queue_item_model.html',1,'rare::models::install']]],
+  ['integrationstabs_25',['IntegrationsTabs',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_tabs.html',1,'rare::components::tabs::games::integrations']]],
+  ['integrationswidget_26',['IntegrationsWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_widget.html',1,'rare::components::tabs::games::integrations']]]
 ];

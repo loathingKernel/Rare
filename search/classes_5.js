@@ -10,9 +10,11 @@ var searchData=
   ['eglsynclistitem_7',['EGLSyncListItem',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html',1,'rare::components::tabs::games::integrations::egl_sync_group']]],
   ['eglsyncworker_8',['EGLSyncWorker',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker.html',1,'rare::components::tabs::games::integrations::egl_sync_group']]],
   ['elidelabel_9',['ElideLabel',['../classrare_1_1widgets_1_1elide__label_1_1_elide_label.html',1,'rare::widgets::elide_label']]],
-  ['envvars_10',['EnvVars',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html',1,'rare::components::tabs::settings::widgets::env_vars']]],
-  ['envvarstablemodel_11',['EnvVarsTableModel',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html',1,'rare::components::tabs::settings::widgets::env_vars_model']]],
-  ['eosgroup_12',['EOSGroup',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_e_o_s_group.html',1,'rare::components::tabs::games::integrations::eos_group']]],
-  ['errormodel_13',['ErrorModel',['../classrare_1_1models_1_1launcher_1_1_error_model.html',1,'rare::models::launcher']]],
-  ['exitcodes_14',['ExitCodes',['../classrare_1_1utils_1_1misc_1_1_exit_codes.html',1,'rare::utils::misc']]]
+  ['entitlementsworker_10',['EntitlementsWorker',['../classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html',1,'rare::shared::workers::fetch']]],
+  ['envvars_11',['EnvVars',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html',1,'rare::components::tabs::settings::widgets::env_vars']]],
+  ['envvarstablemodel_12',['EnvVarsTableModel',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html',1,'rare::components::tabs::settings::widgets::env_vars_model']]],
+  ['eosgroup_13',['EosGroup',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_group.html',1,'rare::components::tabs::games::integrations::eos_group']]],
+  ['eosprefixwidget_14',['EosPrefixWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html',1,'rare::components::tabs::games::integrations::eos_group']]],
+  ['errormodel_15',['ErrorModel',['../classrare_1_1models_1_1launcher_1_1_error_model.html',1,'rare::models::launcher']]],
+  ['exitcodes_16',['ExitCodes',['../classrare_1_1utils_1_1misc_1_1_exit_codes.html',1,'rare::utils::misc']]]
 ];

@@ -8,5 +8,5 @@ var searchData=
   ['misc_2epy_5',['misc.py',['../misc_8py.html',1,'']]],
   ['monkeys_2epy_6',['monkeys.py',['../monkeys_8py.html',1,'']]],
   ['move_2epy_7',['move.py',['../move_8py.html',1,'']]],
-  ['move_5fgame_2epy_8',['move_game.py',['../move__game_8py.html',1,'']]]
+  ['move_5fdialog_2epy_8',['move_dialog.py',['../move__dialog_8py.html',1,'']]]
 ];
