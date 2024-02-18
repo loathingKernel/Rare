@@ -1,4 +1,11 @@
 <map id="__init__" name="__init__">
-<area shape="rect" id="node1" title=" " alt="" coords="6,37,73,63"/>
-<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base.html#a2beff1ac90dfcc1218f959fa6a8935cf" title=" " alt="" coords="121,29,319,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="16,126,83,153"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base.html#a2beff1ac90dfcc1218f959fa6a8935cf" title=" " alt="" coords="183,29,381,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_add_dialog.html#a3dd40c25e966f51eb7c0de021da7eb71" title=" " alt="" coords="131,119,433,160"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_edit_dialog.html#a4bff614384195e3884b43a4c3e09d0a6" title=" " alt="" coords="131,208,433,249"/>
+<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a99549fe58f09b6dcccd692972d892844" title=" " alt="" coords="481,29,659,71"/>
+<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html#abf7d3ae733a1864b1c688c897944ff64" title=" " alt="" coords="485,119,655,160"/>
+<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1dialogs_1_1_test_dialog.html#abf7d3ae733a1864b1c688c897944ff64" title=" " alt="" coords="487,208,653,249"/>
+<area shape="rect" id="node6" href="$namespacerare_1_1widgets_1_1dialogs.html#ae6891eacdd099275aea694a85be730a5" title=" " alt="" coords="707,164,880,205"/>
+<area shape="rect" id="node9" href="$namespacerare_1_1widgets_1_1dialogs.html#a8eece5e18d8d7772f13ed279e91627ac" title=" " alt="" coords="485,297,655,339"/>
 </map>

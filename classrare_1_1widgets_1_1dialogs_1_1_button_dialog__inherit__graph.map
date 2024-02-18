@@ -1,11 +1,13 @@
 <map id="ButtonDialog" name="ButtonDialog">
-<area shape="rect" id="node1" title=" " alt="" coords="241,329,381,641"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog.html" title=" " alt="" coords="5,697,136,847"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html" title=" " alt="" coords="159,689,302,855"/>
-<area shape="rect" id="node6" href="$classrare_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html" title=" " alt="" coords="326,697,455,847"/>
-<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html" title=" " alt="" coords="480,689,608,855"/>
-<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html" title=" " alt="" coords="245,131,376,281"/>
-<area shape="rect" id="node3" title=" " alt="" coords="277,5,345,83"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html" title=" " alt="" coords="361,903,540,1273"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html" title=" " alt="" coords="564,932,713,1244"/>
+<area shape="rect" id="node1" title=" " alt="" coords="313,329,453,641"/>
+<area shape="rect" id="node4" href="$classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html" title=" " alt="" coords="5,704,135,855"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog.html" title=" " alt="" coords="158,704,289,855"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html" title=" " alt="" coords="312,697,455,862"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_edit_dialog.html" title=" " alt="" coords="479,689,608,869"/>
+<area shape="rect" id="node9" href="$classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html" title=" " alt="" coords="646,697,774,862"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html" title=" " alt="" coords="318,131,449,281"/>
+<area shape="rect" id="node3" title=" " alt="" coords="349,5,417,83"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_add_dialog.html" title=" " alt="" coords="467,1057,596,1149"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html" title=" " alt="" coords="621,917,799,1288"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html" title=" " alt="" coords="823,947,973,1259"/>
 </map>

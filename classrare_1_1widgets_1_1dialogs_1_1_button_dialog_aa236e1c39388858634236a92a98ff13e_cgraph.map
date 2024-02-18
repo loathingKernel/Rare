@@ -1,9 +1,10 @@
 <map id="reject" name="reject">
-<area shape="rect" id="node1" title=" " alt="" coords="15,277,70,303"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#ad19ad97d4c365a238e29bf69deae4636" title=" " alt="" coords="127,29,348,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html#ad19ad97d4c365a238e29bf69deae4636" title=" " alt="" coords="139,119,336,175"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog.html#ad19ad97d4c365a238e29bf69deae4636" title=" " alt="" coords="118,224,358,265"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html#ad19ad97d4c365a238e29bf69deae4636" title=" " alt="" coords="119,313,356,355"/>
-<area shape="rect" id="node6" href="$classrare_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html#ad19ad97d4c365a238e29bf69deae4636" title=" " alt="" coords="121,403,354,459"/>
-<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#ad19ad97d4c365a238e29bf69deae4636" title=" " alt="" coords="186,507,289,534"/>
+<area shape="rect" id="node1" title=" " alt="" coords="21,336,76,363"/>
+<area shape="rect" id="node2" href="$classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html#ad19ad97d4c365a238e29bf69deae4636" title=" " alt="" coords="176,29,374,85"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#ad19ad97d4c365a238e29bf69deae4636" title=" " alt="" coords="164,134,386,175"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html#ad19ad97d4c365a238e29bf69deae4636" title=" " alt="" coords="176,224,374,280"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog.html#ad19ad97d4c365a238e29bf69deae4636" title=" " alt="" coords="155,329,395,370"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html#ad19ad97d4c365a238e29bf69deae4636" title=" " alt="" coords="156,418,394,459"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_edit_dialog.html#ad19ad97d4c365a238e29bf69deae4636" title=" " alt="" coords="124,507,426,549"/>
+<area shape="rect" id="node8" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#ad19ad97d4c365a238e29bf69deae4636" title=" " alt="" coords="224,597,326,624"/>
 </map>

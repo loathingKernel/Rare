@@ -4,7 +4,7 @@ var searchData=
   ['maintabbar_1',['MainTabBar',['../classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_main_tab_bar.html',1,'rare::components::tabs::tab_widgets']]],
   ['maintabwidget_2',['MainTabWidget',['../classrare_1_1components_1_1tabs_1_1_main_tab_widget.html',1,'rare::components::tabs']]],
   ['mainwindow_3',['MainWindow',['../classrare_1_1components_1_1main__window_1_1_main_window.html',1,'rare::components::main_window']]],
-  ['mangohudsettings_4',['MangoHudSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1mangohud_1_1_mango_hud_settings.html',1,'rare::components::tabs::settings::widgets::mangohud']]],
+  ['mangohudsettings_4',['MangoHudSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings.html',1,'rare::components::tabs::settings::widgets::overlay']]],
   ['metadata_5',['Metadata',['../classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html',1,'rare::models::game::RareGame']]],
   ['movedialog_6',['MoveDialog',['../classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html',1,'rare::components::dialogs::move_dialog']]],
   ['movedirection_7',['MoveDirection',['../classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group_1_1_move_direction.html',1,'rare::components::tabs::downloads::groups::QueueGroup']]],

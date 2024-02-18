@@ -1,8 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,100,57"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1_main_tab_widget.html" title=" " alt="" coords="148,5,260,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1side__tab_1_1_side_tab_widget.html" title=" " alt="" coords="149,56,259,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html" title=" " alt="" coords="313,5,421,32"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_tabs.html" title=" " alt="" coords="308,56,427,83"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1settings_1_1_settings_tab.html" title=" " alt="" coords="321,107,413,133"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,84,83"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit.html" title=" " alt="" coords="132,31,245,57"/>
+<area shape="rect" id="node5" href="$classrare_1_1utils_1_1extra__widgets_1_1_button_line_edit.html" title=" " alt="" coords="135,81,242,108"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_number_input.html" title=" " alt="" coords="293,5,435,32"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_string_input.html" title=" " alt="" coords="299,56,429,83"/>
 </map>

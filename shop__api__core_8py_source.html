@@ -191,7 +191,7 @@ $(document).ready(function(){initNavTree('shop__api__core_8py_source.html',''); 
 <div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>        <span class="keywordflow">try</span>:</div>
 <div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>            handle_func(data[<span class="stringliteral">&quot;data&quot;</span>][<span class="stringliteral">&quot;Catalog&quot;</span>][<span class="stringliteral">&quot;searchStore&quot;</span>][<span class="stringliteral">&quot;elements&quot;</span>])</div>
 <div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>        <span class="keywordflow">except</span> KeyError <span class="keyword">as</span> e:</div>
-<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>            logger.error(str(e))</div>
+<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>            logger.error(<a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(e))</div>
 <div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>            handle_func([])</div>
 <div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>        <span class="keywordflow">except</span> Exception <span class="keyword">as</span> e:</div>
 <div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>            logger.error(f<span class="stringliteral">&quot;Search Api request failed: {e}&quot;</span>)</div>
@@ -204,10 +204,10 @@ $(document).ready(function(){initNavTree('shop__api__core_8py_source.html',''); 
 <div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>            <span class="keywordflow">return</span></div>
 <div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>        self.<a class="code hl_variable" href="classrare_1_1components_1_1tabs_1_1store_1_1shop__api__core_1_1_shop_api_core.html#a62bb05aaff3f747d0628d38872d75ec8">browse_active</a>browse_active = <span class="keyword">True</span></div>
 <div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>        url = <span class="stringliteral">&quot;https://www.epicgames.com/graphql?operationName=searchStoreQuery&amp;variables={}&amp;extensions={}&quot;</span></div>
-<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>        variables = urllib.parse.quote_plus(str(</div>
+<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>        variables = urllib.parse.quote_plus(<a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(</div>
 <div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>            dict(browse_model.__dict__))</div>
 <div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>        )</div>
-<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>        extensions = urllib.parse.quote_plus(str(</div>
+<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>        extensions = urllib.parse.quote_plus(<a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(</div>
 <div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>            dict(</div>
 <div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>                persistedQuery=dict(</div>
 <div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span>                    version=1,</div>
@@ -244,7 +244,7 @@ $(document).ready(function(){initNavTree('shop__api__core_8py_source.html',''); 
 <div class="line"><a id="l00155" name="l00155"></a><span class="lineno">  155</span>            <span class="keywordflow">try</span>:</div>
 <div class="line"><a id="l00156" name="l00156"></a><span class="lineno">  156</span>                handle_func(data[<span class="stringliteral">&quot;data&quot;</span>][<span class="stringliteral">&quot;Catalog&quot;</span>][<span class="stringliteral">&quot;searchStore&quot;</span>][<span class="stringliteral">&quot;elements&quot;</span>])</div>
 <div class="line"><a id="l00157" name="l00157"></a><span class="lineno">  157</span>            <span class="keywordflow">except</span> KeyError <span class="keyword">as</span> e:</div>
-<div class="line"><a id="l00158" name="l00158"></a><span class="lineno">  158</span>                logger.error(str(e))</div>
+<div class="line"><a id="l00158" name="l00158"></a><span class="lineno">  158</span>                logger.error(<a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(e))</div>
 <div class="line"><a id="l00159" name="l00159"></a><span class="lineno">  159</span>                handle_func([])</div>
 <div class="line"><a id="l00160" name="l00160"></a><span class="lineno">  160</span>            <span class="keywordflow">except</span> Exception <span class="keyword">as</span> e:</div>
 <div class="line"><a id="l00161" name="l00161"></a><span class="lineno">  161</span>                logger.error(f<span class="stringliteral">&quot;Browse games Api request failed: {e}&quot;</span>)</div>
@@ -262,7 +262,7 @@ $(document).ready(function(){initNavTree('shop__api__core_8py_source.html',''); 
 <div class="line"><a id="l00173" name="l00173"></a><span class="lineno">  173</span>        <span class="keywordflow">try</span>:</div>
 <div class="line"><a id="l00174" name="l00174"></a><span class="lineno">  174</span>            handle_func(data)</div>
 <div class="line"><a id="l00175" name="l00175"></a><span class="lineno">  175</span>        <span class="keywordflow">except</span> Exception <span class="keyword">as</span> e:</div>
-<div class="line"><a id="l00176" name="l00176"></a><span class="lineno">  176</span>            logger.error(str(e))</div>
+<div class="line"><a id="l00176" name="l00176"></a><span class="lineno">  176</span>            logger.error(<a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(e))</div>
 <div class="line"><a id="l00177" name="l00177"></a><span class="lineno">  177</span>            handle_func({})</div>
 <div class="line"><a id="l00178" name="l00178"></a><span class="lineno">  178</span> </div>
 <div class="line"><a id="l00179" name="l00179"></a><span class="lineno">  179</span>    <span class="comment"># needs a captcha</span></div>
@@ -290,7 +290,7 @@ $(document).ready(function(){initNavTree('shop__api__core_8py_source.html',''); 
 <div class="line"><a id="l00201" name="l00201"></a><span class="lineno">  201</span>            <span class="keywordflow">else</span>:</div>
 <div class="line"><a id="l00202" name="l00202"></a><span class="lineno">  202</span>                handle_func(<span class="keyword">False</span>)</div>
 <div class="line"><a id="l00203" name="l00203"></a><span class="lineno">  203</span>        <span class="keywordflow">except</span> Exception <span class="keyword">as</span> e:</div>
-<div class="line"><a id="l00204" name="l00204"></a><span class="lineno">  204</span>            logger.error(str(e))</div>
+<div class="line"><a id="l00204" name="l00204"></a><span class="lineno">  204</span>            logger.error(<a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(e))</div>
 <div class="line"><a id="l00205" name="l00205"></a><span class="lineno">  205</span>            handle_func(<span class="keyword">False</span>)</div>
 <div class="line"><a id="l00206" name="l00206"></a><span class="lineno">  206</span>        self.<a class="code hl_variable" href="classrare_1_1components_1_1tabs_1_1store_1_1shop__api__core_1_1_shop_api_core.html#a61713b18d9d5ef0327f5515808ae52d3">update_wishlist</a>update_wishlist.emit()</div>
 <div class="line"><a id="l00207" name="l00207"></a><span class="lineno">  207</span> </div>
@@ -317,7 +317,7 @@ $(document).ready(function(){initNavTree('shop__api__core_8py_source.html',''); 
 <div class="line"><a id="l00228" name="l00228"></a><span class="lineno">  228</span>            <span class="keywordflow">else</span>:</div>
 <div class="line"><a id="l00229" name="l00229"></a><span class="lineno">  229</span>                handle_func(<span class="keyword">False</span>)</div>
 <div class="line"><a id="l00230" name="l00230"></a><span class="lineno">  230</span>        <span class="keywordflow">except</span> Exception <span class="keyword">as</span> e:</div>
-<div class="line"><a id="l00231" name="l00231"></a><span class="lineno">  231</span>            logger.error(str(e))</div>
+<div class="line"><a id="l00231" name="l00231"></a><span class="lineno">  231</span>            logger.error(<a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(e))</div>
 <div class="line"><a id="l00232" name="l00232"></a><span class="lineno">  232</span>            handle_func(<span class="keyword">False</span>)</div>
 <div class="line"><a id="l00233" name="l00233"></a><span class="lineno">  233</span>        self.<a class="code hl_variable" href="classrare_1_1components_1_1tabs_1_1store_1_1shop__api__core_1_1_shop_api_core.html#a61713b18d9d5ef0327f5515808ae52d3">update_wishlist</a>update_wishlist.emit()</div>
 <div class="ttc" id="aclassrare_1_1components_1_1tabs_1_1store_1_1shop__api__core_1_1_shop_api_core_html"><div class="ttname"><a href="classrare_1_1components_1_1tabs_1_1store_1_1shop__api__core_1_1_shop_api_core.html">rare.components.tabs.store.shop_api_core.ShopApiCore</a></div><div class="ttdef"><b>Definition:</b> <a href="shop__api__core_8py_source.html#l00019">shop_api_core.py:19</a></div></div>
@@ -346,6 +346,7 @@ $(document).ready(function(){initNavTree('shop__api__core_8py_source.html',''); 
 <div class="ttc" id="aclassrare_1_1utils_1_1qt__requests_1_1_qt_requests_html"><div class="ttname"><a href="classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html">rare.utils.qt_requests.QtRequests</a></div><div class="ttdef"><b>Definition:</b> <a href="qt__requests_8py_source.html#l00027">qt_requests.py:27</a></div></div>
 <div class="ttc" id="anamespacerare_1_1components_1_1tabs_1_1store_1_1constants_html"><div class="ttname"><a href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html">rare.components.tabs.store.constants</a></div><div class="ttdef"><b>Definition:</b> <a href="constants_8py_source.html#l00001">constants.py:1</a></div></div>
 <div class="ttc" id="anamespacerare_1_1components_1_1tabs_1_1store_1_1shop__models_html"><div class="ttname"><a href="namespacerare_1_1components_1_1tabs_1_1store_1_1shop__models.html">rare.components.tabs.store.shop_models</a></div><div class="ttdef"><b>Definition:</b> <a href="shop__models_8py_source.html#l00001">shop_models.py:1</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_1_1compat_1_1wine_html_a4b99ff73a8a869319570237b5c57ab03"><div class="ttname"><a href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">rare.utils.compat.wine.str</a></div><div class="ttdeci">str</div><div class="ttdef"><b>Definition:</b> <a href="utils_2compat_2wine_8py_source.html#l00012">wine.py:12</a></div></div>
 <div class="ttc" id="anamespacerare_1_1utils_1_1qt__requests_html"><div class="ttname"><a href="namespacerare_1_1utils_1_1qt__requests.html">rare.utils.qt_requests</a></div><div class="ttdef"><b>Definition:</b> <a href="qt__requests_8py_source.html#l00001">qt_requests.py:1</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->

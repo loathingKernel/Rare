@@ -1,5 +1,25 @@
 var annotated_dup =
 [
+    [ "launcher", "namespacelauncher.html", [
+      [ "cloud_sync_dialog", "namespacelauncher_1_1cloud__sync__dialog.html", [
+        [ "CloudSyncDialog", "classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html", "classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog" ],
+        [ "CloudSyncDialogResult", "classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog_result.html", null ]
+      ] ],
+      [ "console_dialog", "namespacelauncher_1_1console__dialog.html", [
+        [ "ConsoleDialog", "classlauncher_1_1console__dialog_1_1_console_dialog.html", "classlauncher_1_1console__dialog_1_1_console_dialog" ],
+        [ "ConsoleEdit", "classlauncher_1_1console__dialog_1_1_console_edit.html", "classlauncher_1_1console__dialog_1_1_console_edit" ],
+        [ "ConsoleEnv", "classlauncher_1_1console__dialog_1_1_console_env.html", "classlauncher_1_1console__dialog_1_1_console_env" ]
+      ] ],
+      [ "lgd_helper", "namespacelauncher_1_1lgd__helper.html", [
+        [ "GameArgsError", "classlauncher_1_1lgd__helper_1_1_game_args_error.html", null ],
+        [ "InitArgs", "classlauncher_1_1lgd__helper_1_1_init_args.html", "classlauncher_1_1lgd__helper_1_1_init_args" ],
+        [ "LaunchArgs", "classlauncher_1_1lgd__helper_1_1_launch_args.html", "classlauncher_1_1lgd__helper_1_1_launch_args" ]
+      ] ],
+      [ "PreLaunchThread", "classlauncher_1_1_pre_launch_thread.html", "classlauncher_1_1_pre_launch_thread" ],
+      [ "RareLauncher", "classlauncher_1_1_rare_launcher.html", "classlauncher_1_1_rare_launcher" ],
+      [ "RareLauncherException", "classlauncher_1_1_rare_launcher_exception.html", "classlauncher_1_1_rare_launcher_exception" ],
+      [ "SyncCheckWorker", "classlauncher_1_1_sync_check_worker.html", "classlauncher_1_1_sync_check_worker" ]
+    ] ],
     [ "rare", "namespacerare.html", [
       [ "components", "namespacerare_1_1components.html", [
         [ "dialogs", "namespacerare_1_1components_1_1dialogs.html", [
@@ -75,7 +95,14 @@ var annotated_dup =
                 [ "GameInfo", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info" ]
               ] ],
               [ "game_settings", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings.html", [
-                [ "GameSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings" ]
+                [ "GameDxvkSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_dxvk_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_dxvk_settings" ],
+                [ "GameEnvVars", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_env_vars.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_env_vars" ],
+                [ "GameLaunchSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_launch_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_launch_settings" ],
+                [ "GameMangoHudSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_mango_hud_settings" ],
+                [ "GameProtonSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_proton_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_proton_settings" ],
+                [ "GameSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings" ],
+                [ "GameWineSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_wine_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_wine_settings" ],
+                [ "GameWrapperSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_wrapper_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_wrapper_settings" ]
               ] ],
               [ "GameInfoTabs", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs" ],
               [ "GameMetadataView", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_metadata_view.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_metadata_view" ]
@@ -100,7 +127,10 @@ var annotated_dup =
               [ "list_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget.html", [
                 [ "ListWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget" ]
               ] ],
-              [ "LibraryWidgetController", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller" ]
+              [ "IconViewContainer", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_icon_view_container.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_icon_view_container" ],
+              [ "LibraryWidgetController", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller" ],
+              [ "ListViewContainer", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_list_view_container.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_list_view_container" ],
+              [ "ViewContainer", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_view_container.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_view_container" ]
             ] ],
             [ "head_bar", "namespacerare_1_1components_1_1tabs_1_1games_1_1head__bar.html", [
               [ "GameListHeadBar", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_game_list_head_bar.html", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_game_list_head_bar" ]
@@ -146,10 +176,6 @@ var annotated_dup =
             [ "debug", "namespacerare_1_1components_1_1tabs_1_1settings_1_1debug.html", [
               [ "DebugSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1debug_1_1_debug_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1debug_1_1_debug_settings" ]
             ] ],
-            [ "game_settings", "namespacerare_1_1components_1_1tabs_1_1settings_1_1game__settings.html", [
-              [ "DefaultGameSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1game__settings_1_1_default_game_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1game__settings_1_1_default_game_settings" ],
-              [ "LinuxAppSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1game__settings_1_1_linux_app_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1game__settings_1_1_linux_app_settings" ]
-            ] ],
             [ "legendary", "namespacerare_1_1components_1_1tabs_1_1settings_1_1legendary.html", [
               [ "LegendarySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings" ],
               [ "RefreshGameMetaWorker", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker" ]
@@ -157,10 +183,11 @@ var annotated_dup =
             [ "rare", "namespacerare_1_1components_1_1tabs_1_1settings_1_1rare.html", [
               [ "RareSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings" ]
             ] ],
+            [ "settings", "namespacerare_1_1components_1_1tabs_1_1settings_1_1settings.html", [
+              [ "GameSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1settings_1_1_game_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1settings_1_1_game_settings" ],
+              [ "LaunchSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1settings_1_1_launch_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1settings_1_1_launch_settings" ]
+            ] ],
             [ "widgets", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets.html", [
-              [ "dxvk", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk.html", [
-                [ "DxvkSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_dxvk_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_dxvk_settings" ]
-              ] ],
               [ "env_vars", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars.html", [
                 [ "EnvVars", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars" ]
               ] ],
@@ -168,21 +195,23 @@ var annotated_dup =
                 [ "EnvVarsTableModel", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model" ],
                 [ "MainDialog", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_main_dialog.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_main_dialog" ]
               ] ],
-              [ "linux", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux.html", [
-                [ "LinuxSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux_1_1_linux_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1linux_1_1_linux_settings" ]
+              [ "game", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1game.html", [
+                [ "GameSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1game_1_1_game_settings_base.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1game_1_1_game_settings_base" ]
               ] ],
-              [ "mangohud", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1mangohud.html", [
-                [ "MangoHudSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1mangohud_1_1_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1mangohud_1_1_mango_hud_settings" ]
+              [ "launch", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch.html", [
+                [ "LaunchSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base" ]
               ] ],
-              [ "overlay_settings", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings.html", [
-                [ "ActivationStates", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_activation_states.html", null ],
-                [ "ComboBox", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_combo_box.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_combo_box" ],
-                [ "CustomOption", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_custom_option.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_custom_option" ],
-                [ "OverlaySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_overlay_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_overlay_settings" ],
-                [ "TextInputField", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_text_input_field.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_text_input_field" ]
-              ] ],
-              [ "pre_launch", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1pre__launch.html", [
-                [ "PreLaunchSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1pre__launch_1_1_pre_launch_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1pre__launch_1_1_pre_launch_settings" ]
+              [ "overlay", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html", [
+                [ "ActivationStates", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_activation_states.html", null ],
+                [ "DxvkSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_settings" ],
+                [ "MangoHudSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings" ],
+                [ "OverlayCheckBox", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_check_box.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_check_box" ],
+                [ "OverlayComboBox", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box" ],
+                [ "OverlayLineEdit", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit" ],
+                [ "OverlayNumberInput", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_number_input.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_number_input" ],
+                [ "OverlaySelectInput", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_select_input.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_select_input" ],
+                [ "OverlaySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings" ],
+                [ "OverlayStringInput", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_string_input.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_string_input" ]
               ] ],
               [ "proton", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton.html", [
                 [ "ProtonSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings" ]
@@ -190,11 +219,15 @@ var annotated_dup =
               [ "rpc", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc.html", [
                 [ "RPCSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings" ]
               ] ],
-              [ "wrapper", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper.html", [
-                [ "Wrapper", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper.html", null ],
-                [ "WrapperContainer", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_container.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_container" ],
-                [ "WrapperSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_settings" ],
-                [ "WrapperWidget", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_widget.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_widget" ]
+              [ "wine", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine.html", [
+                [ "WineSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings" ]
+              ] ],
+              [ "wrappers", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers.html", [
+                [ "WrapperAddDialog", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_add_dialog.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_add_dialog" ],
+                [ "WrapperContainer", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_container.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_container" ],
+                [ "WrapperEditDialog", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_edit_dialog.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_edit_dialog" ],
+                [ "WrapperSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings" ],
+                [ "WrapperWidget", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_widget.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_widget" ]
               ] ]
             ] ],
             [ "SettingsTab", "classrare_1_1components_1_1tabs_1_1settings_1_1_settings_tab.html", "classrare_1_1components_1_1tabs_1_1settings_1_1_settings_tab" ]
@@ -243,26 +276,6 @@ var annotated_dup =
         ] ],
         [ "Rare", "classrare_1_1components_1_1_rare.html", "classrare_1_1components_1_1_rare" ],
         [ "RareException", "classrare_1_1components_1_1_rare_exception.html", "classrare_1_1components_1_1_rare_exception" ]
-      ] ],
-      [ "launcher", "namespacerare_1_1launcher.html", [
-        [ "cloud_sync_dialog", "namespacerare_1_1launcher_1_1cloud__sync__dialog.html", [
-          [ "CloudSyncDialog", "classrare_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html", "classrare_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog" ],
-          [ "CloudSyncDialogResult", "classrare_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog_result.html", null ]
-        ] ],
-        [ "console_dialog", "namespacerare_1_1launcher_1_1console__dialog.html", [
-          [ "ConsoleDialog", "classrare_1_1launcher_1_1console__dialog_1_1_console_dialog.html", "classrare_1_1launcher_1_1console__dialog_1_1_console_dialog" ],
-          [ "ConsoleEdit", "classrare_1_1launcher_1_1console__dialog_1_1_console_edit.html", "classrare_1_1launcher_1_1console__dialog_1_1_console_edit" ],
-          [ "ConsoleEnv", "classrare_1_1launcher_1_1console__dialog_1_1_console_env.html", "classrare_1_1launcher_1_1console__dialog_1_1_console_env" ]
-        ] ],
-        [ "lgd_helper", "namespacerare_1_1launcher_1_1lgd__helper.html", [
-          [ "GameArgsError", "classrare_1_1launcher_1_1lgd__helper_1_1_game_args_error.html", null ],
-          [ "InitArgs", "classrare_1_1launcher_1_1lgd__helper_1_1_init_args.html", "classrare_1_1launcher_1_1lgd__helper_1_1_init_args" ],
-          [ "LaunchArgs", "classrare_1_1launcher_1_1lgd__helper_1_1_launch_args.html", "classrare_1_1launcher_1_1lgd__helper_1_1_launch_args" ]
-        ] ],
-        [ "PreLaunchThread", "classrare_1_1launcher_1_1_pre_launch_thread.html", "classrare_1_1launcher_1_1_pre_launch_thread" ],
-        [ "RareLauncher", "classrare_1_1launcher_1_1_rare_launcher.html", "classrare_1_1launcher_1_1_rare_launcher" ],
-        [ "RareLauncherException", "classrare_1_1launcher_1_1_rare_launcher_exception.html", "classrare_1_1launcher_1_1_rare_launcher_exception" ],
-        [ "SyncCheckWorker", "classrare_1_1launcher_1_1_sync_check_worker.html", "classrare_1_1launcher_1_1_sync_check_worker" ]
       ] ],
       [ "lgndr", "namespacerare_1_1lgndr.html", [
         [ "cli", "namespacerare_1_1lgndr_1_1cli.html", [
@@ -342,11 +355,24 @@ var annotated_dup =
           [ "FinishedModel", "classrare_1_1models_1_1launcher_1_1_finished_model.html", "classrare_1_1models_1_1launcher_1_1_finished_model" ],
           [ "StateChangedModel", "classrare_1_1models_1_1launcher_1_1_state_changed_model.html", "classrare_1_1models_1_1launcher_1_1_state_changed_model" ]
         ] ],
+        [ "library", "namespacerare_1_1models_1_1library.html", [
+          [ "LibraryFilter", "classrare_1_1models_1_1library_1_1_library_filter.html", null ],
+          [ "LibraryOrder", "classrare_1_1models_1_1library_1_1_library_order.html", null ],
+          [ "LibraryView", "classrare_1_1models_1_1library_1_1_library_view.html", null ]
+        ] ],
+        [ "options", "namespacerare_1_1models_1_1options.html", [
+          [ "Defaults", "classrare_1_1models_1_1options_1_1_defaults.html", null ],
+          [ "Value", "classrare_1_1models_1_1options_1_1_value.html", "classrare_1_1models_1_1options_1_1_value" ]
+        ] ],
         [ "pathspec", "namespacerare_1_1models_1_1pathspec.html", [
           [ "PathSpec", "classrare_1_1models_1_1pathspec_1_1_path_spec.html", "classrare_1_1models_1_1pathspec_1_1_path_spec" ]
         ] ],
         [ "signals", "namespacerare_1_1models_1_1signals.html", [
           [ "GlobalSignals", "classrare_1_1models_1_1signals_1_1_global_signals.html", "classrare_1_1models_1_1signals_1_1_global_signals" ]
+        ] ],
+        [ "wrapper", "namespacerare_1_1models_1_1wrapper.html", [
+          [ "Wrapper", "classrare_1_1models_1_1wrapper_1_1_wrapper.html", "classrare_1_1models_1_1wrapper_1_1_wrapper" ],
+          [ "WrapperType", "classrare_1_1models_1_1wrapper_1_1_wrapper_type.html", null ]
         ] ]
       ] ],
       [ "shared", "namespacerare_1_1shared.html", [
@@ -379,7 +405,8 @@ var annotated_dup =
           ] ],
           [ "wine_resolver", "namespacerare_1_1shared_1_1workers_1_1wine__resolver.html", [
             [ "OriginWineWorker", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_origin_wine_worker.html", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_origin_wine_worker" ],
-            [ "WineResolver", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_resolver.html", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_resolver" ]
+            [ "WinePathResolver", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver.html", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver" ],
+            [ "WineSavePathResolver", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_save_path_resolver.html", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_save_path_resolver" ]
           ] ],
           [ "worker", "namespacerare_1_1shared_1_1workers_1_1worker.html", [
             [ "QueueWorker", "classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker.html", "classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker" ],
@@ -387,6 +414,9 @@ var annotated_dup =
             [ "QueueWorkerState", "classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_state.html", null ],
             [ "Worker", "classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html", "classrare_1_1shared_1_1workers_1_1worker_1_1_worker" ]
           ] ]
+        ] ],
+        [ "wrappers", "namespacerare_1_1shared_1_1wrappers.html", [
+          [ "Wrappers", "classrare_1_1shared_1_1wrappers_1_1_wrappers.html", "classrare_1_1shared_1_1wrappers_1_1_wrappers" ]
         ] ]
       ] ],
       [ "ui", "namespacerare_1_1ui.html", [
@@ -465,33 +495,18 @@ var annotated_dup =
               [ "about", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about.html", [
                 [ "Ui_About", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about_1_1_ui___about.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about_1_1_ui___about" ]
               ] ],
-              [ "game_settings", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1game__settings.html", [
-                [ "Ui_GameSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1game__settings_1_1_ui___game_settings.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1game__settings_1_1_ui___game_settings" ]
-              ] ],
               [ "legendary", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary.html", [
                 [ "Ui_LegendarySettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings" ]
-              ] ],
-              [ "linux", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux.html", [
-                [ "Ui_LinuxSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1linux_1_1_ui___linux_settings" ]
-              ] ],
-              [ "proton", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1proton.html", [
-                [ "Ui_ProtonSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1proton_1_1_ui___proton_settings.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1proton_1_1_ui___proton_settings" ]
               ] ],
               [ "rare", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare.html", [
                 [ "Ui_RareSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings" ]
               ] ],
               [ "widgets", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets.html", [
-                [ "dxvk", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk.html", [
-                  [ "Ui_DxvkSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_ui___dxvk_settings.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_ui___dxvk_settings" ]
-                ] ],
                 [ "overlay", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html", [
                   [ "Ui_OverlaySettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings" ]
                 ] ],
                 [ "rpc", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc.html", [
                   [ "Ui_RPCSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_ui___r_p_c_settings.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_ui___r_p_c_settings" ]
-                ] ],
-                [ "wrapper", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper.html", [
-                  [ "Ui_WrapperSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_ui___wrapper_settings.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_ui___wrapper_settings" ]
                 ] ]
               ] ]
             ] ],
@@ -518,6 +533,19 @@ var annotated_dup =
         ] ]
       ] ],
       [ "utils", "namespacerare_1_1utils.html", [
+        [ "compat", "namespacerare_1_1utils_1_1compat.html", [
+          [ "steam", "namespacerare_1_1utils_1_1compat_1_1steam.html", [
+            [ "CompatibilityTool", "classrare_1_1utils_1_1compat_1_1steam_1_1_compatibility_tool.html", "classrare_1_1utils_1_1compat_1_1steam_1_1_compatibility_tool" ],
+            [ "ProtonTool", "classrare_1_1utils_1_1compat_1_1steam_1_1_proton_tool.html", "classrare_1_1utils_1_1compat_1_1steam_1_1_proton_tool" ],
+            [ "SteamBase", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_base.html", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_base" ],
+            [ "SteamRuntime", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_runtime.html", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_runtime" ],
+            [ "SteamVerb", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_verb.html", null ]
+          ] ],
+          [ "wine", "namespacerare_1_1utils_1_1compat_1_1wine.html", [
+            [ "WineRunner", "classrare_1_1utils_1_1compat_1_1wine_1_1_wine_runner.html", null ],
+            [ "WineRuntime", "classrare_1_1utils_1_1compat_1_1wine_1_1_wine_runtime.html", null ]
+          ] ]
+        ] ],
         [ "extra_widgets", "namespacerare_1_1utils_1_1extra__widgets.html", [
           [ "ButtonLineEdit", "classrare_1_1utils_1_1extra__widgets_1_1_button_line_edit.html", "classrare_1_1utils_1_1extra__widgets_1_1_button_line_edit" ],
           [ "ImageLabel", "classrare_1_1utils_1_1extra__widgets_1_1_image_label.html", "classrare_1_1utils_1_1extra__widgets_1_1_image_label" ],
@@ -531,12 +559,6 @@ var annotated_dup =
         [ "misc", "namespacerare_1_1utils_1_1misc.html", [
           [ "ExitCodes", "classrare_1_1utils_1_1misc_1_1_exit_codes.html", null ]
         ] ],
-        [ "proton", "namespacerare_1_1utils_1_1proton.html", [
-          [ "CompatibilityTool", "classrare_1_1utils_1_1proton_1_1_compatibility_tool.html", "classrare_1_1utils_1_1proton_1_1_compatibility_tool" ],
-          [ "ProtonTool", "classrare_1_1utils_1_1proton_1_1_proton_tool.html", "classrare_1_1utils_1_1proton_1_1_proton_tool" ],
-          [ "SteamBase", "classrare_1_1utils_1_1proton_1_1_steam_base.html", "classrare_1_1utils_1_1proton_1_1_steam_base" ],
-          [ "SteamRuntime", "classrare_1_1utils_1_1proton_1_1_steam_runtime.html", "classrare_1_1utils_1_1proton_1_1_steam_runtime" ]
-        ] ],
         [ "qt_requests", "namespacerare_1_1utils_1_1qt__requests.html", [
           [ "QtRequests", "classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html", "classrare_1_1utils_1_1qt__requests_1_1_qt_requests" ],
           [ "RequestQueueItem", "classrare_1_1utils_1_1qt__requests_1_1_request_queue_item.html", "classrare_1_1utils_1_1qt__requests_1_1_request_queue_item" ]
@@ -547,6 +569,9 @@ var annotated_dup =
         [ "singleton", "namespacerare_1_1utils_1_1singleton.html", [
           [ "SingleInstance", "classrare_1_1utils_1_1singleton_1_1_single_instance.html", "classrare_1_1utils_1_1singleton_1_1_single_instance" ],
           [ "SingleInstanceException", "classrare_1_1utils_1_1singleton_1_1_single_instance_exception.html", null ]
+        ] ],
+        [ "steam_grades", "namespacerare_1_1utils_1_1steam__grades.html", [
+          [ "ProtondbRatings", "classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html", "classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings" ]
         ] ]
       ] ],
       [ "widgets", "namespacerare_1_1widgets.html", [
@@ -584,9 +609,6 @@ var annotated_dup =
         ] ],
         [ "loading_widget", "namespacerare_1_1widgets_1_1loading__widget.html", [
           [ "LoadingWidget", "classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html", "classrare_1_1widgets_1_1loading__widget_1_1_loading_widget" ]
-        ] ],
-        [ "path_input_dialog", "namespacerare_1_1widgets_1_1path__input__dialog.html", [
-          [ "PathInputDialog", "classrare_1_1widgets_1_1path__input__dialog_1_1_path_input_dialog.html", "classrare_1_1widgets_1_1path__input__dialog_1_1_path_input_dialog" ]
         ] ],
         [ "rare_app", "namespacerare_1_1widgets_1_1rare__app.html", [
           [ "RareApp", "classrare_1_1widgets_1_1rare__app_1_1_rare_app.html", "classrare_1_1widgets_1_1rare__app_1_1_rare_app" ],

@@ -1,7 +1,7 @@
 <map id="main" name="main">
 <area shape="rect" id="node1" title=" " alt="" coords="8,335,59,362"/>
 <area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5" title="Creates a desktop or start menu shortcut link." alt="" coords="112,208,258,249"/>
-<area shape="rect" id="node9" href="$namespacerare_1_1launcher.html#a8c1e65354fefbb9bdd9c6cdba8afde23" title=" " alt="" coords="116,298,254,325"/>
+<area shape="rect" id="node9" href="$namespacelauncher.html#acba79b2d250cb0ab84f69e1e95badd50" title=" " alt="" coords="129,298,241,325"/>
 <area shape="rect" id="node10" href="$namespacerare_1_1utils_1_1paths.html#a40ba74ba4e0cbcc72c8500d38c04b461" title=" " alt="" coords="107,373,263,399"/>
 <area shape="rect" id="node11" href="$namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" title=" " alt="" coords="112,447,258,474"/>
 <area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1paths.html#ac2e6ac6baa5376d3ea5aa8b63e2af2bd" title="Creates the path of a shortcut link." alt="" coords="316,29,471,71"/>

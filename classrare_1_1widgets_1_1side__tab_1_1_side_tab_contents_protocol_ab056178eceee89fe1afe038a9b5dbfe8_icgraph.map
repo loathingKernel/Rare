@@ -1,9 +1,10 @@
 <map id="layout" name="layout">
-<area shape="rect" id="node1" title=" " alt="" coords="631,215,687,242"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_widget.html#a52f3ec1797399b1fdc917e526214e555" title=" " alt="" coords="302,29,563,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_container.html#aeeeb35fae7255f3bc84c878dbe33630e" title=" " alt="" coords="285,119,580,160"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrapper_1_1_wrapper_container.html#a635f7652b6a8b627b7448d53603de00a" title=" " alt="" coords="285,208,580,249"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1_search_results.html#ab169e0df1d040c3f4e4be3234617ad11" title=" " alt="" coords="315,297,551,339"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html#a54141fcc5c074fd6f917191b04f0dc25" title=" " alt="" coords="283,387,583,428"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1_search_results.html#a077e1e9e6f074ee2b580447a204e00ec" title=" " alt="" coords="5,297,235,339"/>
+<area shape="rect" id="node1" title=" " alt="" coords="631,261,687,287"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_view_container.html#adbc7f074f0f3883940bce7d68a9b9f7f" title=" " alt="" coords="321,29,544,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_widget.html#a52f3ec1797399b1fdc917e526214e555" title=" " alt="" coords="302,119,563,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_icon_view_container.html#ab83975e0b8ea214607b15e3ee82a74d4" title=" " alt="" coords="307,208,559,249"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_list_view_container.html#ab83975e0b8ea214607b15e3ee82a74d4" title=" " alt="" coords="308,297,557,339"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1_search_results.html#ab169e0df1d040c3f4e4be3234617ad11" title=" " alt="" coords="315,387,551,428"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html#a54141fcc5c074fd6f917191b04f0dc25" title=" " alt="" coords="283,476,583,517"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1_search_results.html#a077e1e9e6f074ee2b580447a204e00ec" title=" " alt="" coords="5,387,235,428"/>
 </map>

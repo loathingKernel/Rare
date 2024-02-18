@@ -141,7 +141,7 @@ $(document).ready(function(){initNavTree('library__widget_8py_source.html',''); 
 <div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>        origin_h = (image.height() - min_d) // 2</div>
 <div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>        <span class="keywordflow">for</span> x, y <span class="keywordflow">in</span> zip(range(origin_w, min_d), range(origin_h, min_d)):</div>
 <div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>            pixel = image.pixelColor(x, y).getRgb()</div>
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>            color = list(map(<span class="keyword">lambda</span> t: sum(t) // 2, zip(pixel[0:3], color)))</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>            color = list(map(<span class="keyword">lambda</span> t: sum(t) // 2, zip(pixel[:3], color)))</div>
 <div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>        <span class="comment"># take the V component of the HSV color</span></div>
 <div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>        fg_color = QColor(0, 0, 0) <span class="keywordflow">if</span> QColor(*color).value() &lt; 127 <span class="keywordflow">else</span> QColor(255, 255, 255)</div>
 <div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>        bg_color = QColor(*map(<span class="keyword">lambda</span> c: 255 - c, color))</div>

@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,80,57"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_main_tab_bar.html" title=" " alt="" coords="128,5,220,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1side__tab_1_1_side_tab_bar.html" title=" " alt="" coords="129,56,219,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html" title=" " alt="" coords="148,5,277,32"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_select_input.html" title=" " alt="" coords="325,5,457,32"/>
 </map>

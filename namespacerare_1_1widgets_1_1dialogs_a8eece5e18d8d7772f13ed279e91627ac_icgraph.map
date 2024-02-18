@@ -1,0 +1,12 @@
+<map id="game_title" name="game_title">
+<area shape="rect" id="node1" title=" " alt="" coords="597,320,680,347"/>
+<area shape="rect" id="node2" href="$classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html#a1bdae8b8b5a801b5b216055866d3907d" title=" " alt="" coords="315,29,481,85"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a6aeedb257142077750b67cbc9726a811" title=" " alt="" coords="299,134,497,175"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html#a6c734fe46844d27ba3c41824b2080754" title=" " alt="" coords="299,223,497,265"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog.html#a6c734fe46844d27ba3c41824b2080754" title=" " alt="" coords="289,313,507,354"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html#afface21f92e0fa969e78ba5a3b83a9e8" title=" " alt="" coords="291,402,505,443"/>
+<area shape="rect" id="node7" href="$classlauncher_1_1console__dialog_1_1_console_dialog.html#ab19adb77edae4558febb0fa87a973c0e" title=" " alt="" coords="317,491,479,533"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_edit_dialog.html#a4bff614384195e3884b43a4c3e09d0a6" title=" " alt="" coords="247,581,549,622"/>
+<area shape="rect" id="node9" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame.html#ac6a3a775dcab494d813083180cdcfc06" title=" " alt="" coords="15,521,189,577"/>
+<area shape="rect" id="node10" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_group_box.html#ac6a3a775dcab494d813083180cdcfc06" title=" " alt="" coords="5,625,199,681"/>
+</map>

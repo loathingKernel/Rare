@@ -1,11 +1,11 @@
 var lgd__helper_8py =
 [
-    [ "GameArgsError", "classrare_1_1launcher_1_1lgd__helper_1_1_game_args_error.html", null ],
-    [ "InitArgs", "classrare_1_1launcher_1_1lgd__helper_1_1_init_args.html", "classrare_1_1launcher_1_1lgd__helper_1_1_init_args" ],
-    [ "LaunchArgs", "classrare_1_1launcher_1_1lgd__helper_1_1_launch_args.html", "classrare_1_1launcher_1_1lgd__helper_1_1_launch_args" ],
-    [ "get_configured_process", "lgd__helper_8py.html#a34de70b38c8f928cf941fed7dd39b96f", null ],
-    [ "get_game_params", "lgd__helper_8py.html#ab47ab9ed19ad3773c80adac99ae01b55", null ],
-    [ "get_launch_args", "lgd__helper_8py.html#af720cb3ef9b1ada7b4aeb352eda35381", null ],
-    [ "get_origin_params", "lgd__helper_8py.html#abc82b2525cb6e565a5457b3d0df213df", null ],
+    [ "GameArgsError", "classlauncher_1_1lgd__helper_1_1_game_args_error.html", null ],
+    [ "InitArgs", "classlauncher_1_1lgd__helper_1_1_init_args.html", "classlauncher_1_1lgd__helper_1_1_init_args" ],
+    [ "LaunchArgs", "classlauncher_1_1lgd__helper_1_1_launch_args.html", "classlauncher_1_1lgd__helper_1_1_launch_args" ],
+    [ "get_configured_process", "lgd__helper_8py.html#a1685e22f3b03108fb7a287e2663ce404", null ],
+    [ "get_game_params", "lgd__helper_8py.html#a90b22eab095f71827baac38431430b6a", null ],
+    [ "get_launch_args", "lgd__helper_8py.html#a2ca70ed0cf2ab2178c25e22ad344fa69", null ],
+    [ "get_origin_params", "lgd__helper_8py.html#a828392f81995661c4a2f0da052d2d78e", null ],
     [ "logger", "lgd__helper_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ]
 ];

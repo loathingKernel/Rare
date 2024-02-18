@@ -1,9 +1,10 @@
 <map id="timelogger" name="timelogger">
-<area shape="rect" id="node1" title=" " alt="" coords="581,171,664,198"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a18465ae42222b6a7254c72c9815a69d7" title=" " alt="" coords="297,29,470,71"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="233,119,533,160"/>
-<area shape="rect" id="node6" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="291,208,475,249"/>
-<area shape="rect" id="node7" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="293,297,473,339"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#af29ac67bc30fc5530252b2a234b84188" title=" " alt="" coords="9,29,182,71"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="5,208,185,249"/>
+<area shape="rect" id="node1" title=" " alt="" coords="581,231,664,257"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#a7e43976b51be106948d8e7b1ab113864" title=" " alt="" coords="257,29,509,85"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a18465ae42222b6a7254c72c9815a69d7" title=" " alt="" coords="297,134,470,175"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="233,223,533,265"/>
+<area shape="rect" id="node7" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="291,313,475,354"/>
+<area shape="rect" id="node8" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="293,402,473,443"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#af29ac67bc30fc5530252b2a234b84188" title=" " alt="" coords="9,134,182,175"/>
+<area shape="rect" id="node6" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="5,313,185,354"/>
 </map>

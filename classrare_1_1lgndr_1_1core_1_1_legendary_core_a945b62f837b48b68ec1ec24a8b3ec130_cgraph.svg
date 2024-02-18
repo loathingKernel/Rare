@@ -59,26 +59,26 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1launcher_1_1console__dialog_1_1_console_dialog.html#a4db0e98c238d6a69bdbf4b8cc59be732" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="129,-73 129,-103 256,-103 256,-73 129,-73"/>
-<text text-anchor="start" x="137" y="-91" font-family="Helvetica,sans-Serif" font-size="10.00">rare.launcher.console</text>
-<text text-anchor="middle" x="192.5" y="-80" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.ConsoleDialog.log</text>
+<g id="a_node5"><a xlink:href="classlauncher_1_1console__dialog_1_1_console_dialog.html#a4db0e98c238d6a69bdbf4b8cc59be732" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="131.5,-73 131.5,-103 253.5,-103 253.5,-73 131.5,-73"/>
+<text text-anchor="start" x="139.5" y="-91" font-family="Helvetica,sans-Serif" font-size="10.00">launcher.console_dialog.</text>
+<text text-anchor="middle" x="192.5" y="-80" font-family="Helvetica,sans-Serif" font-size="10.00">ConsoleDialog.log</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge7" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M75.15,-113.1C88.35,-110.25 103.74,-106.93 118.93,-103.65"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="119.82,-107.04 128.85,-101.51 118.34,-100.2 119.82,-107.04"/>
+<path fill="none" stroke="midnightblue" d="M75.15,-113.1C89.06,-110.1 105.41,-106.57 121.38,-103.12"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="122.22,-106.52 131.26,-100.99 120.74,-99.68 122.22,-106.52"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1launcher_1_1console__dialog_1_1_console_edit.html#ac05aadedf6e1be5c365c818989f98d50" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="134.5,-6 134.5,-36 250.5,-36 250.5,-6 134.5,-6"/>
-<text text-anchor="start" x="142.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">rare.launcher.console</text>
-<text text-anchor="middle" x="192.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.ConsoleEdit.log</text>
+<g id="a_node6"><a xlink:href="classlauncher_1_1console__dialog_1_1_console_edit.html#ac05aadedf6e1be5c365c818989f98d50" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="131.5,-6 131.5,-36 253.5,-36 253.5,-6 131.5,-6"/>
+<text text-anchor="start" x="139.5" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">launcher.console_dialog.</text>
+<text text-anchor="middle" x="192.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">ConsoleEdit.log</text>
 </a>
 </g>
 </g>
@@ -132,19 +132,19 @@
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="classrare_1_1launcher_1_1console__dialog_1_1_console_edit.html#ad89ca21019805240d01e41fe61cdbb56" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="325,-0.5 325,-41.5 452,-41.5 452,-0.5 325,-0.5"/>
-<text text-anchor="start" x="333" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.launcher.console</text>
-<text text-anchor="start" x="333" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.ConsoleEdit.scroll</text>
-<text text-anchor="middle" x="388.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_to_last_line</text>
+<g id="a_node7"><a xlink:href="classlauncher_1_1console__dialog_1_1_console_edit.html#ad89ca21019805240d01e41fe61cdbb56" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="327.5,-0.5 327.5,-41.5 449.5,-41.5 449.5,-0.5 327.5,-0.5"/>
+<text text-anchor="start" x="335.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">launcher.console_dialog.</text>
+<text text-anchor="start" x="335.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConsoleEdit.scroll_to</text>
+<text text-anchor="middle" x="388.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_last_line</text>
 </a>
 </g>
 </g>
 <!-- Node6&#45;&gt;Node7 -->
 <g id="edge11" class="edge">
 <title>Node6&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M250.66,-21C270.73,-21 293.56,-21 314.74,-21"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="314.99,-24.5 324.99,-21 314.99,-17.5 314.99,-24.5"/>
+<path fill="none" stroke="midnightblue" d="M253.55,-21C273.73,-21 296.42,-21 317.31,-21"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="317.4,-24.5 327.4,-21 317.4,-17.5 317.4,-24.5"/>
 </g>
 <!-- Node7&#45;&gt;Node7 -->
 <g id="edge12" class="edge">

@@ -27,10 +27,10 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="namespacerare_1_1widgets_1_1dialogs.html#ab2818182de091a90371cbbdf5bbdd95d" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="87.5,-258.5 87.5,-288.5 217.5,-288.5 217.5,-258.5 87.5,-258.5"/>
-<text text-anchor="start" x="95.5" y="-276.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.dialogs.dialog</text>
-<text text-anchor="middle" x="152.5" y="-265.5" font-family="Helvetica,sans-Serif" font-size="10.00">_title_game</text>
+<g id="a_node2"><a xlink:href="namespacerare_1_1widgets_1_1dialogs.html#a8eece5e18d8d7772f13ed279e91627ac" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="88.5,-258.5 88.5,-288.5 216.5,-288.5 216.5,-258.5 88.5,-258.5"/>
+<text text-anchor="start" x="96.5" y="-276.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.widgets.dialogs.game</text>
+<text text-anchor="middle" x="152.5" y="-265.5" font-family="Helvetica,sans-Serif" font-size="10.00">_title</text>
 </a>
 </g>
 </g>

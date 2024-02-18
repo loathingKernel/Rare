@@ -1,28 +1,31 @@
 <map id="args" name="args">
-<area shape="rect" id="node1" title=" " alt="" coords="1457,587,1504,613"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aef5087eda294b25d77daf490e4bf4f9e" title=" " alt="" coords="1226,29,1293,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html#a8f9705707225e3a806138596d5edae0d" title=" " alt="" coords="1109,105,1409,146"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#aa3fe4f510c683950f9a38eb445106504" title=" " alt="" coords="1156,194,1363,235"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" title=" " alt="" coords="837,205,1039,246"/>
-<area shape="rect" id="node6" href="$classrare_1_1launcher_1_1_rare_launcher.html#a62864ecc73de3f9e4a009737d0c01f01" title=" " alt="" coords="1129,385,1389,412"/>
-<area shape="rect" id="node7" href="$classrare_1_1launcher_1_1_rare_launcher.html#ac8b8dc7f48f8405350185a34a814e908" title=" " alt="" coords="833,303,1043,345"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" title=" " alt="" coords="1162,461,1357,502"/>
-<area shape="rect" id="node13" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#ab5496f80e54a69d968995df463181716" title=" " alt="" coords="1136,550,1383,591"/>
-<area shape="rect" id="node14" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#ad98d231f7b0a60e8aa3b72120eebf843" title=" " alt="" coords="815,579,1061,621"/>
-<area shape="rect" id="node16" href="$classrare_1_1launcher_1_1_pre_launch_thread.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="1148,691,1371,717"/>
-<area shape="rect" id="node17" href="$classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="1170,766,1349,807"/>
-<area shape="rect" id="node18" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="1169,855,1349,897"/>
-<area shape="rect" id="node20" href="$classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="1173,945,1345,986"/>
-<area shape="rect" id="node21" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html#a54141fcc5c074fd6f917191b04f0dc25" title=" " alt="" coords="1109,1034,1409,1075"/>
-<area shape="rect" id="node22" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad688e83ab96ce32b1ed9e5ccc83d0ee8" title="Stops the active download, by optionally skipping the queue." alt="" coords="1152,1123,1367,1165"/>
-<area shape="rect" id="node25" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#a31df619d45c585656d938a0c09e9d115" title=" " alt="" coords="1148,1213,1371,1254"/>
-<area shape="rect" id="node8" href="$classrare_1_1launcher_1_1_rare_launcher.html#a711d1d7df9874db34971779c941c4e5e" title=" " alt="" coords="263,280,472,307"/>
-<area shape="rect" id="node10" href="$classrare_1_1launcher_1_1_rare_launcher.html#abc80b9c0d00c9ee171bcdd5b318f9329" title=" " alt="" coords="538,319,749,361"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_browse_model.html#a563276b55376fdd9f495c321c5408906" title=" " alt="" coords="5,273,215,314"/>
-<area shape="rect" id="node12" href="$classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#ae180ea6e1d2b446b4890e6f2d0256e53" title=" " alt="" coords="841,461,1035,502"/>
-<area shape="rect" id="node15" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a0c1ec5a8b5b81f2e8b0483bfd9330a81" title=" " alt="" coords="520,579,767,621"/>
-<area shape="rect" id="node19" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="848,901,1028,942"/>
-<area shape="rect" id="node23" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a91ee81dee5df73fb4e3057d7c12624e0" title=" " alt="" coords="825,1067,1051,1109"/>
-<area shape="rect" id="node24" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a11794ca2c7c3add2ed90cd2edb79b927" title=" " alt="" coords="524,1067,763,1109"/>
-<area shape="rect" id="node26" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a5c2e05cfb4af4450c63a284753b789ed" title=" " alt="" coords="823,1213,1053,1254"/>
+<area shape="rect" id="node1" title=" " alt="" coords="1653,616,1700,643"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aef5087eda294b25d77daf490e4bf4f9e" title=" " alt="" coords="1422,29,1489,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html#a8f9705707225e3a806138596d5edae0d" title=" " alt="" coords="1305,105,1605,146"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#aa3fe4f510c683950f9a38eb445106504" title=" " alt="" coords="1352,194,1559,235"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" title=" " alt="" coords="1033,205,1235,246"/>
+<area shape="rect" id="node6" href="$classlauncher_1_1_rare_launcher.html#a62864ecc73de3f9e4a009737d0c01f01" title=" " alt="" coords="1338,385,1573,412"/>
+<area shape="rect" id="node7" href="$classlauncher_1_1_rare_launcher.html#ac8b8dc7f48f8405350185a34a814e908" title=" " alt="" coords="1042,303,1226,345"/>
+<area shape="rect" id="node13" href="$classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" title=" " alt="" coords="1358,461,1553,502"/>
+<area shape="rect" id="node15" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#ab5496f80e54a69d968995df463181716" title=" " alt="" coords="1332,550,1579,591"/>
+<area shape="rect" id="node16" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#ad98d231f7b0a60e8aa3b72120eebf843" title=" " alt="" coords="1011,579,1257,621"/>
+<area shape="rect" id="node18" href="$classlauncher_1_1_pre_launch_thread.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="1356,691,1555,717"/>
+<area shape="rect" id="node19" href="$classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="1366,766,1545,807"/>
+<area shape="rect" id="node20" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="1363,855,1547,897"/>
+<area shape="rect" id="node22" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="1365,945,1545,986"/>
+<area shape="rect" id="node23" href="$classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="1369,1034,1541,1075"/>
+<area shape="rect" id="node24" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html#a54141fcc5c074fd6f917191b04f0dc25" title=" " alt="" coords="1305,1123,1605,1165"/>
+<area shape="rect" id="node25" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad688e83ab96ce32b1ed9e5ccc83d0ee8" title="Stops the active download, by optionally skipping the queue." alt="" coords="1348,1213,1563,1254"/>
+<area shape="rect" id="node28" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#a31df619d45c585656d938a0c09e9d115" title=" " alt="" coords="1344,1302,1567,1343"/>
+<area shape="rect" id="node8" href="$classlauncher_1_1_rare_launcher.html#a711d1d7df9874db34971779c941c4e5e" title=" " alt="" coords="484,280,668,307"/>
+<area shape="rect" id="node12" href="$classlauncher_1_1_rare_launcher.html#abc80b9c0d00c9ee171bcdd5b318f9329" title=" " alt="" coords="747,319,932,361"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_browse_model.html#a563276b55376fdd9f495c321c5408906" title=" " alt="" coords="227,273,436,314"/>
+<area shape="rect" id="node10" href="$classrare_1_1models_1_1options_1_1_value.html#a45163c19b7c87f553c6f1d055d4668cb" title=" " alt="" coords="5,227,179,269"/>
+<area shape="rect" id="node11" href="$classrare_1_1models_1_1options_1_1_value.html#a810fdc262754b6d21f5acd0e280d4daf" title=" " alt="" coords="5,317,179,358"/>
+<area shape="rect" id="node14" href="$classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html#ae180ea6e1d2b446b4890e6f2d0256e53" title=" " alt="" coords="1037,461,1231,502"/>
+<area shape="rect" id="node17" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a0c1ec5a8b5b81f2e8b0483bfd9330a81" title=" " alt="" coords="716,579,963,621"/>
+<area shape="rect" id="node21" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="1044,945,1224,986"/>
+<area shape="rect" id="node26" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a91ee81dee5df73fb4e3057d7c12624e0" title=" " alt="" coords="1021,1157,1247,1198"/>
+<area shape="rect" id="node27" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a11794ca2c7c3add2ed90cd2edb79b927" title=" " alt="" coords="720,1157,959,1198"/>
+<area shape="rect" id="node29" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a5c2e05cfb4af4450c63a284753b789ed" title=" " alt="" coords="1019,1302,1249,1343"/>
 </map>

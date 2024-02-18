@@ -1,7 +1,7 @@
 var classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs =
 [
     [ "__init__", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#a39d165427992dd2720f91929a88cde17", null ],
-    [ "keyPressEvent", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#a38473d0107ff68c119a1eba5e50a10a6", null ],
+    [ "keyPressEvent", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#afa962c4cc7ee70aff38a79a6bd2bd079", null ],
     [ "update_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#a31df619d45c585656d938a0c09e9d115", null ],
     [ "args", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
     [ "cloud_saves_index", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html#a368e339a1ba675d984d3dc34f03402ef", null ],

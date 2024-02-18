@@ -1,7 +1,7 @@
 var searchData=
 [
   ['debugsettings_0',['DebugSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1debug_1_1_debug_settings.html',1,'rare::components::tabs::settings::debug']]],
-  ['defaultgamesettings_1',['DefaultGameSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1game__settings_1_1_default_game_settings.html',1,'rare::components::tabs::settings::game_settings']]],
+  ['defaults_1',['Defaults',['../classrare_1_1models_1_1options_1_1_defaults.html',1,'rare::models::options']]],
   ['discordrpc_2',['DiscordRPC',['../classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html',1,'rare::utils::rpc']]],
   ['discordrpcsignals_3',['DiscordRPCSignals',['../classrare_1_1models_1_1signals_1_1_global_signals_1_1_discord_r_p_c_signals.html',1,'rare::models::signals::GlobalSignals']]],
   ['dlmanager_4',['DLManager',['../classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html',1,'rare::lgndr::downloader::mp::manager']]],
@@ -13,5 +13,5 @@ var searchData=
   ['downloadsignals_10',['DownloadSignals',['../classrare_1_1models_1_1signals_1_1_global_signals_1_1_download_signals.html',1,'rare::models::signals::GlobalSignals']]],
   ['downloadstab_11',['DownloadsTab',['../classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html',1,'rare::components::tabs::downloads']]],
   ['downloadwidget_12',['DownloadWidget',['../classrare_1_1components_1_1tabs_1_1downloads_1_1download_1_1_download_widget.html',1,'rare::components::tabs::downloads::download']]],
-  ['dxvksettings_13',['DxvkSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_dxvk_settings.html',1,'rare::components::tabs::settings::widgets::dxvk']]]
+  ['dxvksettings_13',['DxvkSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_settings.html',1,'rare::components::tabs::settings::widgets::overlay']]]
 ];
