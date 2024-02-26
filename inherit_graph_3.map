@@ -1,3 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_browse_model.html" title=" " alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node1" href="$classrare_1_1models_1_1launcher_1_1_base_model.html" title=" " alt="" coords="5,56,92,83"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1launcher_1_1_error_model.html" title=" " alt="" coords="167,5,251,32"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1launcher_1_1_finished_model.html" title=" " alt="" coords="156,56,263,83"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1launcher_1_1_state_changed_model.html" title=" " alt="" coords="140,107,279,133"/>
 </map>

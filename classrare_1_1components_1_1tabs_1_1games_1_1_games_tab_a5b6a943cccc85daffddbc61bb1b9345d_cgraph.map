@@ -1,11 +1,8 @@
 <map id="showEvent" name="showEvent">
-<area shape="rect" id="node1" title=" " alt="" coords="5,153,92,179"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a37be1d1b33c53f64209fe3f0f70984a5" title=" " alt="" coords="140,153,257,179"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a18eb918c38e326a54666699b7ba4b686" title=" " alt="" coords="314,78,443,105"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a8a1574526807e2c5a756f47d92de489d" title=" " alt="" coords="333,153,425,179"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a2efffcc49dcc1c9f2d26040e865a660b" title=" " alt="" coords="305,228,452,269"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1store_1_1_shop.html#adce81273b921608423370102d510bcab" title=" " alt="" coords="500,29,681,71"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a09ad02746b43edc7bbeade971378aa4e" title=" " alt="" coords="531,119,651,146"/>
-<area shape="rect" id="node5" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a98a895468c8036bb8122dd2c568d91e7" title=" " alt="" coords="729,29,892,71"/>
-<area shape="rect" id="node6" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a66bb1af90088807e5445bcf242390463" title=" " alt="" coords="940,29,1105,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,92,131"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a37be1d1b33c53f64209fe3f0f70984a5" title=" " alt="" coords="140,104,257,131"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a18eb918c38e326a54666699b7ba4b686" title=" " alt="" coords="314,29,443,56"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a8a1574526807e2c5a756f47d92de489d" title=" " alt="" coords="333,104,425,131"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a2efffcc49dcc1c9f2d26040e865a660b" title=" " alt="" coords="305,179,452,221"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a09ad02746b43edc7bbeade971378aa4e" title=" " alt="" coords="500,29,620,56"/>
 </map>

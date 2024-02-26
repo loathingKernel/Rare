@@ -86,6 +86,7 @@ $(document).ready(function(){initNavTree('namespacerare_1_1components_1_1tabs_1_
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
   <div class="headertitle"><div class="title">rare.components.tabs.store.constants Namespace Reference</div></div>
 </div><!--header-->
@@ -96,115 +97,326 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classrare_1_1components_1_1tabs_1_1store_1_1constants_1_1_constants.html">Constants</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:aa98f13854d4810e48839ec7729660099"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa98f13854d4810e48839ec7729660099">compress_query</a> (str query)</td></tr>
+<tr class="separator:aa98f13854d4810e48839ec7729660099"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:aeb6c82a670d8c9760d73abf7ed35af6f"><td class="memItemLeft" align="right" valign="top">tuple&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aeb6c82a670d8c9760d73abf7ed35af6f">game_query</a></td></tr>
-<tr class="separator:aeb6c82a670d8c9760d73abf7ed35af6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af1ba67330190cfce4226fd7fadd00698"><td class="memItemLeft" align="right" valign="top">tuple&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#af1ba67330190cfce4226fd7fadd00698">search_query</a></td></tr>
-<tr class="separator:af1ba67330190cfce4226fd7fadd00698"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae5e2e836595fce2d94596629056c834c"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#ae5e2e836595fce2d94596629056c834c">wishlist_query</a> = '\n query wishlistQuery($country:String!, $locale:String) {\n <a class="el" href="classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist.html">Wishlist</a> {\n wishlistItems {\n elements {\n id\n order\n created\n offerId\n updated\n namespace\n \n offer {\n productSlug\n urlSlug\n title\n id\n namespace\n offerType\n expiryDate\n status\n isCodeRedemptionOnly\n description\n effectiveDate\n keyImages {\n type\n url\n }\n seller {\n id\n name\n }\n productSlug\n urlSlug\n items {\n id\n namespace\n }\n customAttributes {\n key\n value\n }\n catalogNs {\n mappings(pageType: &quot;productHome&quot;) {\n pageSlug\n pageType\n }\n }\n offerMappings {\n pageSlug\n pageType\n }\n categories {\n path\n }\n price(country: $country) {\n totalPrice {\n discountPrice\n originalPrice\n voucherDiscount\n discount\n fmtPrice(locale: $locale) {\n originalPrice\n discountPrice\n intermediatePrice\n }\n currencyCode\n currencyInfo {\n decimals\n symbol\n }\n }\n lineOffers {\n appliedRules {\n id\n endDate\n }\n }\n }\n }\n\n }\n }\n }\n }\n'</td></tr>
-<tr class="separator:ae5e2e836595fce2d94596629056c834c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af4ed37371dd09475000968283340b32c"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#af4ed37371dd09475000968283340b32c">add_to_wishlist_query</a> = &quot;\n mutation removeFromWishlistMutation($namespace: String!, $offerId: String!, $operation: RemoveOperation!) {\n <a class="el" href="classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist.html">Wishlist</a> {\n removeFromWishlist(namespace: $namespace, offerId: $offerId, operation: $operation) {\n success\n }\n }\n }\n&quot;</td></tr>
-<tr class="separator:af4ed37371dd09475000968283340b32c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5457742e1c3dd5de0033d10e57234bcc"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a5457742e1c3dd5de0033d10e57234bcc">remove_from_wishlist_query</a> = &quot;\n mutation removeFromWishlistMutation($namespace: String!, $offerId: String!, $operation: RemoveOperation!) {\n <a class="el" href="classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist.html">Wishlist</a> {\n removeFromWishlist(namespace: $namespace, offerId: $offerId, operation: $operation) {\n success\n }\n }\n }\n&quot;</td></tr>
-<tr class="separator:a5457742e1c3dd5de0033d10e57234bcc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa235def290b5beb8f84788c8398eca09"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa235def290b5beb8f84788c8398eca09">coupon_query</a> = &quot;\n query getCoupons($currencyCountry: String!, $identityId: String!, $locale: String) {\n CodeRedemption {\n coupons(currencyCountry: $currencyCountry, identityId: $identityId, includeSalesEventInfo: true) {\n code\n codeStatus\n codeType\n consumptionMetadata {\n amountDisplay {\n amount\n currency\n placement\n symbol\n }\n minSalesPriceDisplay {\n amount\n currency\n placement\n symbol\n }\n }\n endDate\n namespace\n salesEvent(locale: $locale) {\n eventName\n eventSlug\n voucherImages {\n type\n url\n }\n voucherLink\n }\n startDate\n }\n }\n }\n&quot;</td></tr>
-<tr class="separator:aa235def290b5beb8f84788c8398eca09"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4fcddde0f05be965bfafbf34355223d2"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a4fcddde0f05be965bfafbf34355223d2">SEARCH_STORE_QUERY</a></td></tr>
+<tr class="separator:a4fcddde0f05be965bfafbf34355223d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:accf8958e6228b3b44324a3649253bf80"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#accf8958e6228b3b44324a3649253bf80">WISHLIST_QUERY</a></td></tr>
+<tr class="separator:accf8958e6228b3b44324a3649253bf80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6a23283376f9e54960bae67e1bb68be5"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a6a23283376f9e54960bae67e1bb68be5">WISHLIST_ADD_QUERY</a></td></tr>
+<tr class="separator:a6a23283376f9e54960bae67e1bb68be5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2453978a81fd5555672efa2b77073977"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a2453978a81fd5555672efa2b77073977">WISHLIST_REMOVE_QUERY</a></td></tr>
+<tr class="separator:a2453978a81fd5555672efa2b77073977"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebe691412183743f802f5d3627a7c703"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aebe691412183743f802f5d3627a7c703">COUPONS_QUERY</a></td></tr>
+<tr class="separator:aebe691412183743f802f5d3627a7c703"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5cfa8b10d97536c6753138d55e03b080"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a5cfa8b10d97536c6753138d55e03b080">STORE_CONFIG_QUERY</a></td></tr>
+<tr class="separator:a5cfa8b10d97536c6753138d55e03b080"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a24aad1019f3383622b708a5f478d79da"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a24aad1019f3383622b708a5f478d79da">game_query</a> = <a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa98f13854d4810e48839ec7729660099">compress_query</a>(<a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a4fcddde0f05be965bfafbf34355223d2">SEARCH_STORE_QUERY</a>)</td></tr>
+<tr class="separator:a24aad1019f3383622b708a5f478d79da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a21712f679b79354e8188db066374eebd"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a21712f679b79354e8188db066374eebd">search_query</a> = <a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa98f13854d4810e48839ec7729660099">compress_query</a>(<a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a4fcddde0f05be965bfafbf34355223d2">SEARCH_STORE_QUERY</a>)</td></tr>
+<tr class="separator:a21712f679b79354e8188db066374eebd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd93a9f7f840f79fcd811e2608811574"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#acd93a9f7f840f79fcd811e2608811574">wishlist_query</a> = <a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa98f13854d4810e48839ec7729660099">compress_query</a>(<a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#accf8958e6228b3b44324a3649253bf80">WISHLIST_QUERY</a>)</td></tr>
+<tr class="separator:acd93a9f7f840f79fcd811e2608811574"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5415a7092fe0676eb1ad22017b3fbfeb"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a5415a7092fe0676eb1ad22017b3fbfeb">wishlist_add_query</a> = <a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa98f13854d4810e48839ec7729660099">compress_query</a>(<a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a6a23283376f9e54960bae67e1bb68be5">WISHLIST_ADD_QUERY</a>)</td></tr>
+<tr class="separator:a5415a7092fe0676eb1ad22017b3fbfeb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4c3d0ce51c0f1356ba6ed06d7a1e035"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#ae4c3d0ce51c0f1356ba6ed06d7a1e035">wishlist_remove_query</a> = <a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa98f13854d4810e48839ec7729660099">compress_query</a>(<a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a2453978a81fd5555672efa2b77073977">WISHLIST_REMOVE_QUERY</a>)</td></tr>
+<tr class="separator:ae4c3d0ce51c0f1356ba6ed06d7a1e035"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a746d246d8bf7e11fbd0506c6197177bb"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a746d246d8bf7e11fbd0506c6197177bb">coupons_query</a> = <a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa98f13854d4810e48839ec7729660099">compress_query</a>(<a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aebe691412183743f802f5d3627a7c703">COUPONS_QUERY</a>)</td></tr>
+<tr class="separator:a746d246d8bf7e11fbd0506c6197177bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a3b0118fdf55cafa30216d8b56cdcef"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a1a3b0118fdf55cafa30216d8b56cdcef">store_config_query</a> = <a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa98f13854d4810e48839ec7729660099">compress_query</a>(<a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a5cfa8b10d97536c6753138d55e03b080">STORE_CONFIG_QUERY</a>)</td></tr>
+<tr class="separator:a1a3b0118fdf55cafa30216d8b56cdcef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="aa98f13854d4810e48839ec7729660099" name="aa98f13854d4810e48839ec7729660099"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa98f13854d4810e48839ec7729660099">&#9670;&nbsp;</a></span>compress_query()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"> str rare.components.tabs.store.constants.compress_query </td>
+          <td>(</td>
+          <td class="paramtype">str&#160;</td>
+          <td class="paramname"><em>query</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00440">440</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
+
+</div>
+</div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="af4ed37371dd09475000968283340b32c" name="af4ed37371dd09475000968283340b32c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af4ed37371dd09475000968283340b32c">&#9670;&nbsp;</a></span>add_to_wishlist_query</h2>
+<a id="aebe691412183743f802f5d3627a7c703" name="aebe691412183743f802f5d3627a7c703"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aebe691412183743f802f5d3627a7c703">&#9670;&nbsp;</a></span>COUPONS_QUERY</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">string add_to_wishlist_query = &quot;\n mutation removeFromWishlistMutation($namespace: String!, $offerId: String!, $operation: RemoveOperation!) {\n <a class="el" href="classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist.html">Wishlist</a> {\n removeFromWishlist(namespace: $namespace, offerId: $offerId, operation: $operation) {\n success\n }\n }\n }\n&quot;</td>
+          <td class="memname">string COUPONS_QUERY</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00115">115</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00334">334</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
 
 </div>
 </div>
-<a id="aa235def290b5beb8f84788c8398eca09" name="aa235def290b5beb8f84788c8398eca09"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa235def290b5beb8f84788c8398eca09">&#9670;&nbsp;</a></span>coupon_query</h2>
+<a id="a746d246d8bf7e11fbd0506c6197177bb" name="a746d246d8bf7e11fbd0506c6197177bb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a746d246d8bf7e11fbd0506c6197177bb">&#9670;&nbsp;</a></span>coupons_query</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">string coupon_query = &quot;\n query getCoupons($currencyCountry: String!, $identityId: String!, $locale: String) {\n CodeRedemption {\n coupons(currencyCountry: $currencyCountry, identityId: $identityId, includeSalesEventInfo: true) {\n code\n codeStatus\n codeType\n consumptionMetadata {\n amountDisplay {\n amount\n currency\n placement\n symbol\n }\n minSalesPriceDisplay {\n amount\n currency\n placement\n symbol\n }\n }\n endDate\n namespace\n salesEvent(locale: $locale) {\n eventName\n eventSlug\n voucherImages {\n type\n url\n }\n voucherLink\n }\n startDate\n }\n }\n }\n&quot;</td>
+          <td class="memname">str coupons_query = <a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa98f13854d4810e48839ec7729660099">compress_query</a>(<a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aebe691412183743f802f5d3627a7c703">COUPONS_QUERY</a>)</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00117">117</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00449">449</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
 
 </div>
 </div>
-<a id="aeb6c82a670d8c9760d73abf7ed35af6f" name="aeb6c82a670d8c9760d73abf7ed35af6f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeb6c82a670d8c9760d73abf7ed35af6f">&#9670;&nbsp;</a></span>game_query</h2>
+<a id="a24aad1019f3383622b708a5f478d79da" name="a24aad1019f3383622b708a5f478d79da"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a24aad1019f3383622b708a5f478d79da">&#9670;&nbsp;</a></span>game_query</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">tuple game_query</td>
+          <td class="memname">str game_query = <a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa98f13854d4810e48839ec7729660099">compress_query</a>(<a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a4fcddde0f05be965bfafbf34355223d2">SEARCH_STORE_QUERY</a>)</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00047">47</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00444">444</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
 
 </div>
 </div>
-<a id="a5457742e1c3dd5de0033d10e57234bcc" name="a5457742e1c3dd5de0033d10e57234bcc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5457742e1c3dd5de0033d10e57234bcc">&#9670;&nbsp;</a></span>remove_from_wishlist_query</h2>
+<a id="a21712f679b79354e8188db066374eebd" name="a21712f679b79354e8188db066374eebd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a21712f679b79354e8188db066374eebd">&#9670;&nbsp;</a></span>search_query</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">string remove_from_wishlist_query = &quot;\n mutation removeFromWishlistMutation($namespace: String!, $offerId: String!, $operation: RemoveOperation!) {\n <a class="el" href="classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist.html">Wishlist</a> {\n removeFromWishlist(namespace: $namespace, offerId: $offerId, operation: $operation) {\n success\n }\n }\n }\n&quot;</td>
+          <td class="memname">str search_query = <a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa98f13854d4810e48839ec7729660099">compress_query</a>(<a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a4fcddde0f05be965bfafbf34355223d2">SEARCH_STORE_QUERY</a>)</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00116">116</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00445">445</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
 
 </div>
 </div>
-<a id="af1ba67330190cfce4226fd7fadd00698" name="af1ba67330190cfce4226fd7fadd00698"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af1ba67330190cfce4226fd7fadd00698">&#9670;&nbsp;</a></span>search_query</h2>
+<a id="a4fcddde0f05be965bfafbf34355223d2" name="a4fcddde0f05be965bfafbf34355223d2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4fcddde0f05be965bfafbf34355223d2">&#9670;&nbsp;</a></span>SEARCH_STORE_QUERY</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">tuple search_query</td>
+          <td class="memname">string SEARCH_STORE_QUERY</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00081">81</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00205">205</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
 
 </div>
 </div>
-<a id="ae5e2e836595fce2d94596629056c834c" name="ae5e2e836595fce2d94596629056c834c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae5e2e836595fce2d94596629056c834c">&#9670;&nbsp;</a></span>wishlist_query</h2>
+<a id="a5cfa8b10d97536c6753138d55e03b080" name="a5cfa8b10d97536c6753138d55e03b080"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5cfa8b10d97536c6753138d55e03b080">&#9670;&nbsp;</a></span>STORE_CONFIG_QUERY</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">string wishlist_query = '\n query wishlistQuery($country:String!, $locale:String) {\n <a class="el" href="classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist.html">Wishlist</a> {\n wishlistItems {\n elements {\n id\n order\n created\n offerId\n updated\n namespace\n \n offer {\n productSlug\n urlSlug\n title\n id\n namespace\n offerType\n expiryDate\n status\n isCodeRedemptionOnly\n description\n effectiveDate\n keyImages {\n type\n url\n }\n seller {\n id\n name\n }\n productSlug\n urlSlug\n items {\n id\n namespace\n }\n customAttributes {\n key\n value\n }\n catalogNs {\n mappings(pageType: &quot;productHome&quot;) {\n pageSlug\n pageType\n }\n }\n offerMappings {\n pageSlug\n pageType\n }\n categories {\n path\n }\n price(country: $country) {\n totalPrice {\n discountPrice\n originalPrice\n voucherDiscount\n discount\n fmtPrice(locale: $locale) {\n originalPrice\n discountPrice\n intermediatePrice\n }\n currencyCode\n currencyInfo {\n decimals\n symbol\n }\n }\n lineOffers {\n appliedRules {\n id\n endDate\n }\n }\n }\n }\n\n }\n }\n }\n }\n'</td>
+          <td class="memname">string STORE_CONFIG_QUERY</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00114">114</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00380">380</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
+
+</div>
+</div>
+<a id="a1a3b0118fdf55cafa30216d8b56cdcef" name="a1a3b0118fdf55cafa30216d8b56cdcef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a3b0118fdf55cafa30216d8b56cdcef">&#9670;&nbsp;</a></span>store_config_query</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">str store_config_query = <a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa98f13854d4810e48839ec7729660099">compress_query</a>(<a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a5cfa8b10d97536c6753138d55e03b080">STORE_CONFIG_QUERY</a>)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00450">450</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
+
+</div>
+</div>
+<a id="a6a23283376f9e54960bae67e1bb68be5" name="a6a23283376f9e54960bae67e1bb68be5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a23283376f9e54960bae67e1bb68be5">&#9670;&nbsp;</a></span>WISHLIST_ADD_QUERY</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">string WISHLIST_ADD_QUERY</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span>=  <span class="stringliteral">&#39;&#39;&#39;</span></div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="stringliteral">mutation addWishlistMutation(</span></div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="stringliteral">  $namespace: String!</span></div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="stringliteral">  $offerId: String!</span></div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="stringliteral">  $country: String!</span></div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="stringliteral">  $locale: String</span></div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="stringliteral">  $category: String</span></div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="stringliteral">  $withMapping: Boolean = false</span></div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="stringliteral">  $withPrice: Boolean = false</span></div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="stringliteral">  $withPromotions: Boolean = false</span></div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="stringliteral">) {</span></div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="stringliteral">  Wishlist {</span></div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span><span class="stringliteral">    addToWishlist(</span></div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span><span class="stringliteral">      namespace: $namespace</span></div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span><span class="stringliteral">      offerId: $offerId</span></div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span><span class="stringliteral">    ) {</span></div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span><span class="stringliteral">      wishlistItem {</span></div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="stringliteral">        %s</span></div>
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span><span class="stringliteral">      }</span></div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="stringliteral">      success</span></div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span><span class="stringliteral">    }</span></div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span><span class="stringliteral">  }</span></div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span><span class="stringliteral">}</span></div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span><span class="stringliteral">&#39;&#39;&#39; % __WISHLIST_ITEM</span></div>
+</div><!-- fragment -->
+<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00291">291</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
+
+</div>
+</div>
+<a id="a5415a7092fe0676eb1ad22017b3fbfeb" name="a5415a7092fe0676eb1ad22017b3fbfeb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5415a7092fe0676eb1ad22017b3fbfeb">&#9670;&nbsp;</a></span>wishlist_add_query</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">str wishlist_add_query = <a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa98f13854d4810e48839ec7729660099">compress_query</a>(<a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a6a23283376f9e54960bae67e1bb68be5">WISHLIST_ADD_QUERY</a>)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00447">447</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
+
+</div>
+</div>
+<a id="accf8958e6228b3b44324a3649253bf80" name="accf8958e6228b3b44324a3649253bf80"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#accf8958e6228b3b44324a3649253bf80">&#9670;&nbsp;</a></span>WISHLIST_QUERY</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">string WISHLIST_QUERY</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span>=  <span class="stringliteral">&#39;&#39;&#39;</span></div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="stringliteral">query wishlistQuery(</span></div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="stringliteral">  $country: String!</span></div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="stringliteral">  $locale: String</span></div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="stringliteral">  $category: String</span></div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="stringliteral">  $withMapping: Boolean = false</span></div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="stringliteral">  $withPrice: Boolean = false</span></div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="stringliteral">  $withPromotions: Boolean = false</span></div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="stringliteral">) {</span></div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="stringliteral">  Wishlist {</span></div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="stringliteral">    wishlistItems {</span></div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="stringliteral">      elements {</span></div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span><span class="stringliteral">        %s</span></div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span><span class="stringliteral">      }</span></div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span><span class="stringliteral">    }</span></div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span><span class="stringliteral">  }</span></div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span><span class="stringliteral">}</span></div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="stringliteral">&#39;&#39;&#39; % __WISHLIST_ITEM</span></div>
+</div><!-- fragment -->
+<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00272">272</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
+
+</div>
+</div>
+<a id="acd93a9f7f840f79fcd811e2608811574" name="acd93a9f7f840f79fcd811e2608811574"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd93a9f7f840f79fcd811e2608811574">&#9670;&nbsp;</a></span>wishlist_query</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">str wishlist_query = <a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa98f13854d4810e48839ec7729660099">compress_query</a>(<a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#accf8958e6228b3b44324a3649253bf80">WISHLIST_QUERY</a>)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00446">446</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
+
+</div>
+</div>
+<a id="a2453978a81fd5555672efa2b77073977" name="a2453978a81fd5555672efa2b77073977"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2453978a81fd5555672efa2b77073977">&#9670;&nbsp;</a></span>WISHLIST_REMOVE_QUERY</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">string WISHLIST_REMOVE_QUERY</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span>=  <span class="stringliteral">&#39;&#39;&#39;</span></div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="stringliteral">mutation removeFromWishlistMutation(</span></div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="stringliteral">  $namespace: String!</span></div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="stringliteral">  $offerId: String!</span></div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="stringliteral">  $operation: RemoveOperation!</span></div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="stringliteral">) {</span></div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="stringliteral">  Wishlist {</span></div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="stringliteral">    removeFromWishlist(</span></div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="stringliteral">      namespace: $namespace</span></div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="stringliteral">      offerId: $offerId</span></div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="stringliteral">      operation: $operation</span></div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="stringliteral">    ) {</span></div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span><span class="stringliteral">      success</span></div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span><span class="stringliteral">    }</span></div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span><span class="stringliteral">  }</span></div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span><span class="stringliteral">}</span></div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span><span class="stringliteral">&#39;&#39;&#39;</span></div>
+</div><!-- fragment -->
+<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00316">316</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
+
+</div>
+</div>
+<a id="ae4c3d0ce51c0f1356ba6ed06d7a1e035" name="ae4c3d0ce51c0f1356ba6ed06d7a1e035"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4c3d0ce51c0f1356ba6ed06d7a1e035">&#9670;&nbsp;</a></span>wishlist_remove_query</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">str wishlist_remove_query = <a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#aa98f13854d4810e48839ec7729660099">compress_query</a>(<a class="el" href="namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html#a2453978a81fd5555672efa2b77073977">WISHLIST_REMOVE_QUERY</a>)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="constants_8py_source.html#l00448">448</a> of file <a class="el" href="constants_8py_source.html">constants.py</a>.</p>
 
 </div>
 </div>

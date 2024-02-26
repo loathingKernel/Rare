@@ -148,17 +148,17 @@ var sectionId = 'dynsection-4';
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="namespacerare_1_1utils_1_1misc.html#a5b215592bbad86ea6d2c3b46280baae8" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="424.6,-202 424.6,-221 521.6,-221 521.6,-202 424.6,-202"/>
-<text text-anchor="middle" x="473.1" y="-209" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.misc.icon</text>
+<g id="a_node4"><a xlink:href="namespacerare_1_1utils_1_1misc.html#ad964a362f511f9be2d6532129e7bf731" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="415.1,-202 415.1,-221 531.1,-221 531.1,-202 415.1,-202"/>
+<text text-anchor="middle" x="473.1" y="-209" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.misc.qta_icon</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge5" class="edge">
 <title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M243.7,-211.5C287.51,-211.5 362.46,-211.5 414.5,-211.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="414.59,-215 424.59,-211.5 414.59,-208 414.59,-215"/>
+<path fill="none" stroke="midnightblue" d="M243.7,-211.5C284.87,-211.5 353.54,-211.5 404.86,-211.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="404.88,-215 414.88,-211.5 404.88,-208 404.88,-215"/>
 </g>
 <!-- Node4&#45;&gt;Node4 -->
 <g id="edge6" class="edge">

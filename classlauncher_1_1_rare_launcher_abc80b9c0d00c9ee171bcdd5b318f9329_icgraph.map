@@ -1,9 +1,7 @@
 <map id="sync_ready" name="sync_ready">
-<area shape="rect" id="node1" title=" " alt="" coords="580,271,667,298"/>
-<area shape="rect" id="node2" href="$classlauncher_1_1_rare_launcher.html#a711d1d7df9874db34971779c941c4e5e" title=" " alt="" coords="484,239,532,266"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_browse_model.html#a563276b55376fdd9f495c321c5408906" title=" " alt="" coords="227,87,436,128"/>
-<area shape="rect" id="node6" href="$classlauncher_1_1_rare_launcher.html#a62864ecc73de3f9e4a009737d0c01f01" title=" " alt="" coords="282,177,381,203"/>
-<area shape="rect" id="node7" href="$classlauncher_1_1_rare_launcher.html#ac8b8dc7f48f8405350185a34a814e908" title=" " alt="" coords="43,239,141,266"/>
-<area shape="rect" id="node4" href="$classrare_1_1models_1_1options_1_1_value.html#a45163c19b7c87f553c6f1d055d4668cb" title=" " alt="" coords="5,29,179,71"/>
-<area shape="rect" id="node5" href="$classrare_1_1models_1_1options_1_1_value.html#a810fdc262754b6d21f5acd0e280d4daf" title=" " alt="" coords="5,119,179,160"/>
+<area shape="rect" id="node1" title=" " alt="" coords="576,169,663,196"/>
+<area shape="rect" id="node2" href="$classlauncher_1_1_rare_launcher.html#a711d1d7df9874db34971779c941c4e5e" title=" " alt="" coords="480,92,528,119"/>
+<area shape="rect" id="node3" href="$classlauncher_1_1_rare_launcher.html#a62864ecc73de3f9e4a009737d0c01f01" title=" " alt="" coords="243,29,341,56"/>
+<area shape="rect" id="node4" href="$classlauncher_1_1_rare_launcher.html#ac8b8dc7f48f8405350185a34a814e908" title=" " alt="" coords="5,92,104,119"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1query_1_1_search_store_query.html#a7c6470f8f9e59994ab7b7cdf61e3860d" title=" " alt="" coords="152,179,432,221"/>
 </map>

@@ -1,11 +1,6 @@
 <map id="show_game_info" name="show_game_info">
-<area shape="rect" id="node1" title=" " alt="" coords="833,181,953,208"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a18eb918c38e326a54666699b7ba4b686" title=" " alt="" coords="607,112,736,139"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist.html#a7121fb58d29cad3edf2ebb23d073256a" title=" " alt="" coords="557,215,785,257"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a37be1d1b33c53f64209fe3f0f70984a5" title=" " alt="" coords="337,57,454,84"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="76,29,163,56"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist.html#a1588283f05f1e5890f0e0dab63904ece" title=" " alt="" coords="281,215,509,257"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__api__core_1_1_shop_api_core.html#a0ed8f09084c5b3f678964c952b4995fd" title=" " alt="" coords="15,104,224,160"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist.html#af3c7e539406b02c61ba2f2217a5cdf17" title=" " alt="" coords="5,313,233,354"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__api__core_1_1_shop_api_core.html#a2c92258495c9a5c9f54e517068ed965b" title=" " alt="" coords="15,208,224,264"/>
+<area shape="rect" id="node1" title=" " alt="" coords="483,29,603,56"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a18eb918c38e326a54666699b7ba4b686" title=" " alt="" coords="305,29,435,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a37be1d1b33c53f64209fe3f0f70984a5" title=" " alt="" coords="140,29,257,56"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="5,29,92,56"/>
 </map>

@@ -1,10 +1,7 @@
 <map id="setup_game_list" name="setup_game_list">
-<area shape="rect" id="node1" title=" " alt="" coords="5,153,123,179"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a18eb918c38e326a54666699b7ba4b686" title=" " alt="" coords="179,78,309,105"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a8a1574526807e2c5a756f47d92de489d" title=" " alt="" coords="198,153,290,179"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a2efffcc49dcc1c9f2d26040e865a660b" title=" " alt="" coords="171,228,317,269"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1store_1_1_shop.html#adce81273b921608423370102d510bcab" title=" " alt="" coords="365,29,547,71"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a09ad02746b43edc7bbeade971378aa4e" title=" " alt="" coords="396,119,516,146"/>
-<area shape="rect" id="node4" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a98a895468c8036bb8122dd2c568d91e7" title=" " alt="" coords="595,29,757,71"/>
-<area shape="rect" id="node5" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a66bb1af90088807e5445bcf242390463" title=" " alt="" coords="805,29,971,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,123,131"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a18eb918c38e326a54666699b7ba4b686" title=" " alt="" coords="179,29,309,56"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a8a1574526807e2c5a756f47d92de489d" title=" " alt="" coords="198,104,290,131"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a2efffcc49dcc1c9f2d26040e865a660b" title=" " alt="" coords="171,179,317,221"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a09ad02746b43edc7bbeade971378aa4e" title=" " alt="" coords="365,29,485,56"/>
 </map>

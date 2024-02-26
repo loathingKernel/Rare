@@ -1,4 +1,23 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,113,32"/>
-<area shape="rect" id="node2" href="$classlauncher_1_1console__dialog_1_1_console_edit.html" title=" " alt="" coords="161,5,252,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,477,76,504"/>
+<area shape="rect" id="node2" href="$classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog_result.html" title=" " alt="" coords="136,5,293,32"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group_1_1_move_direction.html" title=" " alt="" coords="124,56,305,83"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_result_code.html" title=" " alt="" coords="164,107,265,133"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_result.html" title=" " alt="" coords="167,157,263,184"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_activation_states.html" title=" " alt="" coords="155,208,274,235"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_filter.html" title=" " alt="" coords="166,259,263,285"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_order.html" title=" " alt="" coords="165,309,265,336"/>
+<area shape="rect" id="node9" href="$classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_ret_1_1_return_code.html" title=" " alt="" coords="127,361,302,402"/>
+<area shape="rect" id="node10" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_state.html" title=" " alt="" coords="141,427,289,453"/>
+<area shape="rect" id="node11" href="$classrare_1_1models_1_1library_1_1_library_filter.html" title=" " alt="" coords="169,477,260,504"/>
+<area shape="rect" id="node12" href="$classrare_1_1models_1_1library_1_1_library_order.html" title=" " alt="" coords="168,528,261,555"/>
+<area shape="rect" id="node13" href="$classrare_1_1models_1_1library_1_1_library_view.html" title=" " alt="" coords="169,579,260,605"/>
+<area shape="rect" id="node14" href="$classrare_1_1models_1_1wrapper_1_1_wrapper_type.html" title=" " alt="" coords="165,629,264,656"/>
+<area shape="rect" id="node15" href="$classrare_1_1shared_1_1game__process_1_1_game_process_1_1_code.html" title=" " alt="" coords="145,680,284,707"/>
+<area shape="rect" id="node16" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker_1_1_result.html" title=" " alt="" coords="147,731,283,757"/>
+<area shape="rect" id="node17" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_state.html" title=" " alt="" coords="149,781,281,808"/>
+<area shape="rect" id="node18" href="$classrare_1_1utils_1_1misc_1_1_exit_codes.html" title=" " alt="" coords="175,832,255,859"/>
+<area shape="rect" id="node19" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons.html" title="Empty enumeration with auto&#45;generated enumeration values." alt="" coords="153,883,276,909"/>
+<area shape="rect" id="node21" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_common.html" title=" " alt="" coords="127,933,302,960"/>
+<area shape="rect" id="node20" href="$classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_path_edit_reasons.html" title=" " alt="" coords="353,883,508,909"/>
 </map>

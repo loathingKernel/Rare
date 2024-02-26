@@ -43,9 +43,9 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="namespacerare_1_1utils_1_1misc.html#a5b215592bbad86ea6d2c3b46280baae8" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="104,-202 104,-221 201,-221 201,-202 104,-202"/>
-<text text-anchor="middle" x="152.5" y="-209" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.misc.icon</text>
+<g id="a_node3"><a xlink:href="namespacerare_1_1utils_1_1misc.html#ad964a362f511f9be2d6532129e7bf731" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="94.5,-202 94.5,-221 210.5,-221 210.5,-202 94.5,-202"/>
+<text text-anchor="middle" x="152.5" y="-209" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.misc.qta_icon</text>
 </a>
 </g>
 </g>

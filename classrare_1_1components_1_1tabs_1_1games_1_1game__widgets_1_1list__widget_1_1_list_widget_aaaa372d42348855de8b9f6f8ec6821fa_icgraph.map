@@ -1,7 +1,4 @@
 <map id="translateUi" name="translateUi">
-<area shape="rect" id="node1" title=" " alt="" coords="381,126,467,153"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget.html#a70938cd70d473d7134d3d1db007bd152" title=" " alt="" coords="267,126,333,153"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1store_1_1game__widgets_1_1_wishlist_widget.html#aaf4cb9438a28e8adf5ce5688b3ecfd8a" title=" " alt="" coords="5,29,219,71"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1store_1_1game__info_1_1_shop_game_info.html#a29a291f309008da678d2551f9ab331ec" title=" " alt="" coords="5,119,219,160"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_shop_widget.html#a8bc04b4161e827e1383dfb3803cc57a3" title=" " alt="" coords="7,208,217,249"/>
+<area shape="rect" id="node1" title=" " alt="" coords="120,29,205,56"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget.html#a70938cd70d473d7134d3d1db007bd152" title=" " alt="" coords="5,29,72,56"/>
 </map>

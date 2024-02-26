@@ -227,43 +227,104 @@ var annotated_dup =
                 [ "WrapperContainer", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_container.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_container" ],
                 [ "WrapperEditDialog", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_edit_dialog.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_edit_dialog" ],
                 [ "WrapperSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings" ],
+                [ "WrapperSettingsScroll", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings_scroll.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings_scroll" ],
                 [ "WrapperWidget", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_widget.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_widget" ]
               ] ]
             ] ],
             [ "SettingsTab", "classrare_1_1components_1_1tabs_1_1settings_1_1_settings_tab.html", "classrare_1_1components_1_1tabs_1_1settings_1_1_settings_tab" ]
           ] ],
           [ "store", "namespacerare_1_1components_1_1tabs_1_1store.html", [
+            [ "__main__", "namespacerare_1_1components_1_1tabs_1_1store_1_1____main____.html", [
+              [ "StoreWindow", "classrare_1_1components_1_1tabs_1_1store_1_1____main_____1_1_store_window.html", "classrare_1_1components_1_1tabs_1_1store_1_1____main_____1_1_store_window" ]
+            ] ],
+            [ "api", "namespacerare_1_1components_1_1tabs_1_1store_1_1api.html", [
+              [ "debug", "namespacerare_1_1components_1_1tabs_1_1store_1_1api_1_1debug.html", [
+                [ "DebugDialog", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1debug_1_1_debug_dialog.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1debug_1_1_debug_dialog" ],
+                [ "DebugView", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1debug_1_1_debug_view.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1debug_1_1_debug_view" ]
+              ] ],
+              [ "models", "namespacerare_1_1components_1_1tabs_1_1store_1_1api_1_1models.html", [
+                [ "diesel", "namespacerare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel.html", [
+                  [ "DieselProduct", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_product.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_product" ],
+                  [ "DieselProductAbout", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_product_about.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_product_about" ],
+                  [ "DieselProductDetail", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_product_detail.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_product_detail" ],
+                  [ "DieselSystemDetail", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_system_detail.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_system_detail" ],
+                  [ "DieselSystemDetailItem", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_system_detail_item.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_system_detail_item" ],
+                  [ "DieselSystemDetails", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_system_details.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_system_details" ]
+                ] ],
+                [ "query", "namespacerare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1query.html", [
+                  [ "SearchDateRange", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1query_1_1_search_date_range.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1query_1_1_search_date_range" ],
+                  [ "SearchStoreQuery", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1query_1_1_search_store_query.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1query_1_1_search_store_query" ]
+                ] ],
+                [ "response", "namespacerare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response.html", [
+                  [ "AddToWishlistModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_add_to_wishlist_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_add_to_wishlist_model" ],
+                  [ "CatalogModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_catalog_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_catalog_model" ],
+                  [ "CatalogOfferModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_catalog_offer_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_catalog_offer_model" ],
+                  [ "DataModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_data_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_data_model" ],
+                  [ "ErrorModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_error_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_error_model" ],
+                  [ "ExtensionsModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_extensions_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_extensions_model" ],
+                  [ "GetPriceResModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_get_price_res_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_get_price_res_model" ],
+                  [ "ImageUrlModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_image_url_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_image_url_model" ],
+                  [ "KeyImagesModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_key_images_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_key_images_model" ],
+                  [ "PagingModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_paging_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_paging_model" ],
+                  [ "PromotionalOfferModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_promotional_offer_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_promotional_offer_model" ],
+                  [ "PromotionalOffersModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_promotional_offers_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_promotional_offers_model" ],
+                  [ "PromotionsModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_promotions_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_promotions_model" ],
+                  [ "RemoveFromWishlistModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_remove_from_wishlist_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_remove_from_wishlist_model" ],
+                  [ "ResponseModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_response_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_response_model" ],
+                  [ "SearchStoreModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_search_store_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_search_store_model" ],
+                  [ "TotalPriceModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_total_price_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_total_price_model" ],
+                  [ "WishlistItemModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_wishlist_item_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_wishlist_item_model" ],
+                  [ "WishlistItemsModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_wishlist_items_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_wishlist_items_model" ],
+                  [ "WishlistModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_wishlist_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_wishlist_model" ]
+                ] ]
+              ] ]
+            ] ],
             [ "constants", "namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html", [
               [ "Constants", "classrare_1_1components_1_1tabs_1_1store_1_1constants_1_1_constants.html", "classrare_1_1components_1_1tabs_1_1store_1_1constants_1_1_constants" ]
             ] ],
-            [ "game_info", "namespacerare_1_1components_1_1tabs_1_1store_1_1game__info.html", [
-              [ "ShopGameInfo", "classrare_1_1components_1_1tabs_1_1store_1_1game__info_1_1_shop_game_info.html", "classrare_1_1components_1_1tabs_1_1store_1_1game__info_1_1_shop_game_info" ],
-              [ "SocialButton", "classrare_1_1components_1_1tabs_1_1store_1_1game__info_1_1_social_button.html", "classrare_1_1components_1_1tabs_1_1store_1_1game__info_1_1_social_button" ]
+            [ "landing", "namespacerare_1_1components_1_1tabs_1_1store_1_1landing.html", [
+              [ "FreeGamesScroll", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_free_games_scroll.html", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_free_games_scroll" ],
+              [ "LandingPage", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_page.html", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_page" ],
+              [ "LandingWidget", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_widget" ]
             ] ],
-            [ "game_widgets", "namespacerare_1_1components_1_1tabs_1_1store_1_1game__widgets.html", [
-              [ "GameWidget", "classrare_1_1components_1_1tabs_1_1store_1_1game__widgets_1_1_game_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1game__widgets_1_1_game_widget" ],
-              [ "WishlistWidget", "classrare_1_1components_1_1tabs_1_1store_1_1game__widgets_1_1_wishlist_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1game__widgets_1_1_wishlist_widget" ]
+            [ "results", "namespacerare_1_1components_1_1tabs_1_1store_1_1results.html", [
+              [ "ResultsWidget", "classrare_1_1components_1_1tabs_1_1store_1_1results_1_1_results_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1results_1_1_results_widget" ]
             ] ],
-            [ "search_results", "namespacerare_1_1components_1_1tabs_1_1store_1_1search__results.html", [
-              [ "_SearchResultItem", "classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1___search_result_item.html", "classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1___search_result_item" ],
-              [ "SearchResults", "classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1_search_results.html", "classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1_search_results" ]
+            [ "search", "namespacerare_1_1components_1_1tabs_1_1store_1_1search.html", [
+              [ "CheckBox", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_check_box.html", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_check_box" ],
+              [ "SearchPage", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_page.html", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_page" ],
+              [ "SearchWidget", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_widget" ]
             ] ],
-            [ "shop_api_core", "namespacerare_1_1components_1_1tabs_1_1store_1_1shop__api__core.html", [
-              [ "ShopApiCore", "classrare_1_1components_1_1tabs_1_1store_1_1shop__api__core_1_1_shop_api_core.html", "classrare_1_1components_1_1tabs_1_1store_1_1shop__api__core_1_1_shop_api_core" ]
+            [ "store_api", "namespacerare_1_1components_1_1tabs_1_1store_1_1store__api.html", [
+              [ "StoreAPI", "classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html", "classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i" ]
             ] ],
-            [ "shop_models", "namespacerare_1_1components_1_1tabs_1_1store_1_1shop__models.html", [
-              [ "BrowseModel", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_browse_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_browse_model" ],
-              [ "ImageUrlModel", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_image_url_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_image_url_model" ],
-              [ "ShopGame", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_shop_game.html", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_shop_game" ]
-            ] ],
-            [ "shop_widget", "namespacerare_1_1components_1_1tabs_1_1store_1_1shop__widget.html", [
-              [ "CheckBox", "classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_check_box.html", "classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_check_box" ],
-              [ "ShopWidget", "classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_shop_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_shop_widget" ]
+            [ "widgets", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets.html", [
+              [ "details", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details.html", [
+                [ "DetailsWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_details_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_details_widget" ],
+                [ "RequirementsWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_requirements_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_requirements_widget" ],
+                [ "SocialButton", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_social_button.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_social_button" ]
+              ] ],
+              [ "groups", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets_1_1groups.html", [
+                [ "StoreGroup", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1groups_1_1_store_group.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1groups_1_1_store_group" ]
+              ] ],
+              [ "image", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image.html", [
+                [ "IconWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image_1_1_icon_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image_1_1_icon_widget" ],
+                [ "LoadingImageWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image_1_1_loading_image_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image_1_1_loading_image_widget" ]
+              ] ],
+              [ "items", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items.html", [
+                [ "ItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_item_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_item_widget" ],
+                [ "ResultsItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_results_item_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_results_item_widget" ],
+                [ "StoreItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_store_item_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_store_item_widget" ],
+                [ "WishlistItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_wishlist_item_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_wishlist_item_widget" ]
+              ] ]
             ] ],
             [ "wishlist", "namespacerare_1_1components_1_1tabs_1_1store_1_1wishlist.html", [
-              [ "Wishlist", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist.html", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist" ]
+              [ "WishlistFilter", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_filter.html", null ],
+              [ "WishlistOrder", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_order.html", null ],
+              [ "WishlistPage", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_page.html", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_page" ],
+              [ "WishlistWidget", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_widget" ]
             ] ],
-            [ "Shop", "classrare_1_1components_1_1tabs_1_1store_1_1_shop.html", "classrare_1_1components_1_1tabs_1_1store_1_1_shop" ]
+            [ "StoreTab", "classrare_1_1components_1_1tabs_1_1store_1_1_store_tab.html", "classrare_1_1components_1_1tabs_1_1store_1_1_store_tab" ]
           ] ],
           [ "tab_widgets", "namespacerare_1_1components_1_1tabs_1_1tab__widgets.html", [
             [ "MainTabBar", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_main_tab_bar.html", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_main_tab_bar" ],
@@ -420,6 +481,13 @@ var annotated_dup =
         ] ]
       ] ],
       [ "ui", "namespacerare_1_1ui.html", [
+        [ "commands", "namespacerare_1_1ui_1_1commands.html", [
+          [ "launcher", "namespacerare_1_1ui_1_1commands_1_1launcher.html", [
+            [ "console_env", "namespacerare_1_1ui_1_1commands_1_1launcher_1_1console__env.html", [
+              [ "Ui_ConsoleEnv", "classrare_1_1ui_1_1commands_1_1launcher_1_1console__env_1_1_ui___console_env.html", "classrare_1_1ui_1_1commands_1_1launcher_1_1console__env_1_1_ui___console_env" ]
+            ] ]
+          ] ]
+        ] ],
         [ "components", "namespacerare_1_1ui_1_1components.html", [
           [ "dialogs", "namespacerare_1_1ui_1_1components_1_1dialogs.html", [
             [ "install_dialog", "namespacerare_1_1ui_1_1components_1_1dialogs_1_1install__dialog.html", [
@@ -511,24 +579,24 @@ var annotated_dup =
               ] ]
             ] ],
             [ "store", "namespacerare_1_1ui_1_1components_1_1tabs_1_1store.html", [
-              [ "shop_game_info", "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1shop__game__info.html", [
-                [ "Ui_shop_info", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1shop__game__info_1_1_ui__shop__info.html", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1shop__game__info_1_1_ui__shop__info" ]
+              [ "details", "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1details.html", [
+                [ "Ui_DetailsWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___details_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___details_widget" ]
               ] ],
-              [ "store", "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1store.html", [
-                [ "Ui_ShopWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1store_1_1_ui___shop_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1store_1_1_ui___shop_widget" ]
+              [ "landing", "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1landing.html", [
+                [ "Ui_LandingWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1landing_1_1_ui___landing_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1landing_1_1_ui___landing_widget" ]
+              ] ],
+              [ "search", "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1search.html", [
+                [ "Ui_SearchWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1search_1_1_ui___search_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1search_1_1_ui___search_widget" ]
+              ] ],
+              [ "widgets", "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1widgets.html", [
+                [ "wishlist_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1widgets_1_1wishlist__widget.html", [
+                  [ "Ui_WishlistWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1widgets_1_1wishlist__widget_1_1_ui___wishlist_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1widgets_1_1wishlist__widget_1_1_ui___wishlist_widget" ]
+                ] ]
               ] ],
               [ "wishlist", "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist.html", [
                 [ "Ui_Wishlist", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist.html", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist" ]
-              ] ],
-              [ "wishlist_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget.html", [
-                [ "Ui_WishlistWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist__widget_1_1_ui___wishlist_widget" ]
               ] ]
             ] ]
-          ] ]
-        ] ],
-        [ "launcher", "namespacerare_1_1ui_1_1launcher.html", [
-          [ "console_env", "namespacerare_1_1ui_1_1launcher_1_1console__env.html", [
-            [ "Ui_ConsoleEnv", "classrare_1_1ui_1_1launcher_1_1console__env_1_1_ui___console_env.html", "classrare_1_1ui_1_1launcher_1_1console__env_1_1_ui___console_env" ]
           ] ]
         ] ]
       ] ],

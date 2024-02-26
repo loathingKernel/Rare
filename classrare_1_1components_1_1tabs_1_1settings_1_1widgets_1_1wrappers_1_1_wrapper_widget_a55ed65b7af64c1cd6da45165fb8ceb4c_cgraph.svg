@@ -57,9 +57,9 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="namespacerare_1_1utils_1_1misc.html#a5b215592bbad86ea6d2c3b46280baae8" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="106,-68 106,-87 203,-87 203,-68 106,-68"/>
-<text text-anchor="middle" x="154.5" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.misc.icon</text>
+<g id="a_node4"><a xlink:href="namespacerare_1_1utils_1_1misc.html#ad964a362f511f9be2d6532129e7bf731" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="96.5,-68 96.5,-87 212.5,-87 212.5,-68 96.5,-68"/>
+<text text-anchor="middle" x="154.5" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.misc.qta_icon</text>
 </a>
 </g>
 </g>

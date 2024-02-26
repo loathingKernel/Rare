@@ -74,10 +74,10 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_check_box.html#a8b64389a338c017bf6d5987eda346be6" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="128.49,-0.5 128.49,-30.5 287.49,-30.5 287.49,-0.5 128.49,-0.5"/>
-<text text-anchor="start" x="136.49" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.shop</text>
-<text text-anchor="middle" x="207.99" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_widget.CheckBox.handle_toggle</text>
+<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_check_box.html#a8b64389a338c017bf6d5987eda346be6" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="124.49,-0.5 124.49,-30.5 291.49,-30.5 291.49,-0.5 124.49,-0.5"/>
+<text text-anchor="start" x="132.49" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.search.</text>
+<text text-anchor="middle" x="207.99" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">CheckBox.handle_toggle</text>
 </a>
 </g>
 </g>

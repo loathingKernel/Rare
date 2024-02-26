@@ -104,18 +104,18 @@ var sectionId = 'dynsection-85';
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1game__info_1_1_shop_game_info.html#a4f57f5554cceb40e5b1bb5c4e285dfd8" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="136,-394 136,-424 302,-424 302,-394 136,-394"/>
-<text text-anchor="start" x="144" y="-412" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.game</text>
-<text text-anchor="middle" x="219" y="-401" font-family="Helvetica,sans-Serif" font-size="10.00">_info.ShopGameInfo.update_game</text>
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_details_widget.html#aa2789e0a61560857f94bc1e1569bc12b" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="117.5,-394 117.5,-424 320.5,-424 320.5,-394 117.5,-394"/>
+<text text-anchor="start" x="125.5" y="-412" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.widgets.details.</text>
+<text text-anchor="middle" x="219" y="-401" font-family="Helvetica,sans-Serif" font-size="10.00">DetailsWidget.update_game</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M43.63,-284.74C52.24,-306.44 76.08,-358.91 114,-385 117.99,-387.74 122.25,-390.18 126.68,-392.34"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="125.41,-395.61 135.98,-396.39 128.21,-389.19 125.41,-395.61"/>
+<path fill="none" stroke="midnightblue" d="M43.63,-284.74C52.24,-306.44 76.08,-358.91 114,-385 116.28,-386.57 118.65,-388.04 121.09,-389.41"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="119.7,-392.63 130.21,-393.98 122.84,-386.37 119.7,-392.63"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
