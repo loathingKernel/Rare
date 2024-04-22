@@ -222,7 +222,7 @@ $(document).ready(function(){initNavTree('core_8py_source.html',''); initResizab
 <div class="line"><a id="l00133" name="l00133"></a><span class="lineno">  133</span> </div>
 <div class="line"><a id="l00134" name="l00134"></a><span class="lineno">  134</span>        <span class="comment"># create guid if it&#39;s not set already</span></div>
 <div class="line"><a id="l00135" name="l00135"></a><span class="lineno">  135</span>        <span class="keywordflow">if</span> <span class="keywordflow">not</span> lgd_igame.egl_guid:</div>
-<div class="line"><a id="l00136" name="l00136"></a><span class="lineno">  136</span>            lgd_igame.egl_guid = str(uuid4()).replace(<span class="stringliteral">&#39;-&#39;</span>, <span class="stringliteral">&#39;&#39;</span>).upper()</div>
+<div class="line"><a id="l00136" name="l00136"></a><span class="lineno">  136</span>            lgd_igame.egl_guid = <a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(uuid4()).replace(<span class="stringliteral">&#39;-&#39;</span>, <span class="stringliteral">&#39;&#39;</span>).upper()</div>
 <div class="line"><a id="l00137" name="l00137"></a><span class="lineno">  137</span>            _ = self._install_game(lgd_igame)</div>
 <div class="line"><a id="l00138" name="l00138"></a><span class="lineno">  138</span>        <span class="comment"># convert to egl manifest</span></div>
 <div class="line"><a id="l00139" name="l00139"></a><span class="lineno">  139</span>        egl_game = EGLManifest.from_lgd_game(lgd_game, lgd_igame)</div>
@@ -297,6 +297,7 @@ $(document).ready(function(){initNavTree('core_8py_source.html',''); initResizab
 <div class="ttc" id="anamespacerare_1_1lgndr_1_1downloader_1_1mp_1_1manager_html"><div class="ttname"><a href="namespacerare_1_1lgndr_1_1downloader_1_1mp_1_1manager.html">rare.lgndr.downloader.mp.manager</a></div><div class="ttdef"><b>Definition:</b> <a href="manager_8py_source.html#l00001">manager.py:1</a></div></div>
 <div class="ttc" id="anamespacerare_1_1lgndr_1_1glue_1_1exception_html"><div class="ttname"><a href="namespacerare_1_1lgndr_1_1glue_1_1exception.html">rare.lgndr.glue.exception</a></div><div class="ttdef"><b>Definition:</b> <a href="exception_8py_source.html#l00001">exception.py:1</a></div></div>
 <div class="ttc" id="anamespacerare_1_1lgndr_1_1lfs_1_1lgndry_html"><div class="ttname"><a href="namespacerare_1_1lgndr_1_1lfs_1_1lgndry.html">rare.lgndr.lfs.lgndry</a></div><div class="ttdef"><b>Definition:</b> <a href="lgndry_8py_source.html#l00001">lgndry.py:1</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_1_1compat_1_1wine_html_a4b99ff73a8a869319570237b5c57ab03"><div class="ttname"><a href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">rare.utils.compat.wine.str</a></div><div class="ttdeci">str</div><div class="ttdef"><b>Definition:</b> <a href="utils_2compat_2wine_8py_source.html#l00012">wine.py:12</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

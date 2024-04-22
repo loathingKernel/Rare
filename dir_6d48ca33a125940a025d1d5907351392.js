@@ -1,23 +1,22 @@
 var dir_6d48ca33a125940a025d1d5907351392 =
 [
+    [ "api", "dir_d650ceadcf10ae44991aafe6220c6d2d.html", "dir_d650ceadcf10ae44991aafe6220c6d2d" ],
+    [ "widgets", "dir_091510dd139cf951c34e74a720f061b2.html", "dir_091510dd139cf951c34e74a720f061b2" ],
     [ "__init__.py", "components_2tabs_2store_2____init_____8py.html", [
-      [ "Shop", "classrare_1_1components_1_1tabs_1_1store_1_1_shop.html", "classrare_1_1components_1_1tabs_1_1store_1_1_shop" ]
+      [ "StoreTab", "classrare_1_1components_1_1tabs_1_1store_1_1_store_tab.html", "classrare_1_1components_1_1tabs_1_1store_1_1_store_tab" ]
     ] ],
+    [ "__main__.py", "components_2tabs_2store_2____main_____8py.html", "components_2tabs_2store_2____main_____8py" ],
     [ "constants.py", "constants_8py.html", "constants_8py" ],
-    [ "game_info.py", "components_2tabs_2store_2game__info_8py.html", "components_2tabs_2store_2game__info_8py" ],
-    [ "game_widgets.py", "game__widgets_8py.html", "game__widgets_8py" ],
-    [ "search_results.py", "search__results_8py.html", [
-      [ "SearchResults", "classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1_search_results.html", "classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1_search_results" ],
-      [ "_SearchResultItem", "classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1___search_result_item.html", "classrare_1_1components_1_1tabs_1_1store_1_1search__results_1_1___search_result_item" ]
+    [ "landing.py", "components_2tabs_2store_2landing_8py.html", "components_2tabs_2store_2landing_8py" ],
+    [ "results.py", "results_8py.html", [
+      [ "ResultsWidget", "classrare_1_1components_1_1tabs_1_1store_1_1results_1_1_results_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1results_1_1_results_widget" ]
     ] ],
-    [ "shop_api_core.py", "shop__api__core_8py.html", "shop__api__core_8py" ],
-    [ "shop_models.py", "shop__models_8py.html", [
-      [ "ImageUrlModel", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_image_url_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_image_url_model" ],
-      [ "ShopGame", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_shop_game.html", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_shop_game" ],
-      [ "BrowseModel", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_browse_model.html", "classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_browse_model" ]
-    ] ],
-    [ "shop_widget.py", "shop__widget_8py.html", "shop__widget_8py" ],
+    [ "search.py", "components_2tabs_2store_2search_8py.html", "components_2tabs_2store_2search_8py" ],
+    [ "store_api.py", "store__api_8py.html", "store__api_8py" ],
     [ "wishlist.py", "components_2tabs_2store_2wishlist_8py.html", [
-      [ "Wishlist", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist.html", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist" ]
+      [ "WishlistPage", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_page.html", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_page" ],
+      [ "WishlistOrder", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_order.html", null ],
+      [ "WishlistFilter", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_filter.html", null ],
+      [ "WishlistWidget", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_widget" ]
     ] ]
 ];

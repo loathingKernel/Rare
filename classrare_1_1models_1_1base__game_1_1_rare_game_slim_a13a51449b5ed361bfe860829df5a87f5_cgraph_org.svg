@@ -365,34 +365,34 @@
 <!-- Node15 -->
 <g id="node15" class="node">
 <title>Node15</title>
-<g id="a_node15"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="549.5,-407 549.5,-437 679.5,-437 679.5,-407 549.5,-407"/>
-<text text-anchor="start" x="557.5" y="-425" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.rare_core.Rare</text>
-<text text-anchor="middle" x="614.5" y="-414" font-family="Helvetica,sans-Serif" font-size="10.00">Core.signals</text>
+<g id="a_node15"><a xlink:href="classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="547,-407 547,-437 682,-437 682,-407 547,-407"/>
+<text text-anchor="start" x="555" y="-425" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.workers.worker.</text>
+<text text-anchor="middle" x="614.5" y="-414" font-family="Helvetica,sans-Serif" font-size="10.00">Worker.signals</text>
 </a>
 </g>
 </g>
 <!-- Node14&#45;&gt;Node15 -->
 <g id="edge37" class="edge">
 <title>Node14&#45;&gt;Node15</title>
-<path fill="none" stroke="midnightblue" d="M412.9,-375.51C445.5,-383.06 496.9,-394.98 539.52,-404.85"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="538.77,-408.27 549.3,-407.12 540.35,-401.45 538.77,-408.27"/>
+<path fill="none" stroke="midnightblue" d="M412.9,-375.51C445.26,-383.01 496.17,-394.81 538.61,-404.64"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="537.82,-408.05 548.35,-406.9 539.4,-401.23 537.82,-408.05"/>
 </g>
 <!-- Node16 -->
 <g id="node16" class="node">
 <title>Node16</title>
-<g id="a_node16"><a xlink:href="classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="547,-340 547,-370 682,-370 682,-340 547,-340"/>
-<text text-anchor="start" x="555" y="-358" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.workers.worker.</text>
-<text text-anchor="middle" x="614.5" y="-347" font-family="Helvetica,sans-Serif" font-size="10.00">Worker.signals</text>
+<g id="a_node16"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="549.5,-340 549.5,-370 679.5,-370 679.5,-340 549.5,-340"/>
+<text text-anchor="start" x="557.5" y="-358" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.rare_core.Rare</text>
+<text text-anchor="middle" x="614.5" y="-347" font-family="Helvetica,sans-Serif" font-size="10.00">Core.signals</text>
 </a>
 </g>
 </g>
 <!-- Node14&#45;&gt;Node16 -->
 <g id="edge39" class="edge">
 <title>Node14&#45;&gt;Node16</title>
-<path fill="none" stroke="midnightblue" d="M412.9,-366.19C444.78,-364.41 494.66,-361.63 536.7,-359.28"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="537.14,-362.77 546.93,-358.71 536.75,-355.78 537.14,-362.77"/>
+<path fill="none" stroke="midnightblue" d="M412.9,-366.19C445.43,-364.38 496.69,-361.52 539.25,-359.14"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="539.51,-362.63 549.3,-358.58 539.12,-355.64 539.51,-362.63"/>
 </g>
 <!-- Node15&#45;&gt;Node15 -->
 <g id="edge38" class="edge">

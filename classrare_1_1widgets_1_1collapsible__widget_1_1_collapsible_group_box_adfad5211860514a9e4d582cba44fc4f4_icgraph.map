@@ -1,6 +1,7 @@
 <map id="isChecked" name="isChecked">
-<area shape="rect" id="node1" title=" " alt="" coords="537,80,620,107"/>
-<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_group_box.html#a4ed8bcc9eb5ab123f74ac79da45edb6a" title=" " alt="" coords="359,29,408,56"/>
+<area shape="rect" id="node1" title=" " alt="" coords="616,121,699,148"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_group_box.html#a4ed8bcc9eb5ab123f74ac79da45edb6a" title=" " alt="" coords="398,29,447,56"/>
 <area shape="rect" id="node3" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base.html#a58e1dc91f8780e6ffd61ed5fdc02b6cd" title=" " alt="" coords="5,47,229,89"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_check_box.html#a8b64389a338c017bf6d5987eda346be6" title=" " alt="" coords="277,155,489,197"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_check_box.html#a1b9dac79dca566ffa569aceebef8a554" title=" " alt="" coords="277,155,568,197"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_check_box.html#a8b64389a338c017bf6d5987eda346be6" title=" " alt="" coords="311,245,534,286"/>
 </map>

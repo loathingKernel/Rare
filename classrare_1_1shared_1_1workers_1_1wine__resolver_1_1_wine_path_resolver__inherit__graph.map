@@ -1,0 +1,7 @@
+<map id="WinePathResolver" name="WinePathResolver">
+<area shape="rect" id="node1" title=" " alt="" coords="87,315,216,451"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_origin_wine_worker.html" title=" " alt="" coords="5,499,132,605"/>
+<area shape="rect" id="node5" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_save_path_resolver.html" title=" " alt="" coords="156,506,315,598"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html" title="Base QRunnable class." alt="" coords="108,131,195,267"/>
+<area shape="rect" id="node3" title=" " alt="" coords="108,5,195,83"/>
+</map>

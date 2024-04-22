@@ -2,8 +2,8 @@ var dir_95eb7cbc278b6940b3a753cb740a708a =
 [
     [ "__init__.py", "models_2____init_____8py.html", null ],
     [ "base_game.py", "base__game_8py.html", "base__game_8py" ],
-    [ "game.py", "game_8py.html", "game_8py" ],
-    [ "image.py", "image_8py.html", [
+    [ "game.py", "models_2game_8py.html", "models_2game_8py" ],
+    [ "image.py", "models_2image_8py.html", [
       [ "Orientation", "classrare_1_1models_1_1image_1_1_orientation.html", null ],
       [ "ImageSize", "classrare_1_1models_1_1image_1_1_image_size.html", "classrare_1_1models_1_1image_1_1_image_size" ],
       [ "ImageSize.Preset", "classrare_1_1models_1_1image_1_1_image_size_1_1_preset.html", "classrare_1_1models_1_1image_1_1_image_size_1_1_preset" ]
@@ -24,6 +24,12 @@ var dir_95eb7cbc278b6940b3a753cb740a708a =
       [ "StateChangedModel.States", "classrare_1_1models_1_1launcher_1_1_state_changed_model_1_1_states.html", null ],
       [ "ErrorModel", "classrare_1_1models_1_1launcher_1_1_error_model.html", "classrare_1_1models_1_1launcher_1_1_error_model" ]
     ] ],
+    [ "library.py", "library_8py.html", [
+      [ "LibraryView", "classrare_1_1models_1_1library_1_1_library_view.html", null ],
+      [ "LibraryFilter", "classrare_1_1models_1_1library_1_1_library_filter.html", null ],
+      [ "LibraryOrder", "classrare_1_1models_1_1library_1_1_library_order.html", null ]
+    ] ],
+    [ "options.py", "options_8py.html", "options_8py" ],
     [ "pathspec.py", "pathspec_8py.html", [
       [ "PathSpec", "classrare_1_1models_1_1pathspec_1_1_path_spec.html", "classrare_1_1models_1_1pathspec_1_1_path_spec" ]
     ] ],
@@ -33,5 +39,9 @@ var dir_95eb7cbc278b6940b3a753cb740a708a =
       [ "GlobalSignals.GameSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_game_signals.html", null ],
       [ "GlobalSignals.DownloadSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_download_signals.html", null ],
       [ "GlobalSignals.DiscordRPCSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_discord_r_p_c_signals.html", null ]
+    ] ],
+    [ "wrapper.py", "wrapper_8py.html", [
+      [ "WrapperType", "classrare_1_1models_1_1wrapper_1_1_wrapper_type.html", null ],
+      [ "Wrapper", "classrare_1_1models_1_1wrapper_1_1_wrapper.html", "classrare_1_1models_1_1wrapper_1_1_wrapper" ]
     ] ]
 ];

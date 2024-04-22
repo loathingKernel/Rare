@@ -13,25 +13,25 @@
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="49.5,-94.5 49.5,-162.5 145.5,-162.5 145.5,-94.5 49.5,-94.5"/>
-<text text-anchor="middle" x="97.5" y="-150.5" font-family="Helvetica,sans-Serif" font-size="10.00">RareAppException</text>
-<polyline fill="none" stroke="black" points="49.5,-143.5 145.5,-143.5 "/>
-<text text-anchor="start" x="57.5" y="-131.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ logger</text>
-<text text-anchor="start" x="57.5" y="-120.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ exception</text>
-<polyline fill="none" stroke="black" points="49.5,-113.5 145.5,-113.5 "/>
-<text text-anchor="start" x="57.5" y="-101.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<polygon fill="#bfbfbf" stroke="black" points="69.5,-94.5 69.5,-162.5 165.5,-162.5 165.5,-94.5 69.5,-94.5"/>
+<text text-anchor="middle" x="117.5" y="-150.5" font-family="Helvetica,sans-Serif" font-size="10.00">RareAppException</text>
+<polyline fill="none" stroke="black" points="69.5,-143.5 165.5,-143.5 "/>
+<text text-anchor="start" x="77.5" y="-131.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ logger</text>
+<text text-anchor="start" x="77.5" y="-120.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ exception</text>
+<polyline fill="none" stroke="black" points="69.5,-113.5 165.5,-113.5 "/>
+<text text-anchor="start" x="77.5" y="-101.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
 </a>
 </g>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1_rare_exception.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="0,-0.5 0,-57.5 79,-57.5 79,-0.5 0,-0.5"/>
-<text text-anchor="middle" x="39.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">RareException</text>
-<polyline fill="none" stroke="black" points="0,-38.5 79,-38.5 "/>
-<text text-anchor="middle" x="39.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="0,-19.5 79,-19.5 "/>
+<g id="a_node3"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="0,-0.5 0,-57.5 119,-57.5 119,-0.5 0,-0.5"/>
+<text text-anchor="middle" x="59.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">RareLauncherException</text>
+<polyline fill="none" stroke="black" points="0,-38.5 119,-38.5 "/>
+<text text-anchor="middle" x="59.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="0,-19.5 119,-19.5 "/>
 <text text-anchor="start" x="8" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
 </a>
 </g>
@@ -39,46 +39,46 @@
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M72.59,-85.62C66.99,-76.21 61.18,-66.45 56.02,-57.78"/>
-<polygon fill="none" stroke="midnightblue" points="69.74,-87.69 77.86,-94.49 75.76,-84.11 69.74,-87.69"/>
+<path fill="none" stroke="midnightblue" d="M92.59,-85.62C86.99,-76.21 81.18,-66.45 76.02,-57.78"/>
+<polygon fill="none" stroke="midnightblue" points="89.74,-87.69 97.86,-94.49 95.76,-84.11 89.74,-87.69"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1launcher_1_1_rare_launcher_exception.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="97,-0.5 97,-57.5 216,-57.5 216,-0.5 97,-0.5"/>
-<text text-anchor="middle" x="156.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">RareLauncherException</text>
-<polyline fill="none" stroke="black" points="97,-38.5 216,-38.5 "/>
-<text text-anchor="middle" x="156.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="97,-19.5 216,-19.5 "/>
-<text text-anchor="start" x="105" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1_rare_exception.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="137,-0.5 137,-57.5 216,-57.5 216,-0.5 137,-0.5"/>
+<text text-anchor="middle" x="176.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">RareException</text>
+<polyline fill="none" stroke="black" points="137,-38.5 216,-38.5 "/>
+<text text-anchor="middle" x="176.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="137,-19.5 216,-19.5 "/>
+<text text-anchor="start" x="145" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M122.67,-85.91C128.42,-76.41 134.39,-66.53 139.69,-57.78"/>
-<polygon fill="none" stroke="midnightblue" points="119.66,-84.12 117.47,-94.49 125.65,-87.75 119.66,-84.12"/>
+<path fill="none" stroke="midnightblue" d="M142.67,-85.91C148.42,-76.41 154.39,-66.53 159.69,-57.78"/>
+<polygon fill="none" stroke="midnightblue" points="139.66,-84.12 137.47,-94.49 145.65,-87.75 139.66,-84.12"/>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="71,-199.5 71,-256.5 124,-256.5 124,-199.5 71,-199.5"/>
-<text text-anchor="middle" x="97.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">QObject</text>
-<polyline fill="none" stroke="#bfbfbf" points="71,-237.5 124,-237.5 "/>
-<text text-anchor="middle" x="97.5" y="-225.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="71,-218.5 124,-218.5 "/>
-<text text-anchor="middle" x="97.5" y="-206.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="91,-199.5 91,-256.5 144,-256.5 144,-199.5 91,-199.5"/>
+<text text-anchor="middle" x="117.5" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">QObject</text>
+<polyline fill="none" stroke="#bfbfbf" points="91,-237.5 144,-237.5 "/>
+<text text-anchor="middle" x="117.5" y="-225.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="91,-218.5 144,-218.5 "/>
+<text text-anchor="middle" x="117.5" y="-206.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M97.5,-189.06C97.5,-180.39 97.5,-171.24 97.5,-162.79"/>
-<polygon fill="none" stroke="midnightblue" points="94,-189.32 97.5,-199.32 101,-189.32 94,-189.32"/>
+<path fill="none" stroke="midnightblue" d="M117.5,-189.06C117.5,-180.39 117.5,-171.24 117.5,-162.79"/>
+<polygon fill="none" stroke="midnightblue" points="114,-189.32 117.5,-199.32 121,-189.32 114,-189.32"/>
 </g>
 </g>
 </svg>

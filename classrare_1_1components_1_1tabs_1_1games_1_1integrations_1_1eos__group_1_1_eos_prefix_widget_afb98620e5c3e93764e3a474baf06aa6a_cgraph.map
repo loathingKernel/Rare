@@ -1,7 +1,11 @@
 <map id="action" name="action">
-<area shape="rect" id="node1" title=" " alt="" coords="21,119,78,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="21,161,78,187"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#ada4904cab960c53f234fc113a7fcf349" title=" " alt="" coords="126,29,437,71"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html#aa56afc440f4694cd7d78c59fb3280b60" title=" " alt="" coords="233,119,330,146"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_group.html#ada4904cab960c53f234fc113a7fcf349" title=" " alt="" coords="140,195,423,236"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1misc.html#a5b215592bbad86ea6d2c3b46280baae8" title=" " alt="" coords="485,119,614,146"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings.html#ada4904cab960c53f234fc113a7fcf349" title=" " alt="" coords="130,284,433,325"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1misc.html#ad964a362f511f9be2d6532129e7bf731" title=" " alt="" coords="559,119,713,146"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings.html#a50f01ffa1457fa05b07dbc24d358cbfb" title=" " alt="" coords="485,195,787,236"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="497,284,775,325"/>
+<area shape="rect" id="node9" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a361d22fed4b0c7db6ea4d03e1b0a51ec" title=" " alt="" coords="549,373,723,415"/>
 </map>

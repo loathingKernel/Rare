@@ -1,11 +1,10 @@
 <map id="platforms" name="platforms">
-<area shape="rect" id="node1" title="Property that holds the platforms a game is available for." alt="" coords="1185,165,1261,191"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a3ae4fe315e7d530f77daf1e8d63468e3" title=" " alt="" coords="952,123,1067,150"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="881,199,1137,240"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#adf94568f84b36f0c783d76df96936a8b" title="Property to report the remote version of an InstalledGame." alt="" coords="601,31,833,72"/>
-<area shape="rect" id="node6" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a1e436b61f937ea687fa3897d286899cf" title="Reports the currently installed version of the Game." alt="" coords="685,123,749,150"/>
-<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1e914552c775e095849d4c5e6e6840bd" title="Property to report if an InstalledGame has updates available." alt="" coords="302,29,515,71"/>
+<area shape="rect" id="node1" title="Property that holds the platforms a game is available for." alt="" coords="1109,161,1185,187"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a3ae4fe315e7d530f77daf1e8d63468e3" title=" " alt="" coords="876,119,991,146"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="805,195,1061,236"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#adf94568f84b36f0c783d76df96936a8b" title="Property to report the remote version of an InstalledGame." alt="" coords="525,29,757,71"/>
+<area shape="rect" id="node6" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a1e436b61f937ea687fa3897d286899cf" title="Reports the currently installed version of the Game." alt="" coords="609,119,673,146"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1e914552c775e095849d4c5e6e6840bd" title="Property to report if an InstalledGame has updates available." alt="" coords="264,29,477,71"/>
 <area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a590836cea8227c1cb3994dabf184ecab" title="Sets the installation status of a game." alt="" coords="5,29,216,71"/>
-<area shape="rect" id="node7" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_ui___dxvk_settings.html#af5faf65246a5f3e4a6e14293ad7c6c90" title=" " alt="" coords="264,119,553,160"/>
-<area shape="rect" id="node9" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="627,199,807,240"/>
+<area shape="rect" id="node8" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="551,195,731,236"/>
 </map>

@@ -1,14 +1,10 @@
 var classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings =
 [
-    [ "__init__", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#a3ac45707dd21050014aa71f9a073c5a3", null ],
-    [ "change_proton", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#af9dd7e033686a56d536f05053bd33300", null ],
-    [ "load_settings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#a10b051543461a24ffb94905d8b6e6573", null ],
-    [ "proton_prefix_edit", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#ab6592b5cebd39ac4b6ec565c35830c0d", null ],
+    [ "__init__", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#a39d165427992dd2720f91929a88cde17", null ],
     [ "proton_prefix_save", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#ad04d8a4d39a398b72cf5fcbe5d78e1ee", null ],
-    [ "app_name", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#a268d47c9d5c9719ad90299f627f87132", null ],
-    [ "changeable", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#ad4d6fca703b0cd593e7383d465861016", null ],
+    [ "showEvent", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#af997cabd23f14f71f7f87c986ccd582c", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#ab65a1cfe05166d06195718a9587d7b86", null ],
-    [ "possible_proton_combos", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#ac7077ca407292ca6a0e7a83c295a0bb8", null ],
-    [ "proton_prefix", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#ae657da7d63f3cb88fdcb35e38bacd427", null ],
-    [ "ui", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#ac492f8de2d00b6c4282e766bfadaf2e7", null ]
+    [ "tool_combo", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#a21aded9f0c7f07d8f7371924f179e476", null ],
+    [ "tool_prefix", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#ac5c1c939d8e0956830323e978ac15de4", null ],
+    [ "tool_wrapper", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#aa19117cb21f4aa55e996e662e6de8a37", null ]
 ];

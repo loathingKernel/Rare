@@ -7,7 +7,6 @@ var classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_c
     [ "save_save_path", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#a078bcd253ad32402d7fe690daeb0a848", null ],
     [ "update_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#a31df619d45c585656d938a0c09e9d115", null ],
     [ "upload", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#ac788604bbe2aec0a9bd4063887837397", null ],
-    [ "wine_resolver_finished", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#a39d9250b1f0ed66ec6cdeac8081b380a", null ],
     [ "cloud_save_path_edit", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#a48ad9431b400b5c8b5c2091697211312", null ],
     [ "cloud_ui", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#ac048453c90ed78d49d568fe2905ba7da", null ],
     [ "cloud_widget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#a44b06b7f70fb70bb5587dd87f0428806", null ],

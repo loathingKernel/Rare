@@ -1,12 +1,13 @@
 var namespacerare_1_1components_1_1tabs_1_1store =
 [
+    [ "__main__", "namespacerare_1_1components_1_1tabs_1_1store_1_1____main____.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1____main____" ],
+    [ "api", "namespacerare_1_1components_1_1tabs_1_1store_1_1api.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1api" ],
     [ "constants", "namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1constants" ],
-    [ "game_info", "namespacerare_1_1components_1_1tabs_1_1store_1_1game__info.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1game__info" ],
-    [ "game_widgets", "namespacerare_1_1components_1_1tabs_1_1store_1_1game__widgets.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1game__widgets" ],
-    [ "search_results", "namespacerare_1_1components_1_1tabs_1_1store_1_1search__results.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1search__results" ],
-    [ "shop_api_core", "namespacerare_1_1components_1_1tabs_1_1store_1_1shop__api__core.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1shop__api__core" ],
-    [ "shop_models", "namespacerare_1_1components_1_1tabs_1_1store_1_1shop__models.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1shop__models" ],
-    [ "shop_widget", "namespacerare_1_1components_1_1tabs_1_1store_1_1shop__widget.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1shop__widget" ],
+    [ "landing", "namespacerare_1_1components_1_1tabs_1_1store_1_1landing.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1landing" ],
+    [ "results", "namespacerare_1_1components_1_1tabs_1_1store_1_1results.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1results" ],
+    [ "search", "namespacerare_1_1components_1_1tabs_1_1store_1_1search.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1search" ],
+    [ "store_api", "namespacerare_1_1components_1_1tabs_1_1store_1_1store__api.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1store__api" ],
+    [ "widgets", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets" ],
     [ "wishlist", "namespacerare_1_1components_1_1tabs_1_1store_1_1wishlist.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1wishlist" ],
-    [ "Shop", "classrare_1_1components_1_1tabs_1_1store_1_1_shop.html", "classrare_1_1components_1_1tabs_1_1store_1_1_shop" ]
+    [ "StoreTab", "classrare_1_1components_1_1tabs_1_1store_1_1_store_tab.html", "classrare_1_1components_1_1tabs_1_1store_1_1_store_tab" ]
 ];
