@@ -1,7 +1,20 @@
 var searchData=
 [
-  ['fetchworker_0',['FetchWorker',['../classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html',1,'rare::shared::workers::fetch']]],
-  ['finishedmodel_1',['FinishedModel',['../classrare_1_1models_1_1launcher_1_1_finished_model.html',1,'rare::models::launcher']]],
-  ['flowlayout_2',['FlowLayout',['../classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html',1,'rare::widgets::flow_layout']]],
-  ['freegamesscroll_3',['FreeGamesScroll',['../classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_free_games_scroll.html',1,'rare::components::tabs::store::landing']]]
+  ['editfuncrunnable_0',['EditFuncRunnable',['../classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable.html',1,'rare::widgets::indicator_edit']]],
+  ['eglsyncexportgroup_1',['EGLSyncExportGroup',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_group.html',1,'rare::components::tabs::games::integrations::egl_sync_group']]],
+  ['eglsyncexportitem_2',['EGLSyncExportItem',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_item.html',1,'rare::components::tabs::games::integrations::egl_sync_group']]],
+  ['eglsyncgroup_3',['EGLSyncGroup',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_group.html',1,'rare::components::tabs::games::integrations::egl_sync_group']]],
+  ['eglsyncimportgroup_4',['EGLSyncImportGroup',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_group.html',1,'rare::components::tabs::games::integrations::egl_sync_group']]],
+  ['eglsyncimportitem_5',['EGLSyncImportItem',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_item.html',1,'rare::components::tabs::games::integrations::egl_sync_group']]],
+  ['eglsynclistgroup_6',['EGLSyncListGroup',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html',1,'rare::components::tabs::games::integrations::egl_sync_group']]],
+  ['eglsynclistitem_7',['EGLSyncListItem',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html',1,'rare::components::tabs::games::integrations::egl_sync_group']]],
+  ['eglsyncworker_8',['EGLSyncWorker',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker.html',1,'rare::components::tabs::games::integrations::egl_sync_group']]],
+  ['elidelabel_9',['ElideLabel',['../classrare_1_1widgets_1_1elide__label_1_1_elide_label.html',1,'rare::widgets::elide_label']]],
+  ['entitlementsworker_10',['EntitlementsWorker',['../classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html',1,'rare::shared::workers::fetch']]],
+  ['envvars_11',['EnvVars',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html',1,'rare::components::tabs::settings::widgets::env_vars']]],
+  ['envvarstablemodel_12',['EnvVarsTableModel',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html',1,'rare::components::tabs::settings::widgets::env_vars_model']]],
+  ['eosgroup_13',['EosGroup',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_group.html',1,'rare::components::tabs::games::integrations::eos_group']]],
+  ['eosprefixwidget_14',['EosPrefixWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html',1,'rare::components::tabs::games::integrations::eos_group']]],
+  ['errormodel_15',['ErrorModel',['../classrare_1_1models_1_1launcher_1_1_error_model.html',1,'rare::models::launcher']]],
+  ['exitcodes_16',['ExitCodes',['../classrare_1_1utils_1_1misc_1_1_exit_codes.html',1,'rare::utils::misc']]]
 ];

@@ -1,4 +1,7 @@
 <map id="Ui_OverlaySettings" name="Ui_OverlaySettings">
-<area shape="rect" id="node1" title=" " alt="" coords="5,131,164,311"/>
-<area shape="rect" id="node2" title=" " alt="" coords="56,5,113,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="53,131,211,311"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_overlay_settings.html" title=" " alt="" coords="53,359,211,583"/>
+<area shape="rect" id="node2" title=" " alt="" coords="103,5,161,83"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_dxvk_settings.html" title=" " alt="" coords="5,667,104,745"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1mangohud_1_1_mango_hud_settings.html" title=" " alt="" coords="129,631,293,781"/>
 </map>

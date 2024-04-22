@@ -1,4 +1,6 @@
 <map id="RPCSettings" name="RPCSettings">
-<area shape="rect" id="node1" title=" " alt="" coords="5,131,103,237"/>
-<area shape="rect" id="node2" title=" " alt="" coords="9,5,99,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="65,344,163,451"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,175,95,252"/>
+<area shape="rect" id="node3" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_ui___r_p_c_settings.html" title=" " alt="" coords="119,131,237,296"/>
+<area shape="rect" id="node4" title=" " alt="" coords="149,5,207,83"/>
 </map>

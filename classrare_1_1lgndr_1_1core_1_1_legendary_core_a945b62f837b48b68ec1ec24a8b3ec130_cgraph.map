@@ -1,7 +1,9 @@
 <map id="egstore_write" name="egstore_write">
-<area shape="rect" id="node1" title=" " alt="" coords="5,126,105,153"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a79c176b5faed55afa14f43bf9096caf5" title=" " alt="" coords="153,29,327,71"/>
-<area shape="rect" id="node3" href="$classlauncher_1_1console__dialog_1_1_console_dialog.html#a4db0e98c238d6a69bdbf4b8cc59be732" title=" " alt="" coords="159,119,321,160"/>
-<area shape="rect" id="node4" href="$classlauncher_1_1console__dialog_1_1_console_edit.html#ac05aadedf6e1be5c365c818989f98d50" title=" " alt="" coords="159,208,321,249"/>
-<area shape="rect" id="node5" href="$classlauncher_1_1console__dialog_1_1_console_edit.html#ad89ca21019805240d01e41fe61cdbb56" title=" " alt="" coords="375,201,537,257"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,171,105,198"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a79c176b5faed55afa14f43bf9096caf5" title=" " alt="" coords="175,29,349,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__api__core_1_1_shop_api_core.html#a18df16bb6b4cfeaea982421770cce754" title=" " alt="" coords="153,119,371,160"/>
+<area shape="rect" id="node5" href="$classrare_1_1launcher_1_1console__dialog_1_1_console_dialog.html#a4db0e98c238d6a69bdbf4b8cc59be732" title=" " alt="" coords="177,208,347,249"/>
+<area shape="rect" id="node6" href="$classrare_1_1launcher_1_1console__dialog_1_1_console_edit.html#ac05aadedf6e1be5c365c818989f98d50" title=" " alt="" coords="185,297,339,339"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__api__core_1_1_shop_api_core.html#a04736802f608b1210509878271aa0392" title=" " alt="" coords="419,111,628,167"/>
+<area shape="rect" id="node7" href="$classrare_1_1launcher_1_1console__dialog_1_1_console_edit.html#ad89ca21019805240d01e41fe61cdbb56" title=" " alt="" coords="439,290,608,346"/>
 </map>

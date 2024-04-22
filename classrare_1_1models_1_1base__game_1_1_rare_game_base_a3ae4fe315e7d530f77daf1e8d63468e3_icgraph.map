@@ -1,7 +1,8 @@
 <map id="default_platform" name="default_platform">
-<area shape="rect" id="node1" title=" " alt="" coords="805,78,920,105"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#adf94568f84b36f0c783d76df96936a8b" title="Property to report the remote version of an InstalledGame." alt="" coords="525,29,757,71"/>
-<area shape="rect" id="node5" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a1e436b61f937ea687fa3897d286899cf" title="Reports the currently installed version of the Game." alt="" coords="609,119,673,146"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1e914552c775e095849d4c5e6e6840bd" title="Property to report if an InstalledGame has updates available." alt="" coords="264,29,477,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="881,82,996,109"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#adf94568f84b36f0c783d76df96936a8b" title="Property to report the remote version of an InstalledGame." alt="" coords="601,32,833,73"/>
+<area shape="rect" id="node5" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a1e436b61f937ea687fa3897d286899cf" title="Reports the currently installed version of the Game." alt="" coords="685,123,749,150"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1e914552c775e095849d4c5e6e6840bd" title="Property to report if an InstalledGame has updates available." alt="" coords="302,29,515,71"/>
 <area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a590836cea8227c1cb3994dabf184ecab" title="Sets the installation status of a game." alt="" coords="5,29,216,71"/>
+<area shape="rect" id="node6" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_ui___dxvk_settings.html#af5faf65246a5f3e4a6e14293ad7c6c90" title=" " alt="" coords="264,119,553,160"/>
 </map>

@@ -1,4 +1,0 @@
-var classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_remove_from_wishlist_model =
-[
-    [ "from_dict", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_remove_from_wishlist_model.html#acb93f74a3e184f9b2d5cfa5224a978f4", null ]
-];

@@ -1,4 +1,0 @@
-var classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_promotional_offers_model =
-[
-    [ "from_list", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_promotional_offers_model.html#a96f2039d9111a8d87876de6397e48f97", null ]
-];

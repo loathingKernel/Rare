@@ -75,9 +75,9 @@
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="namespacelauncher.html#acba79b2d250cb0ab84f69e1e95badd50" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="144.5,-24 144.5,-43 228.5,-43 228.5,-24 144.5,-24"/>
-<text text-anchor="middle" x="186.5" y="-31" font-family="Helvetica,sans-Serif" font-size="10.00">launcher.launch</text>
+<g id="a_node9"><a xlink:href="namespacerare_1_1launcher.html#a8c1e65354fefbb9bdd9c6cdba8afde23" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="135,-24 135,-43 238,-43 238,-24 135,-24"/>
+<text text-anchor="middle" x="186.5" y="-31" font-family="Helvetica,sans-Serif" font-size="10.00">rare.launcher.launch</text>
 </a>
 </g>
 </g>

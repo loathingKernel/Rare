@@ -58,7 +58,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html#a3e5644faa03dce0cb52a471bb244b83b" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html#a1aee302e7e70e117f5deb55ba0c1c7b4" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="332.96,-485.5 332.96,-526.5 499.96,-526.5 499.96,-485.5 332.96,-485.5"/>
 <text text-anchor="start" x="340.96" y="-514.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
 <text text-anchor="start" x="340.96" y="-503.5" font-family="Helvetica,sans-Serif" font-size="10.00">_widgets.LibraryWidgetController.</text>

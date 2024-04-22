@@ -1,5 +1,5 @@
 <map id="EntitlementsWorker" name="EntitlementsWorker">
-<area shape="rect" id="node1" title=" " alt="" coords="5,484,140,561"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,484,140,576"/>
 <area shape="rect" id="node2" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html" title=" " alt="" coords="25,315,121,436"/>
 <area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html" title="Base QRunnable class." alt="" coords="29,131,116,267"/>
 <area shape="rect" id="node4" title=" " alt="" coords="29,5,116,83"/>

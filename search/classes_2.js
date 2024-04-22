@@ -1,20 +1,10 @@
 var searchData=
 [
-  ['catalogmodel_0',['CatalogModel',['../classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_catalog_model.html',1,'rare::components::tabs::store::api::models::response']]],
-  ['catalogoffermodel_1',['CatalogOfferModel',['../classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_catalog_offer_model.html',1,'rare::components::tabs::store::api::models::response']]],
-  ['checkbox_2',['CheckBox',['../classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_check_box.html',1,'rare::components::tabs::store::search']]],
-  ['checkforupdatesignals_3',['CheckForUpdateSignals',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_check_for_update_worker_1_1_check_for_update_signals.html',1,'rare::components::tabs::games::integrations::eos_group::CheckForUpdateWorker']]],
-  ['checkforupdateworker_4',['CheckForUpdateWorker',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_check_for_update_worker.html',1,'rare::components::tabs::games::integrations::eos_group']]],
-  ['cloudsaves_5',['CloudSaves',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html',1,'rare::components::tabs::games::game_info::cloud_saves']]],
-  ['cloudsyncdialog_6',['CloudSyncDialog',['../classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html',1,'launcher::cloud_sync_dialog']]],
-  ['cloudsyncdialogresult_7',['CloudSyncDialogResult',['../classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog_result.html',1,'launcher::cloud_sync_dialog']]],
-  ['code_8',['Code',['../classrare_1_1shared_1_1game__process_1_1_game_process_1_1_code.html',1,'rare::shared::game_process::GameProcess']]],
-  ['collapsiblebase_9',['CollapsibleBase',['../classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base.html',1,'rare::widgets::collapsible_widget']]],
-  ['collapsibleframe_10',['CollapsibleFrame',['../classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame.html',1,'rare::widgets::collapsible_widget']]],
-  ['collapsiblegroupbox_11',['CollapsibleGroupBox',['../classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_group_box.html',1,'rare::widgets::collapsible_widget']]],
-  ['compatibilitytool_12',['CompatibilityTool',['../classrare_1_1utils_1_1compat_1_1steam_1_1_compatibility_tool.html',1,'rare::utils::compat::steam']]],
-  ['consoledialog_13',['ConsoleDialog',['../classlauncher_1_1console__dialog_1_1_console_dialog.html',1,'launcher::console_dialog']]],
-  ['consoleedit_14',['ConsoleEdit',['../classlauncher_1_1console__dialog_1_1_console_edit.html',1,'launcher::console_dialog']]],
-  ['consoleenv_15',['ConsoleEnv',['../classlauncher_1_1console__dialog_1_1_console_env.html',1,'launcher::console_dialog']]],
-  ['constants_16',['Constants',['../classrare_1_1components_1_1tabs_1_1store_1_1constants_1_1_constants.html',1,'rare::components::tabs::store::constants']]]
+  ['basedialog_0',['BaseDialog',['../classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html',1,'rare::widgets::dialogs']]],
+  ['basemodel_1',['BaseModel',['../classrare_1_1models_1_1launcher_1_1_base_model.html',1,'rare::models::launcher']]],
+  ['border_2',['Border',['../classrare_1_1widgets_1_1image__widget_1_1_image_widget_1_1_border.html',1,'rare::widgets::image_widget::ImageWidget']]],
+  ['browsemodel_3',['BrowseModel',['../classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_browse_model.html',1,'rare::components::tabs::store::shop_models']]],
+  ['browserlogin_4',['BrowserLogin',['../classrare_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_browser_login.html',1,'rare::components::dialogs::login::browser_login']]],
+  ['buttondialog_5',['ButtonDialog',['../classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html',1,'rare::widgets::dialogs']]],
+  ['buttonlineedit_6',['ButtonLineEdit',['../classrare_1_1utils_1_1extra__widgets_1_1_button_line_edit.html',1,'rare::utils::extra_widgets']]]
 ];

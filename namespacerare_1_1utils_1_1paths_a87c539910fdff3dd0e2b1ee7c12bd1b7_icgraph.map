@@ -1,8 +1,7 @@
 <map id="desktop_link_types" name="desktop_link_types">
-<area shape="rect" id="node1" title=" " alt="" coords="917,82,1051,109"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1shared_1_1workers_1_1uninstall.html#aeaacc097d509158390a301538ce9d63c" title=" " alt="" coords="593,82,869,109"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#ae00c01f8599ea056e3e5afb873b756ba" title=" " alt="" coords="364,29,537,71"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="356,119,545,160"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_widget.html#a208217f74b4d91485d90d654b788c103" title=" " alt="" coords="5,29,308,71"/>
-<area shape="rect" id="node6" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="67,119,247,160"/>
+<area shape="rect" id="node1" title=" " alt="" coords="795,82,928,109"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1shared_1_1workers_1_1uninstall.html#aeaacc097d509158390a301538ce9d63c" title=" " alt="" coords="471,82,747,109"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#ae00c01f8599ea056e3e5afb873b756ba" title=" " alt="" coords="241,29,415,71"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="233,119,423,160"/>
+<area shape="rect" id="node5" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="5,119,185,160"/>
 </map>

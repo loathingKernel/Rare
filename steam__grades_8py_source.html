@@ -88,131 +88,138 @@ $(document).ready(function(){initNavTree('steam__grades_8py_source.html',''); in
 </div><!--header-->
 <div class="contents">
 <a href="steam__grades_8py.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__grades.html">    1</a></span><span class="keyword">import</span> difflib</div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">import</span> os</div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">from</span> datetime <span class="keyword">import</span> datetime</div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">from</span> enum <span class="keyword">import</span> StrEnum, Enum</div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">from</span> typing <span class="keyword">import</span> Tuple</div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span> </div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">import</span> orjson</div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="keyword">import</span> requests</div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span> </div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1lgndr_1_1core.html">rare.lgndr.core</a> <span class="keyword">import</span> LegendaryCore</div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils_1_1paths.html">rare.utils.paths</a> <span class="keyword">import</span> cache_dir</div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span> </div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__grades.html#ad3b12806a1c6d2fafdf5b29368fc09c0">   13</a></span>replace_chars = <span class="stringliteral">&quot;,;.:-_ &quot;</span></div>
-<div class="line"><a id="l00014" name="l00014"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__grades.html#a064181e6a3b5a571fdb4731e03524713">   14</a></span>steamapi_url = <span class="stringliteral">&quot;https://api.steampowered.com/ISteamApps/GetAppList/v2/&quot;</span></div>
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__grades.html#a8a0bdc5cb3d451728255d7c4a552130a">   15</a></span>protondb_url = <span class="stringliteral">&quot;https://www.protondb.com/api/v1/reports/summaries/&quot;</span></div>
-<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span> </div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>__steam_ids_json = <span class="keywordtype">None</span></div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>__grades_json = <span class="keywordtype">None</span></div>
-<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>__active_download = <span class="keyword">False</span></div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span> </div>
-<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span> </div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html">   22</a></span><span class="keyword">class </span><a class="code hl_class" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html">ProtondbRatings</a>(int, Enum):</div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>    <span class="comment"># internal</span></div>
-<div class="line"><a id="l00024" name="l00024"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#a1fa572de6172cd86edf91e55a7920c97">   24</a></span>    PENDING = (<span class="stringliteral">&quot;pending&quot;</span>, -2)</div>
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#a7bf3517b2596adaac658ae1c8aa6ba28">   25</a></span>    FAIL = (<span class="stringliteral">&quot;fail&quot;</span>, -1)</div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>    <span class="comment"># protondb</span></div>
-<div class="line"><a id="l00027" name="l00027"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#afcb721c8bfdc623112611f6568da2e94">   27</a></span>    NA = (<span class="stringliteral">&quot;na&quot;</span>, 0)</div>
-<div class="line"><a id="l00028" name="l00028"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#acdaf2695bc5048db92ca3f2fa3b7016e">   28</a></span>    BORKED = (<span class="stringliteral">&quot;borked&quot;</span>, 1)</div>
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#afa94f8c23e0e850dae79dce82fcbf92c">   29</a></span>    BRONZE = (<span class="stringliteral">&quot;bronze&quot;</span>, 2)</div>
-<div class="line"><a id="l00030" name="l00030"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#a4f0bb62e82c8c12b948975aed44bfe05">   30</a></span>    SILVER = (<span class="stringliteral">&quot;silver&quot;</span>, 3)</div>
-<div class="line"><a id="l00031" name="l00031"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#a1993f23eb11d451719bdbe06e25a7891">   31</a></span>    GOLD = (<span class="stringliteral">&quot;gold&quot;</span>, 4)</div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#a256bcb0ee36329019b25875d833aa1a1">   32</a></span>    PLATINUM = (<span class="stringliteral">&quot;platinum&quot;</span>, 5)</div>
-<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span> </div>
-<div class="line"><a id="l00034" name="l00034"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#af93fd00745f6ab2347acc1d5bf3588a3">   34</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#af93fd00745f6ab2347acc1d5bf3588a3">__new__</a>(cls, name: str, value: int):</div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>        obj = int.__new__(cls, value)</div>
-<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>        obj._value_ = value</div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>        obj._name_ = name</div>
-<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>        <span class="keywordflow">return</span> obj</div>
-<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span> </div>
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#a23e8041ce1015febe4fdace3225714f9">   40</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#a23e8041ce1015febe4fdace3225714f9">__str__</a>(self):</div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        <span class="keywordflow">return</span> self._name_</div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span> </div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#ae5d39e7f7ea7ddd91776322b55f51cb1">   43</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#ae5d39e7f7ea7ddd91776322b55f51cb1">__int__</a>(self):</div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>        <span class="keywordflow">return</span> self._value_</div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">import</span> orjson</div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">import</span> os</div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">from</span> datetime <span class="keyword">import</span> date</div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span> </div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">import</span> requests</div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span> </div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1lgndr_1_1core.html">rare.lgndr.core</a> <span class="keyword">import</span> LegendaryCore</div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils_1_1paths.html">rare.utils.paths</a> <span class="keyword">import</span> data_dir, cache_dir</div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span> </div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__grades.html#ad3b12806a1c6d2fafdf5b29368fc09c0">   11</a></span>replace_chars = <span class="stringliteral">&quot;,;.:-_ &quot;</span></div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__grades.html#aa03c1ef4c41f36b048cf58d5aade7653">   12</a></span>url = <span class="stringliteral">&quot;https://api.steampowered.com/ISteamApps/GetAppList/v2/&quot;</span></div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span> </div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span> </div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>__steam_ids_json = <span class="keywordtype">None</span></div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>__grades_json = <span class="keywordtype">None</span></div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span> </div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span> </div>
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__grades.html#a19744bb6cba6816375637c10fc252c0d">   19</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacerare_1_1utils_1_1steam__grades.html#a19744bb6cba6816375637c10fc252c0d">get_rating</a>(core: LegendaryCore, app_name: str):</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>    <span class="keyword">global</span> __grades_json</div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>    <span class="keywordflow">if</span> __grades_json <span class="keywordflow">is</span> <span class="keywordtype">None</span>:</div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>        <span class="keywordflow">if</span> os.path.exists(p := os.path.join(<a class="code hl_function" href="namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b">data_dir</a>(), <span class="stringliteral">&quot;steam_ids.json&quot;</span>)):</div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>            grades = orjson.loads(open(p).read())</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>            __grades_json = grades</div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>        <span class="keywordflow">else</span>:</div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>            grades = {}</div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>            __grades_json = grades</div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>    <span class="keywordflow">else</span>:</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>        grades = __grades_json</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span> </div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>    <span class="keywordflow">if</span> <span class="keywordflow">not</span> grades.get(app_name):</div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>        game = core.get_game(app_name)</div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>        <span class="keywordflow">try</span>:</div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>            steam_id = <a class="code hl_function" href="namespacerare_1_1utils_1_1steam__grades.html#ade992fd4116df6a33372a2a1b2d2df61">get_steam_id</a>(game.app_title)</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>            grade = <a class="code hl_function" href="namespacerare_1_1utils_1_1steam__grades.html#afb84b77f9ccf4f2f47fe022771e9b7b4">get_grade</a>(steam_id)</div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>        <span class="keywordflow">except</span>:</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;fail&quot;</span></div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>        grades[app_name] = {<span class="stringliteral">&quot;steam_id&quot;</span>: steam_id, <span class="stringliteral">&quot;grade&quot;</span>: grade}</div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>        <span class="keyword">with</span> open(os.path.join(<a class="code hl_function" href="namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b">data_dir</a>(), <span class="stringliteral">&quot;steam_ids.json&quot;</span>), <span class="stringliteral">&quot;w&quot;</span>) <span class="keyword">as</span> f:</div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>            f.write(orjson.dumps(grades).decode(<span class="stringliteral">&quot;utf-8&quot;</span>))</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        <span class="keywordflow">return</span> grade</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    <span class="keywordflow">else</span>:</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>        <span class="keywordflow">return</span> grades[app_name].get(<span class="stringliteral">&quot;grade&quot;</span>)</div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span> </div>
 <div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span> </div>
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span> </div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__grades.html#ad5da927491f3a57e4f9ab3ad62ce2324">   47</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacerare_1_1utils_1_1steam__grades.html#ad5da927491f3a57e4f9ab3ad62ce2324">get_rating</a>(core: LegendaryCore, app_name: str) -&gt; Tuple[int, str]:</div>
-<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>    game = core.get_game(app_name)</div>
-<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>    <span class="keywordflow">try</span>:</div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>        steam_id = <a class="code hl_function" href="namespacerare_1_1utils_1_1steam__grades.html#a4fbb4d953a461c946de723d1f1751396">get_steam_id</a>(game.app_title)</div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>        <span class="keywordflow">if</span> <span class="keywordflow">not</span> steam_id:</div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>            <span class="keywordflow">raise</span> Exception</div>
-<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>        grade = <a class="code hl_function" href="namespacerare_1_1utils_1_1steam__grades.html#afb84b77f9ccf4f2f47fe022771e9b7b4">get_grade</a>(steam_id)</div>
-<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>    <span class="keywordflow">except</span> Exception <span class="keyword">as</span> e:</div>
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>        <span class="keywordflow">return</span> 0, <span class="stringliteral">&quot;fail&quot;</span></div>
-<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>    <span class="keywordflow">else</span>:</div>
-<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>        <span class="keywordflow">return</span> steam_id, grade</div>
-<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span> </div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span><span class="comment"># you should iniciate the module with the game&#39;s steam code</span></div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__grades.html#afb84b77f9ccf4f2f47fe022771e9b7b4">   47</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacerare_1_1utils_1_1steam__grades.html#afb84b77f9ccf4f2f47fe022771e9b7b4">get_grade</a>(steam_code):</div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>    <span class="keywordflow">if</span> steam_code == 0:</div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>        <span class="keywordflow">return</span> <span class="stringliteral">&quot;fail&quot;</span></div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    steam_code = str(steam_code)</div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>    url = <span class="stringliteral">&quot;https://www.protondb.com/api/v1/reports/summaries/&quot;</span></div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>    res = requests.get(f<span class="stringliteral">&quot;{url}{steam_code}.json&quot;</span>)</div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    <span class="keywordflow">try</span>:</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>        lista = orjson.loads(res.text)</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>    <span class="keywordflow">except</span> orjson.JSONDecodeError:</div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>        <span class="keywordflow">return</span> <span class="stringliteral">&quot;fail&quot;</span></div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span> </div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>    <span class="keywordflow">return</span> lista[<span class="stringliteral">&quot;tier&quot;</span>]</div>
 <div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span> </div>
-<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span><span class="comment"># you should initiate the module with the game&#39;s steam code</span></div>
-<div class="line"><a id="l00061" name="l00061"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__grades.html#afb84b77f9ccf4f2f47fe022771e9b7b4">   61</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacerare_1_1utils_1_1steam__grades.html#afb84b77f9ccf4f2f47fe022771e9b7b4">get_grade</a>(steam_code):</div>
-<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>    <span class="keywordflow">if</span> steam_code == 0:</div>
-<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>        <span class="keywordflow">return</span> <span class="stringliteral">&quot;fail&quot;</span></div>
-<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>    steam_code = <a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(steam_code)</div>
-<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>    res = requests.get(f<span class="stringliteral">&quot;{protondb_url}{steam_code}.json&quot;</span>)</div>
-<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>    <span class="keywordflow">try</span>:</div>
-<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>        lista = orjson.loads(res.text)</div>
-<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>    <span class="keywordflow">except</span> orjson.JSONDecodeError:</div>
-<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>        <span class="keywordflow">return</span> <span class="stringliteral">&quot;fail&quot;</span></div>
-<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span> </div>
-<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>    <span class="keywordflow">return</span> lista[<span class="stringliteral">&quot;tier&quot;</span>]</div>
-<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span> </div>
-<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span> </div>
-<div class="line"><a id="l00074" name="l00074"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__grades.html#a65145276c5b5f93556777b0f2f8ceb25">   74</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacerare_1_1utils_1_1steam__grades.html#a65145276c5b5f93556777b0f2f8ceb25">load_json</a>() -&gt; dict:</div>
-<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>    file = os.path.join(<a class="code hl_function" href="namespacerare_1_1utils_1_1paths.html#a967cf7dd54d6f29434b1b44099984396">cache_dir</a>(), <span class="stringliteral">&quot;game_list.json&quot;</span>)</div>
-<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>    mod_time = datetime.fromtimestamp(os.path.getmtime(file))</div>
-<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>    elapsed_time = abs(datetime.now() - mod_time)</div>
-<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>    <span class="keyword">global</span> __active_download</div>
-<div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span>    <span class="keywordflow">if</span> __active_download:</div>
-<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>        <span class="keywordflow">return</span> {}</div>
-<div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>    <span class="keywordflow">if</span> <span class="keywordflow">not</span> os.path.exists(file) <span class="keywordflow">or</span> elapsed_time.days &gt; 7:</div>
-<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>        __active_download = <span class="keyword">True</span></div>
-<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>        response = requests.get(steamapi_url)</div>
-<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>        __active_download = <span class="keyword">False</span></div>
-<div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span>        steam_ids = orjson.loads(response.text)[<span class="stringliteral">&quot;applist&quot;</span>][<span class="stringliteral">&quot;apps&quot;</span>]</div>
-<div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span>        ids = {}</div>
-<div class="line"><a id="l00087" name="l00087"></a><span class="lineno">   87</span>        <span class="keywordflow">for</span> game <span class="keywordflow">in</span> steam_ids:</div>
-<div class="line"><a id="l00088" name="l00088"></a><span class="lineno">   88</span>            ids[game[<span class="stringliteral">&quot;name&quot;</span>]] = game[<span class="stringliteral">&quot;appid&quot;</span>]</div>
-<div class="line"><a id="l00089" name="l00089"></a><span class="lineno">   89</span>        <span class="keyword">with</span> open(file, <span class="stringliteral">&quot;w&quot;</span>) <span class="keyword">as</span> f:</div>
-<div class="line"><a id="l00090" name="l00090"></a><span class="lineno">   90</span>            f.write(orjson.dumps(ids).decode(<span class="stringliteral">&quot;utf-8&quot;</span>))</div>
-<div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>        <span class="keywordflow">return</span> ids</div>
-<div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span>    <span class="keywordflow">else</span>:</div>
-<div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>        <span class="keywordflow">return</span> orjson.loads(open(file, <span class="stringliteral">&quot;r&quot;</span>).read())</div>
-<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span> </div>
-<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span> </div>
-<div class="line"><a id="l00096" name="l00096"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__grades.html#a4fbb4d953a461c946de723d1f1751396">   96</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacerare_1_1utils_1_1steam__grades.html#a4fbb4d953a461c946de723d1f1751396">get_steam_id</a>(title: str) -&gt; int:</div>
-<div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>    <span class="comment"># workarounds for satisfactory</span></div>
-<div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>    <span class="comment"># FIXME: This has to be made smarter.</span></div>
-<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>    title = title.replace(<span class="stringliteral">&quot;Early Access&quot;</span>, <span class="stringliteral">&quot;&quot;</span>).replace(<span class="stringliteral">&quot;Experimental&quot;</span>, <span class="stringliteral">&quot;&quot;</span>).strip()</div>
-<div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>    <span class="comment"># title = title.split(&quot;:&quot;)[0]</span></div>
-<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>    <span class="comment"># title = title.split(&quot;-&quot;)[0]</span></div>
-<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>    <span class="keyword">global</span> __steam_ids_json</div>
-<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>    <span class="keywordflow">if</span> __steam_ids_json <span class="keywordflow">is</span> <span class="keywordtype">None</span>:</div>
-<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>        __steam_ids_json = <a class="code hl_function" href="namespacerare_1_1utils_1_1steam__grades.html#a65145276c5b5f93556777b0f2f8ceb25">load_json</a>()</div>
-<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>    ids = __steam_ids_json</div>
-<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span> </div>
-<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>    <span class="keywordflow">if</span> title <span class="keywordflow">in</span> ids.keys():</div>
-<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>        steam_name = [title]</div>
-<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>    <span class="keywordflow">else</span>:</div>
-<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>        steam_name = difflib.get_close_matches(title, ids.keys(), n=1, cutoff=0.5)</div>
-<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>    <span class="keywordflow">if</span> steam_name:</div>
-<div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span>        <span class="keywordflow">return</span> ids[steam_name[0]]</div>
-<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>    <span class="keywordflow">else</span>:</div>
-<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>        <span class="keywordflow">return</span> 0</div>
-<div class="ttc" id="aclassrare_1_1utils_1_1steam__grades_1_1_protondb_ratings_html"><div class="ttname"><a href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html">rare.utils.steam_grades.ProtondbRatings</a></div><div class="ttdef"><b>Definition:</b> <a href="steam__grades_8py_source.html#l00022">steam_grades.py:22</a></div></div>
-<div class="ttc" id="aclassrare_1_1utils_1_1steam__grades_1_1_protondb_ratings_html_a23e8041ce1015febe4fdace3225714f9"><div class="ttname"><a href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#a23e8041ce1015febe4fdace3225714f9">rare.utils.steam_grades.ProtondbRatings.__str__</a></div><div class="ttdeci">def __str__(self)</div><div class="ttdef"><b>Definition:</b> <a href="steam__grades_8py_source.html#l00040">steam_grades.py:40</a></div></div>
-<div class="ttc" id="aclassrare_1_1utils_1_1steam__grades_1_1_protondb_ratings_html_ae5d39e7f7ea7ddd91776322b55f51cb1"><div class="ttname"><a href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#ae5d39e7f7ea7ddd91776322b55f51cb1">rare.utils.steam_grades.ProtondbRatings.__int__</a></div><div class="ttdeci">def __int__(self)</div><div class="ttdef"><b>Definition:</b> <a href="steam__grades_8py_source.html#l00043">steam_grades.py:43</a></div></div>
-<div class="ttc" id="aclassrare_1_1utils_1_1steam__grades_1_1_protondb_ratings_html_af93fd00745f6ab2347acc1d5bf3588a3"><div class="ttname"><a href="classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#af93fd00745f6ab2347acc1d5bf3588a3">rare.utils.steam_grades.ProtondbRatings.__new__</a></div><div class="ttdeci">def __new__(cls, str name, int value)</div><div class="ttdef"><b>Definition:</b> <a href="steam__grades_8py_source.html#l00034">steam_grades.py:34</a></div></div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span> </div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__grades.html#a65145276c5b5f93556777b0f2f8ceb25">   61</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacerare_1_1utils_1_1steam__grades.html#a65145276c5b5f93556777b0f2f8ceb25">load_json</a>() -&gt; dict:</div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>    file = os.path.join(<a class="code hl_function" href="namespacerare_1_1utils_1_1paths.html#a967cf7dd54d6f29434b1b44099984396">cache_dir</a>(), <span class="stringliteral">&quot;game_list.json&quot;</span>)</div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>    <span class="keywordflow">if</span> <span class="keywordflow">not</span> os.path.exists(file):</div>
+<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>        response = requests.get(url)</div>
+<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>        steam_ids = orjson.loads(response.text)[<span class="stringliteral">&quot;applist&quot;</span>][<span class="stringliteral">&quot;apps&quot;</span>]</div>
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>        ids = {}</div>
+<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>        <span class="keywordflow">for</span> game <span class="keywordflow">in</span> steam_ids:</div>
+<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>            ids[game[<span class="stringliteral">&quot;name&quot;</span>]] = game[<span class="stringliteral">&quot;appid&quot;</span>]</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span> </div>
+<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>        <span class="keyword">with</span> open(file, <span class="stringliteral">&quot;w&quot;</span>) <span class="keyword">as</span> f:</div>
+<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>            f.write(orjson.dumps(ids).decode(<span class="stringliteral">&quot;utf-8&quot;</span>))</div>
+<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>        <span class="keywordflow">return</span> ids</div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>    <span class="keywordflow">else</span>:</div>
+<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>        <span class="keywordflow">return</span> orjson.loads(open(file, <span class="stringliteral">&quot;r&quot;</span>).read())</div>
+<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span> </div>
+<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span> </div>
+<div class="line"><a id="l00077" name="l00077"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__grades.html#ade992fd4116df6a33372a2a1b2d2df61">   77</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacerare_1_1utils_1_1steam__grades.html#ade992fd4116df6a33372a2a1b2d2df61">get_steam_id</a>(title: str):</div>
+<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>    file = os.path.join(<a class="code hl_function" href="namespacerare_1_1utils_1_1paths.html#a967cf7dd54d6f29434b1b44099984396">cache_dir</a>(), <span class="stringliteral">&quot;game_list.json&quot;</span>)</div>
+<div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span>    <span class="comment"># workarounds for satisfactory</span></div>
+<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>    title = title.replace(<span class="stringliteral">&quot;Early Access&quot;</span>, <span class="stringliteral">&quot;&quot;</span>).replace(<span class="stringliteral">&quot;Experimental&quot;</span>, <span class="stringliteral">&quot;&quot;</span>).strip()</div>
+<div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>    <span class="keyword">global</span> __steam_ids_json</div>
+<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>    <span class="keywordflow">if</span> __steam_ids_json <span class="keywordflow">is</span> <span class="keywordtype">None</span>:</div>
+<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>        <span class="keywordflow">if</span> <span class="keywordflow">not</span> os.path.exists(file):</div>
+<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>            response = requests.get(url)</div>
+<div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span>            ids = {}</div>
+<div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span>            steam_ids = orjson.loads(response.text)[<span class="stringliteral">&quot;applist&quot;</span>][<span class="stringliteral">&quot;apps&quot;</span>]</div>
+<div class="line"><a id="l00087" name="l00087"></a><span class="lineno">   87</span>            <span class="keywordflow">for</span> game <span class="keywordflow">in</span> steam_ids:</div>
+<div class="line"><a id="l00088" name="l00088"></a><span class="lineno">   88</span>                ids[game[<span class="stringliteral">&quot;name&quot;</span>]] = game[<span class="stringliteral">&quot;appid&quot;</span>]</div>
+<div class="line"><a id="l00089" name="l00089"></a><span class="lineno">   89</span>            __steam_ids_json = ids</div>
+<div class="line"><a id="l00090" name="l00090"></a><span class="lineno">   90</span> </div>
+<div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>            <span class="keyword">with</span> open(file, <span class="stringliteral">&quot;w&quot;</span>) <span class="keyword">as</span> f:</div>
+<div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span>                f.write(orjson.dumps(ids).decode(<span class="stringliteral">&quot;utf-8&quot;</span>))</div>
+<div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>        <span class="keywordflow">else</span>:</div>
+<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>            ids = orjson.loads(open(file, <span class="stringliteral">&quot;r&quot;</span>).read())</div>
+<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>            __steam_ids_json = ids</div>
+<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>    <span class="keywordflow">else</span>:</div>
+<div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>        ids = __steam_ids_json</div>
+<div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span> </div>
+<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>    <span class="keywordflow">if</span> title <span class="keywordflow">in</span> ids.keys():</div>
+<div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>        steam_name = [title]</div>
+<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span> </div>
+<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>    <span class="keywordflow">else</span>:</div>
+<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>        steam_name = difflib.get_close_matches(title, ids.keys(), n=1)</div>
+<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>    <span class="keywordflow">if</span> steam_name:</div>
+<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>        <span class="keywordflow">return</span> ids[steam_name[0]]</div>
+<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>    <span class="keywordflow">else</span>:</div>
+<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>        <span class="keywordflow">return</span> 0</div>
+<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span> </div>
+<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span> </div>
+<div class="line"><a id="l00110" name="l00110"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__grades.html#a342a42c51bbc1c6ecfa3a18f09d2d40c">  110</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacerare_1_1utils_1_1steam__grades.html#a342a42c51bbc1c6ecfa3a18f09d2d40c">check_time</a>():  <span class="comment"># this function check if it&#39;s time to update</span></div>
+<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>    file = os.path.join(<a class="code hl_function" href="namespacerare_1_1utils_1_1paths.html#a967cf7dd54d6f29434b1b44099984396">cache_dir</a>(), <span class="stringliteral">&quot;game_list.json&quot;</span>)</div>
+<div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span>    json_table = orjson.loads(open(file, <span class="stringliteral">&quot;r&quot;</span>).read())</div>
+<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span> </div>
+<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>    today = date.today()</div>
+<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>    day = 0  <span class="comment"># it controls how many days it&#39;s necessary for an update</span></div>
+<div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>    <span class="keywordflow">for</span> i <span class="keywordflow">in</span> <span class="stringliteral">&quot;ymd&quot;</span>:</div>
+<div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>        <span class="keywordflow">if</span> i == <span class="stringliteral">&quot;d&quot;</span>:</div>
+<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>            day = 7</div>
+<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>        <span class="keywordflow">else</span>:</div>
+<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>            day = 0</div>
+<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>        <span class="keywordflow">if</span> int(today.strftime(<span class="stringliteral">&quot;%&quot;</span> + i)) &gt; int(json_table[<span class="stringliteral">&quot;data&quot;</span>][i]) + day:</div>
+<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>            <span class="keywordflow">return</span> 1</div>
+<div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>        <span class="keywordflow">else</span>:</div>
+<div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span>            <span class="keywordflow">return</span> 0</div>
 <div class="ttc" id="anamespacerare_1_1lgndr_1_1core_html"><div class="ttname"><a href="namespacerare_1_1lgndr_1_1core.html">rare.lgndr.core</a></div><div class="ttdef"><b>Definition:</b> <a href="core_8py_source.html#l00001">core.py:1</a></div></div>
-<div class="ttc" id="anamespacerare_1_1utils_1_1compat_1_1wine_html_a4b99ff73a8a869319570237b5c57ab03"><div class="ttname"><a href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">rare.utils.compat.wine.str</a></div><div class="ttdeci">str</div><div class="ttdef"><b>Definition:</b> <a href="utils_2compat_2wine_8py_source.html#l00012">wine.py:12</a></div></div>
 <div class="ttc" id="anamespacerare_1_1utils_1_1paths_html"><div class="ttname"><a href="namespacerare_1_1utils_1_1paths.html">rare.utils.paths</a></div><div class="ttdef"><b>Definition:</b> <a href="paths_8py_source.html#l00001">paths.py:1</a></div></div>
-<div class="ttc" id="anamespacerare_1_1utils_1_1paths_html_a967cf7dd54d6f29434b1b44099984396"><div class="ttname"><a href="namespacerare_1_1utils_1_1paths.html#a967cf7dd54d6f29434b1b44099984396">rare.utils.paths.cache_dir</a></div><div class="ttdeci">Path cache_dir()</div><div class="ttdef"><b>Definition:</b> <a href="paths_8py_source.html#l00050">paths.py:50</a></div></div>
-<div class="ttc" id="anamespacerare_1_1utils_1_1steam__grades_html_a4fbb4d953a461c946de723d1f1751396"><div class="ttname"><a href="namespacerare_1_1utils_1_1steam__grades.html#a4fbb4d953a461c946de723d1f1751396">rare.utils.steam_grades.get_steam_id</a></div><div class="ttdeci">int get_steam_id(str title)</div><div class="ttdef"><b>Definition:</b> <a href="steam__grades_8py_source.html#l00096">steam_grades.py:96</a></div></div>
-<div class="ttc" id="anamespacerare_1_1utils_1_1steam__grades_html_a65145276c5b5f93556777b0f2f8ceb25"><div class="ttname"><a href="namespacerare_1_1utils_1_1steam__grades.html#a65145276c5b5f93556777b0f2f8ceb25">rare.utils.steam_grades.load_json</a></div><div class="ttdeci">dict load_json()</div><div class="ttdef"><b>Definition:</b> <a href="steam__grades_8py_source.html#l00074">steam_grades.py:74</a></div></div>
-<div class="ttc" id="anamespacerare_1_1utils_1_1steam__grades_html_ad5da927491f3a57e4f9ab3ad62ce2324"><div class="ttname"><a href="namespacerare_1_1utils_1_1steam__grades.html#ad5da927491f3a57e4f9ab3ad62ce2324">rare.utils.steam_grades.get_rating</a></div><div class="ttdeci">Tuple[int, str] get_rating(LegendaryCore core, str app_name)</div><div class="ttdef"><b>Definition:</b> <a href="steam__grades_8py_source.html#l00047">steam_grades.py:47</a></div></div>
-<div class="ttc" id="anamespacerare_1_1utils_1_1steam__grades_html_afb84b77f9ccf4f2f47fe022771e9b7b4"><div class="ttname"><a href="namespacerare_1_1utils_1_1steam__grades.html#afb84b77f9ccf4f2f47fe022771e9b7b4">rare.utils.steam_grades.get_grade</a></div><div class="ttdeci">def get_grade(steam_code)</div><div class="ttdef"><b>Definition:</b> <a href="steam__grades_8py_source.html#l00061">steam_grades.py:61</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_1_1paths_html_a967cf7dd54d6f29434b1b44099984396"><div class="ttname"><a href="namespacerare_1_1utils_1_1paths.html#a967cf7dd54d6f29434b1b44099984396">rare.utils.paths.cache_dir</a></div><div class="ttdeci">Path cache_dir()</div><div class="ttdef"><b>Definition:</b> <a href="paths_8py_source.html#l00049">paths.py:49</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_1_1paths_html_aa160c55be4d6aad43da3d35e8a1dc97b"><div class="ttname"><a href="namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b">rare.utils.paths.data_dir</a></div><div class="ttdeci">Path data_dir()</div><div class="ttdef"><b>Definition:</b> <a href="paths_8py_source.html#l00045">paths.py:45</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_1_1steam__grades_html_a19744bb6cba6816375637c10fc252c0d"><div class="ttname"><a href="namespacerare_1_1utils_1_1steam__grades.html#a19744bb6cba6816375637c10fc252c0d">rare.utils.steam_grades.get_rating</a></div><div class="ttdeci">def get_rating(LegendaryCore core, str app_name)</div><div class="ttdef"><b>Definition:</b> <a href="steam__grades_8py_source.html#l00019">steam_grades.py:19</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_1_1steam__grades_html_a342a42c51bbc1c6ecfa3a18f09d2d40c"><div class="ttname"><a href="namespacerare_1_1utils_1_1steam__grades.html#a342a42c51bbc1c6ecfa3a18f09d2d40c">rare.utils.steam_grades.check_time</a></div><div class="ttdeci">def check_time()</div><div class="ttdef"><b>Definition:</b> <a href="steam__grades_8py_source.html#l00110">steam_grades.py:110</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_1_1steam__grades_html_a65145276c5b5f93556777b0f2f8ceb25"><div class="ttname"><a href="namespacerare_1_1utils_1_1steam__grades.html#a65145276c5b5f93556777b0f2f8ceb25">rare.utils.steam_grades.load_json</a></div><div class="ttdeci">dict load_json()</div><div class="ttdef"><b>Definition:</b> <a href="steam__grades_8py_source.html#l00061">steam_grades.py:61</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_1_1steam__grades_html_ade992fd4116df6a33372a2a1b2d2df61"><div class="ttname"><a href="namespacerare_1_1utils_1_1steam__grades.html#ade992fd4116df6a33372a2a1b2d2df61">rare.utils.steam_grades.get_steam_id</a></div><div class="ttdeci">def get_steam_id(str title)</div><div class="ttdef"><b>Definition:</b> <a href="steam__grades_8py_source.html#l00077">steam_grades.py:77</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_1_1steam__grades_html_afb84b77f9ccf4f2f47fe022771e9b7b4"><div class="ttname"><a href="namespacerare_1_1utils_1_1steam__grades.html#afb84b77f9ccf4f2f47fe022771e9b7b4">rare.utils.steam_grades.get_grade</a></div><div class="ttdeci">def get_grade(steam_code)</div><div class="ttdef"><b>Definition:</b> <a href="steam__grades_8py_source.html#l00047">steam_grades.py:47</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

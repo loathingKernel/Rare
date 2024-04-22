@@ -1,8 +1,6 @@
 <map id="get_grade" name="get_grade">
-<area shape="rect" id="node1" title=" " alt="" coords="869,82,948,109"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1steam__grades.html#ad5da927491f3a57e4f9ab3ad62ce2324" title=" " alt="" coords="743,82,821,109"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a44ad13c0a844d30263bbf7ca3ce625ea" title=" " alt="" coords="467,75,695,116"/>
-<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html#a563276b55376fdd9f495c321c5408906" title=" " alt="" coords="227,75,419,116"/>
-<area shape="rect" id="node5" href="$classrare_1_1models_1_1options_1_1_value.html#a45163c19b7c87f553c6f1d055d4668cb" title=" " alt="" coords="5,29,179,71"/>
-<area shape="rect" id="node6" href="$classrare_1_1models_1_1options_1_1_value.html#a810fdc262754b6d21f5acd0e280d4daf" title=" " alt="" coords="5,119,179,160"/>
+<area shape="rect" id="node1" title=" " alt="" coords="648,37,727,63"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1steam__grades.html#a19744bb6cba6816375637c10fc252c0d" title=" " alt="" coords="521,37,600,63"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a44ad13c0a844d30263bbf7ca3ce625ea" title=" " alt="" coords="245,29,473,71"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html#a55dca0afa9f8205575d7e5ea2a6c10cb" title=" " alt="" coords="5,29,197,71"/>
 </map>

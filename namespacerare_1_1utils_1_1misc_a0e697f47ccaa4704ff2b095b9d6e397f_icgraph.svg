@@ -27,7 +27,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#af0b1b6858ed0b8efb6b4faa95f01cf6d" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a89311b671a3e7f2390af32d7a6dcca9f" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-30.5 185,-30.5 185,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.rare.</text>
 <text text-anchor="middle" x="92.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">RareSettings.on_style_select_changed</text>

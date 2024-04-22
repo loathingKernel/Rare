@@ -1,7 +1,4 @@
 <map id="SlidingStackedWidget" name="SlidingStackedWidget">
-<area shape="rect" id="node1" title="Taken from: https://stackoverflow.com/a/52597972." alt="" coords="198,131,349,487"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_page.html" title=" " alt="" coords="5,535,168,685"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_page.html" title=" " alt="" coords="192,542,355,678"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_page.html" title=" " alt="" coords="379,542,541,678"/>
-<area shape="rect" id="node2" title=" " alt="" coords="213,5,333,83"/>
+<area shape="rect" id="node1" title="Taken from: https://stackoverflow.com/a/52597972." alt="" coords="5,131,156,487"/>
+<area shape="rect" id="node2" title=" " alt="" coords="21,5,141,83"/>
 </map>

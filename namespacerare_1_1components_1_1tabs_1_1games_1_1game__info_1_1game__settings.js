@@ -1,12 +1,5 @@
 var namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings =
 [
-    [ "GameDxvkSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_dxvk_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_dxvk_settings" ],
-    [ "GameEnvVars", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_env_vars.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_env_vars" ],
-    [ "GameLaunchSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_launch_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_launch_settings" ],
-    [ "GameMangoHudSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_mango_hud_settings" ],
-    [ "GameProtonSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_proton_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_proton_settings" ],
     [ "GameSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings" ],
-    [ "GameWineSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_wine_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_wine_settings" ],
-    [ "GameWrapperSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_wrapper_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_wrapper_settings" ],
     [ "logger", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ]
 ];

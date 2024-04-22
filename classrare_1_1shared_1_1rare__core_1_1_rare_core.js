@@ -23,15 +23,14 @@ var classrare_1_1shared_1_1rare__core_1_1_rare_core =
     [ "mac_games", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a6dc95bbf1fed3a94eb9c1da3acaa57bb", null ],
     [ "non_asset_games", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#af4ea42e05d7b0e4d308127cb51652089", null ],
     [ "origin_games", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aa69bdc3ab831ce3dfcdefde6915069c5", null ],
-    [ "queue_info", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a7e9a2e5ba594ae4354260eb746b8a0df", null ],
+    [ "queue_info", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a9c562ac22f28ccd99973a6471725b154", null ],
     [ "queued_workers", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a780163e59723a97218b5b14874d486f8", null ],
     [ "resolve_origin", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#af29ac67bc30fc5530252b2a234b84188", null ],
     [ "saves", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a4c5d7b0b818760d1a69d2dca743a2f4b", null ],
-    [ "settings", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aa1576e9b0056403059061071172ff834", null ],
     [ "signals", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c", null ],
     [ "ubisoft_games", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a7099dc17c478d6e4850ae5a839b640eb", null ],
     [ "unreal_engine", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a35a295629dc020d0e97b1c0926242c5c", null ],
     [ "updates", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#af77d4830ac34baf7f5be854c57124be8", null ],
-    [ "wrappers", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a361d22fed4b0c7db6ea4d03e1b0a51ec", null ],
-    [ "queue_threadpool", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a8f62d6fdee30210122279401f2574160", null ]
+    [ "queue_threadpool", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a8f62d6fdee30210122279401f2574160", null ],
+    [ "settings", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a6cddb5e40c21eadd2ded85bc51f79822", null ]
 ];

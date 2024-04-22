@@ -1,4 +1,5 @@
 <map id="Ui_Wishlist" name="Ui_Wishlist">
-<area shape="rect" id="node1" title=" " alt="" coords="5,131,132,355"/>
-<area shape="rect" id="node2" title=" " alt="" coords="40,5,97,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="23,131,151,428"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist.html" title=" " alt="" coords="5,476,169,671"/>
+<area shape="rect" id="node2" title=" " alt="" coords="59,5,116,83"/>
 </map>

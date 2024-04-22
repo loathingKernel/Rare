@@ -1,0 +1,8 @@
+<map id="dialog_title_game" name="dialog_title_game">
+<area shape="rect" id="node1" title=" " alt="" coords="271,231,393,257"/>
+<area shape="rect" id="node2" href="$classrare_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html#a1bdae8b8b5a801b5b216055866d3907d" title=" " alt="" coords="13,29,215,85"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a6aeedb257142077750b67cbc9726a811" title=" " alt="" coords="15,134,213,175"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html#a6c734fe46844d27ba3c41824b2080754" title=" " alt="" coords="15,223,213,265"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog.html#a6c734fe46844d27ba3c41824b2080754" title=" " alt="" coords="5,313,223,354"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html#afface21f92e0fa969e78ba5a3b83a9e8" title=" " alt="" coords="7,402,221,443"/>
+</map>

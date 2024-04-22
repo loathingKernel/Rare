@@ -1,14 +1,14 @@
 <map id="install_game" name="install_game">
-<area shape="rect" id="node1" title=" " alt="" coords="911,155,1005,181"/>
-<area shape="rect" id="node2" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a881d11b24342715864e29b218219f5f4" title=" " alt="" coords="741,29,838,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a7de93b9e2b51b491d5c70be49680f66d" title=" " alt="" coords="716,155,863,181"/>
-<area shape="rect" id="node4" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#ae0eac5fbd08c37bc6646b98c91d9f847" title=" " alt="" coords="509,96,632,123"/>
-<area shape="rect" id="node5" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a72a86e9e97d577472c8a8af9e4a67949" title=" " alt="" coords="762,229,817,256"/>
-<area shape="rect" id="node6" href="$classlauncher_1_1console__dialog_1_1_console_dialog.html#a91465b9ae57cdea67cbcbb58986892d7" title=" " alt="" coords="473,205,668,246"/>
-<area shape="rect" id="node12" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a91465b9ae57cdea67cbcbb58986892d7" title=" " alt="" coords="476,295,665,351"/>
-<area shape="rect" id="node7" href="$classlauncher_1_1console__dialog_1_1_console_dialog.html#a7e95a1a89e48f7f756bcea2a62a14a62" title=" " alt="" coords="252,207,415,249"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a7e95a1a89e48f7f756bcea2a62a14a62" title=" " alt="" coords="241,298,425,339"/>
-<area shape="rect" id="node8" href="$classlauncher_1_1console__dialog_1_1_console_dialog.html#aea9480e3e11a9caa9c677f82b2c64569" title=" " alt="" coords="16,118,183,159"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#aa932131ff73a2a934f2f2da848314955" title=" " alt="" coords="8,297,191,353"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a76ef2ebd71b1a1858194134725b6c800" title=" " alt="" coords="5,207,193,249"/>
+<area shape="rect" id="node1" title=" " alt="" coords="928,155,1023,181"/>
+<area shape="rect" id="node2" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a881d11b24342715864e29b218219f5f4" title=" " alt="" coords="758,29,855,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a7de93b9e2b51b491d5c70be49680f66d" title=" " alt="" coords="733,155,880,181"/>
+<area shape="rect" id="node4" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#ae0eac5fbd08c37bc6646b98c91d9f847" title=" " alt="" coords="529,95,652,121"/>
+<area shape="rect" id="node5" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a72a86e9e97d577472c8a8af9e4a67949" title=" " alt="" coords="779,229,834,256"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a91465b9ae57cdea67cbcbb58986892d7" title=" " alt="" coords="496,199,685,255"/>
+<area shape="rect" id="node12" href="$classrare_1_1launcher_1_1console__dialog_1_1_console_dialog.html#a91465b9ae57cdea67cbcbb58986892d7" title=" " alt="" coords="497,303,685,359"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a7e95a1a89e48f7f756bcea2a62a14a62" title=" " alt="" coords="264,210,448,251"/>
+<area shape="rect" id="node10" href="$classrare_1_1launcher_1_1console__dialog_1_1_console_dialog.html#a7e95a1a89e48f7f756bcea2a62a14a62" title=" " alt="" coords="265,303,447,345"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#aa932131ff73a2a934f2f2da848314955" title=" " alt="" coords="19,296,202,352"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a76ef2ebd71b1a1858194134725b6c800" title=" " alt="" coords="17,206,205,247"/>
+<area shape="rect" id="node11" href="$classrare_1_1launcher_1_1console__dialog_1_1_console_dialog.html#aea9480e3e11a9caa9c677f82b2c64569" title=" " alt="" coords="5,401,216,442"/>
 </map>

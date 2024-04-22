@@ -1,17 +1,20 @@
 var dir_90609c02637dbf8153bc283331604401 =
 [
     [ "__init__.py", "components_2tabs_2settings_2widgets_2____init_____8py.html", null ],
+    [ "dxvk.py", "components_2tabs_2settings_2widgets_2dxvk_8py.html", [
+      [ "DxvkSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_dxvk_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1dxvk_1_1_dxvk_settings" ]
+    ] ],
     [ "env_vars.py", "env__vars_8py.html", "env__vars_8py" ],
     [ "env_vars_model.py", "env__vars__model_8py.html", "env__vars__model_8py" ],
-    [ "game.py", "components_2tabs_2settings_2widgets_2game_8py.html", [
-      [ "GameSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1game_1_1_game_settings_base.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1game_1_1_game_settings_base" ]
+    [ "linux.py", "components_2tabs_2settings_2widgets_2linux_8py.html", "components_2tabs_2settings_2widgets_2linux_8py" ],
+    [ "mangohud.py", "mangohud_8py.html", "mangohud_8py" ],
+    [ "overlay_settings.py", "overlay__settings_8py.html", "overlay__settings_8py" ],
+    [ "pre_launch.py", "pre__launch_8py.html", [
+      [ "PreLaunchSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1pre__launch_1_1_pre_launch_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1pre__launch_1_1_pre_launch_settings" ]
     ] ],
-    [ "launch.py", "launch_8py.html", "launch_8py" ],
-    [ "overlay.py", "components_2tabs_2settings_2widgets_2overlay_8py.html", "components_2tabs_2settings_2widgets_2overlay_8py" ],
-    [ "proton.py", "proton_8py.html", "proton_8py" ],
+    [ "proton.py", "components_2tabs_2settings_2widgets_2proton_8py.html", "components_2tabs_2settings_2widgets_2proton_8py" ],
     [ "rpc.py", "components_2tabs_2settings_2widgets_2rpc_8py.html", [
       [ "RPCSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings" ]
     ] ],
-    [ "wine.py", "components_2tabs_2settings_2widgets_2wine_8py.html", "components_2tabs_2settings_2widgets_2wine_8py" ],
-    [ "wrappers.py", "components_2tabs_2settings_2widgets_2wrappers_8py.html", "components_2tabs_2settings_2widgets_2wrappers_8py" ]
+    [ "wrapper.py", "components_2tabs_2settings_2widgets_2wrapper_8py.html", "components_2tabs_2settings_2widgets_2wrapper_8py" ]
 ];

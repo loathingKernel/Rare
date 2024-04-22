@@ -1,5 +1,5 @@
 <map id="move_game" name="move_game">
-<area shape="rect" id="node1" title=" " alt="" coords="5,235,99,261"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,189,99,216"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aea1fe2575697ff132d6bd9629fe6c2df" title=" " alt="" coords="172,5,319,32"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a849f0844767f52dfa892223327e312f9" title=" " alt="" coords="181,56,309,83"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a6051424c6fb282ae329b5c3eb42170c0" title=" " alt="" coords="181,107,310,133"/>
@@ -7,5 +7,4 @@
 <area shape="rect" id="node6" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="159,271,332,313"/>
 <area shape="rect" id="node7" href="$namespacerare_1_1utils_1_1misc.html#a3544b31f50ff739b7e8bb4ab751026b7" title=" " alt="" coords="159,361,331,388"/>
 <area shape="rect" id="node8" href="$namespacerare_1_1components_1_1dialogs_1_1move__dialog.html#a8302d76d11d91b8e3f2bd8b62103dd74" title=" " alt="" coords="147,437,344,478"/>
-<area shape="rect" id="node9" href="$namespacerare_1_1utils_1_1misc.html#a75e1dd7e1c0a66c6cccfd8f5511fc81a" title=" " alt="" coords="179,526,311,567"/>
 </map>

@@ -1,11 +1,11 @@
 <map id="stop" name="stop">
-<area shape="rect" id="node1" title=" " alt="" coords="1287,158,1333,185"/>
-<area shape="rect" id="node2" href="$classlauncher_1_1_rare_launcher.html#ac2d7fc08d8189d84d207151df722ee19" title=" " alt="" coords="1047,151,1231,192"/>
-<area shape="rect" id="node5" href="$classlauncher_1_1_rare_launcher.html#a62864ecc73de3f9e4a009737d0c01f01" title=" " alt="" coords="493,295,728,322"/>
-<area shape="rect" id="node9" href="$classlauncher_1_1_rare_launcher.html#ad0256d0c2293a5030e42884d8de9484d" title=" " alt="" coords="1040,75,1239,102"/>
-<area shape="rect" id="node3" href="$classlauncher_1_1_rare_launcher.html#ad47de7ec8f6313187cfd8f81dd9584fc" title=" " alt="" coords="799,68,992,109"/>
-<area shape="rect" id="node4" href="$classlauncher_1_1_rare_launcher.html#a711d1d7df9874db34971779c941c4e5e" title=" " alt="" coords="803,158,987,185"/>
-<area shape="rect" id="node6" href="$classlauncher_1_1_rare_launcher.html#ac8b8dc7f48f8405350185a34a814e908" title=" " alt="" coords="239,171,423,212"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1query_1_1_search_store_query.html#a7c6470f8f9e59994ab7b7cdf61e3860d" title=" " alt="" coords="471,29,751,71"/>
-<area shape="rect" id="node7" href="$classlauncher_1_1_rare_launcher.html#abc80b9c0d00c9ee171bcdd5b318f9329" title=" " alt="" coords="5,129,191,171"/>
+<area shape="rect" id="node1" title=" " alt="" coords="1368,206,1415,233"/>
+<area shape="rect" id="node2" href="$classrare_1_1launcher_1_1_rare_launcher.html#ac2d7fc08d8189d84d207151df722ee19" title=" " alt="" coords="1103,116,1313,157"/>
+<area shape="rect" id="node6" href="$classrare_1_1launcher_1_1_rare_launcher.html#a62864ecc73de3f9e4a009737d0c01f01" title=" " alt="" coords="521,265,781,291"/>
+<area shape="rect" id="node9" href="$classrare_1_1launcher_1_1_rare_launcher.html#ad0256d0c2293a5030e42884d8de9484d" title=" " alt="" coords="1096,206,1320,233"/>
+<area shape="rect" id="node3" href="$classrare_1_1launcher_1_1_rare_launcher.html#ad47de7ec8f6313187cfd8f81dd9584fc" title=" " alt="" coords="829,199,1048,240"/>
+<area shape="rect" id="node4" href="$classrare_1_1launcher_1_1_rare_launcher.html#a711d1d7df9874db34971779c941c4e5e" title=" " alt="" coords="834,123,1043,150"/>
+<area shape="rect" id="node7" href="$classrare_1_1launcher_1_1_rare_launcher.html#ac8b8dc7f48f8405350185a34a814e908" title=" " alt="" coords="264,29,473,71"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__models_1_1_browse_model.html#a563276b55376fdd9f495c321c5408906" title=" " alt="" coords="547,124,756,165"/>
+<area shape="rect" id="node8" href="$classrare_1_1launcher_1_1_rare_launcher.html#abc80b9c0d00c9ee171bcdd5b318f9329" title=" " alt="" coords="5,107,216,148"/>
 </map>

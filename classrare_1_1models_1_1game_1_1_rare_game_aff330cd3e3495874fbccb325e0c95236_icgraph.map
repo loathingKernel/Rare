@@ -1,8 +1,6 @@
 <map id="is_non_asset" name="is_non_asset">
-<area shape="rect" id="node1" title="Property to report if a Game doesn&#39;t have assets." alt="" coords="735,82,833,109"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a9830be59bfb2ba21c1f2afb0a715f61e" title="Property to report if a Game is an Unreal Engine bundle." alt="" coords="612,82,687,109"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a44ad13c0a844d30263bbf7ca3ce625ea" title=" " alt="" coords="467,82,564,109"/>
-<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html#a563276b55376fdd9f495c321c5408906" title=" " alt="" coords="227,75,419,116"/>
-<area shape="rect" id="node5" href="$classrare_1_1models_1_1options_1_1_value.html#a45163c19b7c87f553c6f1d055d4668cb" title=" " alt="" coords="5,29,179,71"/>
-<area shape="rect" id="node6" href="$classrare_1_1models_1_1options_1_1_value.html#a810fdc262754b6d21f5acd0e280d4daf" title=" " alt="" coords="5,119,179,160"/>
+<area shape="rect" id="node1" title="Property to report if a Game doesn&#39;t have assets." alt="" coords="513,37,612,63"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a9830be59bfb2ba21c1f2afb0a715f61e" title="Property to report if a Game is an Unreal Engine bundle." alt="" coords="391,37,465,63"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a44ad13c0a844d30263bbf7ca3ce625ea" title=" " alt="" coords="245,37,343,63"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html#a55dca0afa9f8205575d7e5ea2a6c10cb" title=" " alt="" coords="5,29,197,71"/>
 </map>

@@ -89,9 +89,9 @@ var sectionId = 'dynsection-0';
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="namespacelauncher.html#acba79b2d250cb0ab84f69e1e95badd50" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="92.74,-112.5 92.74,-131.5 176.74,-131.5 176.74,-112.5 92.74,-112.5"/>
-<text text-anchor="middle" x="134.74" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">launcher.launch</text>
+<g id="a_node9"><a xlink:href="namespacerare_1_1launcher.html#a8c1e65354fefbb9bdd9c6cdba8afde23" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="83.24,-112.5 83.24,-131.5 186.24,-131.5 186.24,-112.5 83.24,-112.5"/>
+<text text-anchor="middle" x="134.74" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.launcher.launch</text>
 </a>
 </g>
 </g>

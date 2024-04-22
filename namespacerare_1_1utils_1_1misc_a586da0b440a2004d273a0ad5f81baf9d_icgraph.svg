@@ -48,7 +48,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a8ce387ca25cca5ce57fdbaf3cdb6994c" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a90cb3001f3434da6e78215b640255d50" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-30.5 185,-30.5 185,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.rare.</text>
 <text text-anchor="middle" x="92.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">RareSettings.on_color_select_changed</text>

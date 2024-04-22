@@ -1,4 +1,7 @@
 <map id="add_library_widget" name="add_library_widget">
-<area shape="rect" id="node1" title=" " alt="" coords="5,29,135,56"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a09ad02746b43edc7bbeade971378aa4e" title=" " alt="" coords="183,29,303,56"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,135,105"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1store_1_1_shop.html#adce81273b921608423370102d510bcab" title=" " alt="" coords="183,29,364,71"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a09ad02746b43edc7bbeade971378aa4e" title=" " alt="" coords="213,119,333,146"/>
+<area shape="rect" id="node3" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a98a895468c8036bb8122dd2c568d91e7" title=" " alt="" coords="412,29,575,71"/>
+<area shape="rect" id="node4" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a66bb1af90088807e5445bcf242390463" title=" " alt="" coords="623,29,788,71"/>
 </map>

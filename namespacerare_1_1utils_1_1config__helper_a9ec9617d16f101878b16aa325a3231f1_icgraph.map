@@ -1,8 +1,4 @@
 <map id="remove_option" name="remove_option">
-<area shape="rect" id="node1" title=" " alt="" coords="524,67,631,93"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1config__helper.html#a16e3dc3b4659116dec694e9463110d8c" title=" " alt="" coords="365,36,476,63"/>
-<area shape="rect" id="node6" href="$namespacerare_1_1utils_1_1config__helper.html#a267a5f12a4baf45647523a113068e11c" title=" " alt="" coords="223,104,315,131"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1config__helper.html#abb61ad01d47ef603ef23d607d4e6de35" title=" " alt="" coords="221,29,317,56"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1config__helper.html#a2140eb21904d70d460af985c8bf9a244" title=" " alt="" coords="5,29,173,56"/>
-<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1config__helper.html#abe4da597ff958ca26dbdcf78de1af291" title=" " alt="" coords="29,104,150,131"/>
+<area shape="rect" id="node1" title=" " alt="" coords="164,29,271,56"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1config__helper.html#a16e3dc3b4659116dec694e9463110d8c" title=" " alt="" coords="5,29,116,56"/>
 </map>

@@ -1,6 +1,8 @@
 var dir_6c298d0fb34b60c4c80fdeaf64fe0601 =
 [
-    [ "__init__.py", "components_2tabs_2games_2game__widgets_2____init_____8py.html", "components_2tabs_2games_2game__widgets_2____init_____8py" ],
+    [ "__init__.py", "components_2tabs_2games_2game__widgets_2____init_____8py.html", [
+      [ "LibraryWidgetController", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller" ]
+    ] ],
     [ "game_widget.py", "game__widget_8py.html", "game__widget_8py" ],
     [ "icon_game_widget.py", "icon__game__widget_8py.html", "icon__game__widget_8py" ],
     [ "icon_widget.py", "icon__widget_8py.html", [

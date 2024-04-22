@@ -1,3 +1,10 @@
 <map id="setupUi" name="setupUi">
-<area shape="rect" id="node1" title=" " alt="" coords="5,29,72,56"/>
+<area shape="rect" id="node1" title=" " alt="" coords="340,305,407,331"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1store_1_1game__widgets_1_1_wishlist_widget.html#aaf4cb9438a28e8adf5ce5688b3ecfd8a" title=" " alt="" coords="42,29,255,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1store_1_1game__info_1_1_shop_game_info.html#a29a291f309008da678d2551f9ab331ec" title=" " alt="" coords="42,119,255,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay__settings_1_1_overlay_settings.html#a6f26ef1656cf7931a8d70e3edf907235" title=" " alt="" coords="5,208,292,249"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings.html#a75020e7f3888d6f837fae592b305add8" title=" " alt="" coords="15,297,282,339"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="21,387,277,428"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="37,476,260,517"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1store_1_1shop__widget_1_1_shop_widget.html#a8bc04b4161e827e1383dfb3803cc57a3" title=" " alt="" coords="44,565,253,607"/>
 </map>

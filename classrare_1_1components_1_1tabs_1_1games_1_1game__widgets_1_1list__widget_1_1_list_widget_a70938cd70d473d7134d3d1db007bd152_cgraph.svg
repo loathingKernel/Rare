@@ -27,17 +27,17 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="namespacerare_1_1utils_1_1misc.html#ad964a362f511f9be2d6532129e7bf731" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="139.52,-124.5 139.52,-143.5 255.52,-143.5 255.52,-124.5 139.52,-124.5"/>
-<text text-anchor="middle" x="197.52" y="-131.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.misc.qta_icon</text>
+<g id="a_node2"><a xlink:href="namespacerare_1_1utils_1_1misc.html#a5b215592bbad86ea6d2c3b46280baae8" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="149.02,-124.5 149.02,-143.5 246.02,-143.5 246.02,-124.5 149.02,-124.5"/>
+<text text-anchor="middle" x="197.52" y="-131.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.misc.icon</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M43.12,-81.86C54.46,-91.83 73.41,-106.89 92.52,-115 104.05,-119.89 116.83,-123.53 129.36,-126.23"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="128.85,-129.69 139.34,-128.2 130.2,-122.83 128.85,-129.69"/>
+<path fill="none" stroke="midnightblue" d="M43.12,-81.86C54.46,-91.83 73.41,-106.89 92.52,-115 107,-121.15 123.45,-125.31 138.92,-128.12"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="138.47,-131.59 148.91,-129.78 139.62,-124.69 138.47,-131.59"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
