@@ -16,7 +16,7 @@
 <polygon fill="#bfbfbf" stroke="black" points="0,-0.5 0,-178.5 93,-178.5 93,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="46.5" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00">Ui_RareSettings</text>
 <polyline fill="none" stroke="black" points="0,-159.5 93,-159.5 "/>
-<text text-anchor="start" x="8" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rare_layout</text>
+<text text-anchor="start" x="8" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ main_layout</text>
 <text text-anchor="start" x="8" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ left_layout</text>
 <text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ interface_group</text>
 <text text-anchor="start" x="8" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ interface_layout</text>

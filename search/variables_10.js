@@ -1,7 +1,7 @@
 var searchData=
 [
   ['ql_0',['ql',['../classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a86a6e93a196ee4ea762bb6c573cd6069',1,'rare::lgndr::cli::LegendaryCLI']]],
-  ['qprocessenvironment_1',['QProcessEnvironment',['../classlauncher_1_1lgd__helper_1_1_launch_args.html#aa10ff1b058ab4d770c9ddc21bae372f0',1,'launcher::lgd_helper::LaunchArgs']]],
+  ['qprocessenvironment_1',['QProcessEnvironment',['../classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_args.html#aa10ff1b058ab4d770c9ddc21bae372f0',1,'rare::commands::launcher::lgd_helper::LaunchArgs']]],
   ['queue_5fbase_5flayout_2',['queue_base_layout',['../classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__base__widget_1_1_ui___queue_base_widget.html#a957ad0a0d76a8228c8328af3bed22fcd',1,'rare::ui::components::tabs::downloads::queue_base_widget::Ui_QueueBaseWidget']]],
   ['queue_5fbuttons_3',['queue_buttons',['../classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__base__widget_1_1_ui___queue_base_widget.html#a1078f538a86e518eefd7c3945052c801',1,'rare::ui::components::tabs::downloads::queue_base_widget::Ui_QueueBaseWidget']]],
   ['queue_5fbuttons_5flayout_4',['queue_buttons_layout',['../classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__base__widget_1_1_ui___queue_base_widget.html#a11d89178b0c44be295ff48f300080da9',1,'rare::ui::components::tabs::downloads::queue_base_widget::Ui_QueueBaseWidget']]],

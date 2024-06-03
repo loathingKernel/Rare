@@ -1,26 +1,28 @@
 var annotated_dup =
 [
-    [ "launcher", "namespacelauncher.html", [
-      [ "cloud_sync_dialog", "namespacelauncher_1_1cloud__sync__dialog.html", [
-        [ "CloudSyncDialog", "classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html", "classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog" ],
-        [ "CloudSyncDialogResult", "classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog_result.html", null ]
-      ] ],
-      [ "console_dialog", "namespacelauncher_1_1console__dialog.html", [
-        [ "ConsoleDialog", "classlauncher_1_1console__dialog_1_1_console_dialog.html", "classlauncher_1_1console__dialog_1_1_console_dialog" ],
-        [ "ConsoleEdit", "classlauncher_1_1console__dialog_1_1_console_edit.html", "classlauncher_1_1console__dialog_1_1_console_edit" ],
-        [ "ConsoleEnv", "classlauncher_1_1console__dialog_1_1_console_env.html", "classlauncher_1_1console__dialog_1_1_console_env" ]
-      ] ],
-      [ "lgd_helper", "namespacelauncher_1_1lgd__helper.html", [
-        [ "GameArgsError", "classlauncher_1_1lgd__helper_1_1_game_args_error.html", null ],
-        [ "InitArgs", "classlauncher_1_1lgd__helper_1_1_init_args.html", "classlauncher_1_1lgd__helper_1_1_init_args" ],
-        [ "LaunchArgs", "classlauncher_1_1lgd__helper_1_1_launch_args.html", "classlauncher_1_1lgd__helper_1_1_launch_args" ]
-      ] ],
-      [ "PreLaunchThread", "classlauncher_1_1_pre_launch_thread.html", "classlauncher_1_1_pre_launch_thread" ],
-      [ "RareLauncher", "classlauncher_1_1_rare_launcher.html", "classlauncher_1_1_rare_launcher" ],
-      [ "RareLauncherException", "classlauncher_1_1_rare_launcher_exception.html", "classlauncher_1_1_rare_launcher_exception" ],
-      [ "SyncCheckWorker", "classlauncher_1_1_sync_check_worker.html", "classlauncher_1_1_sync_check_worker" ]
-    ] ],
     [ "rare", "namespacerare.html", [
+      [ "commands", "namespacerare_1_1commands.html", [
+        [ "launcher", "namespacerare_1_1commands_1_1launcher.html", [
+          [ "cloud_sync_dialog", "namespacerare_1_1commands_1_1launcher_1_1cloud__sync__dialog.html", [
+            [ "CloudSyncDialog", "classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html", "classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog" ],
+            [ "CloudSyncDialogResult", "classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog_result.html", null ]
+          ] ],
+          [ "console_dialog", "namespacerare_1_1commands_1_1launcher_1_1console__dialog.html", [
+            [ "ConsoleDialog", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog" ],
+            [ "ConsoleEdit", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_edit.html", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_edit" ],
+            [ "ConsoleEnv", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_env.html", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_env" ]
+          ] ],
+          [ "lgd_helper", "namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html", [
+            [ "GameArgsError", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_game_args_error.html", null ],
+            [ "InitArgs", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_init_args.html", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_init_args" ],
+            [ "LaunchArgs", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_args.html", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_args" ]
+          ] ],
+          [ "PreLaunch", "classrare_1_1commands_1_1launcher_1_1_pre_launch.html", "classrare_1_1commands_1_1launcher_1_1_pre_launch" ],
+          [ "RareLauncher", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html", "classrare_1_1commands_1_1launcher_1_1_rare_launcher" ],
+          [ "RareLauncherException", "classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception.html", "classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception" ],
+          [ "SyncCheckWorker", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker.html", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker" ]
+        ] ]
+      ] ],
       [ "components", "namespacerare_1_1components.html", [
         [ "dialogs", "namespacerare_1_1components_1_1dialogs.html", [
           [ "install_dialog", "namespacerare_1_1components_1_1dialogs_1_1install__dialog.html", [
@@ -85,24 +87,24 @@ var annotated_dup =
               [ "cloud_saves", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves.html", [
                 [ "CloudSaves", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves" ]
               ] ],
-              [ "game_dlc", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc.html", [
-                [ "AvailableGameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_available_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_available_game_dlc_widget" ],
-                [ "GameDlc", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc" ],
-                [ "GameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget" ],
-                [ "InstalledGameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_installed_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_installed_game_dlc_widget" ]
+              [ "details", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1details.html", [
+                [ "GameDetails", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_game_details.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_game_details" ]
               ] ],
-              [ "game_info", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info.html", [
-                [ "GameInfo", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info" ]
+              [ "dlcs", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs.html", [
+                [ "AvailableGameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_available_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_available_game_dlc_widget" ],
+                [ "GameDlcs", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_game_dlcs.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_game_dlcs" ],
+                [ "GameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_game_dlc_widget" ],
+                [ "InstalledGameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_installed_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_installed_game_dlc_widget" ]
               ] ],
-              [ "game_settings", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings.html", [
-                [ "GameDxvkSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_dxvk_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_dxvk_settings" ],
-                [ "GameEnvVars", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_env_vars.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_env_vars" ],
-                [ "GameLaunchSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_launch_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_launch_settings" ],
-                [ "GameMangoHudSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_mango_hud_settings" ],
-                [ "GameProtonSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_proton_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_proton_settings" ],
-                [ "GameSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings" ],
-                [ "GameWineSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_wine_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_wine_settings" ],
-                [ "GameWrapperSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_wrapper_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_wrapper_settings" ]
+              [ "settings", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings.html", [
+                [ "GameDxvkSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_dxvk_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_dxvk_settings" ],
+                [ "GameEnvVars", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_env_vars.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_env_vars" ],
+                [ "GameLaunchSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_launch_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_launch_settings" ],
+                [ "GameMangoHudSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_mango_hud_settings" ],
+                [ "GameProtonSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_proton_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_proton_settings" ],
+                [ "GameSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_settings" ],
+                [ "GameWineSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_wine_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_wine_settings" ],
+                [ "GameWrapperSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_wrapper_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_wrapper_settings" ]
               ] ],
               [ "GameInfoTabs", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs" ],
               [ "GameMetadataView", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_metadata_view.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_metadata_view" ]
@@ -133,7 +135,8 @@ var annotated_dup =
               [ "ViewContainer", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_view_container.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_view_container" ]
             ] ],
             [ "head_bar", "namespacerare_1_1components_1_1tabs_1_1games_1_1head__bar.html", [
-              [ "GameListHeadBar", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_game_list_head_bar.html", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_game_list_head_bar" ]
+              [ "LibraryHeadBar", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_library_head_bar.html", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_library_head_bar" ],
+              [ "SelectViewWidget", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_select_view_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_select_view_widget" ]
             ] ],
             [ "integrations", "namespacerare_1_1components_1_1tabs_1_1games_1_1integrations.html", [
               [ "egl_sync_group", "namespacerare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group.html", [
@@ -167,7 +170,7 @@ var annotated_dup =
               [ "IntegrationsTabs", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_tabs.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_tabs" ],
               [ "IntegrationsWidget", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_widget" ]
             ] ],
-            [ "GamesTab", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html", "classrare_1_1components_1_1tabs_1_1games_1_1_games_tab" ]
+            [ "GamesLibrary", "classrare_1_1components_1_1tabs_1_1games_1_1_games_library.html", "classrare_1_1components_1_1tabs_1_1games_1_1_games_library" ]
           ] ],
           [ "settings", "namespacerare_1_1components_1_1tabs_1_1settings.html", [
             [ "about", "namespacerare_1_1components_1_1tabs_1_1settings_1_1about.html", [
@@ -188,6 +191,9 @@ var annotated_dup =
               [ "LaunchSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1settings_1_1_launch_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1settings_1_1_launch_settings" ]
             ] ],
             [ "widgets", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets.html", [
+              [ "discord_rpc", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1discord__rpc.html", [
+                [ "DiscordRPCSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1discord__rpc_1_1_discord_r_p_c_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1discord__rpc_1_1_discord_r_p_c_settings" ]
+              ] ],
               [ "env_vars", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars.html", [
                 [ "EnvVars", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars" ]
               ] ],
@@ -215,9 +221,6 @@ var annotated_dup =
               ] ],
               [ "proton", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton.html", [
                 [ "ProtonSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings" ]
-              ] ],
-              [ "rpc", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc.html", [
-                [ "RPCSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings" ]
               ] ],
               [ "wine", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine.html", [
                 [ "WineSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings" ]
@@ -300,9 +303,9 @@ var annotated_dup =
             ] ],
             [ "widgets", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets.html", [
               [ "details", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details.html", [
-                [ "DetailsWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_details_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_details_widget" ],
                 [ "RequirementsWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_requirements_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_requirements_widget" ],
-                [ "SocialButton", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_social_button.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_social_button" ]
+                [ "SocialButton", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_social_button.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_social_button" ],
+                [ "StoreDetailsWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget" ]
               ] ],
               [ "groups", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets_1_1groups.html", [
                 [ "StoreGroup", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1groups_1_1_store_group.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1groups_1_1_store_group" ]
@@ -399,7 +402,7 @@ var annotated_dup =
         ] ],
         [ "image", "namespacerare_1_1models_1_1image.html", [
           [ "ImageSize", "classrare_1_1models_1_1image_1_1_image_size.html", "classrare_1_1models_1_1image_1_1_image_size" ],
-          [ "Orientation", "classrare_1_1models_1_1image_1_1_orientation.html", null ]
+          [ "ImageType", "classrare_1_1models_1_1image_1_1_image_type.html", null ]
         ] ],
         [ "install", "namespacerare_1_1models_1_1install.html", [
           [ "InstallDownloadModel", "classrare_1_1models_1_1install_1_1_install_download_model.html", null ],
@@ -430,6 +433,10 @@ var annotated_dup =
         ] ],
         [ "signals", "namespacerare_1_1models_1_1signals.html", [
           [ "GlobalSignals", "classrare_1_1models_1_1signals_1_1_global_signals.html", "classrare_1_1models_1_1signals_1_1_global_signals" ]
+        ] ],
+        [ "steam", "namespacerare_1_1models_1_1steam.html", [
+          [ "SteamShortcut", "classrare_1_1models_1_1steam_1_1_steam_shortcut.html", "classrare_1_1models_1_1steam_1_1_steam_shortcut" ],
+          [ "SteamUser", "classrare_1_1models_1_1steam_1_1_steam_user.html", "classrare_1_1models_1_1steam_1_1_steam_user" ]
         ] ],
         [ "wrapper", "namespacerare_1_1models_1_1wrapper.html", [
           [ "Wrapper", "classrare_1_1models_1_1wrapper_1_1_wrapper.html", "classrare_1_1models_1_1wrapper_1_1_wrapper" ],
@@ -534,14 +541,14 @@ var annotated_dup =
                 [ "cloud_sync_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__sync__widget.html", [
                   [ "Ui_CloudSyncWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__sync__widget_1_1_ui___cloud_sync_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__sync__widget_1_1_ui___cloud_sync_widget" ]
                 ] ],
-                [ "game_dlc", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc.html", [
-                  [ "Ui_GameDlc", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_ui___game_dlc.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_ui___game_dlc" ]
+                [ "details", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details.html", [
+                  [ "Ui_GameDetails", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_ui___game_details.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_ui___game_details" ]
                 ] ],
-                [ "game_dlc_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget.html", [
-                  [ "Ui_GameDlcWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc__widget_1_1_ui___game_dlc_widget" ]
+                [ "dlc_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlc__widget.html", [
+                  [ "Ui_GameDlcWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlc__widget_1_1_ui___game_dlc_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlc__widget_1_1_ui___game_dlc_widget" ]
                 ] ],
-                [ "game_info", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info.html", [
-                  [ "Ui_GameInfo", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_ui___game_info" ]
+                [ "dlcs", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs.html", [
+                  [ "Ui_GameDlcs", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_ui___game_dlcs.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_ui___game_dlcs" ]
                 ] ]
               ] ],
               [ "integrations", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations.html", [
@@ -570,17 +577,17 @@ var annotated_dup =
                 [ "Ui_RareSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings" ]
               ] ],
               [ "widgets", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets.html", [
+                [ "discord_rpc", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1discord__rpc.html", [
+                  [ "Ui_DiscordRPCSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1discord__rpc_1_1_ui___discord_r_p_c_settings.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1discord__rpc_1_1_ui___discord_r_p_c_settings" ]
+                ] ],
                 [ "overlay", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html", [
                   [ "Ui_OverlaySettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings" ]
-                ] ],
-                [ "rpc", "namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc.html", [
-                  [ "Ui_RPCSettings", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_ui___r_p_c_settings.html", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_ui___r_p_c_settings" ]
                 ] ]
               ] ]
             ] ],
             [ "store", "namespacerare_1_1ui_1_1components_1_1tabs_1_1store.html", [
               [ "details", "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1details.html", [
-                [ "Ui_DetailsWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___details_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___details_widget" ]
+                [ "Ui_StoreDetailsWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_details_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_details_widget" ]
               ] ],
               [ "landing", "namespacerare_1_1ui_1_1components_1_1tabs_1_1store_1_1landing.html", [
                 [ "Ui_LandingWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1landing_1_1_ui___landing_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1landing_1_1_ui___landing_widget" ]
@@ -614,11 +621,8 @@ var annotated_dup =
             [ "WineRuntime", "classrare_1_1utils_1_1compat_1_1wine_1_1_wine_runtime.html", null ]
           ] ]
         ] ],
-        [ "extra_widgets", "namespacerare_1_1utils_1_1extra__widgets.html", [
-          [ "ButtonLineEdit", "classrare_1_1utils_1_1extra__widgets_1_1_button_line_edit.html", "classrare_1_1utils_1_1extra__widgets_1_1_button_line_edit" ],
-          [ "ImageLabel", "classrare_1_1utils_1_1extra__widgets_1_1_image_label.html", "classrare_1_1utils_1_1extra__widgets_1_1_image_label" ],
-          [ "SelectViewWidget", "classrare_1_1utils_1_1extra__widgets_1_1_select_view_widget.html", "classrare_1_1utils_1_1extra__widgets_1_1_select_view_widget" ],
-          [ "WaitingSpinner", "classrare_1_1utils_1_1extra__widgets_1_1_waiting_spinner.html", "classrare_1_1utils_1_1extra__widgets_1_1_waiting_spinner" ]
+        [ "discord_rpc", "namespacerare_1_1utils_1_1discord__rpc.html", [
+          [ "DiscordRPC", "classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html", "classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c" ]
         ] ],
         [ "json_formatter", "namespacerare_1_1utils_1_1json__formatter.html", [
           [ "QJsonModel", "classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html", "classrare_1_1utils_1_1json__formatter_1_1_q_json_model" ],
@@ -631,9 +635,6 @@ var annotated_dup =
           [ "QtRequests", "classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html", "classrare_1_1utils_1_1qt__requests_1_1_qt_requests" ],
           [ "RequestQueueItem", "classrare_1_1utils_1_1qt__requests_1_1_request_queue_item.html", "classrare_1_1utils_1_1qt__requests_1_1_request_queue_item" ]
         ] ],
-        [ "rpc", "namespacerare_1_1utils_1_1rpc.html", [
-          [ "DiscordRPC", "classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html", "classrare_1_1utils_1_1rpc_1_1_discord_r_p_c" ]
-        ] ],
         [ "singleton", "namespacerare_1_1utils_1_1singleton.html", [
           [ "SingleInstance", "classrare_1_1utils_1_1singleton_1_1_single_instance.html", "classrare_1_1utils_1_1singleton_1_1_single_instance" ],
           [ "SingleInstanceException", "classrare_1_1utils_1_1singleton_1_1_single_instance_exception.html", null ]
@@ -643,6 +644,9 @@ var annotated_dup =
         ] ]
       ] ],
       [ "widgets", "namespacerare_1_1widgets.html", [
+        [ "button_edit", "namespacerare_1_1widgets_1_1button__edit.html", [
+          [ "ButtonLineEdit", "classrare_1_1widgets_1_1button__edit_1_1_button_line_edit.html", "classrare_1_1widgets_1_1button__edit_1_1_button_line_edit" ]
+        ] ],
         [ "collapsible_widget", "namespacerare_1_1widgets_1_1collapsible__widget.html", [
           [ "CollapsibleBase", "classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base.html", "classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base" ],
           [ "CollapsibleFrame", "classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame.html", "classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame" ],

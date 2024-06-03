@@ -9,5 +9,6 @@ var namespacerare_1_1models =
     [ "options", "namespacerare_1_1models_1_1options.html", "namespacerare_1_1models_1_1options" ],
     [ "pathspec", "namespacerare_1_1models_1_1pathspec.html", "namespacerare_1_1models_1_1pathspec" ],
     [ "signals", "namespacerare_1_1models_1_1signals.html", "namespacerare_1_1models_1_1signals" ],
+    [ "steam", "namespacerare_1_1models_1_1steam.html", "namespacerare_1_1models_1_1steam" ],
     [ "wrapper", "namespacerare_1_1models_1_1wrapper.html", "namespacerare_1_1models_1_1wrapper" ]
 ];

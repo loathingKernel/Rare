@@ -219,7 +219,7 @@ var sectionId = 'dynsection-0';
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="17,-325.5 17,-437.5 114,-437.5 114,-325.5 17,-325.5"/>
 <text text-anchor="middle" x="65.5" y="-425.5" font-family="Helvetica,sans-Serif" font-size="10.00">CloudSyncDialog</text>
 <polyline fill="none" stroke="black" points="17,-418.5 114,-418.5 "/>

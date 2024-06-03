@@ -1,6 +1,7 @@
 <map id="unlock_installed" name="unlock_installed">
 <area shape="rect" id="node1" title=" " alt="" coords="5,82,120,109"/>
-<area shape="rect" id="node2" href="$classlauncher_1_1console__dialog_1_1_console_dialog.html#a4db0e98c238d6a69bdbf4b8cc59be732" title=" " alt="" coords="168,29,331,71"/>
-<area shape="rect" id="node3" href="$classlauncher_1_1console__dialog_1_1_console_edit.html#ac05aadedf6e1be5c365c818989f98d50" title=" " alt="" coords="168,119,331,160"/>
-<area shape="rect" id="node4" href="$classlauncher_1_1console__dialog_1_1_console_edit.html#ad89ca21019805240d01e41fe61cdbb56" title=" " alt="" coords="379,111,541,167"/>
+<area shape="rect" id="node2" href="$classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#a9df25d182cd11f7cac9d5a7083f8be61" title=" " alt="" coords="168,29,379,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_edit.html#ac05aadedf6e1be5c365c818989f98d50" title=" " alt="" coords="168,119,379,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_edit.html#a5b65c15a31a59d304c2987f7d3f8ab7b" title=" " alt="" coords="427,111,637,167"/>
+<area shape="rect" id="node5" href="$classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_edit.html#ad89ca21019805240d01e41fe61cdbb56" title=" " alt="" coords="685,111,896,167"/>
 </map>

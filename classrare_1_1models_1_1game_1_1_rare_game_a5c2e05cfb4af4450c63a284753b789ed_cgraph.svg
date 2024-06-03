@@ -48,7 +48,7 @@ if (edges && edges.length) {
 <script type="text/javascript">
 var viewWidth = 544;
 var viewHeight = 574;
-var sectionId = 'dynsection-85';
+var sectionId = 'dynsection-87';
 </script>
 <script xlink:href="svgpan.js"/>
 <svg id="graph" class="graph">
@@ -104,10 +104,10 @@ var sectionId = 'dynsection-85';
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_details_widget.html#aa2789e0a61560857f94bc1e1569bc12b" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html#aa2789e0a61560857f94bc1e1569bc12b" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="117.5,-394 117.5,-424 320.5,-424 320.5,-394 117.5,-394"/>
 <text text-anchor="start" x="125.5" y="-412" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.widgets.details.</text>
-<text text-anchor="middle" x="219" y="-401" font-family="Helvetica,sans-Serif" font-size="10.00">DetailsWidget.update_game</text>
+<text text-anchor="middle" x="219" y="-401" font-family="Helvetica,sans-Serif" font-size="10.00">StoreDetailsWidget.update_game</text>
 </a>
 </g>
 </g>
@@ -168,10 +168,10 @@ var sectionId = 'dynsection-85';
 <!-- Node12 -->
 <g id="node12" class="node">
 <title>Node12</title>
-<g id="a_node12"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a31df619d45c585656d938a0c09e9d115" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="123.5,-126 123.5,-156 314.5,-156 314.5,-126 123.5,-126"/>
-<text text-anchor="start" x="131.5" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
-<text text-anchor="middle" x="219" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00">_info.game_info.GameInfo.update_game</text>
+<g id="a_node12"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_game_details.html#a31df619d45c585656d938a0c09e9d115" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="125,-126 125,-156 313,-156 313,-126 125,-126"/>
+<text text-anchor="start" x="133" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
+<text text-anchor="middle" x="219" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00">_info.details.GameDetails.update_game</text>
 </a>
 </g>
 </g>
@@ -306,10 +306,10 @@ var sectionId = 'dynsection-85';
 <!-- Node11 -->
 <g id="node11" class="node">
 <title>Node11</title>
-<g id="a_node11"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aabbda10522e56acdbe449fe0ce8760c2" target="_top" xlink:title=" ">
+<g id="a_node11"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_game_details.html#aabbda10522e56acdbe449fe0ce8760c2" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="364.5,-120.5 364.5,-161.5 531.5,-161.5 531.5,-120.5 364.5,-120.5"/>
 <text text-anchor="start" x="372.5" y="-149.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
-<text text-anchor="start" x="372.5" y="-138.5" font-family="Helvetica,sans-Serif" font-size="10.00">_info.game_info.GameInfo.</text>
+<text text-anchor="start" x="372.5" y="-138.5" font-family="Helvetica,sans-Serif" font-size="10.00">_info.details.GameDetails.</text>
 <text text-anchor="middle" x="448" y="-127.5" font-family="Helvetica,sans-Serif" font-size="10.00">__update_widget</text>
 </a>
 </g>
@@ -335,8 +335,8 @@ var sectionId = 'dynsection-85';
 <!-- Node12&#45;&gt;Node11 -->
 <g id="edge23" class="edge">
 <title>Node12&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M314.62,-141C327.68,-141 341.08,-141 354.1,-141"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="354.45,-144.5 364.45,-141 354.45,-137.5 354.45,-144.5"/>
+<path fill="none" stroke="midnightblue" d="M313.31,-141C326.76,-141 340.6,-141 354.04,-141"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="354.23,-144.5 364.23,-141 354.23,-137.5 354.23,-144.5"/>
 </g>
 <!-- Node12&#45;&gt;Node12 -->
 <g id="edge24" class="edge">
@@ -347,10 +347,10 @@ var sectionId = 'dynsection-85';
 <!-- Node13 -->
 <g id="node13" class="node">
 <title>Node13</title>
-<g id="a_node13"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#aea1fe2575697ff132d6bd9629fe6c2df" target="_top" xlink:title=" ">
+<g id="a_node13"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_game_details.html#aea1fe2575697ff132d6bd9629fe6c2df" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="364.5,-60.5 364.5,-101.5 531.5,-101.5 531.5,-60.5 364.5,-60.5"/>
 <text text-anchor="start" x="372.5" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
-<text text-anchor="start" x="372.5" y="-78.5" font-family="Helvetica,sans-Serif" font-size="10.00">_info.game_info.GameInfo.</text>
+<text text-anchor="start" x="372.5" y="-78.5" font-family="Helvetica,sans-Serif" font-size="10.00">_info.details.GameDetails.</text>
 <text text-anchor="middle" x="448" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">__on_move_progress</text>
 </a>
 </g>
@@ -364,10 +364,10 @@ var sectionId = 'dynsection-85';
 <!-- Node14 -->
 <g id="node14" class="node">
 <title>Node14</title>
-<g id="a_node14"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html#a48e6e062bb4c90c9cc95fa4fbfa1a730" target="_top" xlink:title=" ">
+<g id="a_node14"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_game_details.html#a48e6e062bb4c90c9cc95fa4fbfa1a730" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="364.5,-0.5 364.5,-41.5 531.5,-41.5 531.5,-0.5 364.5,-0.5"/>
 <text text-anchor="start" x="372.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
-<text text-anchor="start" x="372.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">_info.game_info.GameInfo.</text>
+<text text-anchor="start" x="372.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">_info.details.GameDetails.</text>
 <text text-anchor="middle" x="448" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">__on_verify_progress</text>
 </a>
 </g>

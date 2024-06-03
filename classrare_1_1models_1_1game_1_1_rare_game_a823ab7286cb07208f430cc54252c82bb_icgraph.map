@@ -1,12 +1,12 @@
 <map id="is_installed" name="is_installed">
-<area shape="rect" id="node1" title="Property to report if a game is installed." alt="" coords="1171,178,1257,205"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a4431ce8cf18e5dd3414d8882e585bd8d" title=" " alt="" coords="715,190,803,217"/>
-<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a490161fe09206c763886fa3a9528a8b5" title=" " alt="" coords="947,29,1123,71"/>
-<area shape="rect" id="node8" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#aae0820b518a5472343effc0dbeac6a1f" title=" " alt="" coords="947,171,1123,212"/>
-<area shape="rect" id="node9" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a446ff523b2db28f598f431a4614f4a96" title="Property to report if a game doesn&#39;t belong to the current account." alt="" coords="995,261,1074,287"/>
-<area shape="rect" id="node10" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a57ae42bf2cdbf9fc08a1a94eaabaa93b" title=" " alt="" coords="947,336,1123,377"/>
+<area shape="rect" id="node1" title="Property to report if a game is installed." alt="" coords="1192,178,1279,205"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a4431ce8cf18e5dd3414d8882e585bd8d" title=" " alt="" coords="725,190,813,217"/>
+<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a490161fe09206c763886fa3a9528a8b5" title=" " alt="" coords="968,29,1144,71"/>
+<area shape="rect" id="node8" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#aae0820b518a5472343effc0dbeac6a1f" title=" " alt="" coords="968,171,1144,212"/>
+<area shape="rect" id="node9" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a446ff523b2db28f598f431a4614f4a96" title="Property to report if a game doesn&#39;t belong to the current account." alt="" coords="1017,261,1095,287"/>
+<area shape="rect" id="node10" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a57ae42bf2cdbf9fc08a1a94eaabaa93b" title=" " alt="" coords="968,336,1144,377"/>
 <area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ab82459b9faa06688eab18988ab4024e6" title=" " alt="" coords="511,190,571,217"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#aa3fe4f510c683950f9a38eb445106504" title=" " alt="" coords="256,183,463,224"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" title=" " alt="" coords="5,183,208,224"/>
-<area shape="rect" id="node7" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_ui___r_p_c_settings.html#a0b3cd97952a6c2547871997da9f33efe" title=" " alt="" coords="619,29,899,71"/>
+<area shape="rect" id="node7" href="$classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1discord__rpc_1_1_ui___discord_r_p_c_settings.html#a4bfd5c17309aaea7ec5625d3afa8f812" title=" " alt="" coords="619,29,920,71"/>
 </map>

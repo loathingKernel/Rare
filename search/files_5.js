@@ -7,6 +7,5 @@ var searchData=
   ['env_5fvars_5fmodel_2epy_4',['env_vars_model.py',['../env__vars__model_8py.html',1,'']]],
   ['eos_5fgroup_2epy_5',['eos_group.py',['../eos__group_8py.html',1,'']]],
   ['eos_5fwidget_2epy_6',['eos_widget.py',['../eos__widget_8py.html',1,'']]],
-  ['exception_2epy_7',['exception.py',['../exception_8py.html',1,'']]],
-  ['extra_5fwidgets_2epy_8',['extra_widgets.py',['../extra__widgets_8py.html',1,'']]]
+  ['exception_2epy_7',['exception.py',['../exception_8py.html',1,'']]]
 ];

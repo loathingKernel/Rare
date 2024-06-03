@@ -1,7 +1,7 @@
 var searchData=
 [
   ['handle_5ftoggle_0',['handle_toggle',['../classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_check_box.html#a8b64389a338c017bf6d5987eda346be6',1,'rare::components::tabs::store::search::CheckBox']]],
-  ['handle_5fwishlist_5fupdate_1',['handle_wishlist_update',['../classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_details_widget.html#a1f0271c4c01a525e8b58f8cfa26ba464',1,'rare::components::tabs::store::widgets::details::DetailsWidget']]],
+  ['handle_5fwishlist_5fupdate_1',['handle_wishlist_update',['../classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html#a1f0271c4c01a525e8b58f8cfa26ba464',1,'rare::components::tabs::store::widgets::details::StoreDetailsWidget']]],
   ['has_5fdlcs_2',['has_dlcs',['../classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a3d354988ea83f08f931189c011b196c1',1,'rare::shared::rare_core::RareCore']]],
   ['has_5fsaves_3',['has_saves',['../classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a68395f7577f6b1a63a7a62dbf1a4c6d0',1,'rare::shared::rare_core::RareCore']]],
   ['has_5fselected_4',['has_selected',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html#ab8b331e136645ce7f917dbb21df15427',1,'rare::components::tabs::games::integrations::egl_sync_group::EGLSyncListGroup']]],

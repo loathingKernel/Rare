@@ -34,7 +34,7 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_settings.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-68.5 89,-68.5 89,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="44.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameSettings</text>
 <polyline fill="none" stroke="black" points="0,-49.5 89,-49.5 "/>

@@ -73,10 +73,10 @@ var sectionId = 'dynsection-3';
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html#a1bdae8b8b5a801b5b216055866d3907d" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="232,-447.5 232,-488.5 357,-488.5 357,-447.5 232,-447.5"/>
-<text text-anchor="start" x="240" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00">launcher.cloud_sync</text>
-<text text-anchor="start" x="240" y="-465.5" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.CloudSyncDialog.</text>
+<g id="a_node2"><a xlink:href="classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html#a1bdae8b8b5a801b5b216055866d3907d" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="219,-447.5 219,-488.5 370,-488.5 370,-447.5 219,-447.5"/>
+<text text-anchor="start" x="227" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.launcher.cloud</text>
+<text text-anchor="start" x="227" y="-465.5" font-family="Helvetica,sans-Serif" font-size="10.00">_sync_dialog.CloudSyncDialog.</text>
 <text text-anchor="middle" x="294.5" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00">__init__</text>
 </a>
 </g>
@@ -84,7 +84,7 @@ var sectionId = 'dynsection-3';
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M472.38,-281.12C468.33,-317.85 454.45,-395.82 408,-438 394.01,-450.71 375.23,-458.13 357.03,-462.44"/>
+<path fill="none" stroke="midnightblue" d="M472.38,-281.12C468.33,-317.85 454.45,-395.82 408,-438 397.38,-447.65 383.99,-454.25 370.19,-458.76"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="475.91,-281.04 473.38,-270.75 468.94,-280.37 475.91,-281.04"/>
 </g>
 <!-- Node3 -->
@@ -154,10 +154,10 @@ var sectionId = 'dynsection-3';
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="classlauncher_1_1console__dialog_1_1_console_dialog.html#ab19adb77edae4558febb0fa87a973c0e" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="233.5,-112 233.5,-142 355.5,-142 355.5,-112 233.5,-112"/>
-<text text-anchor="start" x="241.5" y="-130" font-family="Helvetica,sans-Serif" font-size="10.00">launcher.console_dialog.</text>
-<text text-anchor="middle" x="294.5" y="-119" font-family="Helvetica,sans-Serif" font-size="10.00">ConsoleDialog.__init__</text>
+<g id="a_node7"><a xlink:href="classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#ab19adb77edae4558febb0fa87a973c0e" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="215.5,-112 215.5,-142 373.5,-142 373.5,-112 215.5,-112"/>
+<text text-anchor="start" x="223.5" y="-130" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.launcher.console</text>
+<text text-anchor="middle" x="294.5" y="-119" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.ConsoleDialog.__init__</text>
 </a>
 </g>
 </g>

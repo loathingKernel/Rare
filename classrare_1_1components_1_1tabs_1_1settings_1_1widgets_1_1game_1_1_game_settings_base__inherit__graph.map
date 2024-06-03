@@ -1,6 +1,6 @@
 <map id="GameSettingsBase" name="GameSettingsBase">
 <area shape="rect" id="node1" title=" " alt="" coords="65,271,200,480"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html" title=" " alt="" coords="5,528,124,620"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_settings.html" title=" " alt="" coords="5,528,124,620"/>
 <area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1settings_1_1settings_1_1_game_settings.html" title=" " alt="" coords="148,535,253,613"/>
 <area shape="rect" id="node2" title=" " alt="" coords="37,138,109,215"/>
 <area shape="rect" id="node3" href="$classrare_1_1widgets_1_1side__tab_1_1_side_tab_contents.html" title=" " alt="" coords="133,131,255,223"/>

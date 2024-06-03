@@ -1,9 +1,9 @@
 var searchData=
 [
   ['on_5fcolor_5fselect_5fchanged_0',['on_color_select_changed',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a8ce387ca25cca5ce57fdbaf3cdb6994c',1,'rare::components::tabs::settings::rare::RareSettings']]],
-  ['on_5fexit_1',['on_exit',['../classlauncher_1_1_rare_launcher.html#ad0256d0c2293a5030e42884d8de9484d',1,'launcher::RareLauncher']]],
+  ['on_5fexit_1',['on_exit',['../classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ad0256d0c2293a5030e42884d8de9484d',1,'rare::commands::launcher::RareLauncher']]],
   ['on_5flang_5fchanged_2',['on_lang_changed',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a7acda329700b75f376c3ca0d094532f1',1,'rare::components::tabs::settings::rare::RareSettings']]],
-  ['on_5fprocess_5fexit_3',['on_process_exit',['../classlauncher_1_1console__dialog_1_1_console_dialog.html#a22b52ef7fa9e485ee260cebbc493ac7b',1,'launcher::console_dialog::ConsoleDialog']]],
+  ['on_5fprocess_5fexit_3',['on_process_exit',['../classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#a22b52ef7fa9e485ee260cebbc493ac7b',1,'rare::commands::launcher::console_dialog::ConsoleDialog']]],
   ['on_5fstyle_5fselect_5fchanged_4',['on_style_select_changed',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#af0b1b6858ed0b8efb6b4faa95f01cf6d',1,'rare::components::tabs::settings::rare::RareSettings']]],
   ['on_5fview_5fcombo_5fchanged_5',['on_view_combo_changed',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#acb16d1601fe68a12f9e1bedb42e9e8b6',1,'rare::components::tabs::settings::rare::RareSettings']]],
   ['on_5fworker_5ffailed_6',['on_worker_failed',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a36bb64fa9d259feffe5871168f96c4df',1,'rare::components::dialogs::install_dialog::InstallDialog']]],
@@ -12,8 +12,9 @@ var searchData=
   ['open_5fdirectory_9',['open_directory',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#aafbdb78c40c7726899ad8680fab606c3',1,'rare::components::tabs::settings::rare::RareSettings']]],
   ['option_5fchanged_10',['option_changed',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a55b6e0c1333de9a1fa458b96e834dfa1',1,'rare::components::dialogs::install_dialog::InstallDialog']]],
   ['order_5fgame_5fviews_11',['order_game_views',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html#a533bad3c3cdb60d69d25e23419812fd5',1,'rare::components::tabs::games::game_widgets::LibraryWidgetController']]],
-  ['order_5fgames_12',['order_games',['../classrare_1_1components_1_1tabs_1_1games_1_1_games_tab.html#a84d67f3a703911b5371188574984563e',1,'rare::components::tabs::games::GamesTab']]],
+  ['order_5fgames_12',['order_games',['../classrare_1_1components_1_1tabs_1_1games_1_1_games_library.html#a84d67f3a703911b5371188574984563e',1,'rare::components::tabs::games::GamesLibrary']]],
   ['order_5fview_13',['order_view',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_view_container.html#a6500f8f04c90c6c6df6f2645be6bbedd',1,'rare.components.tabs.games.game_widgets.ViewContainer.order_view()'],['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_icon_view_container.html#ab83975e0b8ea214607b15e3ee82a74d4',1,'rare.components.tabs.games.game_widgets.IconViewContainer.order_view()'],['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_list_view_container.html#ab83975e0b8ea214607b15e3ee82a74d4',1,'rare.components.tabs.games.game_widgets.ListViewContainer.order_view()']]],
   ['order_5fwishlist_14',['order_wishlist',['../classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_widget.html#ac6b786883bc13cc8ed726483a69c8cbe',1,'rare::components::tabs::store::wishlist::WishlistWidget']]],
-  ['origin_5fgames_15',['origin_games',['../classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aa69bdc3ab831ce3dfcdefde6915069c5',1,'rare::shared::rare_core::RareCore']]]
+  ['orientation_15',['orientation',['../classrare_1_1models_1_1image_1_1_image_size_1_1_preset.html#a5d9419ec1f2df298a94f2932579bb83b',1,'rare::models::image::ImageSize::Preset']]],
+  ['origin_5fgames_16',['origin_games',['../classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aa69bdc3ab831ce3dfcdefde6915069c5',1,'rare::shared::rare_core::RareCore']]]
 ];

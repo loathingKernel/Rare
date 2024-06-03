@@ -6,5 +6,6 @@ var classrare_1_1widgets_1_1loading__widget_1_1_loading_widget =
     [ "showEvent", "classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html#af997cabd23f14f71f7f87c986ccd582c", null ],
     [ "start", "classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html#af1af6ddf04f00f958949618f79c33b82", null ],
     [ "stop", "classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html#a26ca7c1c7fcdd35378e7be97727047a6", null ],
+    [ "autostart", "classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html#a464f6bd19a9555ad46a0a085c0bf908b", null ],
     [ "movie", "classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html#ae484bbb4e2af6e2c896075fdb5c69e3e", null ]
 ];

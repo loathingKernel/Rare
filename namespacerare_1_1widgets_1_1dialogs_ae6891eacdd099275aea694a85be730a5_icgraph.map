@@ -1,9 +1,9 @@
 <map id="dialog_title" name="dialog_title">
 <area shape="rect" id="node1" title=" " alt="" coords="815,313,899,339"/>
-<area shape="rect" id="node2" href="$classlauncher_1_1console__dialog_1_1_console_dialog.html#ab19adb77edae4558febb0fa87a973c0e" title=" " alt="" coords="317,29,479,71"/>
+<area shape="rect" id="node2" href="$classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#ab19adb77edae4558febb0fa87a973c0e" title=" " alt="" coords="293,29,503,71"/>
 <area shape="rect" id="node3" href="$classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html#abf7d3ae733a1864b1c688c897944ff64" title=" " alt="" coords="597,395,767,436"/>
 <area shape="rect" id="node13" href="$classrare_1_1widgets_1_1dialogs_1_1_test_dialog.html#abf7d3ae733a1864b1c688c897944ff64" title=" " alt="" coords="599,305,765,347"/>
-<area shape="rect" id="node4" href="$classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html#a1bdae8b8b5a801b5b216055866d3907d" title=" " alt="" coords="315,298,481,354"/>
+<area shape="rect" id="node4" href="$classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html#a1bdae8b8b5a801b5b216055866d3907d" title=" " alt="" coords="297,298,499,354"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a6aeedb257142077750b67cbc9726a811" title=" " alt="" coords="299,403,497,444"/>
 <area shape="rect" id="node6" href="$classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html#a6c734fe46844d27ba3c41824b2080754" title=" " alt="" coords="299,492,497,533"/>
 <area shape="rect" id="node7" href="$classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog.html#a6c734fe46844d27ba3c41824b2080754" title=" " alt="" coords="289,581,507,623"/>

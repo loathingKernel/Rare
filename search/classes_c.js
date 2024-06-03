@@ -4,7 +4,7 @@ var searchData=
   ['pathedit_1',['PathEdit',['../classrare_1_1widgets_1_1indicator__edit_1_1_path_edit.html',1,'rare::widgets::indicator_edit']]],
   ['pathediticonprovider_2',['PathEditIconProvider',['../classrare_1_1widgets_1_1indicator__edit_1_1_path_edit_icon_provider.html',1,'rare::widgets::indicator_edit']]],
   ['pathspec_3',['PathSpec',['../classrare_1_1models_1_1pathspec_1_1_path_spec.html',1,'rare::models::pathspec']]],
-  ['prelaunchthread_4',['PreLaunchThread',['../classlauncher_1_1_pre_launch_thread.html',1,'launcher']]],
+  ['prelaunch_4',['PreLaunch',['../classrare_1_1commands_1_1launcher_1_1_pre_launch.html',1,'rare::commands::launcher']]],
   ['preset_5',['Preset',['../classrare_1_1models_1_1image_1_1_image_size_1_1_preset.html',1,'rare::models::image::ImageSize']]],
   ['progress_6',['Progress',['../classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals_1_1_progress.html',1,'rare::models::base_game::RareGameBase::Signals']]],
   ['progresslabel_7',['ProgressLabel',['../classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_progress_label.html',1,'rare::components::tabs::games::game_widgets::library_widget']]],

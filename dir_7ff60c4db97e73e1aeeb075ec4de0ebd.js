@@ -5,6 +5,7 @@ var dir_7ff60c4db97e73e1aeeb075ec4de0ebd =
     [ "integrations", "dir_f4fa3e20e5f04c5ac74b210cee889c1c.html", "dir_f4fa3e20e5f04c5ac74b210cee889c1c" ],
     [ "__init__.py", "components_2tabs_2games_2____init_____8py.html", "components_2tabs_2games_2____init_____8py" ],
     [ "head_bar.py", "head__bar_8py.html", [
-      [ "GameListHeadBar", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_game_list_head_bar.html", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_game_list_head_bar" ]
+      [ "LibraryHeadBar", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_library_head_bar.html", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_library_head_bar" ],
+      [ "SelectViewWidget", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_select_view_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_select_view_widget" ]
     ] ]
 ];

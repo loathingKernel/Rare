@@ -27,7 +27,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_mango_hud_settings.html" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_mango_hud_settings.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="7,-0.5 7,-57.5 133,-57.5 133,-0.5 7,-0.5"/>
 <text text-anchor="middle" x="70" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameMangoHudSettings</text>
 <polyline fill="none" stroke="black" points="7,-38.5 133,-38.5 "/>

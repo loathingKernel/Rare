@@ -1,8 +1,8 @@
 <map id="image_manager" name="image_manager">
 <area shape="rect" id="node1" title=" " alt="" coords="316,201,431,228"/>
 <area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aef5087eda294b25d77daf490e4bf4f9e" title=" " alt="" coords="103,29,170,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ac82cc4787b4d720219fe9b492bfedcca" title=" " alt="" coords="31,105,242,146"/>
-<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game.html#adfa8209bdf5c830e0a0cd5b2a453f74d" title="Do not call this function, call set_pixmap instead." alt="" coords="29,194,245,235"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a9c621c21a12566200e162d57c8110859" title=" " alt="" coords="31,105,242,146"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ac21f4c2b75f0029c243a81d8696ba4f9" title="Do not call this function, call set_pixmap instead." alt="" coords="29,194,245,235"/>
 <area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a974efcc254c209206208ddd4d9f391a8" title=" " alt="" coords="21,283,253,325"/>
 <area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_queue_info_widget.html#af2c556abce885baacdae5d5cc5f70d1b" title=" " alt="" coords="5,373,268,414"/>
 </map>

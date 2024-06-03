@@ -1,11 +1,32 @@
 <map id="mousePressEvent" name="mousePressEvent">
-<area shape="rect" id="node1" title=" " alt="" coords="5,238,133,265"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5" title="Creates a desktop or start menu shortcut link." alt="" coords="181,201,327,243"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1paths.html#ac2e6ac6baa5376d3ea5aa8b63e2af2bd" title="Creates the path of a shortcut link." alt="" coords="380,29,535,71"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1paths.html#a328faa5a142700be21313b72953aab76" title=" " alt="" coords="380,359,535,400"/>
-<area shape="rect" id="node9" href="$namespacelauncher.html#acba79b2d250cb0ab84f69e1e95badd50" title=" " alt="" coords="198,342,310,369"/>
-<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1paths.html#a5aae2af81c71e81b5a7ce0c16db5ba19" title=" " alt="" coords="394,119,521,160"/>
-<area shape="rect" id="node6" href="$namespacerare_1_1utils_1_1paths.html#a71f5a7ae998e88f396ed58bb5ec6c67b" title=" " alt="" coords="376,209,539,235"/>
-<area shape="rect" id="node7" href="$namespacerare_1_1utils_1_1paths.html#ada300860b11ac604daaa4afc32f76fb7" title=" " alt="" coords="375,283,540,310"/>
-<area shape="rect" id="node8" href="$namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b" title=" " alt="" coords="588,283,743,310"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,827,133,854"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a161b1eceee8e5d44db9fd570e06c5e0e" title=" " alt="" coords="193,164,387,205"/>
+<area shape="rect" id="node9" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a357bd54770bbc308e805d3cc81bdf8fd" title=" " alt="" coords="193,469,387,511"/>
+<area shape="rect" id="node14" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#ad6816d9b344d6df0048278ae71945d05" title=" " alt="" coords="459,387,677,428"/>
+<area shape="rect" id="node15" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a0badb50dbd514b0bdc87f910865c9fd4" title=" " alt="" coords="737,688,948,729"/>
+<area shape="rect" id="node16" href="$namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5" title="Creates a desktop or start menu shortcut link." alt="" coords="217,632,363,673"/>
+<area shape="rect" id="node17" href="$namespacerare_1_1utils_1_1paths.html#ac2e6ac6baa5376d3ea5aa8b63e2af2bd" title="Creates the path of a shortcut link." alt="" coords="491,693,645,735"/>
+<area shape="rect" id="node18" href="$namespacerare_1_1utils_1_1paths.html#a328faa5a142700be21313b72953aab76" title=" " alt="" coords="491,783,645,824"/>
+<area shape="rect" id="node20" href="$namespacerare_1_1commands_1_1launcher.html#a412675ee25d478741940175d2c1d9757" title=" " alt="" coords="466,1063,670,1090"/>
+<area shape="rect" id="node21" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#affa7b5cf274457b7480337e8e72cdc67" title=" " alt="" coords="181,1219,399,1260"/>
+<area shape="rect" id="node25" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a25f72b756b15a20243d2e1c542ba1258" title=" " alt="" coords="189,1308,391,1349"/>
+<area shape="rect" id="node26" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a34f4910ec773ae8e2d8a116f14104a72" title=" " alt="" coords="235,865,345,891"/>
+<area shape="rect" id="node28" href="$classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#a34f4910ec773ae8e2d8a116f14104a72" title=" " alt="" coords="216,1114,364,1170"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1paths.html#a90103beacb68901d003fc7d4982e99ba" title=" " alt="" coords="496,208,640,249"/>
+<area shape="rect" id="node7" href="$namespacerare_1_1utils_1_1paths.html#a073747eac70d67ea5a25acb5e0ad9010" title=" " alt="" coords="496,29,640,71"/>
+<area shape="rect" id="node8" href="$namespacerare_1_1utils_1_1paths.html#a63ca50e1dbf62bd5632bc84b8bda2f22" title=" " alt="" coords="496,119,640,160"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1paths.html#a26cca1020569c6b5f07f09723c3607b9" title=" " alt="" coords="771,164,915,205"/>
+<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1paths.html#ada300860b11ac604daaa4afc32f76fb7" title=" " alt="" coords="996,171,1161,198"/>
+<area shape="rect" id="node6" href="$namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b" title=" " alt="" coords="1209,171,1364,198"/>
+<area shape="rect" id="node10" href="$namespacerare_1_1utils_1_1paths.html#af4d56a3b4065900877c517e24bddc366" title=" " alt="" coords="491,297,645,339"/>
+<area shape="rect" id="node13" href="$namespacerare_1_1utils_1_1paths.html#a5aae2af81c71e81b5a7ce0c16db5ba19" title=" " alt="" coords="505,528,631,569"/>
+<area shape="rect" id="node11" href="$namespacerare_1_1utils_1_1paths.html#a929db13896ab79cbbe77bc82ad2698fc" title=" " alt="" coords="743,279,942,306"/>
+<area shape="rect" id="node12" href="$namespacerare_1_1utils_1_1paths.html#a68fd6933dc93b4140e22a3fb1380354f" title=" " alt="" coords="755,354,931,381"/>
+<area shape="rect" id="node19" href="$namespacerare_1_1utils_1_1paths.html#a71f5a7ae998e88f396ed58bb5ec6c67b" title=" " alt="" coords="487,618,649,645"/>
+<area shape="rect" id="node22" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a08975ccd20d50c6e7411b3ca832b973b" title=" " alt="" coords="469,1317,667,1359"/>
+<area shape="rect" id="node23" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#ac2593d9c656c0dbdf14dfc2650b610b4" title=" " alt="" coords="745,1272,940,1313"/>
+<area shape="rect" id="node24" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a4c3f9257f10e48b9f0131228fdc352ae" title=" " alt="" coords="745,1361,940,1403"/>
+<area shape="rect" id="node27" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a484aafb02f6b04d0a04df9bdb732ce53" title=" " alt="" coords="463,872,673,913"/>
+<area shape="rect" id="node29" href="$classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#aca28781d9d67dfe93a3b27773d262c7a" title=" " alt="" coords="481,1139,655,1180"/>
+<area shape="rect" id="node30" href="$classrare_1_1models_1_1steam_1_1_steam_shortcut.html#a99ce5001b7926b5fa213641182e4c5b0" title=" " alt="" coords="447,1228,689,1269"/>
 </map>

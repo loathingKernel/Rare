@@ -21,22 +21,22 @@
 <!-- Node0 -->
 <g id="node2" class="node">
 <title>Node0</title>
-<g id="a_node2"><a xlink:href="classlauncher_1_1_pre_launch_thread.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="114.5,-399.5 114.5,-418.5 208.5,-418.5 208.5,-399.5 114.5,-399.5"/>
-<text text-anchor="middle" x="161.5" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00">PreLaunchThread</text>
+<g id="a_node2"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_pre_launch.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="129.5,-399.5 129.5,-418.5 193.5,-418.5 193.5,-399.5 129.5,-399.5"/>
+<text text-anchor="middle" x="161.5" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00">PreLaunch</text>
 </a>
 </g>
 </g>
 <!-- Node325&#45;&gt;Node0 -->
 <g id="edge1" class="edge">
 <title>Node325&#45;&gt;Node0</title>
-<path fill="none" stroke="midnightblue" d="M39.9,-295.11C49.33,-320.42 69.36,-364.8 101,-390 105.83,-393.85 111.47,-396.93 117.3,-399.39"/>
+<path fill="none" stroke="midnightblue" d="M39.9,-295.11C49.33,-320.42 69.36,-364.8 101,-390 109.14,-396.49 119.55,-400.78 129.37,-403.61"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="43.15,-293.79 36.5,-285.54 36.55,-296.13 43.15,-293.79"/>
 </g>
 <!-- Node327 -->
 <g id="node3" class="node">
 <title>Node327</title>
-<g id="a_node3"><a xlink:href="classlauncher_1_1_sync_check_worker.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_sync_check_worker.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="113,-361.5 113,-380.5 210,-380.5 210,-361.5 113,-361.5"/>
 <text text-anchor="middle" x="161.5" y="-368.5" font-family="Helvetica,sans-Serif" font-size="10.00">SyncCheckWorker</text>
 </a>

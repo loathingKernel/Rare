@@ -1,6 +1,7 @@
 var namespacerare =
 [
     [ "__main__", "namespacerare_1_1____main____.html", null ],
+    [ "commands", "namespacerare_1_1commands.html", "namespacerare_1_1commands" ],
     [ "components", "namespacerare_1_1components.html", "namespacerare_1_1components" ],
     [ "lgndr", "namespacerare_1_1lgndr.html", "namespacerare_1_1lgndr" ],
     [ "main", "namespacerare_1_1main.html", [

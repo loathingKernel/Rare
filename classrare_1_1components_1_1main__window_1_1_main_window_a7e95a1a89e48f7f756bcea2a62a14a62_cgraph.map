@@ -1,9 +1,9 @@
 <map id="show" name="show">
-<area shape="rect" id="node1" title=" " alt="" coords="11,78,64,105"/>
-<area shape="rect" id="node2" href="$classlauncher_1_1console__dialog_1_1_console_dialog.html#a91465b9ae57cdea67cbcbb58986892d7" title=" " alt="" coords="112,29,307,71"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a91465b9ae57cdea67cbcbb58986892d7" title=" " alt="" coords="155,119,264,146"/>
-<area shape="rect" id="node3" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a72a86e9e97d577472c8a8af9e4a67949" title=" " alt="" coords="355,71,510,112"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="979,55,1152,96"/>
-<area shape="rect" id="node5" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a4aaa726f3b4643dc9fc5f027294fc9c9" title=" " alt="" coords="558,112,712,153"/>
-<area shape="rect" id="node6" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a7de93b9e2b51b491d5c70be49680f66d" title=" " alt="" coords="760,137,931,179"/>
+<area shape="rect" id="node1" title=" " alt="" coords="15,78,69,105"/>
+<area shape="rect" id="node2" href="$classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#a91465b9ae57cdea67cbcbb58986892d7" title=" " alt="" coords="117,29,355,71"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a91465b9ae57cdea67cbcbb58986892d7" title=" " alt="" coords="181,119,291,146"/>
+<area shape="rect" id="node3" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a72a86e9e97d577472c8a8af9e4a67949" title=" " alt="" coords="403,71,558,112"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="1027,55,1201,96"/>
+<area shape="rect" id="node5" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a4aaa726f3b4643dc9fc5f027294fc9c9" title=" " alt="" coords="606,112,761,153"/>
+<area shape="rect" id="node6" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a7de93b9e2b51b491d5c70be49680f66d" title=" " alt="" coords="809,137,979,179"/>
 </map>

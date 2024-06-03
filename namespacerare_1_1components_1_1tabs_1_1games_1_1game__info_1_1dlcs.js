@@ -1,0 +1,7 @@
+var namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs =
+[
+    [ "AvailableGameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_available_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_available_game_dlc_widget" ],
+    [ "GameDlcs", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_game_dlcs.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_game_dlcs" ],
+    [ "GameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_game_dlc_widget" ],
+    [ "InstalledGameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_installed_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_installed_game_dlc_widget" ]
+];

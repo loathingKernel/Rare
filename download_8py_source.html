@@ -118,7 +118,7 @@ $(document).ready(function(){initNavTree('download_8py_source.html',''); initRes
 <div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span><span class="stringliteral"></span> </div>
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno"><a class="line" href="classrare_1_1components_1_1tabs_1_1downloads_1_1download_1_1_download_widget.html#a7237f0ce0aaddf9396e9801066707c3e">   30</a></span><span class="stringliteral">    </span><span class="keyword">def </span><a class="code hl_function" href="classrare_1_1components_1_1tabs_1_1downloads_1_1download_1_1_download_widget.html#a7237f0ce0aaddf9396e9801066707c3e">prepare_pixmap</a>(self, pixmap: QPixmap) -&gt; QPixmap:</div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>        device: QImage = QImage(</div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>            pixmap.size().width() * 3,</div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>            pixmap.size().width() * 1,</div>
 <div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>            int(self.<a class="code hl_function" href="classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#a3936acd9cb32819e34a215b089302522">sizeHint</a>sizeHint().height() * pixmap.devicePixelRatioF()) + 1,</div>
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>            QImage.Format_ARGB32_Premultiplied,</div>
 <div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>        )</div>
@@ -127,9 +127,9 @@ $(document).ready(function(){initNavTree('download_8py_source.html',''); initRes
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>        painter.fillRect(device.rect(), brush)</div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>        <span class="comment"># the gradient could be cached and reused as it is expensive</span></div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>        gradient = QLinearGradient(0, 0, device.width(), 0)</div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        gradient.setColorAt(0.15, Qt.transparent)</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        gradient.setColorAt(0.02, Qt.transparent)</div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>        gradient.setColorAt(0.5, Qt.black)</div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>        gradient.setColorAt(0.85, Qt.transparent)</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>        gradient.setColorAt(0.98, Qt.transparent)</div>
 <div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>        painter.setCompositionMode(QPainter.CompositionMode_DestinationIn)</div>
 <div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>        painter.fillRect(device.rect(), gradient)</div>
 <div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>        painter.end()</div>

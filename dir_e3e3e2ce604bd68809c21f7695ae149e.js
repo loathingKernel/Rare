@@ -10,5 +10,5 @@ var dir_e3e3e2ce604bd68809c21f7695ae149e =
     ] ],
     [ "legendary.py", "components_2tabs_2settings_2legendary_8py.html", "components_2tabs_2settings_2legendary_8py" ],
     [ "rare.py", "components_2tabs_2settings_2rare_8py.html", "components_2tabs_2settings_2rare_8py" ],
-    [ "settings.py", "settings_8py.html", "settings_8py" ]
+    [ "settings.py", "settings_2settings_8py.html", "settings_2settings_8py" ]
 ];

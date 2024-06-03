@@ -21,22 +21,22 @@
 <!-- Node0 -->
 <g id="node2" class="node">
 <title>Node0</title>
-<g id="a_node2"><a xlink:href="classlauncher_1_1_pre_launch_thread_1_1_signals.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="107.5,-1335.5 107.5,-1354.5 235.5,-1354.5 235.5,-1335.5 107.5,-1335.5"/>
-<text text-anchor="middle" x="171.5" y="-1342.5" font-family="Helvetica,sans-Serif" font-size="10.00">PreLaunchThread.Signals</text>
+<g id="a_node2"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_pre_launch_1_1_signals.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="122.5,-1335.5 122.5,-1354.5 220.5,-1354.5 220.5,-1335.5 122.5,-1335.5"/>
+<text text-anchor="middle" x="171.5" y="-1342.5" font-family="Helvetica,sans-Serif" font-size="10.00">PreLaunch.Signals</text>
 </a>
 </g>
 </g>
 <!-- Node279&#45;&gt;Node0 -->
 <g id="edge1" class="edge">
 <title>Node279&#45;&gt;Node0</title>
-<path fill="none" stroke="midnightblue" d="M28.02,-694.97C30.91,-799.15 46.44,-1277.28 89,-1326 93.97,-1331.69 100.28,-1335.85 107.19,-1338.87"/>
+<path fill="none" stroke="midnightblue" d="M28.02,-694.97C30.91,-799.15 46.44,-1277.28 89,-1326 97.41,-1335.63 109.67,-1340.88 122.14,-1343.63"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="31.52,-694.78 27.75,-684.88 24.52,-694.97 31.52,-694.78"/>
 </g>
 <!-- Node281 -->
 <g id="node3" class="node">
 <title>Node281</title>
-<g id="a_node3"><a xlink:href="classlauncher_1_1_sync_check_worker_1_1_signals.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_sync_check_worker_1_1_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="106,-1297.5 106,-1316.5 237,-1316.5 237,-1297.5 106,-1297.5"/>
 <text text-anchor="middle" x="171.5" y="-1304.5" font-family="Helvetica,sans-Serif" font-size="10.00">SyncCheckWorker.Signals</text>
 </a>
@@ -473,31 +473,31 @@
 <!-- Node313 -->
 <g id="node35" class="node">
 <title>Node313</title>
-<g id="a_node35"><a xlink:href="classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="137.5,-171.5 137.5,-190.5 205.5,-190.5 205.5,-171.5 137.5,-171.5"/>
-<text text-anchor="middle" x="171.5" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">QtRequests</text>
+<g id="a_node35"><a xlink:href="classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="136.5,-171.5 136.5,-190.5 206.5,-190.5 206.5,-171.5 136.5,-171.5"/>
+<text text-anchor="middle" x="171.5" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">DiscordRPC</text>
 </a>
 </g>
 </g>
 <!-- Node279&#45;&gt;Node313 -->
 <g id="edge34" class="edge">
 <title>Node279&#45;&gt;Node313</title>
-<path fill="none" stroke="midnightblue" d="M27.18,-654.75C26.31,-572.97 27.33,-268.19 89,-200 101.08,-186.64 120.58,-181.76 137.48,-180.29"/>
+<path fill="none" stroke="midnightblue" d="M27.18,-654.75C26.31,-572.97 27.33,-268.19 89,-200 100.79,-186.96 119.64,-182 136.25,-180.4"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="23.68,-655.19 27.31,-665.14 30.68,-655.1 23.68,-655.19"/>
 </g>
 <!-- Node314 -->
 <g id="node36" class="node">
 <title>Node314</title>
-<g id="a_node36"><a xlink:href="classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="136.5,-133.5 136.5,-152.5 206.5,-152.5 206.5,-133.5 136.5,-133.5"/>
-<text text-anchor="middle" x="171.5" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00">DiscordRPC</text>
+<g id="a_node36"><a xlink:href="classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="137.5,-133.5 137.5,-152.5 205.5,-152.5 205.5,-133.5 137.5,-133.5"/>
+<text text-anchor="middle" x="171.5" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00">QtRequests</text>
 </a>
 </g>
 </g>
 <!-- Node279&#45;&gt;Node314 -->
 <g id="edge35" class="edge">
 <title>Node279&#45;&gt;Node314</title>
-<path fill="none" stroke="midnightblue" d="M28.56,-654.92C33.5,-564.69 55.46,-199.44 89,-162 100.73,-148.91 119.58,-143.95 136.2,-142.35"/>
+<path fill="none" stroke="midnightblue" d="M28.56,-654.92C33.5,-564.69 55.46,-199.44 89,-162 101.02,-148.58 120.52,-143.7 137.43,-142.24"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="25.05,-654.98 28.01,-665.15 32.04,-655.35 25.05,-654.98"/>
 </g>
 <!-- Node315 -->
@@ -593,7 +593,7 @@
 <!-- Node318 -->
 <g id="node40" class="node">
 <title>Node318</title>
-<g id="a_node40"><a xlink:href="classlauncher_1_1_rare_launcher_exception.html" target="_top" xlink:title=" ">
+<g id="a_node40"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="290,-38.5 290,-57.5 409,-57.5 409,-38.5 290,-38.5"/>
 <text text-anchor="middle" x="349.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">RareLauncherException</text>
 </a>

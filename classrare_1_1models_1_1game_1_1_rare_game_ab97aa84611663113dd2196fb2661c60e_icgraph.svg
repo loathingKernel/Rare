@@ -27,9 +27,9 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game.html#adfa8209bdf5c830e0a0cd5b2a453f74d" target="_top" xlink:title="Do not call this function, call set_pixmap instead.">
-<polygon fill="white" stroke="black" points="16.5,-168.5 16.5,-187.5 87.5,-187.5 87.5,-168.5 16.5,-168.5"/>
-<text text-anchor="middle" x="52" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">load_pixmap</text>
+<g id="a_node2"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game.html#ac21f4c2b75f0029c243a81d8696ba4f9" target="_top" xlink:title="Do not call this function, call set_pixmap instead.">
+<polygon fill="white" stroke="black" points="14,-168.5 14,-187.5 90,-187.5 90,-168.5 14,-168.5"/>
+<text text-anchor="middle" x="52" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">load_pixmaps</text>
 </a>
 </g>
 </g>

@@ -9,8 +9,8 @@ var searchData=
   ['raregame_6',['RareGame',['../classrare_1_1models_1_1game_1_1_rare_game.html',1,'rare::models::game']]],
   ['raregamebase_7',['RareGameBase',['../classrare_1_1models_1_1base__game_1_1_rare_game_base.html',1,'rare::models::base_game']]],
   ['raregameslim_8',['RareGameSlim',['../classrare_1_1models_1_1base__game_1_1_rare_game_slim.html',1,'rare::models::base_game']]],
-  ['rarelauncher_9',['RareLauncher',['../classlauncher_1_1_rare_launcher.html',1,'launcher']]],
-  ['rarelauncherexception_10',['RareLauncherException',['../classlauncher_1_1_rare_launcher_exception.html',1,'launcher']]],
+  ['rarelauncher_9',['RareLauncher',['../classrare_1_1commands_1_1launcher_1_1_rare_launcher.html',1,'rare::commands::launcher']]],
+  ['rarelauncherexception_10',['RareLauncherException',['../classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception.html',1,'rare::commands::launcher']]],
   ['raresavegame_11',['RareSaveGame',['../classrare_1_1models_1_1base__game_1_1_rare_save_game.html',1,'rare::models::base_game']]],
   ['raresettings_12',['RareSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html',1,'rare::components::tabs::settings::rare']]],
   ['refreshgamemetaworker_13',['RefreshGameMetaWorker',['../classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html',1,'rare::components::tabs::settings::legendary']]],
@@ -21,6 +21,5 @@ var searchData=
   ['result_18',['Result',['../classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker_1_1_result.html',1,'rare::shared::workers::fetch::FetchWorker']]],
   ['resultsitemwidget_19',['ResultsItemWidget',['../classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_results_item_widget.html',1,'rare::components::tabs::store::widgets::items']]],
   ['resultswidget_20',['ResultsWidget',['../classrare_1_1components_1_1tabs_1_1store_1_1results_1_1_results_widget.html',1,'rare::components::tabs::store::results']]],
-  ['returncode_21',['ReturnCode',['../classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_ret_1_1_return_code.html',1,'rare::lgndr::glue::arguments::LgndrInstallGameRealRet']]],
-  ['rpcsettings_22',['RPCSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1rpc_1_1_r_p_c_settings.html',1,'rare::components::tabs::settings::widgets::rpc']]]
+  ['returncode_21',['ReturnCode',['../classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_ret_1_1_return_code.html',1,'rare::lgndr::glue::arguments::LgndrInstallGameRealRet']]]
 ];

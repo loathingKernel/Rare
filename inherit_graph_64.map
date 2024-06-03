@@ -1,7 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
 <area shape="rect" id="node1" title=" " alt="" coords="5,899,76,925"/>
-<area shape="rect" id="node2" href="$classlauncher_1_1_pre_launch_thread_1_1_signals.html" title=" " alt="" coords="149,5,319,32"/>
-<area shape="rect" id="node3" href="$classlauncher_1_1_sync_check_worker_1_1_signals.html" title=" " alt="" coords="147,56,321,83"/>
+<area shape="rect" id="node2" href="$classrare_1_1commands_1_1launcher_1_1_pre_launch_1_1_signals.html" title=" " alt="" coords="169,5,299,32"/>
+<area shape="rect" id="node3" href="$classrare_1_1commands_1_1launcher_1_1_sync_check_worker_1_1_signals.html" title=" " alt="" coords="147,56,321,83"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html" title=" " alt="" coords="156,107,312,133"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_check_for_update_worker_1_1_check_for_update_signals.html" title=" " alt="" coords="133,158,335,199"/>
 <area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_worker_1_1_signals.html" title=" " alt="" coords="161,224,307,251"/>
@@ -30,14 +30,14 @@
 <area shape="rect" id="node32" href="$classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker_1_1_signals.html" title=" " alt="" coords="163,1405,305,1432"/>
 <area shape="rect" id="node33" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver_1_1_signals.html" title=" " alt="" coords="147,1456,321,1483"/>
 <area shape="rect" id="node34" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_1_1_signals.html" title=" " alt="" coords="161,1507,307,1533"/>
-<area shape="rect" id="node35" href="$classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html" title=" " alt="" coords="189,1557,279,1584"/>
-<area shape="rect" id="node36" href="$classrare_1_1utils_1_1rpc_1_1_discord_r_p_c.html" title=" " alt="" coords="187,1608,281,1635"/>
+<area shape="rect" id="node35" href="$classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html" title=" " alt="" coords="187,1557,281,1584"/>
+<area shape="rect" id="node36" href="$classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html" title=" " alt="" coords="189,1608,279,1635"/>
 <area shape="rect" id="node37" href="$classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable_1_1_signals.html" title=" " alt="" coords="147,1659,321,1685"/>
 <area shape="rect" id="node38" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_strings.html" title=" " alt="" coords="152,1709,316,1736"/>
 <area shape="rect" id="node39" href="$classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html" title=" " alt="" coords="170,1760,298,1787"/>
 <area shape="rect" id="node13" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html" title=" " alt="" coords="416,503,527,529"/>
 <area shape="rect" id="node15" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html" title=" " alt="" coords="414,553,529,580"/>
 <area shape="rect" id="node14" href="$classrare_1_1models_1_1game_1_1_rare_game.html" title=" " alt="" coords="599,503,683,529"/>
-<area shape="rect" id="node40" href="$classlauncher_1_1_rare_launcher_exception.html" title=" " alt="" coords="392,1735,551,1761"/>
+<area shape="rect" id="node40" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception.html" title=" " alt="" coords="392,1735,551,1761"/>
 <area shape="rect" id="node41" href="$classrare_1_1components_1_1_rare_exception.html" title=" " alt="" coords="419,1785,524,1812"/>
 </map>

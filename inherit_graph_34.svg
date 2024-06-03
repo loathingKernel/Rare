@@ -9,9 +9,9 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>Graphical Class Hierarchy</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-100 162,-100 162,4 -4,4"/>
-<!-- Node174 -->
+<!-- Node176 -->
 <g id="node1" class="node">
-<title>Node174</title>
+<title>Node176</title>
 <g id="a_node1"><a xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="0,-38.5 0,-57.5 69,-57.5 69,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="34.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">Namespace</text>
@@ -21,45 +21,45 @@
 <!-- Node0 -->
 <g id="node2" class="node">
 <title>Node0</title>
-<g id="a_node2"><a xlink:href="classlauncher_1_1lgd__helper_1_1_init_args.html" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_init_args.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="106.5,-76.5 106.5,-95.5 156.5,-95.5 156.5,-76.5 106.5,-76.5"/>
 <text text-anchor="middle" x="131.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">InitArgs</text>
 </a>
 </g>
 </g>
-<!-- Node174&#45;&gt;Node0 -->
+<!-- Node176&#45;&gt;Node0 -->
 <g id="edge1" class="edge">
-<title>Node174&#45;&gt;Node0</title>
+<title>Node176&#45;&gt;Node0</title>
 <path fill="none" stroke="midnightblue" d="M69.03,-61.41C81.41,-66.36 95.17,-71.87 106.54,-76.41"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="70.06,-58.05 59.47,-57.59 67.46,-64.55 70.06,-58.05"/>
 </g>
-<!-- Node176 -->
+<!-- Node178 -->
 <g id="node3" class="node">
-<title>Node176</title>
+<title>Node178</title>
 <g id="a_node3"><a xlink:href="classrare_1_1models_1_1options_1_1_defaults.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="105,-38.5 105,-57.5 158,-57.5 158,-38.5 105,-38.5"/>
 <text text-anchor="middle" x="131.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">Defaults</text>
 </a>
 </g>
 </g>
-<!-- Node174&#45;&gt;Node176 -->
+<!-- Node176&#45;&gt;Node178 -->
 <g id="edge2" class="edge">
-<title>Node174&#45;&gt;Node176</title>
+<title>Node176&#45;&gt;Node178</title>
 <path fill="none" stroke="midnightblue" d="M79.38,-48C88.12,-48 97.03,-48 104.91,-48"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="79.26,-44.5 69.26,-48 79.26,-51.5 79.26,-44.5"/>
 </g>
-<!-- Node177 -->
+<!-- Node179 -->
 <g id="node4" class="node">
-<title>Node177</title>
+<title>Node179</title>
 <g id="a_node4"><a xlink:href="classrare_1_1models_1_1options_1_1_value.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="111,-0.5 111,-19.5 152,-19.5 152,-0.5 111,-0.5"/>
 <text text-anchor="middle" x="131.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Value</text>
 </a>
 </g>
 </g>
-<!-- Node174&#45;&gt;Node177 -->
+<!-- Node176&#45;&gt;Node179 -->
 <g id="edge3" class="edge">
-<title>Node174&#45;&gt;Node177</title>
+<title>Node176&#45;&gt;Node179</title>
 <path fill="none" stroke="midnightblue" d="M68.8,-34.68C82.79,-29.08 98.59,-22.76 110.7,-17.92"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="67.46,-31.45 59.47,-38.41 70.06,-37.95 67.46,-31.45"/>
 </g>

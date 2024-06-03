@@ -130,64 +130,64 @@ var sectionId = 'dynsection-0';
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="304,-133 304,-333 434,-333 434,-133 304,-133"/>
-<text text-anchor="middle" x="369" y="-321" font-family="Helvetica,sans-Serif" font-size="10.00">GameDlc</text>
-<polyline fill="none" stroke="black" points="304,-314 434,-314 "/>
-<text text-anchor="start" x="312" y="-302" font-family="Helvetica,sans-Serif" font-size="10.00">+ implements_scrollarea</text>
+<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_game_details.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="304,-144 304,-322 420,-322 420,-144 304,-144"/>
+<text text-anchor="middle" x="362" y="-310" font-family="Helvetica,sans-Serif" font-size="10.00">GameDetails</text>
+<polyline fill="none" stroke="black" points="304,-303 420,-303 "/>
 <text text-anchor="start" x="312" y="-291" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
-<text text-anchor="start" x="312" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="312" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
-<text text-anchor="start" x="312" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
-<polyline fill="none" stroke="black" points="304,-251 434,-251 "/>
-<text text-anchor="start" x="312" y="-239" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="312" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00">+ list_installed()</text>
-<text text-anchor="start" x="312" y="-217" font-family="Helvetica,sans-Serif" font-size="10.00">+ list_available()</text>
-<text text-anchor="start" x="312" y="-206" font-family="Helvetica,sans-Serif" font-size="10.00">+ get_installed()</text>
-<text text-anchor="start" x="312" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">+ get_available()</text>
-<text text-anchor="start" x="312" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_installed_page()</text>
-<text text-anchor="start" x="312" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_available_page()</text>
-<text text-anchor="start" x="312" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ append_installed()</text>
-<text text-anchor="start" x="312" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ append_available()</text>
-<text text-anchor="start" x="312" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_dlcs()</text>
+<text text-anchor="start" x="312" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
+<text text-anchor="start" x="312" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="312" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
+<text text-anchor="start" x="312" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">+ image</text>
+<text text-anchor="start" x="312" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">+ steam_grade_ratings</text>
+<text text-anchor="start" x="312" y="-225" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
+<text text-anchor="start" x="312" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00">+ import_clicked</text>
+<polyline fill="none" stroke="black" points="304,-207 420,-207 "/>
+<text text-anchor="start" x="312" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="312" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ repair_game()</text>
+<text text-anchor="start" x="312" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ verify_game()</text>
+<text text-anchor="start" x="312" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ move_game()</text>
+<text text-anchor="start" x="312" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M839.65,-427.85C733.01,-421.87 506.65,-404.33 443,-361 432.03,-353.53 422.47,-343.86 414.18,-333.18"/>
-<polygon fill="none" stroke="midnightblue" points="839.72,-431.36 849.9,-428.41 840.1,-424.37 839.72,-431.36"/>
+<path fill="none" stroke="midnightblue" d="M839.72,-428.39C730.35,-423.3 494.11,-407.14 429,-361 414.86,-350.98 403.47,-337.04 394.36,-322.05"/>
+<polygon fill="none" stroke="midnightblue" points="839.75,-431.9 849.9,-428.85 840.07,-424.9 839.75,-431.9"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__info_1_1_game_info.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="452,-144 452,-322 568,-322 568,-144 452,-144"/>
-<text text-anchor="middle" x="510" y="-310" font-family="Helvetica,sans-Serif" font-size="10.00">GameInfo</text>
-<polyline fill="none" stroke="black" points="452,-303 568,-303 "/>
-<text text-anchor="start" x="460" y="-291" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
-<text text-anchor="start" x="460" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
-<text text-anchor="start" x="460" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="460" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
-<text text-anchor="start" x="460" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">+ image</text>
-<text text-anchor="start" x="460" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">+ steam_grade_ratings</text>
-<text text-anchor="start" x="460" y="-225" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
-<text text-anchor="start" x="460" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00">+ import_clicked</text>
-<polyline fill="none" stroke="black" points="452,-207 568,-207 "/>
-<text text-anchor="start" x="460" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="460" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ repair_game()</text>
-<text text-anchor="start" x="460" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ verify_game()</text>
-<text text-anchor="start" x="460" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ move_game()</text>
-<text text-anchor="start" x="460" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
+<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_game_dlcs.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="438,-133 438,-333 568,-333 568,-133 438,-133"/>
+<text text-anchor="middle" x="503" y="-321" font-family="Helvetica,sans-Serif" font-size="10.00">GameDlcs</text>
+<polyline fill="none" stroke="black" points="438,-314 568,-314 "/>
+<text text-anchor="start" x="446" y="-302" font-family="Helvetica,sans-Serif" font-size="10.00">+ implements_scrollarea</text>
+<text text-anchor="start" x="446" y="-291" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
+<text text-anchor="start" x="446" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="446" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
+<text text-anchor="start" x="446" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
+<polyline fill="none" stroke="black" points="438,-251 568,-251 "/>
+<text text-anchor="start" x="446" y="-239" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="446" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00">+ list_installed()</text>
+<text text-anchor="start" x="446" y="-217" font-family="Helvetica,sans-Serif" font-size="10.00">+ list_available()</text>
+<text text-anchor="start" x="446" y="-206" font-family="Helvetica,sans-Serif" font-size="10.00">+ get_installed()</text>
+<text text-anchor="start" x="446" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">+ get_available()</text>
+<text text-anchor="start" x="446" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_installed_page()</text>
+<text text-anchor="start" x="446" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_available_page()</text>
+<text text-anchor="start" x="446" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ append_installed()</text>
+<text text-anchor="start" x="446" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ append_available()</text>
+<text text-anchor="start" x="446" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_dlcs()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M839.79,-424.01C759.65,-413.82 617.73,-391.96 577,-361 563.5,-350.74 552.45,-336.97 543.49,-322.28"/>
-<polygon fill="none" stroke="midnightblue" points="839.37,-427.49 849.72,-425.26 840.24,-420.54 839.37,-427.49"/>
+<path fill="none" stroke="midnightblue" d="M839.47,-423.72C759.46,-413.22 618.29,-391.03 577,-361 566.48,-353.34 557.21,-343.7 549.11,-333.16"/>
+<polygon fill="none" stroke="midnightblue" points="839.5,-427.26 849.86,-425.07 840.4,-420.31 839.5,-427.26"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
@@ -330,58 +330,58 @@ var sectionId = 'dynsection-0';
 <!-- Node14 -->
 <g id="node14" class="node">
 <title>Node14</title>
-<g id="a_node14"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_details_widget.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1250,-105.5 1250,-360.5 1382,-360.5 1382,-105.5 1250,-105.5"/>
-<text text-anchor="middle" x="1316" y="-348.5" font-family="Helvetica,sans-Serif" font-size="10.00">DetailsWidget</text>
-<polyline fill="none" stroke="black" points="1250,-341.5 1382,-341.5 "/>
-<text text-anchor="start" x="1258" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ implements_scrollarea</text>
-<text text-anchor="start" x="1258" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
-<text text-anchor="start" x="1258" y="-307.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ store_api</text>
-<text text-anchor="start" x="1258" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ installed</text>
-<text text-anchor="start" x="1258" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ image</text>
-<text text-anchor="start" x="1258" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ in_wishlist</text>
-<text text-anchor="start" x="1258" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wishlist</text>
-<text text-anchor="start" x="1258" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ requirements_tabs</text>
-<text text-anchor="start" x="1258" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ title_str</text>
-<text text-anchor="start" x="1258" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ id_str</text>
-<text text-anchor="start" x="1258" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ slug</text>
-<text text-anchor="start" x="1258" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ catalog_offer</text>
-<text text-anchor="start" x="1258" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ pyqtSignal</text>
-<polyline fill="none" stroke="black" points="1250,-190.5 1382,-190.5 "/>
-<text text-anchor="start" x="1258" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="1258" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ handle_wishlist_update()</text>
-<text text-anchor="start" x="1258" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
-<text text-anchor="start" x="1258" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ add_to_wishlist()</text>
-<text text-anchor="start" x="1258" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ data_received()</text>
-<text text-anchor="start" x="1258" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ button_clicked()</text>
-<text text-anchor="start" x="1258" y="-112.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ keyPressEvent()</text>
+<g id="a_node14"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_requirements_widget.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="1250,-204.5 1250,-261.5 1372,-261.5 1372,-204.5 1250,-204.5"/>
+<text text-anchor="middle" x="1311" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">RequirementsWidget</text>
+<polyline fill="none" stroke="black" points="1250,-242.5 1372,-242.5 "/>
+<text text-anchor="start" x="1258" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ implements_scrollarea</text>
+<polyline fill="none" stroke="black" points="1250,-223.5 1372,-223.5 "/>
+<text text-anchor="start" x="1258" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node14 -->
 <g id="edge13" class="edge">
 <title>Node1&#45;&gt;Node14</title>
-<path fill="none" stroke="midnightblue" d="M952.11,-424.71C1037.33,-415 1194.35,-393.28 1240,-361 1243.46,-358.55 1246.79,-355.89 1250,-353.06"/>
-<polygon fill="none" stroke="midnightblue" points="951.63,-421.24 942.08,-425.83 952.41,-428.19 951.63,-421.24"/>
+<path fill="none" stroke="midnightblue" d="M952.22,-424.87C1037.61,-415.38 1194.83,-393.95 1240,-361 1273.57,-336.51 1293.31,-291.06 1303.14,-261.69"/>
+<polygon fill="none" stroke="midnightblue" points="951.74,-421.4 942.18,-425.97 952.5,-428.36 951.74,-421.4"/>
 </g>
 <!-- Node15 -->
 <g id="node15" class="node">
 <title>Node15</title>
-<g id="a_node15"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_requirements_widget.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1400,-204.5 1400,-261.5 1522,-261.5 1522,-204.5 1400,-204.5"/>
-<text text-anchor="middle" x="1461" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">RequirementsWidget</text>
-<polyline fill="none" stroke="black" points="1400,-242.5 1522,-242.5 "/>
-<text text-anchor="start" x="1408" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ implements_scrollarea</text>
-<polyline fill="none" stroke="black" points="1400,-223.5 1522,-223.5 "/>
-<text text-anchor="start" x="1408" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<g id="a_node15"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="1390,-105.5 1390,-360.5 1522,-360.5 1522,-105.5 1390,-105.5"/>
+<text text-anchor="middle" x="1456" y="-348.5" font-family="Helvetica,sans-Serif" font-size="10.00">StoreDetailsWidget</text>
+<polyline fill="none" stroke="black" points="1390,-341.5 1522,-341.5 "/>
+<text text-anchor="start" x="1398" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ implements_scrollarea</text>
+<text text-anchor="start" x="1398" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
+<text text-anchor="start" x="1398" y="-307.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ store_api</text>
+<text text-anchor="start" x="1398" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ installed</text>
+<text text-anchor="start" x="1398" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ image</text>
+<text text-anchor="start" x="1398" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ in_wishlist</text>
+<text text-anchor="start" x="1398" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wishlist</text>
+<text text-anchor="start" x="1398" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ requirements_tabs</text>
+<text text-anchor="start" x="1398" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ title_str</text>
+<text text-anchor="start" x="1398" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ id_str</text>
+<text text-anchor="start" x="1398" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ slug</text>
+<text text-anchor="start" x="1398" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ catalog_offer</text>
+<text text-anchor="start" x="1398" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ pyqtSignal</text>
+<polyline fill="none" stroke="black" points="1390,-190.5 1522,-190.5 "/>
+<text text-anchor="start" x="1398" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="1398" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ handle_wishlist_update()</text>
+<text text-anchor="start" x="1398" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
+<text text-anchor="start" x="1398" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ add_to_wishlist()</text>
+<text text-anchor="start" x="1398" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ data_received()</text>
+<text text-anchor="start" x="1398" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ button_clicked()</text>
+<text text-anchor="start" x="1398" y="-112.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ keyPressEvent()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node15 -->
 <g id="edge14" class="edge">
 <title>Node1&#45;&gt;Node15</title>
-<path fill="none" stroke="midnightblue" d="M952.64,-428.81C1067.06,-424.41 1320.83,-409.34 1391,-361 1425.31,-337.36 1444.52,-291.21 1453.8,-261.53"/>
-<polygon fill="none" stroke="midnightblue" points="952.2,-425.33 942.34,-429.19 952.46,-432.32 952.2,-425.33"/>
+<path fill="none" stroke="midnightblue" d="M952.22,-428.47C1064.52,-423.46 1311.77,-407.34 1381,-361 1384.09,-358.93 1387.06,-356.7 1389.93,-354.31"/>
+<polygon fill="none" stroke="midnightblue" points="951.94,-424.98 942.11,-428.91 952.25,-431.97 951.94,-424.98"/>
 </g>
 <!-- Node16 -->
 <g id="node16" class="node">
@@ -458,7 +458,7 @@ var sectionId = 'dynsection-0';
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
-<g id="a_node8"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_settings.html" target="_top" xlink:title=" ">
+<g id="a_node8"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_settings.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="541.5,-0.5 541.5,-68.5 630.5,-68.5 630.5,-0.5 541.5,-0.5"/>
 <text text-anchor="middle" x="586" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameSettings</text>
 <polyline fill="none" stroke="black" points="541.5,-49.5 630.5,-49.5 "/>

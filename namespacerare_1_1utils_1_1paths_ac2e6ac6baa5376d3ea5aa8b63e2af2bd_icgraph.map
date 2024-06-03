@@ -1,15 +1,15 @@
 <map id="desktop_link_path" name="desktop_link_path">
-<area shape="rect" id="node1" title="Creates the path of a shortcut link." alt="" coords="1336,264,1463,291"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5" title="Creates a desktop or start menu shortcut link." alt="" coords="1057,136,1196,163"/>
+<area shape="rect" id="node1" title="Creates the path of a shortcut link." alt="" coords="1336,204,1463,231"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5" title="Creates a desktop or start menu shortcut link." alt="" coords="1057,112,1196,139"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5" title=" " alt="" coords="643,195,917,251"/>
-<area shape="rect" id="node8" href="$namespacerare_1_1shared_1_1workers_1_1uninstall.html#aeaacc097d509158390a301538ce9d63c" title=" " alt="" coords="989,301,1265,328"/>
-<area shape="rect" id="node13" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a34f4910ec773ae8e2d8a116f14104a72" title=" " alt="" coords="965,377,1288,418"/>
+<area shape="rect" id="node8" href="$namespacerare_1_1shared_1_1workers_1_1uninstall.html#aeaacc097d509158390a301538ce9d63c" title=" " alt="" coords="989,328,1265,355"/>
+<area shape="rect" id="node13" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a34f4910ec773ae8e2d8a116f14104a72" title=" " alt="" coords="965,238,1288,279"/>
 <area shape="rect" id="node3" href="$namespacerare_1_1main.html#a532d4b899b39c9f08370e91c54b63e33" title=" " alt="" coords="727,29,833,56"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad688e83ab96ce32b1ed9e5ccc83d0ee8" title="Stops the active download, by optionally skipping the queue." alt="" coords="673,105,887,146"/>
 <area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a91ee81dee5df73fb4e3057d7c12624e0" title=" " alt="" coords="331,75,556,117"/>
 <area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a11794ca2c7c3add2ed90cd2edb79b927" title=" " alt="" coords="5,75,244,117"/>
-<area shape="rect" id="node9" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#ae00c01f8599ea056e3e5afb873b756ba" title=" " alt="" coords="693,299,867,341"/>
-<area shape="rect" id="node11" href="$classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="685,389,875,430"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_widget.html#a208217f74b4d91485d90d654b788c103" title=" " alt="" coords="292,299,595,341"/>
-<area shape="rect" id="node12" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="353,389,533,430"/>
+<area shape="rect" id="node9" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#ae00c01f8599ea056e3e5afb873b756ba" title=" " alt="" coords="693,310,867,351"/>
+<area shape="rect" id="node11" href="$classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="685,399,875,441"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_widget.html#a208217f74b4d91485d90d654b788c103" title=" " alt="" coords="292,310,595,351"/>
+<area shape="rect" id="node12" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="353,399,533,441"/>
 </map>

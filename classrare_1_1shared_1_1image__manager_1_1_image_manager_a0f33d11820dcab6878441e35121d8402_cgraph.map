@@ -1,7 +1,11 @@
 <map id="download_image_blocking" name="download_image_blocking">
-<area shape="rect" id="node1" title=" " alt="" coords="5,81,180,108"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a807a18e046713d82f8c5828f7837d229" title=" " alt="" coords="253,5,344,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a0cf364cb31f6dff4ac05803c64305c2d" title=" " alt="" coords="253,56,345,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#abc748e17b4227f0d44688222fc1307c0" title=" " alt="" coords="255,107,343,133"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a4159dfc5e42dddbb3aef008534f2b82e" title=" " alt="" coords="228,157,369,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,139,180,165"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#aa1af2e48ef5d21eae429581cfe81f00b" title=" " alt="" coords="255,5,345,32"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a4159dfc5e42dddbb3aef008534f2b82e" title=" " alt="" coords="229,56,371,83"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1paths.html#a90103beacb68901d003fc7d4982e99ba" title=" " alt="" coords="228,131,372,173"/>
+<area shape="rect" id="node8" href="$namespacerare_1_1utils_1_1paths.html#a073747eac70d67ea5a25acb5e0ad9010" title=" " alt="" coords="228,221,372,262"/>
+<area shape="rect" id="node9" href="$namespacerare_1_1utils_1_1paths.html#a63ca50e1dbf62bd5632bc84b8bda2f22" title=" " alt="" coords="228,310,372,351"/>
+<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1paths.html#a26cca1020569c6b5f07f09723c3607b9" title=" " alt="" coords="420,221,564,262"/>
+<area shape="rect" id="node6" href="$namespacerare_1_1utils_1_1paths.html#ada300860b11ac604daaa4afc32f76fb7" title=" " alt="" coords="612,228,777,255"/>
+<area shape="rect" id="node7" href="$namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b" title=" " alt="" coords="825,228,980,255"/>
 </map>

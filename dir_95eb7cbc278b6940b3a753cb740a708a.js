@@ -4,7 +4,7 @@ var dir_95eb7cbc278b6940b3a753cb740a708a =
     [ "base_game.py", "base__game_8py.html", "base__game_8py" ],
     [ "game.py", "models_2game_8py.html", "models_2game_8py" ],
     [ "image.py", "models_2image_8py.html", [
-      [ "Orientation", "classrare_1_1models_1_1image_1_1_orientation.html", null ],
+      [ "ImageType", "classrare_1_1models_1_1image_1_1_image_type.html", null ],
       [ "ImageSize", "classrare_1_1models_1_1image_1_1_image_size.html", "classrare_1_1models_1_1image_1_1_image_size" ],
       [ "ImageSize.Preset", "classrare_1_1models_1_1image_1_1_image_size_1_1_preset.html", "classrare_1_1models_1_1image_1_1_image_size_1_1_preset" ]
     ] ],
@@ -39,6 +39,10 @@ var dir_95eb7cbc278b6940b3a753cb740a708a =
       [ "GlobalSignals.GameSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_game_signals.html", null ],
       [ "GlobalSignals.DownloadSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_download_signals.html", null ],
       [ "GlobalSignals.DiscordRPCSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_discord_r_p_c_signals.html", null ]
+    ] ],
+    [ "steam.py", "models_2steam_8py.html", [
+      [ "SteamUser", "classrare_1_1models_1_1steam_1_1_steam_user.html", "classrare_1_1models_1_1steam_1_1_steam_user" ],
+      [ "SteamShortcut", "classrare_1_1models_1_1steam_1_1_steam_shortcut.html", "classrare_1_1models_1_1steam_1_1_steam_shortcut" ]
     ] ],
     [ "wrapper.py", "wrapper_8py.html", [
       [ "WrapperType", "classrare_1_1models_1_1wrapper_1_1_wrapper_type.html", null ],

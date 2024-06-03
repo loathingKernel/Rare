@@ -29,7 +29,7 @@ var namespacerare_1_1utils =
       [ "set_envvar", "namespacerare_1_1utils_1_1config__helper.html#afb11223556320d6455409421029ae307", null ],
       [ "set_option", "namespacerare_1_1utils_1_1config__helper.html#a0a3960476587413425d900834d8377ca", null ]
     ] ],
-    [ "extra_widgets", "namespacerare_1_1utils_1_1extra__widgets.html", "namespacerare_1_1utils_1_1extra__widgets" ],
+    [ "discord_rpc", "namespacerare_1_1utils_1_1discord__rpc.html", "namespacerare_1_1utils_1_1discord__rpc" ],
     [ "json_formatter", "namespacerare_1_1utils_1_1json__formatter.html", "namespacerare_1_1utils_1_1json__formatter" ],
     [ "metrics", "namespacerare_1_1utils_1_1metrics.html", [
       [ "timelogger", "namespacerare_1_1utils_1_1metrics.html#a5d090481123c8dc931923165fc7fc29b", null ]
@@ -43,6 +43,7 @@ var namespacerare_1_1utils =
       [ "create_dirs", "namespacerare_1_1utils_1_1paths.html#a15cafb5c4232740ebdcd62826468fd10", null ],
       [ "data_dir", "namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b", null ],
       [ "desktop_dir", "namespacerare_1_1utils_1_1paths.html#a68fd6933dc93b4140e22a3fb1380354f", null ],
+      [ "desktop_icon_path", "namespacerare_1_1utils_1_1paths.html#af4d56a3b4065900877c517e24bddc366", null ],
       [ "desktop_icon_suffix", "namespacerare_1_1utils_1_1paths.html#a111bd04d317fe20a328e3aa08570d9a8", null ],
       [ "desktop_link_path", "namespacerare_1_1utils_1_1paths.html#ac2e6ac6baa5376d3ea5aa8b63e2af2bd", null ],
       [ "desktop_link_types", "namespacerare_1_1utils_1_1paths.html#a87c539910fdff3dd0e2b1ee7c12bd1b7", null ],
@@ -50,6 +51,10 @@ var namespacerare_1_1utils =
       [ "get_rare_executable", "namespacerare_1_1utils_1_1paths.html#a5aae2af81c71e81b5a7ce0c16db5ba19", null ],
       [ "home_dir", "namespacerare_1_1utils_1_1paths.html#a71f5a7ae998e88f396ed58bb5ec6c67b", null ],
       [ "image_dir", "namespacerare_1_1utils_1_1paths.html#ada300860b11ac604daaa4afc32f76fb7", null ],
+      [ "image_dir_game", "namespacerare_1_1utils_1_1paths.html#a26cca1020569c6b5f07f09723c3607b9", null ],
+      [ "image_icon_path", "namespacerare_1_1utils_1_1paths.html#a90103beacb68901d003fc7d4982e99ba", null ],
+      [ "image_tall_path", "namespacerare_1_1utils_1_1paths.html#a073747eac70d67ea5a25acb5e0ad9010", null ],
+      [ "image_wide_path", "namespacerare_1_1utils_1_1paths.html#a63ca50e1dbf62bd5632bc84b8bda2f22", null ],
       [ "lock_file", "namespacerare_1_1utils_1_1paths.html#a40ba74ba4e0cbcc72c8500d38c04b461", null ],
       [ "log_dir", "namespacerare_1_1utils_1_1paths.html#ac2806d554b9f1bc2c539a8dd797afb60", null ],
       [ "proton_compat_dir", "namespacerare_1_1utils_1_1paths.html#a3cb95e8a7228c2834525a6659f588cbd", null ],
@@ -61,7 +66,21 @@ var namespacerare_1_1utils =
       [ "resources_path", "namespacerare_1_1utils_1_1paths.html#a1fffd922987b63dc24705950d9e82ece", null ]
     ] ],
     [ "qt_requests", "namespacerare_1_1utils_1_1qt__requests.html", "namespacerare_1_1utils_1_1qt__requests" ],
-    [ "rpc", "namespacerare_1_1utils_1_1rpc.html", "namespacerare_1_1utils_1_1rpc" ],
     [ "singleton", "namespacerare_1_1utils_1_1singleton.html", "namespacerare_1_1utils_1_1singleton" ],
-    [ "steam_grades", "namespacerare_1_1utils_1_1steam__grades.html", "namespacerare_1_1utils_1_1steam__grades" ]
+    [ "steam_grades", "namespacerare_1_1utils_1_1steam__grades.html", "namespacerare_1_1utils_1_1steam__grades" ],
+    [ "steam_shortcuts", "namespacerare_1_1utils_1_1steam__shortcuts.html", [
+      [ "add_steam_coverart", "namespacerare_1_1utils_1_1steam__shortcuts.html#a161b1eceee8e5d44db9fd570e06c5e0e", null ],
+      [ "add_steam_shortcut", "namespacerare_1_1utils_1_1steam__shortcuts.html#a357bd54770bbc308e805d3cc81bdf8fd", null ],
+      [ "find_steam", "namespacerare_1_1utils_1_1steam__shortcuts.html#ac2593d9c656c0dbdf14dfc2650b610b4", null ],
+      [ "find_steam_users", "namespacerare_1_1utils_1_1steam__shortcuts.html#a4c3f9257f10e48b9f0131228fdc352ae", null ],
+      [ "load_steam_shortcuts", "namespacerare_1_1utils_1_1steam__shortcuts.html#a08975ccd20d50c6e7411b3ca832b973b", null ],
+      [ "print_shortcuts", "namespacerare_1_1utils_1_1steam__shortcuts.html#a5c50fef72cf309de8d38178d9008e107", null ],
+      [ "remove_steam_coverart", "namespacerare_1_1utils_1_1steam__shortcuts.html#affa7b5cf274457b7480337e8e72cdc67", null ],
+      [ "remove_steam_shortcut", "namespacerare_1_1utils_1_1steam__shortcuts.html#ad6816d9b344d6df0048278ae71945d05", null ],
+      [ "save_steam_shortcuts", "namespacerare_1_1utils_1_1steam__shortcuts.html#a25f72b756b15a20243d2e1c542ba1258", null ],
+      [ "steam_shortcut_exists", "namespacerare_1_1utils_1_1steam__shortcuts.html#a0badb50dbd514b0bdc87f910865c9fd4", null ],
+      [ "steam_shortcuts_supported", "namespacerare_1_1utils_1_1steam__shortcuts.html#a484aafb02f6b04d0a04df9bdb732ce53", null ],
+      [ "logger", "namespacerare_1_1utils_1_1steam__shortcuts.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ],
+      [ "steam_client_install_paths", "namespacerare_1_1utils_1_1steam__shortcuts.html#a1d36e2d3282a002a669a8b6a6414879b", null ]
+    ] ]
 ];
