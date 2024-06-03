@@ -1,7 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
 <area shape="rect" id="node1" title=" " alt="" coords="5,899,76,925"/>
-<area shape="rect" id="node2" href="$classrare_1_1commands_1_1launcher_1_1_pre_launch_thread_1_1_signals.html" title=" " alt="" coords="149,5,319,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1commands_1_1launcher_1_1_sync_check_worker_1_1_signals.html" title=" " alt="" coords="147,56,321,83"/>
+<area shape="rect" id="node2" href="$classlauncher_1_1_pre_launch_thread_1_1_signals.html" title=" " alt="" coords="149,5,319,32"/>
+<area shape="rect" id="node3" href="$classlauncher_1_1_sync_check_worker_1_1_signals.html" title=" " alt="" coords="147,56,321,83"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html" title=" " alt="" coords="156,107,312,133"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_check_for_update_worker_1_1_check_for_update_signals.html" title=" " alt="" coords="133,158,335,199"/>
 <area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_worker_1_1_signals.html" title=" " alt="" coords="161,224,307,251"/>
@@ -38,6 +38,6 @@
 <area shape="rect" id="node13" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html" title=" " alt="" coords="416,503,527,529"/>
 <area shape="rect" id="node15" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html" title=" " alt="" coords="414,553,529,580"/>
 <area shape="rect" id="node14" href="$classrare_1_1models_1_1game_1_1_rare_game.html" title=" " alt="" coords="599,503,683,529"/>
-<area shape="rect" id="node40" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception.html" title=" " alt="" coords="392,1735,551,1761"/>
+<area shape="rect" id="node40" href="$classlauncher_1_1_rare_launcher_exception.html" title=" " alt="" coords="392,1735,551,1761"/>
 <area shape="rect" id="node41" href="$classrare_1_1components_1_1_rare_exception.html" title=" " alt="" coords="419,1785,524,1812"/>
 </map>

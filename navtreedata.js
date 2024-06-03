@@ -27,7 +27,7 @@ var NAVTREE =
   [ "Rare", "index.html", [
     [ "A frontend for legendary, the open source Epic Games Launcher alternative", "index.html#autotoc_md3", null ],
     [ "Why Rare?", "index.html#autotoc_md4", null ],
-    [ "Reporting issues", "index.html#autotoc_md5", null ],
+    [ "Reporing issues", "index.html#autotoc_md5", null ],
     [ "Installation", "index.html#autotoc_md6", [
       [ "Linux", "index.html#autotoc_md7", [
         [ "Flatpak", "index.html#autotoc_md8", null ],
@@ -93,11 +93,11 @@ var NAVTREEINDEX =
 "classrare_1_1utils_1_1singleton_1_1_single_instance.html#aa9b9a747972be9d371b995ae7a7ef006",
 "classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#a9d3e3ab8a83275353ad9719f877a157f",
 "collapsible__widget_8py.html#a3d2da04d187a7112445f18a9f20b39ef",
-"downloads_2groups_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d",
-"misc_8py.html#a75e1dd7e1c0a66c6cccfd8f5511fc81a",
-"namespacerare_1_1components_1_1tabs_1_1store_1_1store__api.html#a2ba63db98b4ef46ff3785bff3fc155fc",
-"namespacerare_1_1utils_1_1compat_1_1utils.html#a47fbf0889d8088e9004f52c093d59aff",
-"shared_2wrappers_8py.html#a7a7b7e39443ef5fd0550dea9959b22fd"
+"egl__sync__list__group_8py.html",
+"misc_8py.html#aa3e62dd2834c428ff219c692cd724722",
+"namespacerare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image.html",
+"namespacerare_1_1utils_1_1compat_1_1utils.html#acdf5b67fccd4bb36f661a235d3aee592",
+"shared_2wrappers_8py.html#aba3a1c8c7e556694486d909e5c5911f0"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

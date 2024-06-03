@@ -189,17 +189,17 @@
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#ab19adb77edae4558febb0fa87a973c0e" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="30,-67.5 30,-97.5 188,-97.5 188,-67.5 30,-67.5"/>
-<text text-anchor="start" x="38" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.launcher.console</text>
-<text text-anchor="middle" x="109" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.ConsoleDialog.__init__</text>
+<g id="a_node7"><a xlink:href="classlauncher_1_1console__dialog_1_1_console_dialog.html#ab19adb77edae4558febb0fa87a973c0e" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="48,-67.5 48,-97.5 170,-97.5 170,-67.5 48,-67.5"/>
+<text text-anchor="start" x="56" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">launcher.console_dialog.</text>
+<text text-anchor="middle" x="109" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConsoleDialog.__init__</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node7 -->
 <g id="edge9" class="edge">
 <title>Node5&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M290.73,-57.71C261.38,-61.74 222.36,-67.09 188.09,-71.79"/>
+<path fill="none" stroke="midnightblue" d="M290.4,-57.76C255.78,-62.5 207.87,-69.08 170.12,-74.25"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="291.26,-61.17 300.69,-56.34 290.3,-54.24 291.26,-61.17"/>
 </g>
 <!-- Node8 -->
@@ -245,7 +245,7 @@
 <!-- Node9&#45;&gt;Node7 -->
 <g id="edge16" class="edge">
 <title>Node9&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M243.61,-100.83C225.15,-98.3 205.94,-95.66 188.03,-93.2"/>
+<path fill="none" stroke="midnightblue" d="M243.62,-100.83C218.86,-97.43 192.73,-93.85 170.21,-90.76"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="243.39,-104.33 253.77,-102.22 244.34,-97.39 243.39,-104.33"/>
 </g>
 <!-- Node9&#45;&gt;Node8 -->

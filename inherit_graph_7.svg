@@ -21,7 +21,7 @@
 <!-- Node0 -->
 <g id="node2" class="node">
 <title>Node0</title>
-<g id="a_node2"><a xlink:href="classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classlauncher_1_1console__dialog_1_1_console_dialog.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="87,-323.5 87,-342.5 166,-342.5 166,-323.5 87,-323.5"/>
 <text text-anchor="middle" x="126.5" y="-330.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConsoleDialog</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Node202 -->
 <g id="node3" class="node">
 <title>Node202</title>
-<g id="a_node3"><a xlink:href="classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_env.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classlauncher_1_1console__dialog_1_1_console_env.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="92.5,-285.5 92.5,-304.5 160.5,-304.5 160.5,-285.5 92.5,-285.5"/>
 <text text-anchor="middle" x="126.5" y="-292.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConsoleEnv</text>
 </a>
@@ -171,7 +171,7 @@
 <!-- Node210 -->
 <g id="node11" class="node">
 <title>Node210</title>
-<g id="a_node11"><a xlink:href="classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html" target="_top" xlink:title=" ">
+<g id="a_node11"><a xlink:href="classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="317,-190.5 317,-209.5 407,-209.5 407,-190.5 317,-190.5"/>
 <text text-anchor="middle" x="362" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">CloudSyncDialog</text>
 </a>

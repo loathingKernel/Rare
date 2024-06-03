@@ -21,7 +21,7 @@
 <!-- Node0 -->
 <g id="node2" class="node">
 <title>Node0</title>
-<g id="a_node2"><a xlink:href="classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_init_args.html" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classlauncher_1_1lgd__helper_1_1_init_args.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="106.5,-76.5 106.5,-95.5 156.5,-95.5 156.5,-76.5 106.5,-76.5"/>
 <text text-anchor="middle" x="131.5" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">InitArgs</text>
 </a>

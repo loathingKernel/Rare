@@ -9,11 +9,9 @@ var NAVTREEINDEX21 =
 "collapsible__widget_8py.html#ac05c4552cfaa586f93f30955b71dc12e":[8,0,0,7,1,11],
 "collapsible__widget_8py.html#afe63fea7be31b0200b496d08bc6b517d":[8,0,0,7,1,5],
 "collapsible__widget_8py_source.html":[8,0,0,7,1],
-"commands_2____init_____8py.html":[8,0,0,0,1],
-"commands_2____init_____8py_source.html":[8,0,0,0,1],
 "commands_2launcher_2____init_____8py.html":[8,0,0,0,0,0],
-"commands_2launcher_2____init_____8py.html#a412675ee25d478741940175d2c1d9757":[8,0,0,0,0,0,6],
 "commands_2launcher_2____init_____8py.html#ac401e1a8757aba5d526538753354728f":[8,0,0,0,0,0,7],
+"commands_2launcher_2____init_____8py.html#acba79b2d250cb0ab84f69e1e95badd50":[8,0,0,0,0,0,6],
 "commands_2launcher_2____init_____8py_source.html":[8,0,0,0,0,0],
 "components_2____init_____8py.html":[8,0,0,1,2],
 "components_2____init_____8py.html#a019ee207f5c041fb0d2e61f76eafa958":[8,0,0,1,2,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX21 =
 "download__widget_8py_source.html":[8,0,0,5,1,1,0,1],
 "downloading_8py.html":[8,0,0,2,3,1],
 "downloading_8py_source.html":[8,0,0,2,3,1],
-"downloads_2groups_8py.html":[8,0,0,1,1,1,2]
+"downloads_2groups_8py.html":[8,0,0,1,1,1,2],
+"downloads_2groups_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,1,1,1,2,3],
+"downloads_2groups_8py_source.html":[8,0,0,1,1,1,2]
 };

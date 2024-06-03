@@ -21,7 +21,7 @@
 <!-- Node0 -->
 <g id="node2" class="node">
 <title>Node0</title>
-<g id="a_node2"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_pre_launch_thread_1_1_signals.html" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classlauncher_1_1_pre_launch_thread_1_1_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="107.5,-1335.5 107.5,-1354.5 235.5,-1354.5 235.5,-1335.5 107.5,-1335.5"/>
 <text text-anchor="middle" x="171.5" y="-1342.5" font-family="Helvetica,sans-Serif" font-size="10.00">PreLaunchThread.Signals</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Node281 -->
 <g id="node3" class="node">
 <title>Node281</title>
-<g id="a_node3"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_sync_check_worker_1_1_signals.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classlauncher_1_1_sync_check_worker_1_1_signals.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="106,-1297.5 106,-1316.5 237,-1316.5 237,-1297.5 106,-1297.5"/>
 <text text-anchor="middle" x="171.5" y="-1304.5" font-family="Helvetica,sans-Serif" font-size="10.00">SyncCheckWorker.Signals</text>
 </a>
@@ -593,7 +593,7 @@
 <!-- Node318 -->
 <g id="node40" class="node">
 <title>Node318</title>
-<g id="a_node40"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception.html" target="_top" xlink:title=" ">
+<g id="a_node40"><a xlink:href="classlauncher_1_1_rare_launcher_exception.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="290,-38.5 290,-57.5 409,-57.5 409,-38.5 290,-38.5"/>
 <text text-anchor="middle" x="349.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">RareLauncherException</text>
 </a>

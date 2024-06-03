@@ -73,10 +73,10 @@ var sectionId = 'dynsection-4';
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="115.26,-404.5 115.26,-445.5 295.26,-445.5 295.26,-404.5 115.26,-404.5"/>
-<text text-anchor="start" x="123.26" y="-433.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.launcher.cloud</text>
-<text text-anchor="start" x="123.26" y="-422.5" font-family="Helvetica,sans-Serif" font-size="10.00">_sync_dialog.CloudSyncDialog.accept</text>
+<g id="a_node2"><a xlink:href="classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="127.76,-404.5 127.76,-445.5 282.76,-445.5 282.76,-404.5 127.76,-404.5"/>
+<text text-anchor="start" x="135.76" y="-433.5" font-family="Helvetica,sans-Serif" font-size="10.00">launcher.cloud_sync</text>
+<text text-anchor="start" x="135.76" y="-422.5" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.CloudSyncDialog.accept</text>
 <text text-anchor="middle" x="205.26" y="-411.5" font-family="Helvetica,sans-Serif" font-size="10.00">_handler</text>
 </a>
 </g>
@@ -84,8 +84,8 @@ var sectionId = 'dynsection-4';
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M33.66,-215.91C33.92,-247.12 39.11,-344.27 91.76,-395 96.1,-399.18 100.95,-402.79 106.13,-405.91"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="104.68,-409.1 115.15,-410.71 107.97,-402.92 104.68,-409.1"/>
+<path fill="none" stroke="midnightblue" d="M33.66,-215.91C33.92,-247.12 39.11,-344.27 91.76,-395 99.32,-402.28 108.43,-407.84 118.17,-412.08"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="117.07,-415.41 127.66,-415.76 119.6,-408.88 117.07,-415.41"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">

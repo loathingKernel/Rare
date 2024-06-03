@@ -17,7 +17,7 @@ var searchData=
   ['indicatorreasons_14',['IndicatorReasons',['../classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons.html',1,'rare::widgets::indicator_edit']]],
   ['indicatorreasonscommon_15',['IndicatorReasonsCommon',['../classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_common.html',1,'rare::widgets::indicator_edit']]],
   ['indicatorreasonsstrings_16',['IndicatorReasonsStrings',['../classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_strings.html',1,'rare::widgets::indicator_edit']]],
-  ['initargs_17',['InitArgs',['../classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_init_args.html',1,'rare::commands::launcher::lgd_helper']]],
+  ['initargs_17',['InitArgs',['../classlauncher_1_1lgd__helper_1_1_init_args.html',1,'launcher::lgd_helper']]],
   ['installdialog_18',['InstallDialog',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html',1,'rare::components::dialogs::install_dialog']]],
   ['installdialogadvanced_19',['InstallDialogAdvanced',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_advanced.html',1,'rare::components::dialogs::install_dialog']]],
   ['installdialogselective_20',['InstallDialogSelective',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_selective.html',1,'rare::components::dialogs::install_dialog']]],

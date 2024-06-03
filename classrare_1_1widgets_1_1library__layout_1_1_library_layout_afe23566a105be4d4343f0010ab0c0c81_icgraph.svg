@@ -43,17 +43,17 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#ab19adb77edae4558febb0fa87a973c0e" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="30,-57 30,-87 188,-87 188,-57 30,-57"/>
-<text text-anchor="start" x="38" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.launcher.console</text>
-<text text-anchor="middle" x="109" y="-64" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.ConsoleDialog.__init__</text>
+<g id="a_node3"><a xlink:href="classlauncher_1_1console__dialog_1_1_console_dialog.html#ab19adb77edae4558febb0fa87a973c0e" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="48,-57 48,-87 170,-87 170,-57 48,-57"/>
+<text text-anchor="start" x="56" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">launcher.console_dialog.</text>
+<text text-anchor="middle" x="109" y="-64" font-family="Helvetica,sans-Serif" font-size="10.00">ConsoleDialog.__init__</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M243.55,-72C226.73,-72 207.14,-72 188.24,-72"/>
+<path fill="none" stroke="midnightblue" d="M243.47,-72C221.26,-72 194.23,-72 170.32,-72"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="243.64,-75.5 253.64,-72 243.64,-68.5 243.64,-75.5"/>
 </g>
 <!-- Node4 -->

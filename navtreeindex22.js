@@ -1,7 +1,5 @@
 var NAVTREEINDEX22 =
 {
-"downloads_2groups_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,1,1,1,2,3],
-"downloads_2groups_8py_source.html":[8,0,0,1,1,1,2],
 "egl__sync__list__group_8py.html":[8,0,0,5,1,1,1,1,2],
 "egl__sync__list__group_8py.html#a13dfdac334032ef32c4e0d3fa2dfe1f3":[8,0,0,5,1,1,1,1,2,2],
 "egl__sync__list__group_8py.html#ac492f8de2d00b6c4282e766bfadaf2e7":[8,0,0,5,1,1,1,1,2,3],
@@ -35,8 +33,8 @@ var NAVTREEINDEX22 =
 "files.html":[8,0],
 "flow__layout_8py.html":[8,0,0,7,4],
 "flow__layout_8py_source.html":[8,0,0,7,4],
-"functions.html":[7,3,0,0],
 "functions.html":[7,3,0],
+"functions.html":[7,3,0,0],
 "functions_a.html":[7,3,0,1],
 "functions_b.html":[7,3,0,2],
 "functions_c.html":[7,3,0,3],
@@ -192,10 +190,10 @@ var NAVTREEINDEX22 =
 "launcher_8py_source.html":[8,0,0,3,5],
 "lgd__helper_8py.html":[8,0,0,0,0,3],
 "lgd__helper_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,0,0,3,7],
-"lgd__helper_8py.html#a9759496f746c478547ac939b6271959e":[8,0,0,0,0,3,3],
-"lgd__helper_8py.html#a994d4b312004fac05d64b47fe1f7e55c":[8,0,0,0,0,3,4],
-"lgd__helper_8py.html#aa9cac0757a279f375bc3641b0aa936f8":[8,0,0,0,0,3,6],
-"lgd__helper_8py.html#abf2d7d38da6177ee9d089cef4917abdd":[8,0,0,0,0,3,5],
+"lgd__helper_8py.html#a1685e22f3b03108fb7a287e2663ce404":[8,0,0,0,0,3,3],
+"lgd__helper_8py.html#a2ca70ed0cf2ab2178c25e22ad344fa69":[8,0,0,0,0,3,5],
+"lgd__helper_8py.html#a828392f81995661c4a2f0da052d2d78e":[8,0,0,0,0,3,6],
+"lgd__helper_8py.html#a90b22eab095f71827baac38431430b6a":[8,0,0,0,0,3,4],
 "lgd__helper_8py_source.html":[8,0,0,0,0,3],
 "lgndr_2____init_____8py.html":[8,0,0,2,4],
 "lgndr_2____init_____8py_source.html":[8,0,0,2,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX22 =
 "misc_8py.html#a2e978903cf17c04e5b6d3977659af1da":[8,0,0,6,6,6],
 "misc_8py.html#a2ec81ab292b3a30c9099fbaf508e69a6":[8,0,0,6,6,13],
 "misc_8py.html#a3544b31f50ff739b7e8bb4ab751026b7":[8,0,0,6,6,2],
-"misc_8py.html#a586da0b440a2004d273a0ad5f81baf9d":[8,0,0,6,6,7]
+"misc_8py.html#a586da0b440a2004d273a0ad5f81baf9d":[8,0,0,6,6,7],
+"misc_8py.html#a75e1dd7e1c0a66c6cccfd8f5511fc81a":[8,0,0,6,6,12],
+"misc_8py.html#a853a11b95a1bb586752226148b4687fb":[8,0,0,6,6,8]
 };

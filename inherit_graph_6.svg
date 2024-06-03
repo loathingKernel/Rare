@@ -21,7 +21,7 @@
 <!-- Node0 -->
 <g id="node2" class="node">
 <title>Node0</title>
-<g id="a_node2"><a xlink:href="classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog_result.html" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog_result.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="98,-696.5 98,-715.5 216,-715.5 216,-696.5 98,-696.5"/>
 <text text-anchor="middle" x="157" y="-703.5" font-family="Helvetica,sans-Serif" font-size="10.00">CloudSyncDialogResult</text>
 </a>

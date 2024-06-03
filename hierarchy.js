@@ -26,7 +26,7 @@ var hierarchy =
     [ "DlResultModel", "classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_result_model.html", null ],
     [ "ErrorModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_error_model.html", null ],
     [ "Exception", null, [
-      [ "GameArgsError", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_game_args_error.html", null ]
+      [ "GameArgsError", "classlauncher_1_1lgd__helper_1_1_game_args_error.html", null ]
     ] ],
     [ "ExtensionsModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_extensions_model.html", null ],
     [ "GetPriceResModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_get_price_res_model.html", null ],
@@ -44,7 +44,7 @@ var hierarchy =
       [ "ProtondbRatings", "classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html", null ]
     ] ],
     [ "KeyImagesModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_key_images_model.html", null ],
-    [ "LaunchArgs", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_args.html", null ],
+    [ "LaunchArgs", "classlauncher_1_1lgd__helper_1_1_launch_args.html", null ],
     [ "LegendaryCLIReal", null, [
       [ "LegendaryCLI", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html", null ]
     ] ],
@@ -174,7 +174,7 @@ var hierarchy =
       [ "ImageWidget.Border", "classrare_1_1widgets_1_1image__widget_1_1_image_widget_1_1_border.html", null ]
     ] ],
     [ "IntEnum", null, [
-      [ "CloudSyncDialogResult", "classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog_result.html", null ],
+      [ "CloudSyncDialogResult", "classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog_result.html", null ],
       [ "QueueGroup.MoveDirection", "classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group_1_1_move_direction.html", null ],
       [ "DlResultCode", "classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_result_code.html", null ],
       [ "ImportResult", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_result.html", null ],
@@ -197,7 +197,7 @@ var hierarchy =
       [ "IndicatorReasonsCommon", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_common.html", null ]
     ] ],
     [ "Namespace", null, [
-      [ "InitArgs", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_init_args.html", null ],
+      [ "InitArgs", "classlauncher_1_1lgd__helper_1_1_init_args.html", null ],
       [ "Defaults", "classrare_1_1models_1_1options_1_1_defaults.html", null ],
       [ "Value", "classrare_1_1models_1_1options_1_1_value.html", null ]
     ] ],
@@ -213,7 +213,7 @@ var hierarchy =
     ] ],
     [ "QApplication", null, [
       [ "RareApp", "classrare_1_1widgets_1_1rare__app_1_1_rare_app.html", [
-        [ "RareLauncher", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html", null ],
+        [ "RareLauncher", "classlauncher_1_1_rare_launcher.html", null ],
         [ "Rare", "classrare_1_1components_1_1_rare.html", null ]
       ] ]
     ] ],
@@ -232,8 +232,8 @@ var hierarchy =
       [ "AppNameCompleter", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_app_name_completer.html", null ]
     ] ],
     [ "QDialog", null, [
-      [ "ConsoleDialog", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html", null ],
-      [ "ConsoleEnv", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_env.html", null ],
+      [ "ConsoleDialog", "classlauncher_1_1console__dialog_1_1_console_dialog.html", null ],
+      [ "ConsoleEnv", "classlauncher_1_1console__dialog_1_1_console_env.html", null ],
       [ "MainDialog", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_main_dialog.html", null ],
       [ "StoreWindow", "classrare_1_1components_1_1tabs_1_1store_1_1____main_____1_1_store_window.html", null ],
       [ "DebugDialog", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1debug_1_1_debug_dialog.html", null ],
@@ -241,7 +241,7 @@ var hierarchy =
         [ "LaunchDialog", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html", null ],
         [ "LoginDialog", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html", null ],
         [ "ButtonDialog", "classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html", [
-          [ "CloudSyncDialog", "classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html", null ],
+          [ "CloudSyncDialog", "classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html", null ],
           [ "SelectiveDialog", "classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog.html", null ],
           [ "UninstallDialog", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html", null ],
           [ "WrapperEditDialog", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_edit_dialog.html", [
@@ -338,8 +338,8 @@ var hierarchy =
       [ "MainWindow", "classrare_1_1components_1_1main__window_1_1_main_window.html", null ]
     ] ],
     [ "QObject", null, [
-      [ "PreLaunchThread.Signals", "classrare_1_1commands_1_1launcher_1_1_pre_launch_thread_1_1_signals.html", null ],
-      [ "SyncCheckWorker.Signals", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker_1_1_signals.html", null ],
+      [ "PreLaunchThread.Signals", "classlauncher_1_1_pre_launch_thread_1_1_signals.html", null ],
+      [ "SyncCheckWorker.Signals", "classlauncher_1_1_sync_check_worker_1_1_signals.html", null ],
       [ "LibraryWidgetController", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html", null ],
       [ "CheckForUpdateWorker.CheckForUpdateSignals", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_check_for_update_worker_1_1_check_for_update_signals.html", null ],
       [ "ImportWorker.Signals", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_worker_1_1_signals.html", null ],
@@ -378,20 +378,20 @@ var hierarchy =
       [ "EditFuncRunnable.Signals", "classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable_1_1_signals.html", null ],
       [ "IndicatorReasonsStrings", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_strings.html", null ],
       [ "RareAppException", "classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html", [
-        [ "RareLauncherException", "classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception.html", null ],
+        [ "RareLauncherException", "classlauncher_1_1_rare_launcher_exception.html", null ],
         [ "RareException", "classrare_1_1components_1_1_rare_exception.html", null ]
       ] ]
     ] ],
     [ "QPlainTextEdit", null, [
-      [ "ConsoleEdit", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_edit.html", null ]
+      [ "ConsoleEdit", "classlauncher_1_1console__dialog_1_1_console_edit.html", null ]
     ] ],
     [ "QPushButton", null, [
       [ "SocialButton", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_social_button.html", null ],
       [ "TabButtonWidget", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_tab_button_widget.html", null ]
     ] ],
     [ "QRunnable", null, [
-      [ "PreLaunchThread", "classrare_1_1commands_1_1launcher_1_1_pre_launch_thread.html", null ],
-      [ "SyncCheckWorker", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker.html", null ],
+      [ "PreLaunchThread", "classlauncher_1_1_pre_launch_thread.html", null ],
+      [ "SyncCheckWorker", "classlauncher_1_1_sync_check_worker.html", null ],
       [ "EGLSyncWorker", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker.html", null ],
       [ "CheckForUpdateWorker", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_check_for_update_worker.html", null ],
       [ "ImportWorker", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_worker.html", null ],

@@ -1,13 +1,13 @@
 <map id="main" name="main">
-<area shape="rect" id="node1" title=" " alt="" coords="13,335,64,362"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5" title="Creates a desktop or start menu shortcut link." alt="" coords="141,208,286,249"/>
-<area shape="rect" id="node9" href="$namespacerare_1_1commands_1_1launcher.html#a412675ee25d478741940175d2c1d9757" title=" " alt="" coords="112,298,316,325"/>
-<area shape="rect" id="node10" href="$namespacerare_1_1utils_1_1paths.html#a40ba74ba4e0cbcc72c8500d38c04b461" title=" " alt="" coords="136,373,292,399"/>
-<area shape="rect" id="node11" href="$namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" title=" " alt="" coords="140,447,287,474"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1paths.html#ac2e6ac6baa5376d3ea5aa8b63e2af2bd" title="Creates the path of a shortcut link." alt="" coords="369,29,524,71"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1paths.html#a328faa5a142700be21313b72953aab76" title=" " alt="" coords="369,119,524,160"/>
-<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1paths.html#a5aae2af81c71e81b5a7ce0c16db5ba19" title=" " alt="" coords="383,208,510,249"/>
-<area shape="rect" id="node6" href="$namespacerare_1_1utils_1_1paths.html#a71f5a7ae998e88f396ed58bb5ec6c67b" title=" " alt="" coords="365,298,528,325"/>
-<area shape="rect" id="node7" href="$namespacerare_1_1utils_1_1paths.html#ada300860b11ac604daaa4afc32f76fb7" title=" " alt="" coords="364,373,529,399"/>
-<area shape="rect" id="node8" href="$namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b" title=" " alt="" coords="577,373,732,399"/>
+<area shape="rect" id="node1" title=" " alt="" coords="8,335,59,362"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5" title="Creates a desktop or start menu shortcut link." alt="" coords="112,208,258,249"/>
+<area shape="rect" id="node9" href="$namespacelauncher.html#acba79b2d250cb0ab84f69e1e95badd50" title=" " alt="" coords="129,298,241,325"/>
+<area shape="rect" id="node10" href="$namespacerare_1_1utils_1_1paths.html#a40ba74ba4e0cbcc72c8500d38c04b461" title=" " alt="" coords="107,373,263,399"/>
+<area shape="rect" id="node11" href="$namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" title=" " alt="" coords="112,447,258,474"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1paths.html#ac2e6ac6baa5376d3ea5aa8b63e2af2bd" title="Creates the path of a shortcut link." alt="" coords="316,29,471,71"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1paths.html#a328faa5a142700be21313b72953aab76" title=" " alt="" coords="316,119,471,160"/>
+<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1paths.html#a5aae2af81c71e81b5a7ce0c16db5ba19" title=" " alt="" coords="330,208,457,249"/>
+<area shape="rect" id="node6" href="$namespacerare_1_1utils_1_1paths.html#a71f5a7ae998e88f396ed58bb5ec6c67b" title=" " alt="" coords="312,298,475,325"/>
+<area shape="rect" id="node7" href="$namespacerare_1_1utils_1_1paths.html#ada300860b11ac604daaa4afc32f76fb7" title=" " alt="" coords="311,373,476,399"/>
+<area shape="rect" id="node8" href="$namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b" title=" " alt="" coords="524,373,679,399"/>
 </map>

@@ -1,7 +1,7 @@
 var searchData=
 [
   ['game_0',['Game',['../classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals_1_1_game.html',1,'rare::models::base_game::RareGameBase::Signals']]],
-  ['gameargserror_1',['GameArgsError',['../classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_game_args_error.html',1,'rare::commands::launcher::lgd_helper']]],
+  ['gameargserror_1',['GameArgsError',['../classlauncher_1_1lgd__helper_1_1_game_args_error.html',1,'launcher::lgd_helper']]],
   ['gamedlc_2',['GameDlc',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc.html',1,'rare::components::tabs::games::game_info::game_dlc']]],
   ['gamedlcwidget_3',['GameDlcWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__dlc_1_1_game_dlc_widget.html',1,'rare::components::tabs::games::game_info::game_dlc']]],
   ['gamedxvksettings_4',['GameDxvkSettings',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1game__settings_1_1_game_dxvk_settings.html',1,'rare::components::tabs::games::game_info::game_settings']]],

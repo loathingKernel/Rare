@@ -102,17 +102,17 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#ab19adb77edae4558febb0fa87a973c0e" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="30,-57 30,-87 188,-87 188,-57 30,-57"/>
-<text text-anchor="start" x="38" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.launcher.console</text>
-<text text-anchor="middle" x="109" y="-64" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.ConsoleDialog.__init__</text>
+<g id="a_node5"><a xlink:href="classlauncher_1_1console__dialog_1_1_console_dialog.html#ab19adb77edae4558febb0fa87a973c0e" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="48,-57 48,-87 170,-87 170,-57 48,-57"/>
+<text text-anchor="start" x="56" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">launcher.console_dialog.</text>
+<text text-anchor="middle" x="109" y="-64" font-family="Helvetica,sans-Serif" font-size="10.00">ConsoleDialog.__init__</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node5 -->
 <g id="edge7" class="edge">
 <title>Node3&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M248.42,-51.57C228.97,-54.44 207.82,-57.56 188.03,-60.48"/>
+<path fill="none" stroke="midnightblue" d="M248.44,-51.56C222.96,-55.32 194.56,-59.52 170.14,-63.12"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="249.03,-55.01 258.41,-50.09 248.01,-48.09 249.03,-55.01"/>
 </g>
 <!-- Node6 -->
@@ -157,7 +157,7 @@
 <!-- Node7&#45;&gt;Node5 -->
 <g id="edge14" class="edge">
 <title>Node7&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M274.82,-96.33C249.52,-92.6 217.27,-87.84 188.02,-83.52"/>
+<path fill="none" stroke="midnightblue" d="M274.91,-96.34C244.38,-91.84 203.7,-85.83 170.38,-80.91"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="274.45,-99.81 284.85,-97.81 275.47,-92.89 274.45,-99.81"/>
 </g>
 <!-- Node7&#45;&gt;Node6 -->

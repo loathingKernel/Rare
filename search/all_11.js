@@ -3,7 +3,7 @@ var searchData=
   ['qjsonmodel_0',['QJsonModel',['../classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html',1,'rare::utils::json_formatter']]],
   ['qjsontreeitem_1',['QJsonTreeItem',['../classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html',1,'rare::utils::json_formatter']]],
   ['ql_2',['ql',['../classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a86a6e93a196ee4ea762bb6c573cd6069',1,'rare::lgndr::cli::LegendaryCLI']]],
-  ['qprocessenvironment_3',['QProcessEnvironment',['../classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_args.html#aa10ff1b058ab4d770c9ddc21bae372f0',1,'rare::commands::launcher::lgd_helper::LaunchArgs']]],
+  ['qprocessenvironment_3',['QProcessEnvironment',['../classlauncher_1_1lgd__helper_1_1_launch_args.html#aa10ff1b058ab4d770c9ddc21bae372f0',1,'launcher::lgd_helper::LaunchArgs']]],
   ['qt_5frequests_2epy_4',['qt_requests.py',['../qt__requests_8py.html',1,'']]],
   ['qta_5ficon_5',['qta_icon',['../namespacerare_1_1utils_1_1misc.html#ad964a362f511f9be2d6532129e7bf731',1,'rare::utils::misc']]],
   ['qtrequests_6',['QtRequests',['../classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html',1,'rare::utils::qt_requests']]],

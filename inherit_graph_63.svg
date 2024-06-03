@@ -21,7 +21,7 @@
 <!-- Node0 -->
 <g id="node2" class="node">
 <title>Node0</title>
-<g id="a_node2"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_pre_launch_thread.html" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classlauncher_1_1_pre_launch_thread.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="114.5,-399.5 114.5,-418.5 208.5,-418.5 208.5,-399.5 114.5,-399.5"/>
 <text text-anchor="middle" x="161.5" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00">PreLaunchThread</text>
 </a>
@@ -36,7 +36,7 @@
 <!-- Node327 -->
 <g id="node3" class="node">
 <title>Node327</title>
-<g id="a_node3"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_sync_check_worker.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classlauncher_1_1_sync_check_worker.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="113,-361.5 113,-380.5 210,-380.5 210,-361.5 113,-361.5"/>
 <text text-anchor="middle" x="161.5" y="-368.5" font-family="Helvetica,sans-Serif" font-size="10.00">SyncCheckWorker</text>
 </a>

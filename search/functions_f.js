@@ -1,9 +1,9 @@
 var searchData=
 [
   ['on_5fcolor_5fselect_5fchanged_0',['on_color_select_changed',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a8ce387ca25cca5ce57fdbaf3cdb6994c',1,'rare::components::tabs::settings::rare::RareSettings']]],
-  ['on_5fexit_1',['on_exit',['../classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ad0256d0c2293a5030e42884d8de9484d',1,'rare::commands::launcher::RareLauncher']]],
+  ['on_5fexit_1',['on_exit',['../classlauncher_1_1_rare_launcher.html#ad0256d0c2293a5030e42884d8de9484d',1,'launcher::RareLauncher']]],
   ['on_5flang_5fchanged_2',['on_lang_changed',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a7acda329700b75f376c3ca0d094532f1',1,'rare::components::tabs::settings::rare::RareSettings']]],
-  ['on_5fprocess_5fexit_3',['on_process_exit',['../classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#a22b52ef7fa9e485ee260cebbc493ac7b',1,'rare::commands::launcher::console_dialog::ConsoleDialog']]],
+  ['on_5fprocess_5fexit_3',['on_process_exit',['../classlauncher_1_1console__dialog_1_1_console_dialog.html#a22b52ef7fa9e485ee260cebbc493ac7b',1,'launcher::console_dialog::ConsoleDialog']]],
   ['on_5fstyle_5fselect_5fchanged_4',['on_style_select_changed',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#af0b1b6858ed0b8efb6b4faa95f01cf6d',1,'rare::components::tabs::settings::rare::RareSettings']]],
   ['on_5fview_5fcombo_5fchanged_5',['on_view_combo_changed',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#acb16d1601fe68a12f9e1bedb42e9e8b6',1,'rare::components::tabs::settings::rare::RareSettings']]],
   ['on_5fworker_5ffailed_6',['on_worker_failed',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a36bb64fa9d259feffe5871168f96c4df',1,'rare::components::dialogs::install_dialog::InstallDialog']]],

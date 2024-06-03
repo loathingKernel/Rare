@@ -1,28 +1,26 @@
 var annotated_dup =
 [
-    [ "rare", "namespacerare.html", [
-      [ "commands", "namespacerare_1_1commands.html", [
-        [ "launcher", "namespacerare_1_1commands_1_1launcher.html", [
-          [ "cloud_sync_dialog", "namespacerare_1_1commands_1_1launcher_1_1cloud__sync__dialog.html", [
-            [ "CloudSyncDialog", "classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html", "classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog" ],
-            [ "CloudSyncDialogResult", "classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog_result.html", null ]
-          ] ],
-          [ "console_dialog", "namespacerare_1_1commands_1_1launcher_1_1console__dialog.html", [
-            [ "ConsoleDialog", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog" ],
-            [ "ConsoleEdit", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_edit.html", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_edit" ],
-            [ "ConsoleEnv", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_env.html", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_env" ]
-          ] ],
-          [ "lgd_helper", "namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html", [
-            [ "GameArgsError", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_game_args_error.html", null ],
-            [ "InitArgs", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_init_args.html", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_init_args" ],
-            [ "LaunchArgs", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_args.html", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_args" ]
-          ] ],
-          [ "PreLaunchThread", "classrare_1_1commands_1_1launcher_1_1_pre_launch_thread.html", "classrare_1_1commands_1_1launcher_1_1_pre_launch_thread" ],
-          [ "RareLauncher", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html", "classrare_1_1commands_1_1launcher_1_1_rare_launcher" ],
-          [ "RareLauncherException", "classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception.html", "classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception" ],
-          [ "SyncCheckWorker", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker.html", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker" ]
-        ] ]
+    [ "launcher", "namespacelauncher.html", [
+      [ "cloud_sync_dialog", "namespacelauncher_1_1cloud__sync__dialog.html", [
+        [ "CloudSyncDialog", "classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html", "classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog" ],
+        [ "CloudSyncDialogResult", "classlauncher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog_result.html", null ]
       ] ],
+      [ "console_dialog", "namespacelauncher_1_1console__dialog.html", [
+        [ "ConsoleDialog", "classlauncher_1_1console__dialog_1_1_console_dialog.html", "classlauncher_1_1console__dialog_1_1_console_dialog" ],
+        [ "ConsoleEdit", "classlauncher_1_1console__dialog_1_1_console_edit.html", "classlauncher_1_1console__dialog_1_1_console_edit" ],
+        [ "ConsoleEnv", "classlauncher_1_1console__dialog_1_1_console_env.html", "classlauncher_1_1console__dialog_1_1_console_env" ]
+      ] ],
+      [ "lgd_helper", "namespacelauncher_1_1lgd__helper.html", [
+        [ "GameArgsError", "classlauncher_1_1lgd__helper_1_1_game_args_error.html", null ],
+        [ "InitArgs", "classlauncher_1_1lgd__helper_1_1_init_args.html", "classlauncher_1_1lgd__helper_1_1_init_args" ],
+        [ "LaunchArgs", "classlauncher_1_1lgd__helper_1_1_launch_args.html", "classlauncher_1_1lgd__helper_1_1_launch_args" ]
+      ] ],
+      [ "PreLaunchThread", "classlauncher_1_1_pre_launch_thread.html", "classlauncher_1_1_pre_launch_thread" ],
+      [ "RareLauncher", "classlauncher_1_1_rare_launcher.html", "classlauncher_1_1_rare_launcher" ],
+      [ "RareLauncherException", "classlauncher_1_1_rare_launcher_exception.html", "classlauncher_1_1_rare_launcher_exception" ],
+      [ "SyncCheckWorker", "classlauncher_1_1_sync_check_worker.html", "classlauncher_1_1_sync_check_worker" ]
+    ] ],
+    [ "rare", "namespacerare.html", [
       [ "components", "namespacerare_1_1components.html", [
         [ "dialogs", "namespacerare_1_1components_1_1dialogs.html", [
           [ "install_dialog", "namespacerare_1_1components_1_1dialogs_1_1install__dialog.html", [

@@ -818,17 +818,17 @@ var sectionId = 'dynsection-23';
 <!-- Node30 -->
 <g id="node30" class="node">
 <title>Node30</title>
-<g id="a_node30"><a xlink:href="classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#ab19adb77edae4558febb0fa87a973c0e" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="264,-782.5 264,-812.5 422,-812.5 422,-782.5 264,-782.5"/>
-<text text-anchor="start" x="272" y="-800.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.launcher.console</text>
-<text text-anchor="middle" x="343" y="-789.5" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.ConsoleDialog.__init__</text>
+<g id="a_node30"><a xlink:href="classlauncher_1_1console__dialog_1_1_console_dialog.html#ab19adb77edae4558febb0fa87a973c0e" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="282,-782.5 282,-812.5 404,-812.5 404,-782.5 282,-782.5"/>
+<text text-anchor="start" x="290" y="-800.5" font-family="Helvetica,sans-Serif" font-size="10.00">launcher.console_dialog.</text>
+<text text-anchor="middle" x="343" y="-789.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConsoleDialog.__init__</text>
 </a>
 </g>
 </g>
 <!-- Node29&#45;&gt;Node30 -->
 <g id="edge62" class="edge">
 <title>Node29&#45;&gt;Node30</title>
-<path fill="none" stroke="midnightblue" d="M520.18,-823.08C489.49,-818.62 453.59,-813.41 422.23,-808.86"/>
+<path fill="none" stroke="midnightblue" d="M520.2,-823.08C483.37,-817.73 439.01,-811.29 404.02,-806.21"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="519.98,-826.58 530.38,-824.55 520.98,-819.65 519.98,-826.58"/>
 </g>
 <!-- Node29&#45;&gt;Node31 -->
@@ -858,7 +858,7 @@ var sectionId = 'dynsection-23';
 <!-- Node32&#45;&gt;Node30 -->
 <g id="edge69" class="edge">
 <title>Node32&#45;&gt;Node30</title>
-<path fill="none" stroke="midnightblue" d="M499.73,-778.03C474.24,-781.22 446.84,-784.65 422.23,-787.72"/>
+<path fill="none" stroke="midnightblue" d="M499.52,-778.06C467.59,-782.05 432.68,-786.42 404.04,-790"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="500.28,-781.49 509.76,-776.78 499.41,-774.55 500.28,-781.49"/>
 </g>
 <!-- Node32&#45;&gt;Node31 -->
