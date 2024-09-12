@@ -18,6 +18,7 @@ var classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___lege
     [ "install_dir_group", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a79aa62a8c02f5cc9100e02afbd005275", null ],
     [ "install_dir_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a09dc9400af76883674428db2688697b8", null ],
     [ "left_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a002fcf2e00d56c5407dfc47ed725fa54", null ],
+    [ "left_vspacer", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a40d1afb34126838ec00e4689f293fcc3", null ],
     [ "legendary_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a6dde0105be75e6e0441a9b1222528a13", null ],
     [ "locale_group", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a9c302ff6892d43515bb4bc6a3bb03c0c", null ],
     [ "locale_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a974e6c3e0baf24f85612d92fc4ded588", null ],
@@ -35,5 +36,6 @@ var classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___lege
     [ "preferred_cdn_label", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#adba69b3e5882fa75429b811267516ae5", null ],
     [ "preferred_cdn_line", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#abde886fe7fe21db20509d853b539d5ac", null ],
     [ "refresh_metadata_button", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a8e9926ddd60ec5dc2c67e09ae4411ae7", null ],
-    [ "right_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a9c5f4a6dcc233830066fbe7ee4a07db3", null ]
+    [ "right_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a9c5f4a6dcc233830066fbe7ee4a07db3", null ],
+    [ "right_vspacer", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#ad993899c70f1ccebae347c51c3ae9148", null ]
 ];

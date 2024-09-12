@@ -10,5 +10,6 @@ var classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_ui___
     [ "prefix_label", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_ui___import_login.html#a0634d130a67e0f568cb2273706a4a1c6", null ],
     [ "prefix_layout", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_ui___import_login.html#a9d3af1adb5433ee2b61f8aa3c8521f89", null ],
     [ "status_label", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_ui___import_login.html#a69166dba21977e475df1d04d7477ea3d", null ],
-    [ "title_label", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_ui___import_login.html#ae423460a54e07f91785a6ef59dd09e6b", null ]
+    [ "title_label", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_ui___import_login.html#ae423460a54e07f91785a6ef59dd09e6b", null ],
+    [ "vspacer", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_ui___import_login.html#af34097640b8d00bceb90fa76fc570a1d", null ]
 ];

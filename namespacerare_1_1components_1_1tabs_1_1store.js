@@ -4,7 +4,6 @@ var namespacerare_1_1components_1_1tabs_1_1store =
     [ "api", "namespacerare_1_1components_1_1tabs_1_1store_1_1api.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1api" ],
     [ "constants", "namespacerare_1_1components_1_1tabs_1_1store_1_1constants.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1constants" ],
     [ "landing", "namespacerare_1_1components_1_1tabs_1_1store_1_1landing.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1landing" ],
-    [ "results", "namespacerare_1_1components_1_1tabs_1_1store_1_1results.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1results" ],
     [ "search", "namespacerare_1_1components_1_1tabs_1_1store_1_1search.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1search" ],
     [ "store_api", "namespacerare_1_1components_1_1tabs_1_1store_1_1store__api.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1store__api" ],
     [ "widgets", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets.html", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets" ],

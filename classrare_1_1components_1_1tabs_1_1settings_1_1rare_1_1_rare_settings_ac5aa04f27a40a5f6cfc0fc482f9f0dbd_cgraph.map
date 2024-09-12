@@ -1,6 +1,7 @@
 <map id="clean_logdir" name="clean_logdir">
-<area shape="rect" id="node1" title=" " alt="" coords="5,67,96,93"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1misc.html#a3544b31f50ff739b7e8bb4ab751026b7" title=" " alt="" coords="144,29,316,56"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1paths.html#ac2806d554b9f1bc2c539a8dd797afb60" title=" " alt="" coords="157,104,303,131"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1paths.html#a967cf7dd54d6f29434b1b44099984396" title=" " alt="" coords="364,104,529,131"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,96,131"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1misc.html#a3544b31f50ff739b7e8bb4ab751026b7" title=" " alt="" coords="181,29,353,56"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1paths.html#ac2806d554b9f1bc2c539a8dd797afb60" title=" " alt="" coords="193,104,340,131"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="144,179,389,221"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1paths.html#a967cf7dd54d6f29434b1b44099984396" title=" " alt="" coords="437,104,603,131"/>
 </map>

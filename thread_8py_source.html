@@ -96,7 +96,7 @@ $(document).ready(function(){initNavTree('thread_8py_source.html',''); initResiz
 <div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">from</span> logging <span class="keyword">import</span> getLogger</div>
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="keyword">from</span> typing <span class="keyword">import</span> List, Optional, Dict</div>
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span> </div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">from</span> PyQt5.QtCore <span class="keyword">import</span> QThread, pyqtSignal, QProcess</div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">from</span> PySide6.QtCore <span class="keyword">import</span> QThread, Signal, QProcess</div>
 <div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span> </div>
 <div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1lgndr_1_1cli.html">rare.lgndr.cli</a> <span class="keyword">import</span> LegendaryCLI</div>
 <div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1lgndr_1_1core.html">rare.lgndr.core</a> <span class="keyword">import</span> LegendaryCore</div>
@@ -128,8 +128,8 @@ $(document).ready(function(){initNavTree('thread_8py_source.html',''); initResiz
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span> </div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span> </div>
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno"><a class="line" href="classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html">   41</a></span><span class="keyword">class </span><a class="code hl_class" href="classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html">DlThread</a>(QThread):</div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno"><a class="line" href="classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#a937d4dd628a8858b443a399410d2600b">   42</a></span>    result = pyqtSignal(DlResultModel)</div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno"><a class="line" href="classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#a991fd2c404665f13f536fc7791e53504">   43</a></span>    progress = pyqtSignal(UIUpdate, object)</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno"><a class="line" href="classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#a937d4dd628a8858b443a399410d2600b">   42</a></span>    result = Signal(DlResultModel)</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno"><a class="line" href="classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#a991fd2c404665f13f536fc7791e53504">   43</a></span>    progress = Signal(UIUpdate, object)</div>
 <div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span> </div>
 <div class="line"><a id="l00045" name="l00045"></a><span class="lineno"><a class="line" href="classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#ac14556619cd90af8224c36f2ac25736a">   45</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#ac14556619cd90af8224c36f2ac25736a">__init__</a>(self, item: InstallQueueItemModel, rgame: RareGame, core: LegendaryCore, debug: bool = <span class="keyword">False</span>):</div>
 <div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>        super(DlThread, self).<a class="code hl_function" href="classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#ac14556619cd90af8224c36f2ac25736a">__init__</a>()</div>
@@ -255,8 +255,8 @@ $(document).ready(function(){initNavTree('thread_8py_source.html',''); initResiz
 <div class="line"><a id="l00166" name="l00166"></a><span class="lineno">  166</span>                req_path, req_exec = os.path.split(postinstall[<span class="stringliteral">&quot;path&quot;</span>])</div>
 <div class="line"><a id="l00167" name="l00167"></a><span class="lineno">  167</span>                work_dir = os.path.join(igame.install_path, req_path)</div>
 <div class="line"><a id="l00168" name="l00168"></a><span class="lineno">  168</span>                fullpath = os.path.join(work_dir, req_exec)</div>
-<div class="line"><a id="l00169" name="l00169"></a><span class="lineno">  169</span>                proc = QProcess()</div>
-<div class="line"><a id="l00170" name="l00170"></a><span class="lineno">  170</span>                proc.setProcessChannelMode(QProcess.MergedChannels)</div>
+<div class="line"><a id="l00169" name="l00169"></a><span class="lineno">  169</span>                proc = QProcess(self)</div>
+<div class="line"><a id="l00170" name="l00170"></a><span class="lineno">  170</span>                proc.setProcessChannelMode(QProcess.ProcessChannelMode.MergedChannels)</div>
 <div class="line"><a id="l00171" name="l00171"></a><span class="lineno">  171</span>                proc.readyReadStandardOutput.connect(</div>
 <div class="line"><a id="l00172" name="l00172"></a><span class="lineno">  172</span>                    <span class="keyword">lambda</span>: logger.debug(<a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(proc.readAllStandardOutput().data(), <span class="stringliteral">&quot;utf-8&quot;</span>, <span class="stringliteral">&quot;ignore&quot;</span>))</div>
 <div class="line"><a id="l00173" name="l00173"></a><span class="lineno">  173</span>                )</div>

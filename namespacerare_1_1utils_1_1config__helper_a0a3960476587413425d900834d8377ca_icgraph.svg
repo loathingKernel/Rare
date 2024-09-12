@@ -227,7 +227,7 @@ var sectionId = 'dynsection-51';
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game.html#aaea286e285e22850eef8300f4b7cd3ef" target="_top" xlink:title=" ">
+<g id="a_node9"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game.html#a9b76c292a174e6a6013ae0b0d6f2b4b5" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="553,-33.5 553,-63.5 711,-63.5 711,-33.5 553,-33.5"/>
 <text text-anchor="start" x="561" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareGame.set</text>
 <text text-anchor="middle" x="632" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">_steam_grade</text>

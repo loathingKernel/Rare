@@ -1,7 +1,7 @@
 <map id="type" name="type">
-<area shape="rect" id="node1" title=" " alt="" coords="671,123,717,150"/>
-<area shape="rect" id="node2" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#ac9b61a5d2b7f34200733fd959135686f" title=" " alt="" coords="448,82,495,109"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_image_url_model.html#aa5b78a82a486148c4a7c177e6cd73bec" title=" " alt="" coords="320,157,623,199"/>
-<area shape="rect" id="node3" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#ad149341d7d849ff957baee565b19c123" title=" " alt="" coords="59,29,219,71"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#a51829b63adb24ac48d350dee60181002" title=" " alt="" coords="5,119,272,160"/>
+<area shape="rect" id="node1" title=" " alt="" coords="671,78,717,105"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_image_url_model.html#a15c83535daeb6a428816952abeecc8f2" title=" " alt="" coords="320,29,623,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#ac9b61a5d2b7f34200733fd959135686f" title=" " alt="" coords="448,119,495,146"/>
+<area shape="rect" id="node4" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#ad149341d7d849ff957baee565b19c123" title=" " alt="" coords="59,67,219,108"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#a51829b63adb24ac48d350dee60181002" title=" " alt="" coords="5,156,272,197"/>
 </map>

@@ -21,10 +21,10 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_image_url_model.html#aa5b78a82a486148c4a7c177e6cd73bec" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_image_url_model.html#a15c83535daeb6a428816952abeecc8f2" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-30.5 227,-30.5 227,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.api.models.response.</text>
-<text text-anchor="middle" x="113.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageUrlModel.to_dict</text>
+<text text-anchor="middle" x="113.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageUrlModel.as_dict</text>
 </a>
 </g>
 </g>

@@ -12,8 +12,8 @@ var searchData=
   ['on_5fexit_9',['on_exit',['../classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ad0256d0c2293a5030e42884d8de9484d',1,'rare::commands::launcher::RareLauncher']]],
   ['on_5flang_5fchanged_10',['on_lang_changed',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a7acda329700b75f376c3ca0d094532f1',1,'rare::components::tabs::settings::rare::RareSettings']]],
   ['on_5fprocess_5fexit_11',['on_process_exit',['../classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#a22b52ef7fa9e485ee260cebbc493ac7b',1,'rare::commands::launcher::console_dialog::ConsoleDialog']]],
-  ['on_5fstartup_12',['ON_STARTUP',['../classrare_1_1shared_1_1game__process_1_1_game_process_1_1_code.html#a31469052d7d2f3701d5807f8cb5dd33d',1,'rare::shared::game_process::GameProcess::Code']]],
-  ['on_5fstartup_13',['on_startup',['../classrare_1_1shared_1_1game__process_1_1_game_process.html#ac35315a712a68314b412c718351f94a1',1,'rare::shared::game_process::GameProcess']]],
+  ['on_5fstartup_12',['on_startup',['../classrare_1_1shared_1_1game__process_1_1_game_process.html#ac35315a712a68314b412c718351f94a1',1,'rare::shared::game_process::GameProcess']]],
+  ['on_5fstartup_13',['ON_STARTUP',['../classrare_1_1shared_1_1game__process_1_1_game_process_1_1_code.html#a31469052d7d2f3701d5807f8cb5dd33d',1,'rare::shared::game_process::GameProcess::Code']]],
   ['on_5fstyle_5fselect_5fchanged_14',['on_style_select_changed',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#af0b1b6858ed0b8efb6b4faa95f01cf6d',1,'rare::components::tabs::settings::rare::RareSettings']]],
   ['on_5fview_5fcombo_5fchanged_15',['on_view_combo_changed',['../classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#acb16d1601fe68a12f9e1bedb42e9e8b6',1,'rare::components::tabs::settings::rare::RareSettings']]],
   ['on_5fworker_5ffailed_16',['on_worker_failed',['../classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#a36bb64fa9d259feffe5871168f96c4df',1,'rare::components::dialogs::install_dialog::InstallDialog']]],
@@ -54,7 +54,7 @@ var searchData=
   ['overlaynumberinput_51',['OverlayNumberInput',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_number_input.html',1,'rare::components::tabs::settings::widgets::overlay']]],
   ['overlaypath_52',['OverlayPath',['../namespacerare_1_1widgets_1_1image__widget.html#abf3cfa6b1d9fcc8342d6ebe395b33a5b',1,'rare::widgets::image_widget']]],
   ['overlayselectinput_53',['OverlaySelectInput',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_select_input.html',1,'rare::components::tabs::settings::widgets::overlay']]],
-  ['overlaysettings_54',['OverlaySettings',['../namespacerare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#a30f9b49cb21af90dcb43e15c49d31e98',1,'rare.ui.components.tabs.settings.widgets.overlay.OverlaySettings()'],['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html',1,'OverlaySettings']]],
+  ['overlaysettings_54',['OverlaySettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html',1,'rare::components::tabs::settings::widgets::overlay']]],
   ['overlaystringinput_55',['OverlayStringInput',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_string_input.html',1,'rare::components::tabs::settings::widgets::overlay']]],
   ['override_5fexe_5fedit_56',['override_exe_edit',['../classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_launch_settings.html#a23dcd14efe89a25120d4bfb704933b57',1,'rare::components::tabs::games::game_info::settings::GameLaunchSettings']]]
 ];

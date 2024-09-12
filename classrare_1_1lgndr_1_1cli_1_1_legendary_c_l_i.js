@@ -8,7 +8,6 @@ var classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i =
     [ "install_game_cleanup", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a7de93b9e2b51b491d5c70be49680f66d", null ],
     [ "install_game_real", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#ae0eac5fbd08c37bc6646b98c91d9f847", null ],
     [ "move", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a72a86e9e97d577472c8a8af9e4a67949", null ],
-    [ "resolve_aliases", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a96f97fdb0c5afe39472e0f41488a9185", null ],
     [ "uninstall_game", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a955c4bffd557c143b705785baa100890", null ],
     [ "verify_game", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a94921a35f33d553ff01281b05fa2428d", null ],
     [ "core", "classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#ab65a1cfe05166d06195718a9587d7b86", null ],

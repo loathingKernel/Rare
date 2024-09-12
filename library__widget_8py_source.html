@@ -89,9 +89,9 @@ $(document).ready(function(){initNavTree('library__widget_8py_source.html',''); 
 <div class="contents">
 <a href="library__widget_8py.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno"><a class="line" href="namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget.html">    1</a></span><span class="keyword">from</span> typing <span class="keyword">import</span> Optional, Tuple, List</div>
 <div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span> </div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">from</span> PyQt5.QtCore <span class="keyword">import</span> Qt, QEvent, QObject</div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">from</span> PyQt5.QtGui <span class="keyword">import</span> QPainter, QPixmap, QFontMetrics, QImage, QBrush, QColor, QShowEvent</div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">from</span> PyQt5.QtWidgets <span class="keyword">import</span> QLabel</div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">from</span> PySide6.QtCore <span class="keyword">import</span> Qt, QEvent, QObject</div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">from</span> PySide6.QtGui <span class="keyword">import</span> QPainter, QPixmap, QFontMetrics, QImage, QBrush, QColor, QShowEvent</div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">from</span> PySide6.QtWidgets <span class="keyword">import</span> QLabel</div>
 <div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span> </div>
 <div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1widgets_1_1image__widget.html">rare.widgets.image_widget</a> <span class="keyword">import</span> ImageWidget</div>
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span> </div>
@@ -102,8 +102,8 @@ $(document).ready(function(){initNavTree('library__widget_8py_source.html',''); 
 <div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>        <span class="keywordflow">if</span> self.parent() <span class="keywordflow">is</span> <span class="keywordflow">not</span> <span class="keywordtype">None</span>:</div>
 <div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>            self.parent().installEventFilter(self)</div>
 <div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>        self.setObjectName(type(self).__name__)</div>
-<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>        self.setAlignment(Qt.AlignHCenter | Qt.AlignVCenter)</div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>        self.setFrameStyle(QLabel.StyledPanel)</div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>        self.setAlignment(Qt.AlignmentFlag.AlignHCenter | Qt.AlignmentFlag.AlignVCenter)</div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>        self.setFrameStyle(QLabel.Shape.StyledPanel)</div>
 <div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span> </div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>    <span class="keyword">def </span>__center_on_parent(self):</div>
 <div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>        fm = QFontMetrics(self.font())</div>
@@ -112,10 +112,10 @@ $(document).ready(function(){initNavTree('library__widget_8py_source.html',''); 
 <div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>        self.setGeometry(rect)</div>
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span> </div>
 <div class="line"><a id="l00025" name="l00025"></a><span class="lineno"><a class="line" href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_progress_label.html#ae089d7ae22c0aaa736078f3096734077">   25</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_progress_label.html#ae089d7ae22c0aaa736078f3096734077">event</a>(self, e: QEvent) -&gt; bool:</div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>        <span class="keywordflow">if</span> e.type() == QEvent.ParentAboutToChange:</div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>        <span class="keywordflow">if</span> e.type() == QEvent.Type.ParentAboutToChange:</div>
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>            <span class="keywordflow">if</span> self.parent() <span class="keywordflow">is</span> <span class="keywordflow">not</span> <span class="keywordtype">None</span>:</div>
 <div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>                self.parent().removeEventFilter(self)</div>
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>        <span class="keywordflow">if</span> e.type() == QEvent.ParentChange:</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>        <span class="keywordflow">if</span> e.type() == QEvent.Type.ParentChange:</div>
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>            <span class="keywordflow">if</span> self.parent() <span class="keywordflow">is</span> <span class="keywordflow">not</span> <span class="keywordtype">None</span>:</div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>                self.parent().installEventFilter(self)</div>
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>        <span class="keywordflow">return</span> super().<a class="code hl_function" href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_progress_label.html#ae089d7ae22c0aaa736078f3096734077">event</a>(e)</div>
@@ -127,7 +127,7 @@ $(document).ready(function(){initNavTree('library__widget_8py_source.html',''); 
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>        super().<a class="code hl_function" href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_progress_label.html#af997cabd23f14f71f7f87c986ccd582c">showEvent</a>(a0)</div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span> </div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno"><a class="line" href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_progress_label.html#a29aa0e12f6edcbda01a5314f0f528bbe">   40</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_progress_label.html#a29aa0e12f6edcbda01a5314f0f528bbe">eventFilter</a>(self, a0: QObject, a1: QEvent) -&gt; bool:</div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        <span class="keywordflow">if</span> a0 <span class="keywordflow">is</span> self.parent() <span class="keywordflow">and</span> a1.type() == QEvent.Resize:</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        <span class="keywordflow">if</span> a0 <span class="keywordflow">is</span> self.parent() <span class="keywordflow">and</span> a1.type() == QEvent.Type.Resize:</div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>            self.<a class="code hl_function" href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_progress_label.html#a3e1d2f9fa970b2c05462c13a55746ab8">__center_on_parent</a>__center_on_parent()</div>
 <div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>            <span class="keywordflow">return</span> a0.event(a1)</div>
 <div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>        <span class="keywordflow">return</span> <span class="keyword">False</span></div>
@@ -181,8 +181,8 @@ $(document).ready(function(){initNavTree('library__widget_8py_source.html',''); 
 <div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span><span class="stringliteral"></span> </div>
 <div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span><span class="stringliteral">        device = QPixmap(color.size())</span></div>
 <div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span><span class="stringliteral">        painter = QPainter(device)</span></div>
-<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span><span class="stringliteral">        painter.setRenderHint(QPainter.SmoothPixmapTransform, self.<a class="code hl_variable" href="classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#ae7eee993256b71cf6dcc9becc40ded4f">_smooth_transform</a>_smooth_transform)</span></div>
-<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span><span class="stringliteral">        painter.setCompositionMode(QPainter.CompositionMode_Source)</span></div>
+<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span><span class="stringliteral">        painter.setRenderHint(QPainter.RenderHint.SmoothPixmapTransform, self.<a class="code hl_variable" href="classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#ae7eee993256b71cf6dcc9becc40ded4f">_smooth_transform</a>_smooth_transform)</span></div>
+<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span><span class="stringliteral">        painter.setCompositionMode(QPainter.CompositionMode.CompositionMode_Source)</span></div>
 <div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span><span class="stringliteral">        </span><span class="comment"># lk: Vertical loading</span></div>
 <div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>        <span class="comment"># prog_h = (device.height() * progress // 100)</span></div>
 <div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>        <span class="comment"># brush = QBrush(gray)</span></div>

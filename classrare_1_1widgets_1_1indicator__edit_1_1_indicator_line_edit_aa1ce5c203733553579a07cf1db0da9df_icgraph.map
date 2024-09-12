@@ -1,11 +1,12 @@
 <map id="setText" name="setText">
-<area shape="rect" id="node1" title=" " alt="" coords="683,249,748,275"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box.html#a76ea5a4239cce08ee2dc391579a2f2e2" title=" " alt="" coords="390,29,589,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1elide__label_1_1_elide_label.html#afd72e8ba55945f7de018094f120bd3c8" title=" " alt="" coords="425,119,554,175"/>
-<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#a051a5c88b188dc1e47f120d327dd4d99" title=" " alt="" coords="433,223,546,250"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit.html#ae8cc8c5a2c7576b6684240f0104a3345" title=" " alt="" coords="344,349,635,391"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit.html#a9ff4a771b55b705e2653927926385052" title=" " alt="" coords="5,264,296,305"/>
-<area shape="rect" id="node8" href="$classrare_1_1widgets_1_1indicator__edit_1_1_path_edit.html#aeaf557bb52a3d67dab87e51fbc54afa6" title=" " alt="" coords="401,440,578,481"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html#a9ff4a771b55b705e2653927926385052" title=" " alt="" coords="5,353,296,395"/>
-<area shape="rect" id="node9" href="$classrare_1_1widgets_1_1indicator__edit_1_1_path_edit.html#a637b244331bea981ce1c6dc9f2fbfc0f" title=" " alt="" coords="75,443,226,484"/>
+<area shape="rect" id="node1" title=" " alt="" coords="683,328,748,355"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_tab_button_widget.html#adcdc47594d7e1aee3f78bc9fdb90e440" title=" " alt="" coords="399,29,579,85"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box.html#a76ea5a4239cce08ee2dc391579a2f2e2" title=" " alt="" coords="390,134,589,175"/>
+<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1elide__label_1_1_elide_label.html#afd72e8ba55945f7de018094f120bd3c8" title=" " alt="" coords="425,224,554,280"/>
+<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#a051a5c88b188dc1e47f120d327dd4d99" title=" " alt="" coords="433,328,546,355"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit.html#ae8cc8c5a2c7576b6684240f0104a3345" title=" " alt="" coords="344,454,635,495"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit.html#a9ff4a771b55b705e2653927926385052" title=" " alt="" coords="5,369,296,410"/>
+<area shape="rect" id="node9" href="$classrare_1_1widgets_1_1indicator__edit_1_1_path_edit.html#aeaf557bb52a3d67dab87e51fbc54afa6" title=" " alt="" coords="401,545,578,586"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html#a9ff4a771b55b705e2653927926385052" title=" " alt="" coords="5,458,296,499"/>
+<area shape="rect" id="node10" href="$classrare_1_1widgets_1_1indicator__edit_1_1_path_edit.html#a26ffcb4ebb9c186261cfd36c0b0d63bc" title=" " alt="" coords="75,547,226,589"/>
 </map>

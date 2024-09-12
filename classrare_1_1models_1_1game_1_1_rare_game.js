@@ -1,7 +1,7 @@
 var classrare_1_1models_1_1game_1_1_rare_game =
 [
     [ "Metadata", "classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html", "classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata" ],
-    [ "__init__", "classrare_1_1models_1_1game_1_1_rare_game.html#a2288a260998ac4af2794ebf8a160c2a1", null ],
+    [ "__init__", "classrare_1_1models_1_1game_1_1_rare_game.html#a1eaf92363513879b4d3fdfc7607b6175", null ],
     [ "add_dlc", "classrare_1_1models_1_1game_1_1_rare_game.html#ae1b80e70cd9f1369c04c162f16bfd810", null ],
     [ "can_launch", "classrare_1_1models_1_1game_1_1_rare_game.html#a4431ce8cf18e5dd3414d8882e585bd8d", null ],
     [ "can_run_offline", "classrare_1_1models_1_1game_1_1_rare_game.html#af3b5f267d190558f0bbc61ea26f269bd", null ],
@@ -36,7 +36,7 @@ var classrare_1_1models_1_1game_1_1_rare_game =
     [ "set_origin_attributes", "classrare_1_1models_1_1game_1_1_rare_game.html#afb0966909d9062fa9eb0e80827694818", null ],
     [ "set_pixmap", "classrare_1_1models_1_1game_1_1_rare_game.html#ab97aa84611663113dd2196fb2661c60e", null ],
     [ "set_steam_appid", "classrare_1_1models_1_1game_1_1_rare_game.html#a482bcbd6705c56fd50bd1e7461f245e2", null ],
-    [ "set_steam_grade", "classrare_1_1models_1_1game_1_1_rare_game.html#aaea286e285e22850eef8300f4b7cd3ef", null ],
+    [ "set_steam_grade", "classrare_1_1models_1_1game_1_1_rare_game.html#a9b76c292a174e6a6013ae0b0d6f2b4b5", null ],
     [ "set_worker", "classrare_1_1models_1_1game_1_1_rare_game.html#ab280d487146a0726f6e57021d85acd54", null ],
     [ "steam_appid", "classrare_1_1models_1_1game_1_1_rare_game.html#acf7a30791ab5f7954378b060bd4a42be", null ],
     [ "steam_grade", "classrare_1_1models_1_1game_1_1_rare_game.html#a44ad13c0a844d30263bbf7ca3ce625ea", null ],

@@ -10,6 +10,7 @@ var classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlc__widget_
     [ "dlc_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlc__widget_1_1_ui___game_dlc_widget.html#af4ac45c9a0205a2306f7c5abf9338f74", null ],
     [ "dlc_name", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlc__widget_1_1_ui___game_dlc_widget.html#a6f8ed924366deb27094d5dd8c56085bc", null ],
     [ "dlc_name_label", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlc__widget_1_1_ui___game_dlc_widget.html#a2474f7035d69bc7c42e3d75ed3b9d930", null ],
+    [ "hspacer", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlc__widget_1_1_ui___game_dlc_widget.html#a8bf24cc7a46ce13cf72b8526d1086d51", null ],
     [ "version", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlc__widget_1_1_ui___game_dlc_widget.html#a4c7a521b8f1a0769c09bfa4a1fca7dab", null ],
     [ "version_label", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlc__widget_1_1_ui___game_dlc_widget.html#a5c07bdc1035f798d04980b02065e62ca", null ]
 ];

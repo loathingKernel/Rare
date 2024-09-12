@@ -1,23 +1,24 @@
 <map id="settings" name="settings">
-<area shape="rect" id="node1" title=" " alt="" coords="975,627,1043,654"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#ac30eecc0cad05eea8f29e2c9d6a0e273" title=" " alt="" coords="411,88,628,129"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_library_head_bar.html#aa1f601e8f2da760839854f0ff0a05787" title=" " alt="" coords="692,84,911,125"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_library_head_bar.html#a3d6859968df93bb4acaf4c08ace98ae0" title=" " alt="" coords="692,173,911,214"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a0b10d6f6237209134f8bf6bbcb6bfba6" title=" " alt="" coords="713,262,890,304"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#ae358f46dfc79b96228a3e1d14a77d103" title=" " alt="" coords="730,352,873,393"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a8ce387ca25cca5ce57fdbaf3cdb6994c" title=" " alt="" coords="678,441,925,482"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a7acda329700b75f376c3ca0d094532f1" title=" " alt="" coords="690,530,913,572"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#af0b1b6858ed0b8efb6b4faa95f01cf6d" title=" " alt="" coords="678,620,925,661"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#acb16d1601fe68a12f9e1bedb42e9e8b6" title=" " alt="" coords="676,709,927,750"/>
-<area shape="rect" id="node12" href="$classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#a322ebb4953da62177002651ba9b4edc1" title=" " alt="" coords="705,850,897,892"/>
-<area shape="rect" id="node13" href="$classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#ab988e5fe435f9b45eab3c4e32ba0862b" title=" " alt="" coords="425,749,613,790"/>
-<area shape="rect" id="node17" href="$classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#ac5fd570d52dbfb2f7c552af6f69b5489" title=" " alt="" coords="7,871,170,927"/>
-<area shape="rect" id="node18" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="709,992,893,1033"/>
-<area shape="rect" id="node20" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="711,1081,891,1122"/>
-<area shape="rect" id="node21" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#ae1e82c979fe6d0632f0d2af69fac13db" title=" " alt="" coords="690,1170,913,1212"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a76ef2ebd71b1a1858194134725b6c800" title=" " alt="" coords="425,262,613,304"/>
-<area shape="rect" id="node14" href="$classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#a91d8946fb4a846f63b5c18378e0c7bda" title=" " alt="" coords="220,767,363,823"/>
-<area shape="rect" id="node15" href="$classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#a914424ca04cbc4c622f65833389f7b36" title=" " alt="" coords="5,663,172,719"/>
-<area shape="rect" id="node16" href="$classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#a25cf611ed634b7e951a99a17a079e07e" title=" " alt="" coords="7,767,170,823"/>
-<area shape="rect" id="node19" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="429,1036,609,1077"/>
+<area shape="rect" id="node1" title=" " alt="" coords="976,688,1044,714"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#ac30eecc0cad05eea8f29e2c9d6a0e273" title=" " alt="" coords="411,140,628,182"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#a7e43976b51be106948d8e7b1ab113864" title=" " alt="" coords="676,84,928,140"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_library_head_bar.html#aa1f601e8f2da760839854f0ff0a05787" title=" " alt="" coords="693,188,911,230"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_library_head_bar.html#a3d6859968df93bb4acaf4c08ace98ae0" title=" " alt="" coords="693,278,911,319"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a0b10d6f6237209134f8bf6bbcb6bfba6" title=" " alt="" coords="713,367,891,408"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#ae358f46dfc79b96228a3e1d14a77d103" title=" " alt="" coords="731,456,873,498"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a8ce387ca25cca5ce57fdbaf3cdb6994c" title=" " alt="" coords="679,546,925,587"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a7acda329700b75f376c3ca0d094532f1" title=" " alt="" coords="691,635,913,676"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#af0b1b6858ed0b8efb6b4faa95f01cf6d" title=" " alt="" coords="679,724,925,766"/>
+<area shape="rect" id="node12" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#acb16d1601fe68a12f9e1bedb42e9e8b6" title=" " alt="" coords="677,814,927,855"/>
+<area shape="rect" id="node13" href="$classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#a322ebb4953da62177002651ba9b4edc1" title=" " alt="" coords="706,955,898,996"/>
+<area shape="rect" id="node14" href="$classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#ab988e5fe435f9b45eab3c4e32ba0862b" title=" " alt="" coords="425,854,613,895"/>
+<area shape="rect" id="node18" href="$classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#ac5fd570d52dbfb2f7c552af6f69b5489" title=" " alt="" coords="7,976,170,1032"/>
+<area shape="rect" id="node19" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="710,1096,894,1138"/>
+<area shape="rect" id="node21" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="712,1186,892,1227"/>
+<area shape="rect" id="node22" href="$classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#ae1e82c979fe6d0632f0d2af69fac13db" title=" " alt="" coords="691,1275,913,1316"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a76ef2ebd71b1a1858194134725b6c800" title=" " alt="" coords="425,367,613,408"/>
+<area shape="rect" id="node15" href="$classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#a91d8946fb4a846f63b5c18378e0c7bda" title=" " alt="" coords="220,872,363,928"/>
+<area shape="rect" id="node16" href="$classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#a914424ca04cbc4c622f65833389f7b36" title=" " alt="" coords="5,768,172,824"/>
+<area shape="rect" id="node17" href="$classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#a25cf611ed634b7e951a99a17a079e07e" title=" " alt="" coords="7,872,170,928"/>
+<area shape="rect" id="node20" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="429,1140,609,1182"/>
 </map>

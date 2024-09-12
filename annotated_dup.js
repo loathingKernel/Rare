@@ -290,11 +290,9 @@ var annotated_dup =
               [ "LandingPage", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_page.html", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_page" ],
               [ "LandingWidget", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_widget" ]
             ] ],
-            [ "results", "namespacerare_1_1components_1_1tabs_1_1store_1_1results.html", [
-              [ "ResultsWidget", "classrare_1_1components_1_1tabs_1_1store_1_1results_1_1_results_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1results_1_1_results_widget" ]
-            ] ],
             [ "search", "namespacerare_1_1components_1_1tabs_1_1store_1_1search.html", [
               [ "CheckBox", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_check_box.html", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_check_box" ],
+              [ "ResultsWidget", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_results_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_results_widget" ],
               [ "SearchPage", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_page.html", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_page" ],
               [ "SearchWidget", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_widget" ]
             ] ],
@@ -316,7 +314,7 @@ var annotated_dup =
               ] ],
               [ "items", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items.html", [
                 [ "ItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_item_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_item_widget" ],
-                [ "ResultsItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_results_item_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_results_item_widget" ],
+                [ "SearchItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_search_item_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_search_item_widget" ],
                 [ "StoreItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_store_item_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_store_item_widget" ],
                 [ "WishlistItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_wishlist_item_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_wishlist_item_widget" ]
               ] ]
@@ -336,6 +334,7 @@ var annotated_dup =
           [ "MainTabWidget", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html", "classrare_1_1components_1_1tabs_1_1_main_tab_widget" ]
         ] ],
         [ "tray_icon", "namespacerare_1_1components_1_1tray__icon.html", [
+          [ "TrayAction", "classrare_1_1components_1_1tray__icon_1_1_tray_action.html", "classrare_1_1components_1_1tray__icon_1_1_tray_action" ],
           [ "TrayIcon", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html", "classrare_1_1components_1_1tray__icon_1_1_tray_icon" ]
         ] ],
         [ "Rare", "classrare_1_1components_1_1_rare.html", "classrare_1_1components_1_1_rare" ],
@@ -685,6 +684,9 @@ var annotated_dup =
         [ "rare_app", "namespacerare_1_1widgets_1_1rare__app.html", [
           [ "RareApp", "classrare_1_1widgets_1_1rare__app_1_1_rare_app.html", "classrare_1_1widgets_1_1rare__app_1_1_rare_app" ],
           [ "RareAppException", "classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html", "classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception" ]
+        ] ],
+        [ "rare_style", "namespacerare_1_1widgets_1_1rare__style.html", [
+          [ "RareStyle", "classrare_1_1widgets_1_1rare__style_1_1_rare_style.html", "classrare_1_1widgets_1_1rare__style_1_1_rare_style" ]
         ] ],
         [ "selective_widget", "namespacerare_1_1widgets_1_1selective__widget.html", [
           [ "SelectiveWidget", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget.html", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget" ],

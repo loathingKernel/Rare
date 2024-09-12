@@ -150,7 +150,6 @@ var hierarchy =
     [ "SearchStoreModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_search_store_model.html", null ],
     [ "SearchStoreQuery", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1query_1_1_search_store_query.html", null ],
     [ "SelectiveDownloadsModel", "classrare_1_1models_1_1install_1_1_selective_downloads_model.html", null ],
-    [ "RareGameBase.Signals", "classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals.html", null ],
     [ "StateChangedModel.States", "classrare_1_1models_1_1launcher_1_1_state_changed_model_1_1_states.html", null ],
     [ "SteamBase", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_base.html", [
       [ "CompatibilityTool", "classrare_1_1utils_1_1compat_1_1steam_1_1_compatibility_tool.html", null ],
@@ -173,7 +172,8 @@ var hierarchy =
     [ "Enum", null, [
       [ "ImageType", "classrare_1_1models_1_1image_1_1_image_type.html", null ],
       [ "ProtondbRatings", "classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html", null ],
-      [ "ImageWidget.Border", "classrare_1_1widgets_1_1image__widget_1_1_image_widget_1_1_border.html", null ]
+      [ "ImageWidget.Border", "classrare_1_1widgets_1_1image__widget_1_1_image_widget_1_1_border.html", null ],
+      [ "PathEditIconProvider.CustomIconType", "classrare_1_1widgets_1_1indicator__edit_1_1_path_edit_icon_provider_1_1_custom_icon_type.html", null ]
     ] ],
     [ "IntEnum", null, [
       [ "CloudSyncDialogResult", "classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog_result.html", null ],
@@ -210,8 +210,14 @@ var hierarchy =
       [ "VerifyStdoutProtocol", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_verify_stdout_protocol.html", null ],
       [ "SideTabContentsProtocol", "classrare_1_1widgets_1_1side__tab_1_1_side_tab_contents_protocol.html", null ]
     ] ],
+    [ "QAbstractFileIconProvider", null, [
+      [ "PathEditIconProvider", "classrare_1_1widgets_1_1indicator__edit_1_1_path_edit_icon_provider.html", null ]
+    ] ],
     [ "QAbstractTableModel", null, [
       [ "EnvVarsTableModel", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html", null ]
+    ] ],
+    [ "QAction", null, [
+      [ "TrayAction", "classrare_1_1components_1_1tray__icon_1_1_tray_action.html", null ]
     ] ],
     [ "QApplication", null, [
       [ "RareApp", "classrare_1_1widgets_1_1rare__app_1_1_rare_app.html", [
@@ -256,9 +262,6 @@ var hierarchy =
         ] ],
         [ "TestDialog", "classrare_1_1widgets_1_1dialogs_1_1_test_dialog.html", null ]
       ] ]
-    ] ],
-    [ "QFileIconProvider", null, [
-      [ "PathEditIconProvider", "classrare_1_1widgets_1_1indicator__edit_1_1_path_edit_icon_provider.html", null ]
     ] ],
     [ "QFrame", null, [
       [ "LandingPage", "classrare_1_1components_1_1dialogs_1_1login_1_1_landing_page.html", null ],
@@ -354,6 +357,7 @@ var hierarchy =
         ] ],
         [ "RareEosOverlay", "classrare_1_1models_1_1game_1_1_rare_eos_overlay.html", null ]
       ] ],
+      [ "RareGameBase.Signals", "classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals.html", null ],
       [ "RareGameBase.Signals.Download", "classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals_1_1_download.html", null ],
       [ "RareGameBase.Signals.Game", "classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals_1_1_game.html", null ],
       [ "RareGameBase.Signals.Progress", "classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals_1_1_progress.html", null ],
@@ -384,6 +388,9 @@ var hierarchy =
     ] ],
     [ "QPlainTextEdit", null, [
       [ "ConsoleEdit", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_edit.html", null ]
+    ] ],
+    [ "QProxyStyle", null, [
+      [ "RareStyle", "classrare_1_1widgets_1_1rare__style_1_1_rare_style.html", null ]
     ] ],
     [ "QPushButton", null, [
       [ "SocialButton", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_social_button.html", null ],
@@ -420,7 +427,7 @@ var hierarchy =
     [ "QScrollArea", null, [
       [ "WrapperSettingsScroll", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings_scroll.html", null ],
       [ "FreeGamesScroll", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_free_games_scroll.html", null ],
-      [ "ResultsWidget", "classrare_1_1components_1_1tabs_1_1store_1_1results_1_1_results_widget.html", null ]
+      [ "ResultsWidget", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_results_widget.html", null ]
     ] ],
     [ "QStackedWidget", null, [
       [ "GamesLibrary", "classrare_1_1components_1_1tabs_1_1games_1_1_games_library.html", null ],
@@ -493,7 +500,7 @@ var hierarchy =
         ] ],
         [ "LoadingImageWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image_1_1_loading_image_widget.html", [
           [ "ItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_item_widget.html", [
-            [ "ResultsItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_results_item_widget.html", null ],
+            [ "SearchItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_search_item_widget.html", null ],
             [ "StoreItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_store_item_widget.html", null ],
             [ "WishlistItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_wishlist_item_widget.html", null ]
           ] ]

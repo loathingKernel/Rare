@@ -11,5 +11,6 @@ var classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_ui__
     [ "open_button", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_ui___browser_login.html#a243a42cf3c7188eeffef43e8a008d942", null ],
     [ "sid_label", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_ui___browser_login.html#a01248b9df0a40ea91b61aa41e7288698", null ],
     [ "status_label", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_ui___browser_login.html#a69166dba21977e475df1d04d7477ea3d", null ],
-    [ "title_label", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_ui___browser_login.html#ae423460a54e07f91785a6ef59dd09e6b", null ]
+    [ "title_label", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_ui___browser_login.html#ae423460a54e07f91785a6ef59dd09e6b", null ],
+    [ "vscaper", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_ui___browser_login.html#a9d71e105469c66b73fae1400a0f8798e", null ]
 ];

@@ -5,6 +5,7 @@ var classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist
     [ "container", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist.html#a030ecaa2a61b422a8ca7422403ad8c77", null ],
     [ "container_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist.html#a0708c9df8089dfb2e12ceabf675858f2", null ],
     [ "filter_combo", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist.html#a50aea7786e291eee22a660a52777c698", null ],
+    [ "hspacer_left", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist.html#a5feeb3c29936b8161eed54812d2ef76d", null ],
     [ "main_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist.html#a8bca68c145928164b86a7af9df216eea", null ],
     [ "no_games_label", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist.html#a16a8b83ace84df07622fe34efd7bd96b", null ],
     [ "order_combo", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist.html#a3d2600e108cc6dcaee631328ba1379b9", null ],

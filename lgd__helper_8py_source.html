@@ -95,7 +95,7 @@ $(document).ready(function(){initNavTree('lgd__helper_8py_source.html',''); init
 <div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">from</span> logging <span class="keyword">import</span> getLogger</div>
 <div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">from</span> typing <span class="keyword">import</span> List</div>
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span> </div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="keyword">from</span> PyQt5.QtCore <span class="keyword">import</span> QProcess, QProcessEnvironment</div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="keyword">from</span> PySide6.QtCore <span class="keyword">import</span> QProcess, QProcessEnvironment</div>
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">from</span> legendary.models.game <span class="keyword">import</span> LaunchParameters</div>
 <div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span> </div>
 <div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1models_1_1base__game.html">rare.models.base_game</a> <span class="keyword">import</span> RareGameSlim</div>
@@ -196,12 +196,12 @@ $(document).ready(function(){initNavTree('lgd__helper_8py_source.html',''); init
 <div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span> </div>
 <div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>    <span class="keywordflow">try</span>:</div>
 <div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>        params: LaunchParameters = rgame.core.get_launch_parameters(</div>
-<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>            app_name=rgame.game.app_name, offline=args.offline, addon_app_name=rgame.igame.app_name</div>
+<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>            app_name=rgame.igame.app_name, offline=args.offline, addon_app_name=rgame.game.app_name</div>
 <div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>        )</div>
 <div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span>    <span class="keywordflow">except</span> TypeError:</div>
 <div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>        logger.warning(<span class="stringliteral">&quot;Using older get_launch_parameters due to legendary version&quot;</span>)</div>
 <div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>        params: LaunchParameters = rgame.core.get_launch_parameters(</div>
-<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>            app_name=rgame.game.app_name, offline=args.offline</div>
+<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>            app_name=rgame.igame.app_name, offline=args.offline</div>
 <div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>        )</div>
 <div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span> </div>
 <div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>    full_params = []</div>

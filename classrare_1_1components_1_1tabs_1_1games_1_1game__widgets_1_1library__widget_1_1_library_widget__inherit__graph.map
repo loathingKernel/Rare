@@ -1,8 +1,8 @@
 <map id="LibraryWidget" name="LibraryWidget">
 <area shape="rect" id="node1" title=" " alt="" coords="83,461,218,597"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html" title=" " alt="" coords="68,645,233,1031"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html" title=" " alt="" coords="68,645,233,1089"/>
 <area shape="rect" id="node2" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html" title=" " alt="" coords="65,131,236,413"/>
 <area shape="rect" id="node3" title=" " alt="" coords="115,5,187,83"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget_1_1_icon_game_widget.html" title=" " alt="" coords="5,1108,133,1244"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html" title=" " alt="" coords="158,1079,309,1273"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget_1_1_icon_game_widget.html" title=" " alt="" coords="5,1167,133,1303"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html" title=" " alt="" coords="158,1137,309,1332"/>
 </map>

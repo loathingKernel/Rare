@@ -1,7 +1,6 @@
 <map id="progress" name="progress">
-<area shape="rect" id="node1" title=" " alt="" coords="471,126,543,153"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals.html#a41a65d7030dd1006b177d0bc24e1a12b" title=" " alt="" coords="233,29,423,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a3db95dc5356fb770b891be48e62d1604" title=" " alt="" coords="241,119,415,160"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="294,209,362,235"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="5,201,185,243"/>
+<area shape="rect" id="node1" title=" " alt="" coords="455,78,527,105"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a3db95dc5356fb770b891be48e62d1604" title=" " alt="" coords="233,29,407,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="286,119,354,146"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="5,112,185,153"/>
 </map>

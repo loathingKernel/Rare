@@ -279,9 +279,9 @@ var sectionId = 'dynsection-23';
 <!-- Node19 -->
 <g id="node19" class="node">
 <title>Node19</title>
-<g id="a_node19"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1results_1_1_results_widget.html#ab169e0df1d040c3f4e4be3234617ad11" target="_top" xlink:title=" ">
+<g id="a_node19"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_results_widget.html#ab169e0df1d040c3f4e4be3234617ad11" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="878.5,-252 878.5,-282 1045.5,-282 1045.5,-252 878.5,-252"/>
-<text text-anchor="start" x="886.5" y="-270" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.results.</text>
+<text text-anchor="start" x="886.5" y="-270" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.search.</text>
 <text text-anchor="middle" x="962" y="-259" font-family="Helvetica,sans-Serif" font-size="10.00">ResultsWidget.show_results</text>
 </a>
 </g>
@@ -585,9 +585,9 @@ var sectionId = 'dynsection-23';
 <!-- Node20 -->
 <g id="node20" class="node">
 <title>Node20</title>
-<g id="a_node20"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1results_1_1_results_widget.html#a077e1e9e6f074ee2b580447a204e00ec" target="_top" xlink:title=" ">
+<g id="a_node20"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_results_widget.html#a077e1e9e6f074ee2b580447a204e00ec" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="658,-252 658,-282 825,-282 825,-252 658,-252"/>
-<text text-anchor="start" x="666" y="-270" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.results.</text>
+<text text-anchor="start" x="666" y="-270" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.search.</text>
 <text text-anchor="middle" x="741.5" y="-259" font-family="Helvetica,sans-Serif" font-size="10.00">ResultsWidget.load_results</text>
 </a>
 </g>

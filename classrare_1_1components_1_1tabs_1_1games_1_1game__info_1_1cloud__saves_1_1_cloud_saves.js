@@ -3,7 +3,6 @@ var classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_c
     [ "__init__", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#a39d165427992dd2720f91929a88cde17", null ],
     [ "compute_save_path", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#a7e43976b51be106948d8e7b1ab113864", null ],
     [ "download", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#ad23a87042fcacd32722e00f2898803ce", null ],
-    [ "edit_save_path", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#ab07a6c4bbd3c767c5c76fb96252011a9", null ],
     [ "save_save_path", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#a078bcd253ad32402d7fe690daeb0a848", null ],
     [ "update_game", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#a31df619d45c585656d938a0c09e9d115", null ],
     [ "upload", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#ac788604bbe2aec0a9bd4063887837397", null ],

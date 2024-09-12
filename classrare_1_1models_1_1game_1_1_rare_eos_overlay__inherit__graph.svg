@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 106;
+var viewWidth = 109;
 var viewHeight = 507;
 var sectionId = 'dynsection-0';
 </script>
@@ -54,27 +54,27 @@ var sectionId = 'dynsection-0';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>RareEosOverlay</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-503 102,-503 102,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-503 105,-503 105,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="0,-0.5 0,-167.5 98,-167.5 98,-0.5 0,-0.5"/>
-<text text-anchor="middle" x="49" y="-155.5" font-family="Helvetica,sans-Serif" font-size="10.00">RareEosOverlay</text>
-<polyline fill="none" stroke="black" points="0,-148.5 98,-148.5 "/>
-<text text-anchor="start" x="8" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ igame</text>
-<polyline fill="none" stroke="black" points="0,-129.5 98,-129.5 "/>
-<text text-anchor="start" x="8" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="8" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ is_installed()</text>
-<text text-anchor="start" x="8" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ set_installed()</text>
-<text text-anchor="start" x="8" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ has_update()</text>
-<text text-anchor="start" x="8" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ is_enabled()</text>
-<text text-anchor="start" x="8" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ active_path()</text>
-<text text-anchor="start" x="8" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ available_paths()</text>
-<text text-anchor="start" x="8" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ enable()</text>
-<text text-anchor="start" x="8" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ disable()</text>
-<text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ install()</text>
-<text text-anchor="start" x="8" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ uninstall()</text>
+<polygon fill="#bfbfbf" stroke="black" points="1.5,-0.5 1.5,-167.5 99.5,-167.5 99.5,-0.5 1.5,-0.5"/>
+<text text-anchor="middle" x="50.5" y="-155.5" font-family="Helvetica,sans-Serif" font-size="10.00">RareEosOverlay</text>
+<polyline fill="none" stroke="black" points="1.5,-148.5 99.5,-148.5 "/>
+<text text-anchor="start" x="9.5" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ igame</text>
+<polyline fill="none" stroke="black" points="1.5,-129.5 99.5,-129.5 "/>
+<text text-anchor="start" x="9.5" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="9.5" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ is_installed()</text>
+<text text-anchor="start" x="9.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ set_installed()</text>
+<text text-anchor="start" x="9.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ has_update()</text>
+<text text-anchor="start" x="9.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ is_enabled()</text>
+<text text-anchor="start" x="9.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ active_path()</text>
+<text text-anchor="start" x="9.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ available_paths()</text>
+<text text-anchor="start" x="9.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ enable()</text>
+<text text-anchor="start" x="9.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ disable()</text>
+<text text-anchor="start" x="9.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ install()</text>
+<text text-anchor="start" x="9.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ uninstall()</text>
 </a>
 </g>
 </g>
@@ -82,52 +82,52 @@ var sectionId = 'dynsection-0';
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_base.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="6,-204.5 6,-404.5 92,-404.5 92,-204.5 6,-204.5"/>
-<text text-anchor="middle" x="49" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">RareGameBase</text>
-<polyline fill="none" stroke="black" points="6,-385.5 92,-385.5 "/>
-<text text-anchor="start" x="14" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
-<text text-anchor="start" x="14" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="14" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ state</text>
-<text text-anchor="start" x="14" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ app_name</text>
-<polyline fill="none" stroke="black" points="6,-333.5 92,-333.5 "/>
-<text text-anchor="start" x="14" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="14" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __del__()</text>
-<text text-anchor="start" x="14" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ state()</text>
-<text text-anchor="start" x="14" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ state()</text>
-<text text-anchor="start" x="14" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ is_idle()</text>
-<text text-anchor="start" x="14" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ app_name()</text>
-<text text-anchor="start" x="14" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ app_title()</text>
-<text text-anchor="start" x="14" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ is_installed()</text>
-<text text-anchor="start" x="14" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ set_installed()</text>
-<text text-anchor="start" x="14" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ platforms()</text>
-<text text-anchor="start" x="14" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 10 more...</text>
+<polygon fill="white" stroke="black" points="0,-204.5 0,-404.5 101,-404.5 101,-204.5 0,-204.5"/>
+<text text-anchor="middle" x="50.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">RareGameBase</text>
+<polyline fill="none" stroke="black" points="0,-385.5 101,-385.5 "/>
+<text text-anchor="start" x="8" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
+<text text-anchor="start" x="8" y="-362.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="8" y="-351.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ state</text>
+<text text-anchor="start" x="8" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ app_name</text>
+<polyline fill="none" stroke="black" points="0,-333.5 101,-333.5 "/>
+<text text-anchor="start" x="8" y="-321.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="8" y="-310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ state()</text>
+<text text-anchor="start" x="8" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ state()</text>
+<text text-anchor="start" x="8" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ is_idle()</text>
+<text text-anchor="start" x="8" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ app_name()</text>
+<text text-anchor="start" x="8" y="-266.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ app_title()</text>
+<text text-anchor="start" x="8" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ is_installed()</text>
+<text text-anchor="start" x="8" y="-244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ set_installed()</text>
+<text text-anchor="start" x="8" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ platforms()</text>
+<text text-anchor="start" x="8" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ default_platform()</text>
+<text text-anchor="start" x="8" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 9 more...</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M49,-194.36C49,-185.38 49,-176.4 49,-167.66"/>
-<polygon fill="none" stroke="midnightblue" points="45.5,-194.48 49,-204.48 52.5,-194.48 45.5,-194.48"/>
+<path fill="none" stroke="midnightblue" d="M50.5,-194.36C50.5,-185.38 50.5,-176.4 50.5,-167.66"/>
+<polygon fill="none" stroke="midnightblue" points="47,-194.48 50.5,-204.48 54,-194.48 47,-194.48"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="22.5,-441.5 22.5,-498.5 75.5,-498.5 75.5,-441.5 22.5,-441.5"/>
-<text text-anchor="middle" x="49" y="-486.5" font-family="Helvetica,sans-Serif" font-size="10.00">QObject</text>
-<polyline fill="none" stroke="#bfbfbf" points="22.5,-479.5 75.5,-479.5 "/>
-<text text-anchor="middle" x="49" y="-467.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="22.5,-460.5 75.5,-460.5 "/>
-<text text-anchor="middle" x="49" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="24,-441.5 24,-498.5 77,-498.5 77,-441.5 24,-441.5"/>
+<text text-anchor="middle" x="50.5" y="-486.5" font-family="Helvetica,sans-Serif" font-size="10.00">QObject</text>
+<polyline fill="none" stroke="#bfbfbf" points="24,-479.5 77,-479.5 "/>
+<text text-anchor="middle" x="50.5" y="-467.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="24,-460.5 77,-460.5 "/>
+<text text-anchor="middle" x="50.5" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M49,-431.04C49,-422.87 49,-413.87 49,-404.55"/>
-<polygon fill="none" stroke="midnightblue" points="45.5,-431.26 49,-441.26 52.5,-431.26 45.5,-431.26"/>
+<path fill="none" stroke="midnightblue" d="M50.5,-431.04C50.5,-422.87 50.5,-413.87 50.5,-404.55"/>
+<polygon fill="none" stroke="midnightblue" points="47,-431.26 50.5,-441.26 54,-431.26 47,-431.26"/>
 </g>
 </g>
 </svg>

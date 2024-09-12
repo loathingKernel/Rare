@@ -1,7 +1,7 @@
 var searchData=
 [
   ['warning_0',['warning',['../classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a829756f2b74fdb02f2ee02d81d3cbb04',1,'rare::lgndr::glue::monkeys::LgndrIndirectLogger']]],
-  ['widget_5fobject_5fname_1',['widget_object_name',['../namespacerare_1_1utils_1_1misc.html#a2ec81ab292b3a30c9099fbaf508e69a6',1,'rare::utils::misc']]],
+  ['widget_5fobject_5fname_1',['widget_object_name',['../namespacerare_1_1utils_1_1misc.html#a83f2bd6d8d05fac43aabac4b38c4b51f',1,'rare::utils::misc']]],
   ['wine_5fcompat_5fdir_2',['wine_compat_dir',['../namespacerare_1_1utils_1_1paths.html#a19dfd13dbf6a9b10faf7f4dcfb2c723c',1,'rare::utils::paths']]],
   ['wine_5fegl_5fprefixes_3',['wine_egl_prefixes',['../classrare_1_1models_1_1pathspec_1_1_path_spec.html#a87c792701808ce9218b7dcd3afa6a7a4',1,'rare::models::pathspec::PathSpec']]],
   ['wine_5fegl_5fprogramdata_4',['wine_egl_programdata',['../classrare_1_1models_1_1pathspec_1_1_path_spec.html#af19a3eb6d909c232701a3b59f9b8f41b',1,'rare::models::pathspec::PathSpec']]],

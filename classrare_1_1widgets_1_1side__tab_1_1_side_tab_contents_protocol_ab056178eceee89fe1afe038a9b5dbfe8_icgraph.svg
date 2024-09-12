@@ -43,7 +43,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_widget.html#a52f3ec1797399b1fdc917e526214e555" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_widget.html#ac820af6d06db58bc8afc88c17028c6a7" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="14.5,-201.5 14.5,-231.5 210.5,-231.5 210.5,-201.5 14.5,-201.5"/>
 <text text-anchor="start" x="22.5" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.integrations.</text>
 <text text-anchor="middle" x="112.5" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">IntegrationsWidget.addWidget</text>

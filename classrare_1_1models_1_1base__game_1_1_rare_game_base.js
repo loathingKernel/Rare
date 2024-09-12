@@ -2,8 +2,7 @@ var classrare_1_1models_1_1base__game_1_1_rare_game_base =
 [
     [ "Signals", "classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals.html", "classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals" ],
     [ "State", "classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_state.html", null ],
-    [ "__init__", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#ad63ddf1a2b0bce17b5ea7f3fdd7fd532", null ],
-    [ "__del__", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a41a65d7030dd1006b177d0bc24e1a12b", null ],
+    [ "__init__", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#af74b3c57bfee5c7eb5f5ed1e49976867", null ],
     [ "app_name", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23", null ],
     [ "app_title", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#ae1cd35b1295fa44fd6906c1bcf28fd20", null ],
     [ "default_platform", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a3ae4fe315e7d530f77daf1e8d63468e3", null ],

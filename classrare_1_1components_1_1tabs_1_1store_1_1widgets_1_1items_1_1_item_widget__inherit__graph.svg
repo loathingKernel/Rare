@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 347;
+var viewWidth = 345;
 var viewHeight = 662;
 var sectionId = 'dynsection-0';
 </script>
@@ -54,31 +54,31 @@ var sectionId = 'dynsection-0';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>ItemWidget</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-658 342.5,-658 342.5,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-658 340.5,-658 340.5,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="106.5,-105.5 106.5,-184.5 216.5,-184.5 216.5,-105.5 106.5,-105.5"/>
-<text text-anchor="middle" x="161.5" y="-172.5" font-family="Helvetica,sans-Serif" font-size="10.00">ItemWidget</text>
-<polyline fill="none" stroke="black" points="106.5,-165.5 216.5,-165.5 "/>
-<text text-anchor="start" x="114.5" y="-153.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ catalog_game</text>
-<text text-anchor="start" x="114.5" y="-142.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ show_details</text>
-<polyline fill="none" stroke="black" points="106.5,-135.5 216.5,-135.5 "/>
-<text text-anchor="start" x="114.5" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="114.5" y="-112.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ mousePressEvent()</text>
+<polygon fill="#bfbfbf" stroke="black" points="104.5,-105.5 104.5,-184.5 214.5,-184.5 214.5,-105.5 104.5,-105.5"/>
+<text text-anchor="middle" x="159.5" y="-172.5" font-family="Helvetica,sans-Serif" font-size="10.00">ItemWidget</text>
+<polyline fill="none" stroke="black" points="104.5,-165.5 214.5,-165.5 "/>
+<text text-anchor="start" x="112.5" y="-153.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ catalog_game</text>
+<text text-anchor="start" x="112.5" y="-142.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ show_details</text>
+<polyline fill="none" stroke="black" points="104.5,-135.5 214.5,-135.5 "/>
+<text text-anchor="start" x="112.5" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="112.5" y="-112.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ mousePressEvent()</text>
 </a>
 </g>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_results_item_widget.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="0,-6 0,-63 99,-63 99,-6 0,-6"/>
-<text text-anchor="middle" x="49.5" y="-51" font-family="Helvetica,sans-Serif" font-size="10.00">ResultsItemWidget</text>
-<polyline fill="none" stroke="black" points="0,-44 99,-44 "/>
-<text text-anchor="middle" x="49.5" y="-32" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="0,-25 99,-25 "/>
+<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_search_item_widget.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="0,-6 0,-63 97,-63 97,-6 0,-6"/>
+<text text-anchor="middle" x="48.5" y="-51" font-family="Helvetica,sans-Serif" font-size="10.00">SearchItemWidget</text>
+<polyline fill="none" stroke="black" points="0,-44 97,-44 "/>
+<text text-anchor="middle" x="48.5" y="-32" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="0,-25 97,-25 "/>
 <text text-anchor="start" x="8" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
 </a>
 </g>
@@ -86,122 +86,122 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M114.47,-98.44C102.05,-86.41 89.02,-73.78 77.92,-63.03"/>
-<polygon fill="none" stroke="midnightblue" points="112.08,-101 121.7,-105.44 116.95,-95.97 112.08,-101"/>
+<path fill="none" stroke="midnightblue" d="M112.89,-98.44C100.58,-86.41 87.67,-73.78 76.66,-63.03"/>
+<polygon fill="none" stroke="midnightblue" points="110.46,-100.95 120.05,-105.44 115.35,-95.95 110.46,-100.95"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
 <g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_store_item_widget.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="117,-0.5 117,-68.5 206,-68.5 206,-0.5 117,-0.5"/>
-<text text-anchor="middle" x="161.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">StoreItemWidget</text>
-<polyline fill="none" stroke="black" points="117,-49.5 206,-49.5 "/>
-<text text-anchor="middle" x="161.5" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="117,-30.5 206,-30.5 "/>
-<text text-anchor="start" x="125" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="125" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ init_ui()</text>
+<polygon fill="white" stroke="black" points="115,-0.5 115,-68.5 204,-68.5 204,-0.5 115,-0.5"/>
+<text text-anchor="middle" x="159.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">StoreItemWidget</text>
+<polyline fill="none" stroke="black" points="115,-49.5 204,-49.5 "/>
+<text text-anchor="middle" x="159.5" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="115,-30.5 204,-30.5 "/>
+<text text-anchor="start" x="123" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="123" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ init_ui()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M161.5,-95.35C161.5,-86.28 161.5,-77 161.5,-68.54"/>
-<polygon fill="none" stroke="midnightblue" points="158,-95.44 161.5,-105.44 165,-95.44 158,-95.44"/>
+<path fill="none" stroke="midnightblue" d="M159.5,-95.35C159.5,-86.28 159.5,-77 159.5,-68.54"/>
+<polygon fill="none" stroke="midnightblue" points="156,-95.44 159.5,-105.44 163,-95.44 156,-95.44"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
 <g id="a_node7"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_wishlist_item_widget.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="224.5,-0.5 224.5,-68.5 338.5,-68.5 338.5,-0.5 224.5,-0.5"/>
-<text text-anchor="middle" x="281.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">WishlistItemWidget</text>
-<polyline fill="none" stroke="black" points="224.5,-49.5 338.5,-49.5 "/>
-<text text-anchor="start" x="232.5" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ delete_button</text>
-<text text-anchor="start" x="232.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ delete_from_wishlist</text>
-<polyline fill="none" stroke="black" points="224.5,-19.5 338.5,-19.5 "/>
-<text text-anchor="start" x="232.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<polygon fill="white" stroke="black" points="222.5,-0.5 222.5,-68.5 336.5,-68.5 336.5,-0.5 222.5,-0.5"/>
+<text text-anchor="middle" x="279.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">WishlistItemWidget</text>
+<polyline fill="none" stroke="black" points="222.5,-49.5 336.5,-49.5 "/>
+<text text-anchor="start" x="230.5" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ delete_button</text>
+<text text-anchor="start" x="230.5" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ delete_from_wishlist</text>
+<polyline fill="none" stroke="black" points="222.5,-19.5 336.5,-19.5 "/>
+<text text-anchor="start" x="230.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
 <title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M211.76,-98.56C222.9,-88.49 234.49,-78.01 244.95,-68.54"/>
-<polygon fill="none" stroke="midnightblue" points="209.22,-96.14 204.15,-105.44 213.91,-101.33 209.22,-96.14"/>
+<path fill="none" stroke="midnightblue" d="M209.76,-98.56C220.9,-88.49 232.49,-78.01 242.95,-68.54"/>
+<polygon fill="none" stroke="midnightblue" points="207.22,-96.14 202.15,-105.44 211.91,-101.33 207.22,-96.14"/>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image_1_1_loading_image_widget.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="107.5,-221.5 107.5,-311.5 215.5,-311.5 215.5,-221.5 107.5,-221.5"/>
-<text text-anchor="middle" x="161.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">LoadingImageWidget</text>
-<polyline fill="none" stroke="black" points="107.5,-292.5 215.5,-292.5 "/>
-<text text-anchor="start" x="115.5" y="-280.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
-<text text-anchor="start" x="115.5" y="-269.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ spinner</text>
-<text text-anchor="start" x="115.5" y="-258.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ manager</text>
-<polyline fill="none" stroke="black" points="107.5,-251.5 215.5,-251.5 "/>
-<text text-anchor="start" x="115.5" y="-239.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="115.5" y="-228.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ fetchPixmap()</text>
+<polygon fill="white" stroke="black" points="105.5,-221.5 105.5,-311.5 213.5,-311.5 213.5,-221.5 105.5,-221.5"/>
+<text text-anchor="middle" x="159.5" y="-299.5" font-family="Helvetica,sans-Serif" font-size="10.00">LoadingImageWidget</text>
+<polyline fill="none" stroke="black" points="105.5,-292.5 213.5,-292.5 "/>
+<text text-anchor="start" x="113.5" y="-280.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
+<text text-anchor="start" x="113.5" y="-269.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ spinner</text>
+<text text-anchor="start" x="113.5" y="-258.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ manager</text>
+<polyline fill="none" stroke="black" points="105.5,-251.5 213.5,-251.5 "/>
+<text text-anchor="start" x="113.5" y="-239.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="113.5" y="-228.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ fetchPixmap()</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M161.5,-211.08C161.5,-202.23 161.5,-193.23 161.5,-184.86"/>
-<polygon fill="none" stroke="midnightblue" points="158,-211.34 161.5,-221.34 165,-211.34 158,-211.34"/>
+<path fill="none" stroke="midnightblue" d="M159.5,-211.08C159.5,-202.23 159.5,-193.23 159.5,-184.86"/>
+<polygon fill="none" stroke="midnightblue" points="156,-211.34 159.5,-221.34 163,-211.34 156,-211.34"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="classrare_1_1widgets_1_1image__widget_1_1_image_widget.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="97.5,-348.5 97.5,-559.5 225.5,-559.5 225.5,-348.5 97.5,-348.5"/>
-<text text-anchor="middle" x="161.5" y="-547.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageWidget</text>
-<polyline fill="none" stroke="black" points="97.5,-540.5 225.5,-540.5 "/>
-<text text-anchor="start" x="105.5" y="-528.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_image</text>
-<text text-anchor="start" x="105.5" y="-517.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_overlay</text>
-<text text-anchor="start" x="105.5" y="-506.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ float</text>
-<text text-anchor="start" x="105.5" y="-495.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ bool</text>
-<polyline fill="none" stroke="black" points="97.5,-488.5 225.5,-488.5 "/>
-<text text-anchor="start" x="105.5" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="105.5" y="-465.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setOpacity()</text>
-<text text-anchor="start" x="105.5" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPixmap()</text>
-<text text-anchor="start" x="105.5" y="-443.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ sizeHint()</text>
-<text text-anchor="start" x="105.5" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ minimumSizeHint()</text>
-<text text-anchor="start" x="105.5" y="-421.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFixedSize()</text>
-<text text-anchor="start" x="105.5" y="-410.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBorder()</text>
-<text text-anchor="start" x="105.5" y="-399.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_image_empty()</text>
-<text text-anchor="start" x="105.5" y="-388.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_image_cover()</text>
-<text text-anchor="start" x="105.5" y="-377.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_overlay_rounded()</text>
-<text text-anchor="start" x="105.5" y="-366.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_overlay_squared()</text>
-<text text-anchor="start" x="105.5" y="-355.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paintEvent()</text>
+<polygon fill="white" stroke="black" points="95.5,-348.5 95.5,-559.5 223.5,-559.5 223.5,-348.5 95.5,-348.5"/>
+<text text-anchor="middle" x="159.5" y="-547.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageWidget</text>
+<polyline fill="none" stroke="black" points="95.5,-540.5 223.5,-540.5 "/>
+<text text-anchor="start" x="103.5" y="-528.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_image</text>
+<text text-anchor="start" x="103.5" y="-517.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_overlay</text>
+<text text-anchor="start" x="103.5" y="-506.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ float</text>
+<text text-anchor="start" x="103.5" y="-495.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ bool</text>
+<polyline fill="none" stroke="black" points="95.5,-488.5 223.5,-488.5 "/>
+<text text-anchor="start" x="103.5" y="-476.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="103.5" y="-465.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setOpacity()</text>
+<text text-anchor="start" x="103.5" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPixmap()</text>
+<text text-anchor="start" x="103.5" y="-443.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ sizeHint()</text>
+<text text-anchor="start" x="103.5" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ minimumSizeHint()</text>
+<text text-anchor="start" x="103.5" y="-421.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFixedSize()</text>
+<text text-anchor="start" x="103.5" y="-410.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setBorder()</text>
+<text text-anchor="start" x="103.5" y="-399.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_image_empty()</text>
+<text text-anchor="start" x="103.5" y="-388.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_image_cover()</text>
+<text text-anchor="start" x="103.5" y="-377.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_overlay_rounded()</text>
+<text text-anchor="start" x="103.5" y="-366.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint_overlay_squared()</text>
+<text text-anchor="start" x="103.5" y="-355.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ paintEvent()</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M161.5,-338.19C161.5,-328.95 161.5,-320.02 161.5,-311.79"/>
-<polygon fill="none" stroke="midnightblue" points="158,-338.32 161.5,-348.32 165,-338.32 158,-338.32"/>
+<path fill="none" stroke="midnightblue" d="M159.5,-338.19C159.5,-328.95 159.5,-320.02 159.5,-311.79"/>
+<polygon fill="none" stroke="midnightblue" points="156,-338.32 159.5,-348.32 163,-338.32 156,-338.32"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="134.5,-596.5 134.5,-653.5 188.5,-653.5 188.5,-596.5 134.5,-596.5"/>
-<text text-anchor="middle" x="161.5" y="-641.5" font-family="Helvetica,sans-Serif" font-size="10.00">QWidget</text>
-<polyline fill="none" stroke="#bfbfbf" points="134.5,-634.5 188.5,-634.5 "/>
-<text text-anchor="middle" x="161.5" y="-622.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="134.5,-615.5 188.5,-615.5 "/>
-<text text-anchor="middle" x="161.5" y="-603.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="132.5,-596.5 132.5,-653.5 186.5,-653.5 186.5,-596.5 132.5,-596.5"/>
+<text text-anchor="middle" x="159.5" y="-641.5" font-family="Helvetica,sans-Serif" font-size="10.00">QWidget</text>
+<polyline fill="none" stroke="#bfbfbf" points="132.5,-634.5 186.5,-634.5 "/>
+<text text-anchor="middle" x="159.5" y="-622.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="132.5,-615.5 186.5,-615.5 "/>
+<text text-anchor="middle" x="159.5" y="-603.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node4&#45;&gt;Node3 -->
 <g id="edge3" class="edge">
 <title>Node4&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M161.5,-586.23C161.5,-578.04 161.5,-568.99 161.5,-559.58"/>
-<polygon fill="none" stroke="midnightblue" points="158,-586.47 161.5,-596.47 165,-586.47 158,-586.47"/>
+<path fill="none" stroke="midnightblue" d="M159.5,-586.23C159.5,-578.04 159.5,-568.99 159.5,-559.58"/>
+<polygon fill="none" stroke="midnightblue" points="156,-586.47 159.5,-596.47 163,-586.47 156,-586.47"/>
 </g>
 </g>
 </svg>

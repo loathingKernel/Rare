@@ -13,6 +13,6 @@ var misc_8py =
     [ "set_color_pallete", "misc_8py.html#a0a1d2124185f1449d3f4f0c225e5e823", null ],
     [ "set_style_sheet", "misc_8py.html#a0e697f47ccaa4704ff2b095b9d6e397f", null ],
     [ "style_hyperlink", "misc_8py.html#a75e1dd7e1c0a66c6cccfd8f5511fc81a", null ],
-    [ "widget_object_name", "misc_8py.html#a2ec81ab292b3a30c9099fbaf508e69a6", null ],
+    [ "widget_object_name", "misc_8py.html#a83f2bd6d8d05fac43aabac4b38c4b51f", null ],
     [ "logger", "misc_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ]
 ];

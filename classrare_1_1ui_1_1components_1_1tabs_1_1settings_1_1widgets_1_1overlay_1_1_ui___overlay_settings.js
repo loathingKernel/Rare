@@ -2,6 +2,7 @@ var classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_
 [
     [ "retranslateUi", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#aa651dda88a8c9c4f473e1b7558a6b197", null ],
     [ "setupUi", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#a7547d9286fbf1bdd60e08571b1daa0d0", null ],
+    [ "hspacer", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#a8bf24cc7a46ce13cf72b8526d1086d51", null ],
     [ "main_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#a8bca68c145928164b86a7af9df216eea", null ],
     [ "options_form", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#ad7f7427392a8e3a94143156fdf61fba0", null ],
     [ "options_grid", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#ae814ae1293510ef9e49d6bbc334691ca", null ],

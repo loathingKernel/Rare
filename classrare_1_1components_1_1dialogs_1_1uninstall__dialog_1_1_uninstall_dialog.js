@@ -6,5 +6,6 @@ var classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog
     [ "reject_handler", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html#ad19ad97d4c365a238e29bf69deae4636", null ],
     [ "keep_config", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html#add47b85aad1933cf13e76e992c56a65e", null ],
     [ "keep_files", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html#a382162a655c7efafe0a88bdac5774f41", null ],
+    [ "keep_folder", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html#a9afe2547dbb349264499ba5e0ef67748", null ],
     [ "keep_overlay_keys", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html#a889a91327637d8952db011052704abaf", null ]
 ];

@@ -22,31 +22,31 @@
 <area shape="rect" id="node23" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="981,1933,1215,1975"/>
 <area shape="rect" id="node25" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings.html#ad7bdcb885eeed89ae97f29ad9e3e049d" title=" " alt="" coords="960,2023,1236,2064"/>
 <area shape="rect" id="node26" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings.html#a8a8c4c6c52cda581aebb786464fd4c00" title=" " alt="" coords="960,2112,1236,2153"/>
-<area shape="rect" id="node27" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#ae141cc89854309f3f2298a616b09b12b" title=" " alt="" coords="1003,2201,1193,2243"/>
-<area shape="rect" id="node28" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a590836cea8227c1cb3994dabf184ecab" title="Sets the installation status of a game." alt="" coords="993,2291,1203,2332"/>
-<area shape="rect" id="node29" href="$classrare_1_1models_1_1game_1_1_rare_game.html#afb0966909d9062fa9eb0e80827694818" title=" " alt="" coords="291,784,502,825"/>
-<area shape="rect" id="node30" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a482bcbd6705c56fd50bd1e7461f245e2" title=" " alt="" coords="993,1043,1203,1084"/>
-<area shape="rect" id="node32" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a44ad13c0a844d30263bbf7ca3ce625ea" title=" " alt="" coords="283,992,511,1033"/>
-<area shape="rect" id="node33" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_launch_settings.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="951,2380,1245,2421"/>
-<area shape="rect" id="node34" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="965,2469,1231,2511"/>
-<area shape="rect" id="node35" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="955,2559,1241,2600"/>
-<area shape="rect" id="node36" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="953,2648,1243,2689"/>
-<area shape="rect" id="node37" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#af997cabd23f14f71f7f87c986ccd582c" title=" " alt="" coords="955,2737,1241,2779"/>
-<area shape="rect" id="node38" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a7bc00fcfc3d4a34476d191b522f5bcec" title=" " alt="" coords="987,709,1209,751"/>
-<area shape="rect" id="node42" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#a910d37cae5a6d27a585d02b2727dbb77" title=" " alt="" coords="955,2827,1241,2868"/>
-<area shape="rect" id="node43" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings.html#add861606505248db8d6b551785de79d2" title=" " alt="" coords="960,2916,1236,2957"/>
-<area shape="rect" id="node44" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a57ae42bf2cdbf9fc08a1a94eaabaa93b" title=" " alt="" coords="978,3006,1218,3033"/>
-<area shape="rect" id="node45" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a57ae42bf2cdbf9fc08a1a94eaabaa93b" title=" " alt="" coords="1010,3081,1186,3123"/>
+<area shape="rect" id="node27" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#ae141cc89854309f3f2298a616b09b12b" title=" " alt="" coords="1003,2253,1193,2295"/>
+<area shape="rect" id="node28" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a57ae42bf2cdbf9fc08a1a94eaabaa93b" title=" " alt="" coords="627,2219,867,2246"/>
+<area shape="rect" id="node29" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a590836cea8227c1cb3994dabf184ecab" title="Sets the installation status of a game." alt="" coords="993,2343,1203,2384"/>
+<area shape="rect" id="node30" href="$classrare_1_1models_1_1game_1_1_rare_game.html#afb0966909d9062fa9eb0e80827694818" title=" " alt="" coords="291,784,502,825"/>
+<area shape="rect" id="node31" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a482bcbd6705c56fd50bd1e7461f245e2" title=" " alt="" coords="993,1043,1203,1084"/>
+<area shape="rect" id="node32" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a9b76c292a174e6a6013ae0b0d6f2b4b5" title=" " alt="" coords="642,992,853,1033"/>
+<area shape="rect" id="node34" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_launch_settings.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="951,2432,1245,2473"/>
+<area shape="rect" id="node35" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="965,2521,1231,2563"/>
+<area shape="rect" id="node36" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="955,2611,1241,2652"/>
+<area shape="rect" id="node37" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="953,2700,1243,2741"/>
+<area shape="rect" id="node38" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#af997cabd23f14f71f7f87c986ccd582c" title=" " alt="" coords="955,2789,1241,2831"/>
+<area shape="rect" id="node39" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a7bc00fcfc3d4a34476d191b522f5bcec" title=" " alt="" coords="987,709,1209,751"/>
+<area shape="rect" id="node43" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#a910d37cae5a6d27a585d02b2727dbb77" title=" " alt="" coords="955,2879,1241,2920"/>
+<area shape="rect" id="node44" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings.html#add861606505248db8d6b551785de79d2" title=" " alt="" coords="960,2968,1236,3009"/>
+<area shape="rect" id="node45" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a57ae42bf2cdbf9fc08a1a94eaabaa93b" title=" " alt="" coords="1010,3057,1186,3099"/>
 <area shape="rect" id="node46" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a538e01960833eed6bbda62ccc518f22f" title="Use only in a thread." alt="" coords="653,632,842,673"/>
-<area shape="rect" id="node47" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a451073bc1086cda82a8ac0ffa1c21425" title=" " alt="" coords="602,3181,893,3223"/>
-<area shape="rect" id="node48" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings.html#ae75d56f8f0a70f9202c988c28d486311" title=" " alt="" coords="953,3223,1243,3264"/>
+<area shape="rect" id="node47" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a451073bc1086cda82a8ac0ffa1c21425" title=" " alt="" coords="602,3157,893,3199"/>
+<area shape="rect" id="node48" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings.html#ae75d56f8f0a70f9202c988c28d486311" title=" " alt="" coords="953,3199,1243,3240"/>
 <area shape="rect" id="node49" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings.html#ada4904cab960c53f234fc113a7fcf349" title=" " alt="" coords="947,491,1249,532"/>
 <area shape="rect" id="node11" href="$classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html#a563276b55376fdd9f495c321c5408906" title=" " alt="" coords="5,951,197,992"/>
 <area shape="rect" id="node15" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#aa3fe4f510c683950f9a38eb445106504" title=" " alt="" coords="644,1291,851,1332"/>
 <area shape="rect" id="node24" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="657,1933,837,1975"/>
-<area shape="rect" id="node31" href="$classrare_1_1models_1_1game_1_1_rare_game.html#aaea286e285e22850eef8300f4b7cd3ef" title=" " alt="" coords="642,1043,853,1084"/>
-<area shape="rect" id="node39" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a0a82a2571a71e89add24aada56de6e71" title=" " alt="" coords="618,749,877,775"/>
-<area shape="rect" id="node40" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1a4bfcf7c05fd421c0ca97ef40937cf8" title="Sets the verification status of a game." alt="" coords="634,800,861,841"/>
-<area shape="rect" id="node41" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a539fe458d8793eac2e6173614cb92cf4" title=" " alt="" coords="621,698,873,725"/>
+<area shape="rect" id="node33" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a44ad13c0a844d30263bbf7ca3ce625ea" title=" " alt="" coords="283,992,511,1033"/>
+<area shape="rect" id="node40" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a0a82a2571a71e89add24aada56de6e71" title=" " alt="" coords="618,749,877,775"/>
+<area shape="rect" id="node41" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1a4bfcf7c05fd421c0ca97ef40937cf8" title="Sets the verification status of a game." alt="" coords="634,800,861,841"/>
+<area shape="rect" id="node42" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a539fe458d8793eac2e6173614cb92cf4" title=" " alt="" coords="621,698,873,725"/>
 <area shape="rect" id="node50" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html#afb98620e5c3e93764e3a474baf06aa6a" title=" " alt="" coords="606,491,889,532"/>
 </map>

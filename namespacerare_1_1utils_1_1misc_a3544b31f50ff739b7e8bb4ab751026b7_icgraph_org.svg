@@ -43,10 +43,10 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#af064d32dee1937fa4aaef3e1b7472772" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#a32b74bd5634c682405bf46dedf7cd8dd" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="623.5,-426.5 623.5,-456.5 815.5,-456.5 815.5,-426.5 623.5,-426.5"/>
 <text text-anchor="start" x="631.5" y="-444.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.legendary.</text>
-<text text-anchor="middle" x="719.5" y="-433.5" font-family="Helvetica,sans-Serif" font-size="10.00">LegendarySettings.cleanup</text>
+<text text-anchor="middle" x="719.5" y="-433.5" font-family="Helvetica,sans-Serif" font-size="10.00">LegendarySettings.clean_metadata</text>
 </a>
 </g>
 </g>

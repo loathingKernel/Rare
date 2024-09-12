@@ -1,6 +1,7 @@
 <map id="init_ui" name="init_ui">
-<area shape="rect" id="node1" title=" " alt="" coords="17,310,73,337"/>
+<area shape="rect" id="node1" title=" " alt="" coords="17,355,73,382"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image_1_1_loading_image_widget.html#a5e746b7db8fca760d821d8bdd801fc52" title=" " alt="" coords="121,303,388,344"/>
+<area shape="rect" id="node26" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="132,392,377,433"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image_1_1_loading_image_widget.html#a094873d2deaeb3a4e4bfaf2483fd24af" title=" " alt="" coords="438,75,705,116"/>
 <area shape="rect" id="node4" href="$classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#ae053da50cc4acff1a1ccbe25da97987e" title=" " alt="" coords="460,164,683,205"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1download_1_1_download_widget.html#afe7221063d2a4d7b1e1f42fb85f5d06f" title=" " alt="" coords="436,253,708,295"/>

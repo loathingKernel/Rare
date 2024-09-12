@@ -10,6 +10,7 @@ var namespacerare_1_1widgets =
     [ "library_layout", "namespacerare_1_1widgets_1_1library__layout.html", "namespacerare_1_1widgets_1_1library__layout" ],
     [ "loading_widget", "namespacerare_1_1widgets_1_1loading__widget.html", "namespacerare_1_1widgets_1_1loading__widget" ],
     [ "rare_app", "namespacerare_1_1widgets_1_1rare__app.html", "namespacerare_1_1widgets_1_1rare__app" ],
+    [ "rare_style", "namespacerare_1_1widgets_1_1rare__style.html", "namespacerare_1_1widgets_1_1rare__style" ],
     [ "selective_widget", "namespacerare_1_1widgets_1_1selective__widget.html", "namespacerare_1_1widgets_1_1selective__widget" ],
     [ "side_tab", "namespacerare_1_1widgets_1_1side__tab.html", "namespacerare_1_1widgets_1_1side__tab" ],
     [ "sliding_stack", "namespacerare_1_1widgets_1_1sliding__stack.html", "namespacerare_1_1widgets_1_1sliding__stack" ]

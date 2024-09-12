@@ -489,10 +489,10 @@ var sectionId = 'dynsection-23';
 <!-- Node14 -->
 <g id="node14" class="node">
 <title>Node14</title>
-<g id="a_node14"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_results_item_widget.html#aa6e4a481f332ad11a870b247a793e7d1" target="_top" xlink:title=" ">
+<g id="a_node14"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_search_item_widget.html#aa6e4a481f332ad11a870b247a793e7d1" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="244,-341 244,-371 442,-371 442,-341 244,-341"/>
 <text text-anchor="start" x="252" y="-359" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.widgets.items.</text>
-<text text-anchor="middle" x="343" y="-348" font-family="Helvetica,sans-Serif" font-size="10.00">ResultsItemWidget.__init__</text>
+<text text-anchor="middle" x="343" y="-348" font-family="Helvetica,sans-Serif" font-size="10.00">SearchItemWidget.__init__</text>
 </a>
 </g>
 </g>

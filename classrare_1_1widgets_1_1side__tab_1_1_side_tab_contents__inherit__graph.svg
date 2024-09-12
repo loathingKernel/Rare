@@ -112,12 +112,12 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="148.5" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
 <polyline fill="none" stroke="black" points="140.5,-196 285.5,-196 "/>
 <text text-anchor="start" x="148.5" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="148.5" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ edit_save_path()</text>
-<text text-anchor="start" x="148.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ save_save_path()</text>
-<text text-anchor="start" x="148.5" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ upload()</text>
-<text text-anchor="start" x="148.5" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">+ download()</text>
-<text text-anchor="start" x="148.5" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">+ compute_save_path()</text>
-<text text-anchor="start" x="148.5" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
+<text text-anchor="start" x="148.5" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ save_save_path()</text>
+<text text-anchor="start" x="148.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ upload()</text>
+<text text-anchor="start" x="148.5" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ download()</text>
+<text text-anchor="start" x="148.5" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">+ compute_save_path()</text>
+<text text-anchor="start" x="148.5" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
+<text text-anchor="start" x="148.5" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">+ edit_save_path()</text>
 </a>
 </g>
 </g>
@@ -365,7 +365,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="1398" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ id_str</text>
 <text text-anchor="start" x="1398" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ slug</text>
 <text text-anchor="start" x="1398" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ catalog_offer</text>
-<text text-anchor="start" x="1398" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ pyqtSignal</text>
+<text text-anchor="start" x="1398" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Signal</text>
 <polyline fill="none" stroke="black" points="1390,-190.5 1522,-190.5 "/>
 <text text-anchor="start" x="1398" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
 <text text-anchor="start" x="1398" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ handle_wishlist_update()</text>

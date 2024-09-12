@@ -49,6 +49,7 @@ var classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_
     [ "uninstall_button", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_ui___game_details.html#aefeca8027803f5f3fa15faa90beac741", null ],
     [ "uninstalled_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_ui___game_details.html#a3ea821659b8b70abf31112bebddc85f7", null ],
     [ "uninstalled_page", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_ui___game_details.html#a49d4b44f657d4b7b2e80455e48560964", null ],
+    [ "uninstalled_page_bot_vspacer", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_ui___game_details.html#a631b6673f7bea4af59c9f71f84549811", null ],
     [ "verify_button", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_ui___game_details.html#a3b220636e4bfadd84a098719a5e387ba", null ],
     [ "verify_button_page", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_ui___game_details.html#a462534e8ddc8d4d0a0daaaf2cd565a1f", null ],
     [ "verify_page_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_ui___game_details.html#ac8a125f548db00b84621741764e649a5", null ],

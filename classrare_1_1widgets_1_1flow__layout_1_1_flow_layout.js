@@ -5,7 +5,7 @@ var classrare_1_1widgets_1_1flow__layout_1_1_flow_layout =
     [ "addItem", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#ac013a9b39bc854e0b7fef623c7683b88", null ],
     [ "count", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#adaaa57688d92e19605bdc1a271c51e6e", null ],
     [ "doLayout", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#aea5fef774da86c1a120b393f7d8cdd6a", null ],
-    [ "expandingDirections", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a934b2bf53ab379a33a976569fcf6d410", null ],
+    [ "expandingDirections", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a9f7a4480006437d1899e0086e71ccc79", null ],
     [ "hasHeightForWidth", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a72c3563fa51a025ef82d48d381c46e6e", null ],
     [ "heightForWidth", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a2dc56ed9b2e524cfc31b3ca5abd00b56", null ],
     [ "horizontalSpacing", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a198240b6ed8eb4be3d26adb4ca03aa8d", null ],

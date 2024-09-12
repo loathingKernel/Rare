@@ -3,6 +3,7 @@ var classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync_
     [ "retranslateUi", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group.html#af3f254490749743392f40809d2fcf4cd", null ],
     [ "setupUi", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group.html#a53177ac57c56828233e6e451478683c3", null ],
     [ "action_button", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group.html#a7d26618b41e4f3984acba09b55b2dccf", null ],
+    [ "buttons_hspacer", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group.html#a6d1e5e3b2a4c301382c260c0e68c2c57", null ],
     [ "buttons_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group.html#ad30cf1c00816f4bacc46becfa1a121e4", null ],
     [ "buttons_widget", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group.html#a24ee0590d6d41f0fd84d22ea44338149", null ],
     [ "egl_sync_list_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group.html#ad92dca9e86f3941a6bc8bec9dd63803e", null ],
