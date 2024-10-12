@@ -1,8 +1,8 @@
 <map id="create_desktop_link" name="create_desktop_link">
-<area shape="rect" id="node1" title="Creates a desktop or start menu shortcut link." alt="" coords="888,119,1027,145"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1main.html#a532d4b899b39c9f08370e91c54b63e33" title=" " alt="" coords="649,29,756,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5" title=" " alt="" coords="565,104,840,160"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad688e83ab96ce32b1ed9e5ccc83d0ee8" title="Stops the active download, by optionally skipping the queue." alt="" coords="595,209,810,250"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a91ee81dee5df73fb4e3057d7c12624e0" title=" " alt="" coords="292,179,517,221"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a11794ca2c7c3add2ed90cd2edb79b927" title=" " alt="" coords="5,179,244,221"/>
+<area shape="rect" id="node1" title="Creates a desktop or start menu shortcut link." alt="" coords="880,112,1019,139"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1main.html#a532d4b899b39c9f08370e91c54b63e33" title=" " alt="" coords="645,29,752,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5" title=" " alt="" coords="565,105,832,146"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad688e83ab96ce32b1ed9e5ccc83d0ee8" title="Stops the active download, by optionally skipping the queue." alt="" coords="591,194,806,235"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a91ee81dee5df73fb4e3057d7c12624e0" title=" " alt="" coords="292,165,517,206"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a11794ca2c7c3add2ed90cd2edb79b927" title=" " alt="" coords="5,165,244,206"/>
 </map>

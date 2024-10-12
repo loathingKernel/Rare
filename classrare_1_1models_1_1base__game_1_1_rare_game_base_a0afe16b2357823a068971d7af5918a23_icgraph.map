@@ -18,7 +18,7 @@
 <area shape="rect" id="node19" href="$classrare_1_1models_1_1game_1_1_rare_game.html#aef20d094578870f90347cdd968d2991b" title=" " alt="" coords="983,1603,1213,1630"/>
 <area shape="rect" id="node20" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#ad04d8a4d39a398b72cf5fcbe5d78e1ee" title=" " alt="" coords="955,1679,1241,1720"/>
 <area shape="rect" id="node21" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1af54dec5ecebc74c9e5d6fdd9e32612" title=" " alt="" coords="986,1769,1210,1795"/>
-<area shape="rect" id="node22" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="949,1844,1247,1885"/>
+<area shape="rect" id="node22" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="952,1844,1244,1885"/>
 <area shape="rect" id="node23" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="981,1933,1215,1975"/>
 <area shape="rect" id="node25" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings.html#ad7bdcb885eeed89ae97f29ad9e3e049d" title=" " alt="" coords="960,2023,1236,2064"/>
 <area shape="rect" id="node26" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings.html#a8a8c4c6c52cda581aebb786464fd4c00" title=" " alt="" coords="960,2112,1236,2153"/>
@@ -28,7 +28,7 @@
 <area shape="rect" id="node30" href="$classrare_1_1models_1_1game_1_1_rare_game.html#afb0966909d9062fa9eb0e80827694818" title=" " alt="" coords="291,784,502,825"/>
 <area shape="rect" id="node31" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a482bcbd6705c56fd50bd1e7461f245e2" title=" " alt="" coords="993,1043,1203,1084"/>
 <area shape="rect" id="node32" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a9b76c292a174e6a6013ae0b0d6f2b4b5" title=" " alt="" coords="642,992,853,1033"/>
-<area shape="rect" id="node34" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_launch_settings.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="951,2417,1245,2459"/>
+<area shape="rect" id="node34" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_launch_settings.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="960,2417,1236,2459"/>
 <area shape="rect" id="node35" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="965,2507,1231,2548"/>
 <area shape="rect" id="node36" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="955,2596,1241,2637"/>
 <area shape="rect" id="node37" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="953,2685,1243,2727"/>
@@ -48,5 +48,5 @@
 <area shape="rect" id="node40" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a0a82a2571a71e89add24aada56de6e71" title=" " alt="" coords="618,749,877,775"/>
 <area shape="rect" id="node41" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1a4bfcf7c05fd421c0ca97ef40937cf8" title="Sets the verification status of a game." alt="" coords="634,800,861,841"/>
 <area shape="rect" id="node42" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a539fe458d8793eac2e6173614cb92cf4" title=" " alt="" coords="621,698,873,725"/>
-<area shape="rect" id="node50" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html#afb98620e5c3e93764e3a474baf06aa6a" title=" " alt="" coords="606,491,889,532"/>
+<area shape="rect" id="node50" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html#afb98620e5c3e93764e3a474baf06aa6a" title=" " alt="" coords="609,491,886,532"/>
 </map>

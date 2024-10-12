@@ -142,18 +142,18 @@ var sectionId = 'dynsection-4';
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html#ad23a87042fcacd32722e00f2898803ce" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="286.02,-134.5 286.02,-164.5 479.02,-164.5 479.02,-134.5 286.02,-134.5"/>
-<text text-anchor="start" x="294.02" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
-<text text-anchor="middle" x="382.52" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">_info.cloud_saves.CloudSaves.download</text>
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html#ad23a87042fcacd32722e00f2898803ce" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="285.52,-134.5 285.52,-164.5 479.52,-164.5 479.52,-134.5 285.52,-134.5"/>
+<text text-anchor="start" x="293.52" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.details.cloud</text>
+<text text-anchor="middle" x="382.52" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">_saves.CloudSaves.download</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge5" class="edge">
 <title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M226.1,-149.5C241.61,-149.5 258.6,-149.5 275.47,-149.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="275.95,-153 285.95,-149.5 275.95,-146 275.95,-153"/>
+<path fill="none" stroke="midnightblue" d="M226.1,-149.5C241.4,-149.5 258.14,-149.5 274.78,-149.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="275.12,-153 285.12,-149.5 275.12,-146 275.12,-153"/>
 </g>
 <!-- Node4&#45;&gt;Node4 -->
 <g id="edge6" class="edge">

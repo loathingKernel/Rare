@@ -27,7 +27,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-200.5 107,-200.5 107,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="53.5" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameInfoTabs</text>
 <polyline fill="none" stroke="black" points="0,-181.5 107,-181.5 "/>
@@ -59,7 +59,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_tabs.html" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1_integrations_tabs.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="125.5,-6 125.5,-195 235.5,-195 235.5,-6 125.5,-6"/>
 <text text-anchor="middle" x="180.5" y="-183" font-family="Helvetica,sans-Serif" font-size="10.00">IntegrationsTabs</text>
 <polyline fill="none" stroke="black" points="125.5,-176 235.5,-176 "/>

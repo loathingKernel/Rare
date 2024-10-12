@@ -1,8 +1,8 @@
 <map id="steam_shortcut_exists" name="steam_shortcut_exists">
-<area shape="rect" id="node1" title=" " alt="" coords="909,149,1063,176"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a357bd54770bbc308e805d3cc81bdf8fd" title=" " alt="" coords="419,124,559,151"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5" title=" " alt="" coords="5,135,280,191"/>
-<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#ad6816d9b344d6df0048278ae71945d05" title=" " alt="" coords="699,61,861,88"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a34f4910ec773ae8e2d8a116f14104a72" title=" " alt="" coords="328,250,651,291"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a5c50fef72cf309de8d38178d9008e107" title=" " alt="" coords="89,29,197,56"/>
+<area shape="rect" id="node1" title=" " alt="" coords="845,145,999,172"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a357bd54770bbc308e805d3cc81bdf8fd" title=" " alt="" coords="383,120,523,147"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5" title=" " alt="" coords="5,138,272,179"/>
+<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#ad6816d9b344d6df0048278ae71945d05" title=" " alt="" coords="635,57,797,84"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#a34f4910ec773ae8e2d8a116f14104a72" title=" " alt="" coords="320,246,587,287"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a5c50fef72cf309de8d38178d9008e107" title=" " alt="" coords="85,29,193,56"/>
 </map>

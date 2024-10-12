@@ -19,5 +19,6 @@ var classrare_1_1commands_1_1launcher_1_1_rare_launcher =
     [ "rgame", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a29f3c8f8d4ae84548a9e5b962851f8a0", null ],
     [ "socket", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a84edc84c8145e7997b70f9919ce44d68", null ],
     [ "start_time", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a2530c3908f0179486a4c2255f792e27a", null ],
-    [ "success", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ac6ee8d13bf1e292b3c1660a66e846fa7", null ]
+    [ "success", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ac6ee8d13bf1e292b3c1660a66e846fa7", null ],
+    [ "sync_dialog", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a07d5d1f2aaa2bc6a0b4396bf55f5e1cf", null ]
 ];

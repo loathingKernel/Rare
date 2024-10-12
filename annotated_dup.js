@@ -82,95 +82,95 @@ var annotated_dup =
             ] ],
             [ "DownloadsTab", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab" ]
           ] ],
-          [ "games", "namespacerare_1_1components_1_1tabs_1_1games.html", [
-            [ "game_info", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info.html", [
-              [ "cloud_saves", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves.html", [
-                [ "CloudSaves", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__saves_1_1_cloud_saves" ]
+          [ "library", "namespacerare_1_1components_1_1tabs_1_1library.html", [
+            [ "details", "namespacerare_1_1components_1_1tabs_1_1library_1_1details.html", [
+              [ "cloud_saves", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves.html", [
+                [ "CloudSaves", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves" ]
               ] ],
-              [ "details", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1details.html", [
-                [ "GameDetails", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_game_details.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_game_details" ]
+              [ "details", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1details.html", [
+                [ "GameDetails", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details" ]
               ] ],
-              [ "dlcs", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs.html", [
-                [ "AvailableGameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_available_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_available_game_dlc_widget" ],
-                [ "GameDlcs", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_game_dlcs.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_game_dlcs" ],
-                [ "GameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_game_dlc_widget" ],
-                [ "InstalledGameDlcWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_installed_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_installed_game_dlc_widget" ]
+              [ "dlcs", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs.html", [
+                [ "AvailableGameDlcWidget", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_available_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_available_game_dlc_widget" ],
+                [ "GameDlcs", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlcs.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlcs" ],
+                [ "GameDlcWidget", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlc_widget" ],
+                [ "InstalledGameDlcWidget", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_installed_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_installed_game_dlc_widget" ]
               ] ],
-              [ "settings", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings.html", [
-                [ "GameDxvkSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_dxvk_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_dxvk_settings" ],
-                [ "GameEnvVars", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_env_vars.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_env_vars" ],
-                [ "GameLaunchSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_launch_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_launch_settings" ],
-                [ "GameMangoHudSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_mango_hud_settings" ],
-                [ "GameProtonSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_proton_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_proton_settings" ],
-                [ "GameSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_settings" ],
-                [ "GameWineSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_wine_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_wine_settings" ],
-                [ "GameWrapperSettings", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_wrapper_settings.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_wrapper_settings" ]
+              [ "settings", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1settings.html", [
+                [ "GameDxvkSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_dxvk_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_dxvk_settings" ],
+                [ "GameEnvVars", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_env_vars.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_env_vars" ],
+                [ "GameLaunchSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_launch_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_launch_settings" ],
+                [ "GameMangoHudSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_mango_hud_settings" ],
+                [ "GameProtonSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_proton_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_proton_settings" ],
+                [ "GameSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_settings" ],
+                [ "GameWineSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_wine_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_wine_settings" ],
+                [ "GameWrapperSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_wrapper_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_wrapper_settings" ]
               ] ],
-              [ "GameInfoTabs", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_info_tabs" ],
-              [ "GameMetadataView", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_metadata_view.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1_game_metadata_view" ]
+              [ "GameInfoTabs", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs" ],
+              [ "GameMetadataView", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_metadata_view.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_metadata_view" ]
             ] ],
-            [ "game_widgets", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets.html", [
-              [ "game_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget.html", [
-                [ "GameWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget" ]
-              ] ],
-              [ "icon_game_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget.html", [
-                [ "IconGameWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget_1_1_icon_game_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget_1_1_icon_game_widget" ]
-              ] ],
-              [ "icon_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__widget.html", [
-                [ "IconWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__widget_1_1_icon_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__widget_1_1_icon_widget" ]
-              ] ],
-              [ "library_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget.html", [
-                [ "LibraryWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget" ],
-                [ "ProgressLabel", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_progress_label.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_progress_label" ]
-              ] ],
-              [ "list_game_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget.html", [
-                [ "ListGameWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget" ]
-              ] ],
-              [ "list_widget", "namespacerare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget.html", [
-                [ "ListWidget", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__widget_1_1_list_widget" ]
-              ] ],
-              [ "IconViewContainer", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_icon_view_container.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_icon_view_container" ],
-              [ "LibraryWidgetController", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller" ],
-              [ "ListViewContainer", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_list_view_container.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_list_view_container" ],
-              [ "ViewContainer", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_view_container.html", "classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_view_container" ]
+            [ "head_bar", "namespacerare_1_1components_1_1tabs_1_1library_1_1head__bar.html", [
+              [ "LibraryHeadBar", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar.html", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar" ],
+              [ "SelectViewWidget", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_select_view_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_select_view_widget" ]
             ] ],
-            [ "head_bar", "namespacerare_1_1components_1_1tabs_1_1games_1_1head__bar.html", [
-              [ "LibraryHeadBar", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_library_head_bar.html", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_library_head_bar" ],
-              [ "SelectViewWidget", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_select_view_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1head__bar_1_1_select_view_widget" ]
+            [ "integrations", "namespacerare_1_1components_1_1tabs_1_1library_1_1integrations.html", [
+              [ "egl_sync_group", "namespacerare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group.html", [
+                [ "EGLSyncExportGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_group.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_group" ],
+                [ "EGLSyncExportItem", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_item.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_item" ],
+                [ "EGLSyncGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_group.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_group" ],
+                [ "EGLSyncImportGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_group.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_group" ],
+                [ "EGLSyncImportItem", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_item.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_item" ],
+                [ "EGLSyncListGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group" ],
+                [ "EGLSyncListItem", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item" ],
+                [ "EGLSyncWorker", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker" ]
+              ] ],
+              [ "eos_group", "namespacerare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group.html", [
+                [ "CheckForUpdateWorker", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_check_for_update_worker.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_check_for_update_worker" ],
+                [ "EosGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group" ],
+                [ "EosPrefixWidget", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_prefix_widget" ]
+              ] ],
+              [ "import_group", "namespacerare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group.html", [
+                [ "AppNameCompleter", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_app_name_completer.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_app_name_completer" ],
+                [ "ImportedGame", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_imported_game.html", null ],
+                [ "ImportGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group" ],
+                [ "ImportResult", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_result.html", null ],
+                [ "ImportWorker", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_worker.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_worker" ]
+              ] ],
+              [ "ubisoft_group", "namespacerare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group.html", [
+                [ "UbiConnectWorker", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker" ],
+                [ "UbiGetInfoWorker", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker" ],
+                [ "UbiLinkWidget", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget" ],
+                [ "UbisoftGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group" ]
+              ] ],
+              [ "IntegrationsTabs", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1_integrations_tabs.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1_integrations_tabs" ],
+              [ "IntegrationsWidget", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1_integrations_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1_integrations_widget" ]
             ] ],
-            [ "integrations", "namespacerare_1_1components_1_1tabs_1_1games_1_1integrations.html", [
-              [ "egl_sync_group", "namespacerare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group.html", [
-                [ "EGLSyncExportGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_group.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_group" ],
-                [ "EGLSyncExportItem", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_item.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_item" ],
-                [ "EGLSyncGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_group.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_group" ],
-                [ "EGLSyncImportGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_group.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_group" ],
-                [ "EGLSyncImportItem", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_item.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_item" ],
-                [ "EGLSyncListGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group" ],
-                [ "EGLSyncListItem", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item" ],
-                [ "EGLSyncWorker", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker" ]
+            [ "widgets", "namespacerare_1_1components_1_1tabs_1_1library_1_1widgets.html", [
+              [ "game_widget", "namespacerare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget.html", [
+                [ "GameWidget", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget" ]
               ] ],
-              [ "eos_group", "namespacerare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group.html", [
-                [ "CheckForUpdateWorker", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_check_for_update_worker.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_check_for_update_worker" ],
-                [ "EosGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_group.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_group" ],
-                [ "EosPrefixWidget", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_prefix_widget" ]
+              [ "icon_game_widget", "namespacerare_1_1components_1_1tabs_1_1library_1_1widgets_1_1icon__game__widget.html", [
+                [ "IconGameWidget", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1icon__game__widget_1_1_icon_game_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1icon__game__widget_1_1_icon_game_widget" ]
               ] ],
-              [ "import_group", "namespacerare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group.html", [
-                [ "AppNameCompleter", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_app_name_completer.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_app_name_completer" ],
-                [ "ImportedGame", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_imported_game.html", null ],
-                [ "ImportGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group" ],
-                [ "ImportResult", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_result.html", null ],
-                [ "ImportWorker", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_worker.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_worker" ]
+              [ "icon_widget", "namespacerare_1_1components_1_1tabs_1_1library_1_1widgets_1_1icon__widget.html", [
+                [ "IconWidget", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1icon__widget_1_1_icon_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1icon__widget_1_1_icon_widget" ]
               ] ],
-              [ "ubisoft_group", "namespacerare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group.html", [
-                [ "UbiConnectWorker", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker" ],
-                [ "UbiGetInfoWorker", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker" ],
-                [ "UbiLinkWidget", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget" ],
-                [ "UbisoftGroup", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group" ]
+              [ "library_widget", "namespacerare_1_1components_1_1tabs_1_1library_1_1widgets_1_1library__widget.html", [
+                [ "LibraryWidget", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1library__widget_1_1_library_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1library__widget_1_1_library_widget" ],
+                [ "ProgressLabel", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1library__widget_1_1_progress_label.html", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1library__widget_1_1_progress_label" ]
               ] ],
-              [ "IntegrationsTabs", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_tabs.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_tabs" ],
-              [ "IntegrationsWidget", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_widget.html", "classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1_integrations_widget" ]
+              [ "list_game_widget", "namespacerare_1_1components_1_1tabs_1_1library_1_1widgets_1_1list__game__widget.html", [
+                [ "ListGameWidget", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1list__game__widget_1_1_list_game_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1list__game__widget_1_1_list_game_widget" ]
+              ] ],
+              [ "list_widget", "namespacerare_1_1components_1_1tabs_1_1library_1_1widgets_1_1list__widget.html", [
+                [ "ListWidget", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1list__widget_1_1_list_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1list__widget_1_1_list_widget" ]
+              ] ],
+              [ "IconViewContainer", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_icon_view_container.html", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_icon_view_container" ],
+              [ "LibraryWidgetController", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_library_widget_controller.html", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_library_widget_controller" ],
+              [ "ListViewContainer", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_list_view_container.html", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_list_view_container" ],
+              [ "ViewContainer", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_view_container.html", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_view_container" ]
             ] ],
-            [ "GamesLibrary", "classrare_1_1components_1_1tabs_1_1games_1_1_games_library.html", "classrare_1_1components_1_1tabs_1_1games_1_1_games_library" ]
+            [ "GamesLibrary", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library" ]
           ] ],
           [ "settings", "namespacerare_1_1components_1_1tabs_1_1settings.html", [
             [ "about", "namespacerare_1_1components_1_1tabs_1_1settings_1_1about.html", [
@@ -611,6 +611,7 @@ var annotated_dup =
           [ "steam", "namespacerare_1_1utils_1_1compat_1_1steam.html", [
             [ "CompatibilityTool", "classrare_1_1utils_1_1compat_1_1steam_1_1_compatibility_tool.html", "classrare_1_1utils_1_1compat_1_1steam_1_1_compatibility_tool" ],
             [ "ProtonTool", "classrare_1_1utils_1_1compat_1_1steam_1_1_proton_tool.html", "classrare_1_1utils_1_1compat_1_1steam_1_1_proton_tool" ],
+            [ "SteamAntiCheat", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_anti_cheat.html", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_anti_cheat" ],
             [ "SteamBase", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_base.html", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_base" ],
             [ "SteamRuntime", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_runtime.html", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_runtime" ],
             [ "SteamVerb", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_verb.html", null ]

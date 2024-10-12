@@ -88,7 +88,7 @@ $(document).ready(function(){initNavTree('config__helper_8py_source.html',''); i
 </div><!--header-->
 <div class="contents">
 <a href="config__helper_8py.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1config__helper.html">    1</a></span><span class="keyword">import</span> os</div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">from</span> typing <span class="keyword">import</span> Callable, Optional, Set, Any, List, Tuple</div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">from</span> typing <span class="keyword">import</span> Callable, Optional, Set, Any, Tuple</div>
 <div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span> </div>
 <div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">from</span> legendary.core <span class="keyword">import</span> LegendaryCore</div>
 <div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">from</span> legendary.models.config <span class="keyword">import</span> LGDConf</div>
@@ -254,11 +254,11 @@ $(document).ready(function(){initNavTree('config__helper_8py_source.html',''); i
 <div class="line"><a id="l00165" name="l00165"></a><span class="lineno">  165</span>    <span class="keywordflow">if</span> _wine_prefix <span class="keywordflow">and</span> <a class="code hl_function" href="namespacerare_1_1utils_1_1config__helper.html#ab27d1e4173ece43226f5d20853c1a2b3">prefix_exists</a>(_wine_prefix):</div>
 <div class="line"><a id="l00166" name="l00166"></a><span class="lineno">  166</span>        <span class="keywordflow">return</span> _wine_prefix</div>
 <div class="line"><a id="l00167" name="l00167"></a><span class="lineno">  167</span> </div>
-<div class="line"><a id="l00168" name="l00168"></a><span class="lineno">  168</span>    _compat_path = _config.get(f<span class="stringliteral">&quot;default.env&quot;</span>, <span class="stringliteral">&quot;STEAM_COMPAT_DATA_PATH&quot;</span>, fallback=<span class="keywordtype">None</span>)</div>
+<div class="line"><a id="l00168" name="l00168"></a><span class="lineno">  168</span>    _compat_path = _config.get(<span class="stringliteral">&quot;default.env&quot;</span>, <span class="stringliteral">&quot;STEAM_COMPAT_DATA_PATH&quot;</span>, fallback=<span class="keywordtype">None</span>)</div>
 <div class="line"><a id="l00169" name="l00169"></a><span class="lineno">  169</span>    <span class="keywordflow">if</span> _compat_path <span class="keywordflow">and</span> <a class="code hl_function" href="namespacerare_1_1utils_1_1config__helper.html#ab27d1e4173ece43226f5d20853c1a2b3">prefix_exists</a>(_compat_prefix := os.path.join(_compat_path, <span class="stringliteral">&quot;pfx&quot;</span>)):</div>
 <div class="line"><a id="l00170" name="l00170"></a><span class="lineno">  170</span>        <span class="keywordflow">return</span> _compat_prefix</div>
 <div class="line"><a id="l00171" name="l00171"></a><span class="lineno">  171</span> </div>
-<div class="line"><a id="l00172" name="l00172"></a><span class="lineno">  172</span>    _wine_prefix = _config.get(f<span class="stringliteral">&quot;default.env&quot;</span>, <span class="stringliteral">&quot;WINEPREFIX&quot;</span>, fallback=<span class="keywordtype">None</span>)</div>
+<div class="line"><a id="l00172" name="l00172"></a><span class="lineno">  172</span>    _wine_prefix = _config.get(<span class="stringliteral">&quot;default.env&quot;</span>, <span class="stringliteral">&quot;WINEPREFIX&quot;</span>, fallback=<span class="keywordtype">None</span>)</div>
 <div class="line"><a id="l00173" name="l00173"></a><span class="lineno">  173</span>    _wine_prefix = _config.get(<span class="stringliteral">&quot;default&quot;</span>, <span class="stringliteral">&quot;wine_prefix&quot;</span>, fallback=_wine_prefix)</div>
 <div class="line"><a id="l00174" name="l00174"></a><span class="lineno">  174</span>    <span class="keywordflow">if</span> _wine_prefix <span class="keywordflow">and</span> <a class="code hl_function" href="namespacerare_1_1utils_1_1config__helper.html#ab27d1e4173ece43226f5d20853c1a2b3">prefix_exists</a>(_wine_prefix):</div>
 <div class="line"><a id="l00175" name="l00175"></a><span class="lineno">  175</span>        <span class="keywordflow">return</span> _wine_prefix</div>

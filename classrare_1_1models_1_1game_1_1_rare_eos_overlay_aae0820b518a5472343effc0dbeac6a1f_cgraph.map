@@ -1,13 +1,13 @@
 <map id="install" name="install">
-<area shape="rect" id="node1" title=" " alt="" coords="18,394,74,421"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="122,29,401,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="175,119,348,160"/>
-<area shape="rect" id="node4" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a5c91214c9c0ce70e64033ac6a3494d76" title=" " alt="" coords="167,208,356,249"/>
-<area shape="rect" id="node5" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a823ab7286cb07208f430cc54252c82bb" title=" " alt="" coords="167,297,356,339"/>
-<area shape="rect" id="node6" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a823ab7286cb07208f430cc54252c82bb" title=" " alt="" coords="167,387,356,428"/>
-<area shape="rect" id="node8" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a823ab7286cb07208f430cc54252c82bb" title="Property to report if a game is installed." alt="" coords="160,476,363,517"/>
-<area shape="rect" id="node9" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a823ab7286cb07208f430cc54252c82bb" title=" " alt="" coords="218,566,305,593"/>
-<area shape="rect" id="node10" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" title=" " alt="" coords="171,641,351,683"/>
-<area shape="rect" id="node11" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="175,731,348,772"/>
-<area shape="rect" id="node7" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a278563422a00c7eb39dfc65d0b71f51a" title="Property to report if a Game is an Origin game." alt="" coords="449,432,638,473"/>
+<area shape="rect" id="node1" title=" " alt="" coords="17,394,73,421"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="121,29,395,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="171,119,345,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a5c91214c9c0ce70e64033ac6a3494d76" title=" " alt="" coords="163,208,353,249"/>
+<area shape="rect" id="node5" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a823ab7286cb07208f430cc54252c82bb" title=" " alt="" coords="163,297,353,339"/>
+<area shape="rect" id="node6" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a823ab7286cb07208f430cc54252c82bb" title=" " alt="" coords="163,387,353,428"/>
+<area shape="rect" id="node8" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a823ab7286cb07208f430cc54252c82bb" title="Property to report if a game is installed." alt="" coords="157,476,359,517"/>
+<area shape="rect" id="node9" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a823ab7286cb07208f430cc54252c82bb" title=" " alt="" coords="215,566,301,593"/>
+<area shape="rect" id="node10" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" title=" " alt="" coords="168,641,348,683"/>
+<area shape="rect" id="node11" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="171,731,345,772"/>
+<area shape="rect" id="node7" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a278563422a00c7eb39dfc65d0b71f51a" title="Property to report if a Game is an Origin game." alt="" coords="443,432,632,473"/>
 </map>

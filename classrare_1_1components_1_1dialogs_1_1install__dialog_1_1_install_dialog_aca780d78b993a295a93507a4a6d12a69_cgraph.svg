@@ -177,18 +177,18 @@ var sectionId = 'dynsection-16';
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="515.5,-786.5 515.5,-816.5 699.5,-816.5 699.5,-786.5 515.5,-786.5"/>
-<text text-anchor="start" x="523.5" y="-804.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
-<text text-anchor="middle" x="607.5" y="-793.5" font-family="Helvetica,sans-Serif" font-size="10.00">_widgets.game_widget.GameWidget.ui</text>
+<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="507.5,-786.5 507.5,-816.5 707.5,-816.5 707.5,-786.5 507.5,-786.5"/>
+<text text-anchor="start" x="515.5" y="-804.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.widgets.game</text>
+<text text-anchor="middle" x="607.5" y="-793.5" font-family="Helvetica,sans-Serif" font-size="10.00">_widget.GameWidget.ui</text>
 </a>
 </g>
 </g>
 <!-- Node4&#45;&gt;Node6 -->
 <g id="edge13" class="edge">
 <title>Node4&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M229.41,-765.12C249.15,-771.16 275.87,-778.54 300,-782.5 367.88,-793.65 445.2,-798.39 505.2,-800.34"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="505.33,-803.85 515.44,-800.66 505.55,-796.85 505.33,-803.85"/>
+<path fill="none" stroke="midnightblue" d="M229.41,-765.12C249.15,-771.16 275.87,-778.54 300,-782.5 364.9,-793.16 438.43,-797.96 497.19,-800.07"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="497.13,-803.57 507.24,-800.41 497.36,-796.57 497.13,-803.57"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">

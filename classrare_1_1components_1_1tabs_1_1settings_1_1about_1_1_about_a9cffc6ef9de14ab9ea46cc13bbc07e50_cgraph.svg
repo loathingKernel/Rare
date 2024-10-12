@@ -27,18 +27,18 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="185.5,-57 185.5,-87 369.5,-87 369.5,-57 185.5,-57"/>
-<text text-anchor="start" x="193.5" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
-<text text-anchor="middle" x="277.5" y="-64" font-family="Helvetica,sans-Serif" font-size="10.00">_widgets.game_widget.GameWidget.ui</text>
+<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="177.5,-57 177.5,-87 377.5,-87 377.5,-57 177.5,-57"/>
+<text text-anchor="start" x="185.5" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.widgets.game</text>
+<text text-anchor="middle" x="277.5" y="-64" font-family="Helvetica,sans-Serif" font-size="10.00">_widget.GameWidget.ui</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M128.17,-50.26C142.99,-52.43 159.15,-54.8 175.17,-57.15"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="174.71,-60.62 185.11,-58.6 175.72,-53.69 174.71,-60.62"/>
+<path fill="none" stroke="midnightblue" d="M128.17,-50.26C140.49,-52.06 153.73,-54.01 167.06,-55.96"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="166.84,-59.46 177.24,-57.45 167.86,-52.54 166.84,-59.46"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">

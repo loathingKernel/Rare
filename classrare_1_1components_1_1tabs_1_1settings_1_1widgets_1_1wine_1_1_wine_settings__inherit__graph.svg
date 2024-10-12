@@ -35,7 +35,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_wine_settings.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_wine_settings.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-57.5 101,-57.5 101,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="50.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameWineSettings</text>
 <polyline fill="none" stroke="black" points="0,-38.5 101,-38.5 "/>

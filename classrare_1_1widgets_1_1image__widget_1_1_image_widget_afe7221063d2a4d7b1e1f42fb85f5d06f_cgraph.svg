@@ -43,11 +43,11 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html#aa136880b14cd8741ebe60fbcf4d29a2e" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="111.36,-248 111.36,-289 290.36,-289 290.36,-248 111.36,-248"/>
-<text text-anchor="start" x="119.36" y="-277" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
-<text text-anchor="start" x="119.36" y="-266" font-family="Helvetica,sans-Serif" font-size="10.00">_widgets.list_game_widget.ListGame</text>
-<text text-anchor="middle" x="200.86" y="-255" font-family="Helvetica,sans-Serif" font-size="10.00">Widget.paint_image_cover</text>
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1list__game__widget_1_1_list_game_widget.html#aa136880b14cd8741ebe60fbcf4d29a2e" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="106.86,-248 106.86,-289 294.86,-289 294.86,-248 106.86,-248"/>
+<text text-anchor="start" x="114.86" y="-277" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.widgets.list</text>
+<text text-anchor="start" x="114.86" y="-266" font-family="Helvetica,sans-Serif" font-size="10.00">_game_widget.ListGameWidget.paint</text>
+<text text-anchor="middle" x="200.86" y="-255" font-family="Helvetica,sans-Serif" font-size="10.00">_image_cover</text>
 </a>
 </g>
 </g>

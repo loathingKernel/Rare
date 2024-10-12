@@ -62,7 +62,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1library__widget_1_1_library_widget.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="147.5,-551.5 147.5,-652.5 248.5,-652.5 248.5,-551.5 147.5,-551.5"/>
 <text text-anchor="middle" x="198" y="-640.5" font-family="Helvetica,sans-Serif" font-size="10.00">LibraryWidget</text>
 <polyline fill="none" stroke="black" points="147.5,-633.5 248.5,-633.5 "/>
@@ -126,7 +126,7 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="109,-182.5 109,-514.5 233,-514.5 233,-182.5 109,-182.5"/>
 <text text-anchor="middle" x="171" y="-502.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameWidget</text>
 <polyline fill="none" stroke="black" points="109,-495.5 233,-495.5 "/>
@@ -170,7 +170,7 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget_1_1_icon_game_widget.html" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1icon__game__widget_1_1_icon_game_widget.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-22.5 0,-123.5 96,-123.5 96,-22.5 0,-22.5"/>
 <text text-anchor="middle" x="48" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">IconGameWidget</text>
 <polyline fill="none" stroke="black" points="0,-104.5 96,-104.5 "/>
@@ -193,7 +193,7 @@
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html" target="_top" xlink:title=" ">
+<g id="a_node7"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1list__game__widget_1_1_list_game_widget.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="114.5,-0.5 114.5,-145.5 227.5,-145.5 227.5,-0.5 114.5,-0.5"/>
 <text text-anchor="middle" x="171" y="-133.5" font-family="Helvetica,sans-Serif" font-size="10.00">ListGameWidget</text>
 <polyline fill="none" stroke="black" points="114.5,-126.5 227.5,-126.5 "/>

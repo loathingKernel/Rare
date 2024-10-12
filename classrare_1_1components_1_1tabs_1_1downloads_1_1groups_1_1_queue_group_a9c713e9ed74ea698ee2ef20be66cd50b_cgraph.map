@@ -1,11 +1,11 @@
 <map id="pop_front" name="pop_front">
-<area shape="rect" id="node1" title=" " alt="" coords="8,234,84,261"/>
+<area shape="rect" id="node1" title=" " alt="" coords="8,219,84,246"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html#ab2e839f79f74112bc4f6c85e4159e217" title=" " alt="" coords="132,5,388,47"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#a40cbc229430213d2d834c3440098a875" title=" " alt="" coords="209,71,310,98"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html#a3e5644faa03dce0cb52a471bb244b83b" title=" " alt="" coords="148,122,371,178"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html#adaaa57688d92e19605bdc1a271c51e6e" title=" " alt="" coords="132,227,388,268"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#adaaa57688d92e19605bdc1a271c51e6e" title=" " alt="" coords="232,317,287,343"/>
-<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#adaaa57688d92e19605bdc1a271c51e6e" title=" " alt="" coords="178,392,341,433"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#ac6954ac4323f612d696e4ecb53448dea" title=" " alt="" coords="227,482,292,509"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#a9c79f5328b841c5ce6db9bddddf17ca7" title=" " alt="" coords="436,482,514,509"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_library_widget_controller.html#a3e5644faa03dce0cb52a471bb244b83b" title=" " alt="" coords="140,123,379,164"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html#adaaa57688d92e19605bdc1a271c51e6e" title=" " alt="" coords="132,212,388,253"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#adaaa57688d92e19605bdc1a271c51e6e" title=" " alt="" coords="232,302,287,329"/>
+<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#adaaa57688d92e19605bdc1a271c51e6e" title=" " alt="" coords="178,377,341,419"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#ac6954ac4323f612d696e4ecb53448dea" title=" " alt="" coords="227,467,292,494"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#a9c79f5328b841c5ce6db9bddddf17ca7" title=" " alt="" coords="436,467,514,494"/>
 </map>

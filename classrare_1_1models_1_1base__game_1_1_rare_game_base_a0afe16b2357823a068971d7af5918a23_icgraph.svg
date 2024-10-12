@@ -350,9 +350,9 @@ var sectionId = 'dynsection-4';
 <!-- Node25 -->
 <g id="node22" class="node">
 <title>Node25</title>
-<g id="a_node22"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_worker.html#a670fe67276cb94775a042958fe2c79d4" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="708,-1005.5 708,-1035.5 931,-1035.5 931,-1005.5 708,-1005.5"/>
-<text text-anchor="start" x="716" y="-1023.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.integrations.import</text>
+<g id="a_node22"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_worker.html#a670fe67276cb94775a042958fe2c79d4" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="710,-1005.5 710,-1035.5 929,-1035.5 929,-1005.5 710,-1005.5"/>
+<text text-anchor="start" x="718" y="-1023.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.integrations.import</text>
 <text text-anchor="middle" x="819.5" y="-1012.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.ImportWorker.run</text>
 </a>
 </g>
@@ -508,10 +508,10 @@ var sectionId = 'dynsection-4';
 <!-- Node37 -->
 <g id="node34" class="node">
 <title>Node37</title>
-<g id="a_node34"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1settings_1_1_game_launch_settings.html#a5b6a943cccc85daffddbc61bb1b9345d" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="709,-575.5 709,-605.5 930,-605.5 930,-575.5 709,-575.5"/>
-<text text-anchor="start" x="717" y="-593.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.game</text>
-<text text-anchor="middle" x="819.5" y="-582.5" font-family="Helvetica,sans-Serif" font-size="10.00">_info.settings.GameLaunchSettings.showEvent</text>
+<g id="a_node34"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_launch_settings.html#a5b6a943cccc85daffddbc61bb1b9345d" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="716,-575.5 716,-605.5 923,-605.5 923,-575.5 716,-575.5"/>
+<text text-anchor="start" x="724" y="-593.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.details.settings.</text>
+<text text-anchor="middle" x="819.5" y="-582.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameLaunchSettings.showEvent</text>
 </a>
 </g>
 </g>
@@ -1168,9 +1168,9 @@ var sectionId = 'dynsection-4';
 <!-- Node57 -->
 <g id="node50" class="node">
 <title>Node57</title>
-<g id="a_node50"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html#afb98620e5c3e93764e3a474baf06aa6a" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="450.5,-2020.5 450.5,-2050.5 662.5,-2050.5 662.5,-2020.5 450.5,-2020.5"/>
-<text text-anchor="start" x="458.5" y="-2038.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.games.integrations.eos</text>
+<g id="a_node50"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html#afb98620e5c3e93764e3a474baf06aa6a" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="452.5,-2020.5 452.5,-2050.5 660.5,-2050.5 660.5,-2020.5 452.5,-2020.5"/>
+<text text-anchor="start" x="460.5" y="-2038.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.integrations.eos</text>
 <text text-anchor="middle" x="556.5" y="-2027.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.EosPrefixWidget.action</text>
 </a>
 </g>
@@ -1178,7 +1178,7 @@ var sectionId = 'dynsection-4';
 <!-- Node56&#45;&gt;Node57 -->
 <g id="edge104" class="edge">
 <title>Node56&#45;&gt;Node57</title>
-<path fill="none" stroke="midnightblue" d="M695.79,-2035.5C684.73,-2035.5 673.59,-2035.5 662.7,-2035.5"/>
+<path fill="none" stroke="midnightblue" d="M695.66,-2035.5C683.94,-2035.5 672.15,-2035.5 660.65,-2035.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="695.92,-2039 705.92,-2035.5 695.92,-2032 695.92,-2039"/>
 </g>
 <!-- Node57&#45;&gt;Node57 -->

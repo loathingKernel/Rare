@@ -1,6 +1,6 @@
 <map id="remove_steam_shortcut" name="remove_steam_shortcut">
-<area shape="rect" id="node1" title=" " alt="" coords="516,109,679,136"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a357bd54770bbc308e805d3cc81bdf8fd" title=" " alt="" coords="328,109,468,136"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5" title=" " alt="" coords="5,29,280,85"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a5c50fef72cf309de8d38178d9008e107" title=" " alt="" coords="89,143,197,169"/>
+<area shape="rect" id="node1" title=" " alt="" coords="508,101,671,127"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a357bd54770bbc308e805d3cc81bdf8fd" title=" " alt="" coords="320,101,460,127"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5" title=" " alt="" coords="5,29,272,71"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a5c50fef72cf309de8d38178d9008e107" title=" " alt="" coords="85,130,193,157"/>
 </map>

@@ -1,10 +1,10 @@
 <map id="worker" name="worker">
-<area shape="rect" id="node1" title=" " alt="" coords="684,261,745,287"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#ab1f05ad7de57f4f9eeebb68fff4bd523" title=" " alt="" coords="337,29,635,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_group.html#a1ec89c41387bccb9b467b28aa0a358b8" title=" " alt="" coords="345,119,627,160"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#a50b0cbf2d5eb5899e97a94182a1b1e0e" title=" " alt="" coords="337,208,635,249"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_group.html#ae0eb67daec2b068f800e0270d984af63" title=" " alt="" coords="337,297,635,339"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html#a54141fcc5c074fd6f917191b04f0dc25" title=" " alt="" coords="336,387,636,428"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html#af997cabd23f14f71f7f87c986ccd582c" title=" " alt="" coords="336,476,636,517"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_eos_group.html#af997cabd23f14f71f7f87c986ccd582c" title=" " alt="" coords="5,119,288,160"/>
+<area shape="rect" id="node1" title=" " alt="" coords="673,261,735,287"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group.html#ab1f05ad7de57f4f9eeebb68fff4bd523" title=" " alt="" coords="332,29,624,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#a1ec89c41387bccb9b467b28aa0a358b8" title=" " alt="" coords="339,119,617,160"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group.html#a50b0cbf2d5eb5899e97a94182a1b1e0e" title=" " alt="" coords="332,208,624,249"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group.html#ae0eb67daec2b068f800e0270d984af63" title=" " alt="" coords="332,297,624,339"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html#a54141fcc5c074fd6f917191b04f0dc25" title=" " alt="" coords="331,387,625,428"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html#af997cabd23f14f71f7f87c986ccd582c" title=" " alt="" coords="331,476,625,517"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#af997cabd23f14f71f7f87c986ccd582c" title=" " alt="" coords="5,119,283,160"/>
 </map>

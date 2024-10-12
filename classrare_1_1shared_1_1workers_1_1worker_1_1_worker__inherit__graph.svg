@@ -75,7 +75,7 @@ var sectionId = 'dynsection-0';
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-171.5 0,-272.5 98,-272.5 98,-171.5 0,-171.5"/>
 <text text-anchor="middle" x="49" y="-260.5" font-family="Helvetica,sans-Serif" font-size="10.00">UbiConnectWorker</text>
 <polyline fill="none" stroke="black" points="0,-253.5 98,-253.5 "/>
@@ -98,7 +98,7 @@ var sectionId = 'dynsection-0';
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="116.5,-182.5 116.5,-261.5 211.5,-261.5 211.5,-182.5 116.5,-182.5"/>
 <text text-anchor="middle" x="164" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">UbiGetInfoWorker</text>
 <polyline fill="none" stroke="black" points="116.5,-242.5 211.5,-242.5 "/>

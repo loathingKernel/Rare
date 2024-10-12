@@ -1,5 +1,5 @@
 <map id="add_steam_shortcut" name="add_steam_shortcut">
-<area shape="rect" id="node1" title=" " alt="" coords="328,89,468,116"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5" title=" " alt="" coords="5,29,280,85"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a5c50fef72cf309de8d38178d9008e107" title=" " alt="" coords="89,133,197,160"/>
+<area shape="rect" id="node1" title=" " alt="" coords="320,78,460,105"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5" title=" " alt="" coords="5,29,272,71"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a5c50fef72cf309de8d38178d9008e107" title=" " alt="" coords="85,119,193,146"/>
 </map>

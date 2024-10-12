@@ -2,11 +2,11 @@
 <area shape="rect" id="node1" title=" " alt="" coords="5,924,76,951"/>
 <area shape="rect" id="node2" href="$classrare_1_1commands_1_1launcher_1_1_pre_launch_1_1_signals.html" title=" " alt="" coords="169,5,299,32"/>
 <area shape="rect" id="node3" href="$classrare_1_1commands_1_1launcher_1_1_sync_check_worker_1_1_signals.html" title=" " alt="" coords="147,56,321,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1_library_widget_controller.html" title=" " alt="" coords="156,107,312,133"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_check_for_update_worker_1_1_check_for_update_signals.html" title=" " alt="" coords="133,158,335,199"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_worker_1_1_signals.html" title=" " alt="" coords="161,224,307,251"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker_1_1_signals.html" title=" " alt="" coords="145,275,323,301"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker_1_1_signals.html" title=" " alt="" coords="148,325,320,352"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_check_for_update_wo034e1f37526255b38be1ba063c01008c.html" title=" " alt="" coords="133,107,335,149"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_worker_1_1_signals.html" title=" " alt="" coords="161,173,307,200"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker_1_1_signals.html" title=" " alt="" coords="145,224,323,251"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker_1_1_signals.html" title=" " alt="" coords="148,275,320,301"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_library_widget_controller.html" title=" " alt="" coords="156,325,312,352"/>
 <area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker_1_1_signals.html" title=" " alt="" coords="125,376,343,403"/>
 <area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1store_1_1constants_1_1_constants.html" title=" " alt="" coords="193,427,275,453"/>
 <area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html" title=" " alt="" coords="197,477,271,504"/>

@@ -1,7 +1,7 @@
 <map id="is_game_dir" name="is_game_dir">
-<area shape="rect" id="node1" title=" " alt="" coords="877,86,969,113"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_game_details.html#ab5496f80e54a69d968995df463181716" title=" " alt="" coords="587,29,829,71"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html#a1aff74b1226e0df9ac7a678f327f24c5" title=" " alt="" coords="609,119,807,175"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_game_details.html#ad98d231f7b0a60e8aa3b72120eebf843" title=" " alt="" coords="296,29,539,71"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_game_details.html#a0c1ec5a8b5b81f2e8b0483bfd9330a81" title=" " alt="" coords="5,29,248,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="953,86,1045,113"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#ab5496f80e54a69d968995df463181716" title=" " alt="" coords="637,29,905,71"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html#a1aff74b1226e0df9ac7a678f327f24c5" title=" " alt="" coords="673,119,870,175"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#ad98d231f7b0a60e8aa3b72120eebf843" title=" " alt="" coords="321,29,589,71"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a0c1ec5a8b5b81f2e8b0483bfd9330a81" title=" " alt="" coords="5,29,273,71"/>
 </map>

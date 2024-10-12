@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['ubiconnectworker_0',['UbiConnectWorker',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html',1,'rare::components::tabs::games::integrations::ubisoft_group']]],
-  ['ubigetinfoworker_1',['UbiGetInfoWorker',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html',1,'rare::components::tabs::games::integrations::ubisoft_group']]],
-  ['ubilinkwidget_2',['UbiLinkWidget',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html',1,'rare::components::tabs::games::integrations::ubisoft_group']]],
-  ['ubisoftgroup_3',['UbisoftGroup',['../classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html',1,'rare::components::tabs::games::integrations::ubisoft_group']]],
+  ['ubiconnectworker_0',['UbiConnectWorker',['../classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html',1,'rare::components::tabs::library::integrations::ubisoft_group']]],
+  ['ubigetinfoworker_1',['UbiGetInfoWorker',['../classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html',1,'rare::components::tabs::library::integrations::ubisoft_group']]],
+  ['ubilinkwidget_2',['UbiLinkWidget',['../classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html',1,'rare::components::tabs::library::integrations::ubisoft_group']]],
+  ['ubisoftgroup_3',['UbisoftGroup',['../classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html',1,'rare::components::tabs::library::integrations::ubisoft_group']]],
   ['ui_5fabout_4',['Ui_About',['../classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about_1_1_ui___about.html',1,'rare::ui::components::tabs::settings::about']]],
   ['ui_5fbrowserlogin_5',['Ui_BrowserLogin',['../classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_ui___browser_login.html',1,'rare::ui::components::dialogs::login::browser_login']]],
   ['ui_5fcloudsettingswidget_6',['Ui_CloudSettingsWidget',['../classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__settings__widget_1_1_ui___cloud_settings_widget.html',1,'rare::ui::components::tabs::games::game_info::cloud_settings_widget']]],

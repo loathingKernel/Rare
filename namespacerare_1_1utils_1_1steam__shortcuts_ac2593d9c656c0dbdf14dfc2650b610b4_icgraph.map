@@ -1,7 +1,7 @@
 <map id="find_steam" name="find_steam">
-<area shape="rect" id="node1" title=" " alt="" coords="748,78,833,105"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a08975ccd20d50c6e7411b3ca832b973b" title=" " alt="" coords="549,78,700,105"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a3db95dc5356fb770b891be48e62d1604" title=" " alt="" coords="328,29,501,71"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#affa7b5cf274457b7480337e8e72cdc67" title=" " alt="" coords="333,119,496,146"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5" title=" " alt="" coords="5,105,280,161"/>
+<area shape="rect" id="node1" title=" " alt="" coords="740,78,825,105"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a08975ccd20d50c6e7411b3ca832b973b" title=" " alt="" coords="541,78,692,105"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a3db95dc5356fb770b891be48e62d1604" title=" " alt="" coords="320,29,493,71"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#affa7b5cf274457b7480337e8e72cdc67" title=" " alt="" coords="325,119,488,146"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5" title=" " alt="" coords="5,112,272,153"/>
 </map>

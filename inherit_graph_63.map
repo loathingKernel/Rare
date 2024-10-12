@@ -2,14 +2,14 @@
 <area shape="rect" id="node1" title=" " alt="" coords="5,183,92,209"/>
 <area shape="rect" id="node2" href="$classrare_1_1commands_1_1launcher_1_1_pre_launch.html" title=" " alt="" coords="178,5,263,32"/>
 <area shape="rect" id="node3" href="$classrare_1_1commands_1_1launcher_1_1_sync_check_worker.html" title=" " alt="" coords="156,56,285,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker.html" title=" " alt="" coords="161,107,280,133"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__group_1_1_check_for_update_worker.html" title=" " alt="" coords="140,157,301,184"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_import_worker.html" title=" " alt="" coords="171,208,271,235"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker.html" title=" " alt="" coords="161,107,280,133"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_check_for_update_worker.html" title=" " alt="" coords="140,157,301,184"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_worker.html" title=" " alt="" coords="171,208,271,235"/>
 <area shape="rect" id="node7" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker.html" title=" " alt="" coords="145,259,297,285"/>
 <area shape="rect" id="node8" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html" title="Base QRunnable class." alt="" coords="189,309,252,336"/>
 <area shape="rect" id="node23" href="$classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable.html" title=" " alt="" coords="157,360,284,387"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html" title=" " alt="" coords="370,132,501,159"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1games_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html" title=" " alt="" coords="372,183,499,209"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html" title=" " alt="" coords="370,132,501,159"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html" title=" " alt="" coords="372,183,499,209"/>
 <area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html" title=" " alt="" coords="349,233,521,260"/>
 <area shape="rect" id="node12" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html" title=" " alt="" coords="387,284,483,311"/>
 <area shape="rect" id="node15" href="$classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker.html" title=" " alt="" coords="375,335,495,361"/>

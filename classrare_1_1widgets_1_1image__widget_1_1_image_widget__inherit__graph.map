@@ -1,12 +1,12 @@
 <map id="ImageWidget" name="ImageWidget">
 <area shape="rect" id="node1" title=" " alt="" coords="184,131,355,413"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1download_1_1_download_widget.html" title=" " alt="" coords="25,461,178,597"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_library_widget.html" title=" " alt="" coords="202,461,337,597"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1library__widget_1_1_library_widget.html" title=" " alt="" coords="202,461,337,597"/>
 <area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image_1_1_loading_image_widget.html" title=" " alt="" coords="369,469,513,590"/>
 <area shape="rect" id="node2" title=" " alt="" coords="233,5,305,83"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1game__widget_1_1_game_widget.html" title=" " alt="" coords="151,645,316,1089"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1icon__game__widget_1_1_icon_game_widget.html" title=" " alt="" coords="5,1167,133,1303"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1list__game__widget_1_1_list_game_widget.html" title=" " alt="" coords="158,1137,309,1332"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html" title=" " alt="" coords="151,645,316,1089"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1icon__game__widget_1_1_icon_game_widget.html" title=" " alt="" coords="5,1167,133,1303"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1list__game__widget_1_1_list_game_widget.html" title=" " alt="" coords="158,1137,309,1332"/>
 <area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_item_widget.html" title=" " alt="" coords="405,814,552,921"/>
 <area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_search_item_widget.html" title=" " alt="" coords="333,1196,462,1273"/>
 <area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_store_item_widget.html" title=" " alt="" coords="486,1189,605,1281"/>

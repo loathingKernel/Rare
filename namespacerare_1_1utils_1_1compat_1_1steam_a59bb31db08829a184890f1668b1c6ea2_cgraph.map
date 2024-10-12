@@ -1,10 +1,11 @@
 <map id="get_steam_environment" name="get_steam_environment">
-<area shape="rect" id="node1" title=" " alt="" coords="5,231,167,258"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1compat_1_1steam.html#ac2723eedcf31189fb12199eb6721d99c" title=" " alt="" coords="215,29,336,71"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1compat_1_1steam.html#ab718ac1b73014e691b7a8ce526bb068e" title=" " alt="" coords="228,119,323,146"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1compat_1_1steam.html#a5c2a7841fb6f804c4bd3c459b55a5b3b" title=" " alt="" coords="229,194,321,221"/>
-<area shape="rect" id="node6" href="$namespacerare_1_1utils_1_1compat_1_1steam.html#a4b42f1ff9028863160dafba28d68d4e9" title=" " alt="" coords="226,269,325,295"/>
-<area shape="rect" id="node7" href="$namespacerare_1_1utils_1_1compat_1_1steam.html#a7046bfde699c59fe83b22412c4b9f88e" title=" " alt="" coords="233,343,318,370"/>
-<area shape="rect" id="node8" href="$namespacerare_1_1utils_1_1compat_1_1steam.html#af9263e59360f4e86e85080a0e58f88fb" title=" " alt="" coords="230,418,321,445"/>
-<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1compat_1_1steam.html#a10f2f0c935c0e0e215dc27999b96dd7b" title=" " alt="" coords="384,231,511,258"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,269,167,296"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1compat_1_1steam.html#aef4401da0e89428a88fdeeaf11760156" title=" " alt="" coords="224,29,327,56"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1compat_1_1steam.html#ac2723eedcf31189fb12199eb6721d99c" title=" " alt="" coords="215,105,336,146"/>
+<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1compat_1_1steam.html#ab718ac1b73014e691b7a8ce526bb068e" title=" " alt="" coords="228,195,323,221"/>
+<area shape="rect" id="node6" href="$namespacerare_1_1utils_1_1compat_1_1steam.html#a5c2a7841fb6f804c4bd3c459b55a5b3b" title=" " alt="" coords="229,269,321,296"/>
+<area shape="rect" id="node7" href="$namespacerare_1_1utils_1_1compat_1_1steam.html#a4b42f1ff9028863160dafba28d68d4e9" title=" " alt="" coords="226,344,325,371"/>
+<area shape="rect" id="node8" href="$namespacerare_1_1utils_1_1compat_1_1steam.html#a7046bfde699c59fe83b22412c4b9f88e" title=" " alt="" coords="233,419,318,445"/>
+<area shape="rect" id="node9" href="$namespacerare_1_1utils_1_1compat_1_1steam.html#af9263e59360f4e86e85080a0e58f88fb" title=" " alt="" coords="230,493,321,520"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1compat_1_1steam.html#a10f2f0c935c0e0e215dc27999b96dd7b" title=" " alt="" coords="384,269,511,296"/>
 </map>

@@ -1,7 +1,7 @@
 <map id="eventFilter" name="eventFilter">
-<area shape="rect" id="node1" title=" " alt="" coords="5,127,88,153"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1games_1_1game__widgets_1_1library__widget_1_1_progress_label.html#a3e1d2f9fa970b2c05462c13a55746ab8" title=" " alt="" coords="136,5,383,61"/>
-<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html#a3e1d2f9fa970b2c05462c13a55746ab8" title=" " alt="" coords="191,85,327,112"/>
-<area shape="rect" id="node4" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#a35061dd226fbf32b76578ca1f0759ce1" title=" " alt="" coords="179,161,339,202"/>
-<area shape="rect" id="node5" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#acbb44b417d59fdabb258afc05df6e499" title=" " alt="" coords="179,250,339,291"/>
+<area shape="rect" id="node1" title=" " alt="" coords="6,113,89,139"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1library__widget_1_1_progress_label.html#a3e1d2f9fa970b2c05462c13a55746ab8" title=" " alt="" coords="137,5,408,47"/>
+<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html#a3e1d2f9fa970b2c05462c13a55746ab8" title=" " alt="" coords="204,71,340,98"/>
+<area shape="rect" id="node4" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_tree_item.html#a35061dd226fbf32b76578ca1f0759ce1" title=" " alt="" coords="192,147,352,188"/>
+<area shape="rect" id="node5" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#acbb44b417d59fdabb258afc05df6e499" title=" " alt="" coords="192,236,352,277"/>
 </map>
