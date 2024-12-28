@@ -172,6 +172,7 @@ var hierarchy =
     [ "Wrappers", "classrare_1_1shared_1_1wrappers_1_1_wrappers.html", null ],
     [ "Enum", null, [
       [ "ImageType", "classrare_1_1models_1_1image_1_1_image_type.html", null ],
+      [ "SteamVerb", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_verb.html", null ],
       [ "ProtondbRatings", "classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html", null ],
       [ "ImageWidget.Border", "classrare_1_1widgets_1_1image__widget_1_1_image_widget_1_1_border.html", null ],
       [ "PathEditIconProvider.CustomIconType", "classrare_1_1widgets_1_1indicator__edit_1_1_path_edit_icon_provider_1_1_custom_icon_type.html", null ]
@@ -512,8 +513,5 @@ var hierarchy =
       ] ],
       [ "SelectiveWidget", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget.html", null ],
       [ "SideTabContainer", "classrare_1_1widgets_1_1side__tab_1_1_side_tab_container.html", null ]
-    ] ],
-    [ "StrEnum", null, [
-      [ "SteamVerb", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_verb.html", null ]
     ] ]
 ];

@@ -88,7 +88,7 @@ $(document).ready(function(){initNavTree('components_2tabs_2store_2landing_8py_s
 </div><!--header-->
 <div class="contents">
 <a href="components_2tabs_2store_2landing_8py.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno"><a class="line" href="namespacerare_1_1components_1_1tabs_1_1store_1_1landing.html">    1</a></span><span class="keyword">import</span> logging</div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">from</span> datetime <span class="keyword">import</span> datetime, UTC</div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">from</span> datetime <span class="keyword">import</span> datetime, timezone</div>
 <div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">from</span> typing <span class="keyword">import</span> List</div>
 <div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span> </div>
 <div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">from</span> PySide6.QtCore <span class="keyword">import</span> Qt, Slot, Signal, QObject, QEvent</div>
@@ -273,7 +273,7 @@ $(document).ready(function(){initNavTree('components_2tabs_2store_2landing_8py_s
 <div class="line"><a id="l00184" name="l00184"></a><span class="lineno">  184</span>            self.<a class="code hl_variable" href="classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_widget.html#adf3e47b46890a5afd2453d21f193fe87">free_games_next</a>free_games_next.<a class="code hl_variable" href="namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#a18ba736185d3b51366b94e8366becce0">layout</a>().removeWidget(w)</div>
 <div class="line"><a id="l00185" name="l00185"></a><span class="lineno">  185</span>            w.deleteLater()</div>
 <div class="line"><a id="l00186" name="l00186"></a><span class="lineno">  186</span> </div>
-<div class="line"><a id="l00187" name="l00187"></a><span class="lineno">  187</span>        date = datetime.now(UTC)</div>
+<div class="line"><a id="l00187" name="l00187"></a><span class="lineno">  187</span>        date = datetime.now(timezone.utc)</div>
 <div class="line"><a id="l00188" name="l00188"></a><span class="lineno">  188</span>        free_now = []</div>
 <div class="line"><a id="l00189" name="l00189"></a><span class="lineno">  189</span>        free_next = []</div>
 <div class="line"><a id="l00190" name="l00190"></a><span class="lineno">  190</span>        <span class="keywordflow">for</span> item <span class="keywordflow">in</span> free_games:</div>

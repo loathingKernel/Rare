@@ -90,7 +90,7 @@ $(document).ready(function(){initNavTree('components_2____init_____8py_source.ht
 <a href="components_2____init_____8py.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno"><a class="line" href="namespacerare_1_1components.html">    1</a></span><span class="keyword">import</span> os</div>
 <div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">import</span> shutil</div>
 <div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">from</span> argparse <span class="keyword">import</span> Namespace</div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">from</span> datetime <span class="keyword">import</span> datetime, timezone, UTC</div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">from</span> datetime <span class="keyword">import</span> datetime, timezone</div>
 <div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">from</span> typing <span class="keyword">import</span> Optional</div>
 <div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span> </div>
 <div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">import</span> requests.exceptions</div>
@@ -149,7 +149,7 @@ $(document).ready(function(){initNavTree('components_2____init_____8py_source.ht
 <div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span> </div>
 <div class="line"><a id="l00061" name="l00061"></a><span class="lineno"><a class="line" href="classrare_1_1components_1_1_rare.html#a220a81c6097c255b60ace038f4b0c9cb">   61</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1components_1_1_rare.html#a220a81c6097c255b60ace038f4b0c9cb">poke_timer</a>(self):</div>
 <div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>        dt_exp = datetime.fromisoformat(self.<a class="code hl_variable" href="classrare_1_1components_1_1_rare.html#ab65a1cfe05166d06195718a9587d7b86">core</a>core.lgd.userdata[<span class="stringliteral">&#39;expires_at&#39;</span>][:-1]).replace(tzinfo=timezone.utc)</div>
-<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>        dt_now = datetime.now(UTC)</div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>        dt_now = datetime.now(timezone.utc)</div>
 <div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>        td = abs(dt_exp - dt_now)</div>
 <div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>        self.<a class="code hl_variable" href="classrare_1_1components_1_1_rare.html#a0905f59f463125e225bbe5a6ac42019e">relogin_timer</a>relogin_timer.<a class="code hl_function" href="namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958">start</a>(int(td.total_seconds() - 60) * 1000)</div>
 <div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>        self.<a class="code hl_variable" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#a0b14e488ae28d98d262453f3e9cd6e4d">logger</a>logger.info(f<span class="stringliteral">&quot;Renewed session expires at {self.core.lgd.userdata[&#39;expires_at&#39;]}&quot;</span>)</div>

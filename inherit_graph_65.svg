@@ -9,9 +9,9 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>Graphical Class Hierarchy</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-100 169,-100 169,4 -4,4"/>
-<!-- Node264 -->
+<!-- Node265 -->
 <g id="node1" class="node">
-<title>Node264</title>
+<title>Node265</title>
 <g id="a_node1"><a xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="0,-38.5 0,-57.5 48,-57.5 48,-38.5 0,-38.5"/>
 <text text-anchor="middle" x="24" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">QLabel</text>
@@ -27,39 +27,39 @@
 </a>
 </g>
 </g>
-<!-- Node264&#45;&gt;Node0 -->
+<!-- Node265&#45;&gt;Node0 -->
 <g id="edge1" class="edge">
-<title>Node264&#45;&gt;Node0</title>
+<title>Node265&#45;&gt;Node0</title>
 <path fill="none" stroke="midnightblue" d="M57.49,-60.54C70.96,-65.73 86.32,-71.65 98.83,-76.48"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="58.68,-57.24 48.09,-56.91 56.16,-63.77 58.68,-57.24"/>
 </g>
-<!-- Node266 -->
+<!-- Node267 -->
 <g id="node3" class="node">
-<title>Node266</title>
+<title>Node267</title>
 <g id="a_node3"><a xlink:href="classrare_1_1widgets_1_1elide__label_1_1_elide_label.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="93.5,-38.5 93.5,-57.5 155.5,-57.5 155.5,-38.5 93.5,-38.5"/>
 <text text-anchor="middle" x="124.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">ElideLabel</text>
 </a>
 </g>
 </g>
-<!-- Node264&#45;&gt;Node266 -->
+<!-- Node265&#45;&gt;Node267 -->
 <g id="edge2" class="edge">
-<title>Node264&#45;&gt;Node266</title>
+<title>Node265&#45;&gt;Node267</title>
 <path fill="none" stroke="midnightblue" d="M58.14,-48C69.56,-48 82.29,-48 93.45,-48"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="58.09,-44.5 48.09,-48 58.09,-51.5 58.09,-44.5"/>
 </g>
-<!-- Node267 -->
+<!-- Node268 -->
 <g id="node4" class="node">
-<title>Node267</title>
+<title>Node268</title>
 <g id="a_node4"><a xlink:href="classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="84,-0.5 84,-19.5 165,-19.5 165,-0.5 84,-0.5"/>
 <text text-anchor="middle" x="124.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">LoadingWidget</text>
 </a>
 </g>
 </g>
-<!-- Node264&#45;&gt;Node267 -->
+<!-- Node265&#45;&gt;Node268 -->
 <g id="edge3" class="edge">
-<title>Node264&#45;&gt;Node267</title>
+<title>Node265&#45;&gt;Node268</title>
 <path fill="none" stroke="midnightblue" d="M57.49,-35.46C70.96,-30.27 86.32,-24.35 98.83,-19.52"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="56.16,-32.23 48.09,-39.09 58.68,-38.76 56.16,-32.23"/>
 </g>

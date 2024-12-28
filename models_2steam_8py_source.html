@@ -91,7 +91,7 @@ $(document).ready(function(){initNavTree('models_2steam_8py_source.html',''); in
 <div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">import</span> binascii</div>
 <div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">import</span> shlex</div>
 <div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">from</span> dataclasses <span class="keyword">import</span> dataclass, field</div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">from</span> datetime <span class="keyword">import</span> datetime, UTC</div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">from</span> datetime <span class="keyword">import</span> datetime, timezone</div>
 <div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">from</span> typing <span class="keyword">import</span> Dict, List, Type, Any</div>
 <div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span> </div>
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span> </div>
@@ -123,7 +123,7 @@ $(document).ready(function(){initNavTree('models_2steam_8py_source.html',''); in
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span> </div>
 <div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>    <span class="preprocessor">@property</span></div>
 <div class="line"><a id="l00036" name="l00036"></a><span class="lineno"><a class="line" href="classrare_1_1models_1_1steam_1_1_steam_user.html#a5332597cc142ebe3fe531292b03fb531">   36</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1models_1_1steam_1_1_steam_user.html#a5332597cc142ebe3fe531292b03fb531">last_login</a>(self) -&gt; datetime:</div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>        <span class="keywordflow">return</span> datetime.fromtimestamp(float(self.<a class="code hl_variable" href="classrare_1_1models_1_1steam_1_1_steam_user.html#ae04c7187918c3ddcd44fcd602bf27908">_user</a>_user.get(<span class="stringliteral">&quot;Timestamp&quot;</span>, <span class="stringliteral">&quot;0&quot;</span>)), UTC)</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>        <span class="keywordflow">return</span> datetime.fromtimestamp(float(self.<a class="code hl_variable" href="classrare_1_1models_1_1steam_1_1_steam_user.html#ae04c7187918c3ddcd44fcd602bf27908">_user</a>_user.get(<span class="stringliteral">&quot;Timestamp&quot;</span>, <span class="stringliteral">&quot;0&quot;</span>)), timezone.utc)</div>
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span> </div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>    <span class="preprocessor">@property</span></div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno"><a class="line" href="classrare_1_1models_1_1steam_1_1_steam_user.html#a563276b55376fdd9f495c321c5408906">   40</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1models_1_1steam_1_1_steam_user.html#a563276b55376fdd9f495c321c5408906">__dict__</a>(self):</div>
@@ -234,7 +234,7 @@ $(document).ready(function(){initNavTree('models_2steam_8py_source.html',''); in
 <div class="line"><a id="l00145" name="l00145"></a><span class="lineno">  145</span> </div>
 <div class="line"><a id="l00146" name="l00146"></a><span class="lineno">  146</span>    <span class="preprocessor">@property</span></div>
 <div class="line"><a id="l00147" name="l00147"></a><span class="lineno"><a class="line" href="classrare_1_1models_1_1steam_1_1_steam_shortcut.html#a99ce5001b7926b5fa213641182e4c5b0">  147</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1models_1_1steam_1_1_steam_shortcut.html#a99ce5001b7926b5fa213641182e4c5b0">last_played</a>(self):</div>
-<div class="line"><a id="l00148" name="l00148"></a><span class="lineno">  148</span>        <span class="keywordflow">return</span> datetime.fromtimestamp(float(self.LastPlayTime), UTC)</div>
+<div class="line"><a id="l00148" name="l00148"></a><span class="lineno">  148</span>        <span class="keywordflow">return</span> datetime.fromtimestamp(float(self.LastPlayTime), timezone.utc)</div>
 <div class="line"><a id="l00149" name="l00149"></a><span class="lineno">  149</span> </div>
 <div class="line"><a id="l00150" name="l00150"></a><span class="lineno">  150</span>    <span class="preprocessor">@property</span></div>
 <div class="line"><a id="l00151" name="l00151"></a><span class="lineno"><a class="line" href="classrare_1_1models_1_1steam_1_1_steam_shortcut.html#a563276b55376fdd9f495c321c5408906">  151</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1models_1_1steam_1_1_steam_shortcut.html#a563276b55376fdd9f495c321c5408906">__dict__</a>(self):</div>

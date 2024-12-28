@@ -188,7 +188,7 @@ var NAVTREEINDEX21 =
 "components_2tabs_2settings_2____init_____8py_source.html":[8,0,0,1,1,3,1],
 "components_2tabs_2settings_2about_8py.html":[8,0,0,1,1,3,2],
 "components_2tabs_2settings_2about_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,1,1,3,2,2],
-"components_2tabs_2settings_2about_8py.html#ac1dbb48f4b91b2a65eb3fb6310d83a14":[8,0,0,1,1,3,2,1],
+"components_2tabs_2settings_2about_8py.html#acb61294361b5ffd360bf4b3597b5affb":[8,0,0,1,1,3,2,1],
 "components_2tabs_2settings_2about_8py_source.html":[8,0,0,1,1,3,2],
 "components_2tabs_2settings_2legendary_8py.html":[8,0,0,1,1,3,4],
 "components_2tabs_2settings_2legendary_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,1,1,3,4,3],
