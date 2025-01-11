@@ -75,10 +75,10 @@
 <!-- Node12 -->
 <g id="node12" class="node">
 <title>Node12</title>
-<g id="a_node12"><a xlink:href="classrare_1_1components_1_1main__window_1_1_main_window.html#aa932131ff73a2a934f2f2da848314955" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="799.5,-0.5 799.5,-41.5 936.5,-41.5 936.5,-0.5 799.5,-0.5"/>
-<text text-anchor="start" x="807.5" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.main</text>
-<text text-anchor="start" x="807.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">_window.MainWindow.timer</text>
+<g id="a_node12"><a xlink:href="classrare_1_1components_1_1main__window_1_1_rare_window.html#aa932131ff73a2a934f2f2da848314955" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="800,-0.5 800,-41.5 936,-41.5 936,-0.5 800,-0.5"/>
+<text text-anchor="start" x="808" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.main</text>
+<text text-anchor="start" x="808" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">_window.RareWindow.timer</text>
 <text text-anchor="middle" x="868" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_finished</text>
 </a>
 </g>

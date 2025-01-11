@@ -58,10 +58,10 @@
 <!-- Node14 -->
 <g id="node14" class="node">
 <title>Node14</title>
-<g id="a_node14"><a xlink:href="namespacerare_1_1utils_1_1config__helper.html#a139cd7801341b0c268c4f603c6f5071e" target="_top" xlink:title=" ">
+<g id="a_node14"><a xlink:href="namespacerare_1_1utils_1_1config__helper.html#ae81d996ac48dfd0728a6429bd783fa38" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="127.46,-133 127.46,-163 255.46,-163 255.46,-133 127.46,-133"/>
 <text text-anchor="start" x="135.46" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.config_helper.get</text>
-<text text-anchor="middle" x="191.46" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">_option</text>
+<text text-anchor="middle" x="191.46" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">_boolean</text>
 </a>
 </g>
 </g>

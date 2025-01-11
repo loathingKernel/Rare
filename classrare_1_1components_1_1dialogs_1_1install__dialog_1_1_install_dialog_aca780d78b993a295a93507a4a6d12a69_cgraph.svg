@@ -341,18 +341,18 @@ var sectionId = 'dynsection-16';
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="classrare_1_1components_1_1main__window_1_1_main_window.html#ad9f81f4c56e23ca3c206b1e9374fc137" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="538.5,-664.5 538.5,-694.5 676.5,-694.5 676.5,-664.5 538.5,-664.5"/>
-<text text-anchor="start" x="546.5" y="-682.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.main</text>
-<text text-anchor="middle" x="607.5" y="-671.5" font-family="Helvetica,sans-Serif" font-size="10.00">_window.MainWindow.close</text>
+<g id="a_node10"><a xlink:href="classrare_1_1components_1_1main__window_1_1_rare_window.html#ad9f81f4c56e23ca3c206b1e9374fc137" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="539,-664.5 539,-694.5 676,-694.5 676,-664.5 539,-664.5"/>
+<text text-anchor="start" x="547" y="-682.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.main</text>
+<text text-anchor="middle" x="607.5" y="-671.5" font-family="Helvetica,sans-Serif" font-size="10.00">_window.RareWindow.close</text>
 </a>
 </g>
 </g>
 <!-- Node9&#45;&gt;Node10 -->
 <g id="edge18" class="edge">
 <title>Node9&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M404.01,-610.64C426.49,-624.19 461.4,-643.7 494,-655.5 505,-659.48 516.86,-662.9 528.61,-665.8"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="527.89,-669.23 538.43,-668.12 529.5,-662.42 527.89,-669.23"/>
+<path fill="none" stroke="midnightblue" d="M404.01,-610.64C426.49,-624.19 461.4,-643.7 494,-655.5 505.08,-659.51 517.02,-662.95 528.85,-665.86"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="528.19,-669.3 538.73,-668.19 529.8,-662.49 528.19,-669.3"/>
 </g>
 <!-- Node11 -->
 <g id="node11" class="node">

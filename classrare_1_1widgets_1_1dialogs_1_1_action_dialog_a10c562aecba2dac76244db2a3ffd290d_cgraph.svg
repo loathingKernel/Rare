@@ -462,10 +462,10 @@ var sectionId = 'dynsection-4';
 <!-- Node12 -->
 <g id="node12" class="node">
 <title>Node12</title>
-<g id="a_node12"><a xlink:href="classrare_1_1components_1_1main__window_1_1_main_window.html#ad9f81f4c56e23ca3c206b1e9374fc137" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="932.55,-183.5 932.55,-213.5 1070.55,-213.5 1070.55,-183.5 932.55,-183.5"/>
-<text text-anchor="start" x="940.55" y="-201.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.main</text>
-<text text-anchor="middle" x="1001.55" y="-190.5" font-family="Helvetica,sans-Serif" font-size="10.00">_window.MainWindow.close</text>
+<g id="a_node12"><a xlink:href="classrare_1_1components_1_1main__window_1_1_rare_window.html#ad9f81f4c56e23ca3c206b1e9374fc137" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="933.05,-183.5 933.05,-213.5 1070.05,-213.5 1070.05,-183.5 933.05,-183.5"/>
+<text text-anchor="start" x="941.05" y="-201.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.main</text>
+<text text-anchor="middle" x="1001.55" y="-190.5" font-family="Helvetica,sans-Serif" font-size="10.00">_window.RareWindow.close</text>
 </a>
 </g>
 </g>

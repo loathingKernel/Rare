@@ -1,5 +1,9 @@
 var NAVTREEINDEX21 =
 {
+"classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,9,9,1,1],
+"classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html#a39d165427992dd2720f91929a88cde17":[7,0,0,7,9,1,0],
+"classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html#a39d165427992dd2720f91929a88cde17":[6,0,0,9,9,1,0],
+"classrare_1_1widgets_1_1rare__style_1_1_rare_style.html":[7,0,0,7,10,0],
 "classrare_1_1widgets_1_1rare__style_1_1_rare_style.html":[6,0,0,9,10,0],
 "classrare_1_1widgets_1_1rare__style_1_1_rare_style.html#a666465493bcdaf33baa1c0e1960b3de4":[7,0,0,7,10,0,1],
 "classrare_1_1widgets_1_1rare__style_1_1_rare_style.html#a666465493bcdaf33baa1c0e1960b3de4":[6,0,0,9,10,0,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX21 =
 "components_2tabs_2store_2widgets_2____init_____8py.html":[8,0,0,1,1,4,1,0],
 "components_2tabs_2store_2widgets_2____init_____8py_source.html":[8,0,0,1,1,4,1,0],
 "components_2tabs_2store_2widgets_2details_8py.html":[8,0,0,1,1,4,1,1],
-"components_2tabs_2store_2widgets_2details_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,1,1,4,1,1,3],
-"components_2tabs_2store_2widgets_2details_8py_source.html":[8,0,0,1,1,4,1,1],
-"components_2tabs_2store_2widgets_2image_8py.html":[8,0,0,1,1,4,1,3],
-"components_2tabs_2store_2widgets_2image_8py_source.html":[8,0,0,1,1,4,1,3],
-"components_2tabs_2store_2wishlist_8py.html":[8,0,0,1,1,4,8]
+"components_2tabs_2store_2widgets_2details_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,1,1,4,1,1,3]
 };

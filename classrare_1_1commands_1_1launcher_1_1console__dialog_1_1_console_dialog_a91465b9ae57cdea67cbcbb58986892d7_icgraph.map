@@ -1,8 +1,8 @@
 <map id="center_window" name="center_window">
-<area shape="rect" id="node1" title=" " alt="" coords="473,153,583,180"/>
-<area shape="rect" id="node2" href="$classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#a7e95a1a89e48f7f756bcea2a62a14a62" title=" " alt="" coords="307,112,360,139"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a7e95a1a89e48f7f756bcea2a62a14a62" title=" " alt="" coords="241,187,425,229"/>
-<area shape="rect" id="node3" href="$classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#aea9480e3e11a9caa9c677f82b2c64569" title=" " alt="" coords="59,29,140,56"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#aa932131ff73a2a934f2f2da848314955" title=" " alt="" coords="8,195,191,251"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1main__window_1_1_main_window.html#a76ef2ebd71b1a1858194134725b6c800" title=" " alt="" coords="5,105,193,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="471,153,580,180"/>
+<area shape="rect" id="node2" href="$classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#a7e95a1a89e48f7f756bcea2a62a14a62" title=" " alt="" coords="305,112,358,139"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1main__window_1_1_rare_window.html#a7e95a1a89e48f7f756bcea2a62a14a62" title=" " alt="" coords="240,187,423,229"/>
+<area shape="rect" id="node3" href="$classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#aea9480e3e11a9caa9c677f82b2c64569" title=" " alt="" coords="58,29,139,56"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1main__window_1_1_rare_window.html#aa932131ff73a2a934f2f2da848314955" title=" " alt="" coords="8,195,189,251"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1main__window_1_1_rare_window.html#a76ef2ebd71b1a1858194134725b6c800" title=" " alt="" coords="5,105,192,146"/>
 </map>

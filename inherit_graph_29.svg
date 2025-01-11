@@ -231,7 +231,7 @@
 <!-- Node71 -->
 <g id="node16" class="node">
 <title>Node71</title>
-<g id="a_node16"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__settings__widget_1_1_ui___cloud_settings_widget.html" target="_top" xlink:title=" ">
+<g id="a_node16"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__settings__widget_1_1_ui___cloud_settings_widget.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="129,-2698.5 129,-2717.5 251,-2717.5 251,-2698.5 129,-2698.5"/>
 <text text-anchor="middle" x="190" y="-2705.5" font-family="Helvetica,sans-Serif" font-size="10.00">Ui_CloudSettingsWidget</text>
 </a>
@@ -246,7 +246,7 @@
 <!-- Node72 -->
 <g id="node17" class="node">
 <title>Node72</title>
-<g id="a_node17"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__sync__widget_1_1_ui___cloud_sync_widget.html" target="_top" xlink:title=" ">
+<g id="a_node17"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__sync__widget_1_1_ui___cloud_sync_widget.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="136,-2660.5 136,-2679.5 244,-2679.5 244,-2660.5 136,-2660.5"/>
 <text text-anchor="middle" x="190" y="-2667.5" font-family="Helvetica,sans-Serif" font-size="10.00">Ui_CloudSyncWidget</text>
 </a>
@@ -261,7 +261,7 @@
 <!-- Node73 -->
 <g id="node18" class="node">
 <title>Node73</title>
-<g id="a_node18"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_ui___game_details.html" target="_top" xlink:title=" ">
+<g id="a_node18"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_ui___game_details.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="146,-2622.5 146,-2641.5 234,-2641.5 234,-2622.5 146,-2622.5"/>
 <text text-anchor="middle" x="190" y="-2629.5" font-family="Helvetica,sans-Serif" font-size="10.00">Ui_GameDetails</text>
 </a>
@@ -276,7 +276,7 @@
 <!-- Node74 -->
 <g id="node19" class="node">
 <title>Node74</title>
-<g id="a_node19"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlc__widget_1_1_ui___game_dlc_widget.html" target="_top" xlink:title=" ">
+<g id="a_node19"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1dlc__widget_1_1_ui___game_dlc_widget.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="139,-2584.5 139,-2603.5 241,-2603.5 241,-2584.5 139,-2584.5"/>
 <text text-anchor="middle" x="190" y="-2591.5" font-family="Helvetica,sans-Serif" font-size="10.00">Ui_GameDlcWidget</text>
 </a>
@@ -291,7 +291,7 @@
 <!-- Node75 -->
 <g id="node20" class="node">
 <title>Node75</title>
-<g id="a_node20"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_ui___game_dlcs.html" target="_top" xlink:title=" ">
+<g id="a_node20"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_ui___game_dlcs.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="151.5,-2546.5 151.5,-2565.5 228.5,-2565.5 228.5,-2546.5 151.5,-2546.5"/>
 <text text-anchor="middle" x="190" y="-2553.5" font-family="Helvetica,sans-Serif" font-size="10.00">Ui_GameDlcs</text>
 </a>
@@ -306,7 +306,7 @@
 <!-- Node76 -->
 <g id="node21" class="node">
 <title>Node76</title>
-<g id="a_node21"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_ui___e_g_l_sync_group.html" target="_top" xlink:title=" ">
+<g id="a_node21"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_ui___e_g_l_sync_group.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="140.5,-2508.5 140.5,-2527.5 239.5,-2527.5 239.5,-2508.5 140.5,-2508.5"/>
 <text text-anchor="middle" x="190" y="-2515.5" font-family="Helvetica,sans-Serif" font-size="10.00">Ui_EGLSyncGroup</text>
 </a>
@@ -321,7 +321,7 @@
 <!-- Node77 -->
 <g id="node22" class="node">
 <title>Node77</title>
-<g id="a_node22"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group.html" target="_top" xlink:title=" ">
+<g id="a_node22"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="132,-2470.5 132,-2489.5 248,-2489.5 248,-2470.5 132,-2470.5"/>
 <text text-anchor="middle" x="190" y="-2477.5" font-family="Helvetica,sans-Serif" font-size="10.00">Ui_EGLSyncListGroup</text>
 </a>
@@ -336,7 +336,7 @@
 <!-- Node78 -->
 <g id="node23" class="node">
 <title>Node78</title>
-<g id="a_node23"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__widget_1_1_ui___eos_widget.html" target="_top" xlink:title=" ">
+<g id="a_node23"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__widget_1_1_ui___eos_widget.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="151,-2432.5 151,-2451.5 229,-2451.5 229,-2432.5 151,-2432.5"/>
 <text text-anchor="middle" x="190" y="-2439.5" font-family="Helvetica,sans-Serif" font-size="10.00">Ui_EosWidget</text>
 </a>
@@ -351,7 +351,7 @@
 <!-- Node79 -->
 <g id="node24" class="node">
 <title>Node79</title>
-<g id="a_node24"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_ui___import_group.html" target="_top" xlink:title=" ">
+<g id="a_node24"><a xlink:href="classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_ui___import_group.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="147,-2394.5 147,-2413.5 233,-2413.5 233,-2394.5 147,-2394.5"/>
 <text text-anchor="middle" x="190" y="-2401.5" font-family="Helvetica,sans-Serif" font-size="10.00">Ui_ImportGroup</text>
 </a>

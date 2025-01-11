@@ -1,5 +1,9 @@
 var NAVTREEINDEX20 =
 {
+"classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a943e8d04d468f0c74358c7c7de3309b0":[6,0,0,9,2,2,10],
+"classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a97eae6fc819daae12bcbe59b520e6d59":[7,0,0,7,2,2,5],
+"classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a97eae6fc819daae12bcbe59b520e6d59":[6,0,0,9,2,2,5],
+"classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a99549fe58f09b6dcccd692972d892844":[7,0,0,7,2,2,12],
 "classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a99549fe58f09b6dcccd692972d892844":[6,0,0,9,2,2,12],
 "classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a9d48c5dc75d1edea3895ef0fac7a7a91":[7,0,0,7,2,2,13],
 "classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a9d48c5dc75d1edea3895ef0fac7a7a91":[6,0,0,9,2,2,13],
@@ -245,9 +249,5 @@ var NAVTREEINDEX20 =
 "classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#ab90ff5b9c217befa24b7d0c269ab5dbc":[7,0,0,7,9,0,0],
 "classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html":[7,0,0,7,9,1],
 "classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html":[6,0,0,9,9,1],
-"classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html#a0b14e488ae28d98d262453f3e9cd6e4d":[7,0,0,7,9,1,1],
-"classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,9,9,1,1],
-"classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html#a39d165427992dd2720f91929a88cde17":[7,0,0,7,9,1,0],
-"classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html#a39d165427992dd2720f91929a88cde17":[6,0,0,9,9,1,0],
-"classrare_1_1widgets_1_1rare__style_1_1_rare_style.html":[7,0,0,7,10,0]
+"classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html#a0b14e488ae28d98d262453f3e9cd6e4d":[7,0,0,7,9,1,1]
 };

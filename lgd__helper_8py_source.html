@@ -123,8 +123,8 @@ $(document).ready(function(){initNavTree('lgd__helper_8py_source.html',''); init
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>            debug=args.debug,</div>
 <div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>            offline=args.offline,</div>
 <div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>            skip_update_check=args.skip_update_check,</div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>            wine_bin=args.wine_bin,</div>
-<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>            wine_prefix=args.wine_pfx,</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>            wine_bin=args.wine_bin <span class="keywordflow">if</span> hasattr(args, <span class="stringliteral">&quot;wine_bin&quot;</span>) <span class="keywordflow">else</span> <span class="stringliteral">&quot;&quot;</span>,</div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>            wine_prefix=args.wine_pfx <span class="keywordflow">if</span> hasattr(args, <span class="stringliteral">&quot;wine_prefix&quot;</span>) <span class="keywordflow">else</span> <span class="stringliteral">&quot;&quot;</span>,</div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>            dry_run=args.dry_run</div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>        )</div>
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span> </div>
@@ -260,7 +260,7 @@ $(document).ready(function(){initNavTree('lgd__helper_8py_source.html',''); init
 <div class="line"><a id="l00171" name="l00171"></a><span class="lineno">  171</span> </div>
 <div class="line"><a id="l00172" name="l00172"></a><span class="lineno"><a class="line" href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a9759496f746c478547ac939b6271959e">  172</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a9759496f746c478547ac939b6271959e">get_configured_process</a>(env: dict = <span class="keywordtype">None</span>):</div>
 <div class="line"><a id="l00173" name="l00173"></a><span class="lineno">  173</span>    proc = QProcess()</div>
-<div class="line"><a id="l00174" name="l00174"></a><span class="lineno">  174</span>    proc.setProcessChannelMode(QProcess.MergedChannels)</div>
+<div class="line"><a id="l00174" name="l00174"></a><span class="lineno">  174</span>    proc.setProcessChannelMode(QProcess.ProcessChannelMode.MergedChannels)</div>
 <div class="line"><a id="l00175" name="l00175"></a><span class="lineno">  175</span>    proc.readyReadStandardOutput.connect(</div>
 <div class="line"><a id="l00176" name="l00176"></a><span class="lineno">  176</span>        <span class="keyword">lambda</span>: logger.info(</div>
 <div class="line"><a id="l00177" name="l00177"></a><span class="lineno">  177</span>            <a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(proc.readAllStandardOutput().data(), <span class="stringliteral">&quot;utf-8&quot;</span>, <span class="stringliteral">&quot;ignore&quot;</span>)</div>

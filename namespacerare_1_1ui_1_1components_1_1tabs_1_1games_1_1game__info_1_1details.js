@@ -1,4 +1,0 @@
-var namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details =
-[
-    [ "Ui_GameDetails", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_ui___game_details.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_ui___game_details" ]
-];

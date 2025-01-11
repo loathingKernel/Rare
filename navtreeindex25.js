@@ -1,5 +1,9 @@
 var NAVTREEINDEX25 =
 {
+"namespacerare_1_1utils_1_1compat_1_1utils.html#a5692ab5c1cef4e68b08fa7cbccf0da96":[6,0,0,8,0,1,3],
+"namespacerare_1_1utils_1_1compat_1_1utils.html#aa55d31ff8f016be452c3277a17d9709f":[6,0,0,8,0,1,9],
+"namespacerare_1_1utils_1_1compat_1_1utils.html#ac35c8c6fa6ffee52956ca3418b5ea123":[6,0,0,8,0,1,2],
+"namespacerare_1_1utils_1_1compat_1_1utils.html#acdf5b67fccd4bb36f661a235d3aee592":[6,0,0,8,0,1,7],
 "namespacerare_1_1utils_1_1compat_1_1utils.html#ae0c1ec9639aacf544d9e102488c01010":[6,0,0,8,0,1,10],
 "namespacerare_1_1utils_1_1compat_1_1utils.html#af341870f4cc825c898fff74d544c652f":[6,0,0,8,0,1,8],
 "namespacerare_1_1utils_1_1compat_1_1wine.html":[6,0,0,8,0,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX25 =
 "settings_2debug_8py_source.html":[8,0,0,1,1,3,3],
 "settings_2settings_8py.html":[8,0,0,1,1,3,6],
 "settings_2settings_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,1,1,3,6,2],
-"settings_2settings_8py_source.html":[8,0,0,1,1,3,6],
-"shared_2____init_____8py.html":[8,0,0,4,1],
-"shared_2____init_____8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[8,0,0,4,1,4],
-"shared_2____init_____8py.html#a52b1260023417715f12fb6f691549bab":[8,0,0,4,1,3],
-"shared_2____init_____8py.html#a5acede398e4ceb67fa3e6bc1c91734d0":[8,0,0,4,1,0]
+"settings_2settings_8py_source.html":[8,0,0,1,1,3,6]
 };

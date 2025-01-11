@@ -409,10 +409,10 @@
 <!-- Node12 -->
 <g id="node12" class="node">
 <title>Node12</title>
-<g id="a_node12"><a xlink:href="classrare_1_1components_1_1main__window_1_1_main_window.html#ad9f81f4c56e23ca3c206b1e9374fc137" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="808.91,-212 808.91,-242 946.91,-242 946.91,-212 808.91,-212"/>
-<text text-anchor="start" x="816.91" y="-230" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.main</text>
-<text text-anchor="middle" x="877.91" y="-219" font-family="Helvetica,sans-Serif" font-size="10.00">_window.MainWindow.close</text>
+<g id="a_node12"><a xlink:href="classrare_1_1components_1_1main__window_1_1_rare_window.html#ad9f81f4c56e23ca3c206b1e9374fc137" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="809.41,-212 809.41,-242 946.41,-242 946.41,-212 809.41,-212"/>
+<text text-anchor="start" x="817.41" y="-230" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.main</text>
+<text text-anchor="middle" x="877.91" y="-219" font-family="Helvetica,sans-Serif" font-size="10.00">_window.RareWindow.close</text>
 </a>
 </g>
 </g>

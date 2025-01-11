@@ -1,0 +1,4 @@
+var namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1dlc__widget =
+[
+    [ "Ui_GameDlcWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1dlc__widget_1_1_ui___game_dlc_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1dlc__widget_1_1_ui___game_dlc_widget" ]
+];

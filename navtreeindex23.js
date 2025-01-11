@@ -1,5 +1,9 @@
 var NAVTREEINDEX23 =
 {
+"index.html#autotoc_md15":[3,4],
+"index.html#autotoc_md16":[3,5],
+"index.html#autotoc_md17":[3,6],
+"index.html#autotoc_md18":[4],
 "index.html#autotoc_md19":[5],
 "index.html#autotoc_md3":[0],
 "index.html#autotoc_md4":[1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX23 =
 "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars.html":[6,0,0,2,2,3,5,1],
 "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars.html#a0b14e488ae28d98d262453f3e9cd6e4d":[6,0,0,2,2,3,5,1,1],
 "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model.html":[6,0,0,2,2,3,5,2],
-"namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model.html#a04a8a2bbfa9c15500892b8e5033d625b":[6,0,0,2,2,3,5,2,3],
-"namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model.html#afe63fea7be31b0200b496d08bc6b517d":[6,0,0,2,2,3,5,2,2],
-"namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1game.html":[6,0,0,2,2,3,5,3],
-"namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch.html":[6,0,0,2,2,3,5,4],
-"namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch.html#ac1c116f0af47e62322f92da79e55dc63":[6,0,0,2,2,3,5,4,1]
+"namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model.html#a04a8a2bbfa9c15500892b8e5033d625b":[6,0,0,2,2,3,5,2,3]
 };

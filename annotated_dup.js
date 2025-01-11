@@ -56,7 +56,7 @@ var annotated_dup =
           ] ]
         ] ],
         [ "main_window", "namespacerare_1_1components_1_1main__window.html", [
-          [ "MainWindow", "classrare_1_1components_1_1main__window_1_1_main_window.html", "classrare_1_1components_1_1main__window_1_1_main_window" ]
+          [ "RareWindow", "classrare_1_1components_1_1main__window_1_1_rare_window.html", "classrare_1_1components_1_1main__window_1_1_rare_window" ]
         ] ],
         [ "tabs", "namespacerare_1_1components_1_1tabs.html", [
           [ "account", "namespacerare_1_1components_1_1tabs_1_1account.html", [
@@ -532,36 +532,36 @@ var annotated_dup =
                 [ "Ui_QueueInfoWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__info__widget_1_1_ui___queue_info_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__info__widget_1_1_ui___queue_info_widget" ]
               ] ]
             ] ],
-            [ "games", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games.html", [
-              [ "game_info", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info.html", [
-                [ "cloud_settings_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__settings__widget.html", [
-                  [ "Ui_CloudSettingsWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__settings__widget_1_1_ui___cloud_settings_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__settings__widget_1_1_ui___cloud_settings_widget" ]
+            [ "library", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library.html", [
+              [ "details", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1details.html", [
+                [ "cloud_settings_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__settings__widget.html", [
+                  [ "Ui_CloudSettingsWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__settings__widget_1_1_ui___cloud_settings_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__settings__widget_1_1_ui___cloud_settings_widget" ]
                 ] ],
-                [ "cloud_sync_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__sync__widget.html", [
-                  [ "Ui_CloudSyncWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__sync__widget_1_1_ui___cloud_sync_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1cloud__sync__widget_1_1_ui___cloud_sync_widget" ]
+                [ "cloud_sync_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__sync__widget.html", [
+                  [ "Ui_CloudSyncWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__sync__widget_1_1_ui___cloud_sync_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__sync__widget_1_1_ui___cloud_sync_widget" ]
                 ] ],
-                [ "details", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details.html", [
-                  [ "Ui_GameDetails", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_ui___game_details.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1details_1_1_ui___game_details" ]
+                [ "details", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1details.html", [
+                  [ "Ui_GameDetails", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_ui___game_details.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_ui___game_details" ]
                 ] ],
-                [ "dlc_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlc__widget.html", [
-                  [ "Ui_GameDlcWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlc__widget_1_1_ui___game_dlc_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlc__widget_1_1_ui___game_dlc_widget" ]
+                [ "dlc_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1dlc__widget.html", [
+                  [ "Ui_GameDlcWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1dlc__widget_1_1_ui___game_dlc_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1dlc__widget_1_1_ui___game_dlc_widget" ]
                 ] ],
-                [ "dlcs", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs.html", [
-                  [ "Ui_GameDlcs", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_ui___game_dlcs.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1game__info_1_1dlcs_1_1_ui___game_dlcs" ]
+                [ "dlcs", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs.html", [
+                  [ "Ui_GameDlcs", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_ui___game_dlcs.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_ui___game_dlcs" ]
                 ] ]
               ] ],
-              [ "integrations", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations.html", [
-                [ "egl_sync_group", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group.html", [
-                  [ "Ui_EGLSyncGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_ui___e_g_l_sync_group.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__group_1_1_ui___e_g_l_sync_group" ]
+              [ "integrations", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations.html", [
+                [ "egl_sync_group", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group.html", [
+                  [ "Ui_EGLSyncGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_ui___e_g_l_sync_group.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_ui___e_g_l_sync_group" ]
                 ] ],
-                [ "egl_sync_list_group", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__list__group.html", [
-                  [ "Ui_EGLSyncListGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group" ]
+                [ "egl_sync_list_group", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__list__group.html", [
+                  [ "Ui_EGLSyncListGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group" ]
                 ] ],
-                [ "eos_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__widget.html", [
-                  [ "Ui_EosWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__widget_1_1_ui___eos_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1eos__widget_1_1_ui___eos_widget" ]
+                [ "eos_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__widget.html", [
+                  [ "Ui_EosWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__widget_1_1_ui___eos_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__widget_1_1_ui___eos_widget" ]
                 ] ],
-                [ "import_group", "namespacerare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group.html", [
-                  [ "Ui_ImportGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_ui___import_group.html", "classrare_1_1ui_1_1components_1_1tabs_1_1games_1_1integrations_1_1import__group_1_1_ui___import_group" ]
+                [ "import_group", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group.html", [
+                  [ "Ui_ImportGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_ui___import_group.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_ui___import_group" ]
                 ] ]
               ] ]
             ] ],

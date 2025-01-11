@@ -34,7 +34,8 @@ var classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_sett
     [ "startmenu_link_btn", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#a6631519e4ab3b3fd48cb87090ca94d19", null ],
     [ "style_label", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#aceb270b0b4ed42042fda6e0ecf062cdd", null ],
     [ "style_select", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#a19208b4ac6f450e85050a82f0e71c2fd", null ],
-    [ "sys_tray", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#ab7ca2f780cc4e3628676fe2ef184baab", null ],
+    [ "sys_tray_close", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#a68d78dc9d385cfebd7d52a3c1552889f", null ],
+    [ "sys_tray_start", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#af11e150405ebd4e239ec54f6f7fae86c", null ],
     [ "view_combo", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#aade28b24b077afb6afe9086b2d6873ee", null ],
     [ "view_label", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#adff19bc03abe6e0a18c5db62c2f505d9", null ]
 ];

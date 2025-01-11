@@ -1,8 +1,8 @@
 <map id="run" name="run">
 <area shape="rect" id="node1" title=" " alt="" coords="19,675,59,702"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="377,260,671,301"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="771,632,944,673"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" title=" " alt="" coords="826,498,889,525"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" title=" " alt="" coords="826,639,889,666"/>
+<area shape="rect" id="node5" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="771,491,944,532"/>
 <area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="377,632,671,673"/>
 <area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="396,349,652,391"/>
 <area shape="rect" id="node10" href="$classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="107,481,329,523"/>
