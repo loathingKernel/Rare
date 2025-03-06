@@ -1,4 +1,7 @@
 <map id="add_game" name="add_game">
-<area shape="rect" id="node1" title=" " alt="" coords="5,29,88,56"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_library_widget_controller.html#af5e2fc75bd6f55ba4407814fa5806e5f" title=" " alt="" coords="136,29,231,56"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,126,88,153"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_icon_view_container.html#a5b9a9d0452f2691aeafcba9599251092" title=" " alt="" coords="136,29,371,71"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_list_view_container.html#a6f2dce106f4ca126d76cc12d61e83d51" title=" " alt="" coords="136,119,371,160"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_library_widget_controller.html#a22215ae80f1d0f99f8851cb16d66903e" title=" " alt="" coords="209,209,297,235"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_view_container.html#a8e73e95efd0f85e048f1f10d0a330651" title=" " alt="" coords="419,75,653,116"/>
 </map>

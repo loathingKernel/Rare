@@ -9,9 +9,9 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 62)">
 <title>Graphical Class Hierarchy</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-62 165,-62 165,4 -4,4"/>
-<!-- Node364 -->
+<!-- Node372 -->
 <g id="node1" class="node">
-<title>Node364</title>
+<title>Node372</title>
 <g id="a_node1"><a xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="0,-19.5 0,-38.5 56,-38.5 56,-19.5 0,-19.5"/>
 <text text-anchor="middle" x="28" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00">QTabBar</text>
@@ -27,24 +27,24 @@
 </a>
 </g>
 </g>
-<!-- Node364&#45;&gt;Node0 -->
+<!-- Node372&#45;&gt;Node0 -->
 <g id="edge1" class="edge">
-<title>Node364&#45;&gt;Node0</title>
+<title>Node372&#45;&gt;Node0</title>
 <path fill="none" stroke="midnightblue" d="M66.1,-36.3C74.51,-37.96 83.41,-39.71 91.69,-41.34"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="66.63,-32.84 56.14,-34.34 65.27,-39.71 66.63,-32.84"/>
 </g>
-<!-- Node366 -->
+<!-- Node374 -->
 <g id="node3" class="node">
-<title>Node366</title>
+<title>Node374</title>
 <g id="a_node3"><a xlink:href="classrare_1_1widgets_1_1side__tab_1_1_side_tab_bar.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="92.5,-0.5 92.5,-19.5 160.5,-19.5 160.5,-0.5 92.5,-0.5"/>
 <text text-anchor="middle" x="126.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">SideTabBar</text>
 </a>
 </g>
 </g>
-<!-- Node364&#45;&gt;Node366 -->
+<!-- Node372&#45;&gt;Node374 -->
 <g id="edge2" class="edge">
-<title>Node364&#45;&gt;Node366</title>
+<title>Node372&#45;&gt;Node374</title>
 <path fill="none" stroke="midnightblue" d="M66.02,-21.71C74.7,-20 83.9,-18.19 92.39,-16.52"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="65.27,-18.29 56.14,-23.66 66.63,-25.16 65.27,-18.29"/>
 </g>

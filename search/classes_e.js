@@ -22,5 +22,6 @@ var searchData=
   ['responsemodel_19',['ResponseModel',['../classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_response_model.html',1,'rare::components::tabs::store::api::models::response']]],
   ['result_20',['Result',['../classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker_1_1_result.html',1,'rare::shared::workers::fetch::FetchWorker']]],
   ['resultswidget_21',['ResultsWidget',['../classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_results_widget.html',1,'rare::components::tabs::store::search']]],
-  ['returncode_22',['ReturnCode',['../classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_ret_1_1_return_code.html',1,'rare::lgndr::glue::arguments::LgndrInstallGameRealRet']]]
+  ['returncode_22',['ReturnCode',['../classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_ret_1_1_return_code.html',1,'rare::lgndr::glue::arguments::LgndrInstallGameRealRet']]],
+  ['runnersettingsbase_23',['RunnerSettingsBase',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1runner_1_1_runner_settings_base.html',1,'rare::components::tabs::settings::widgets::runner']]]
 ];

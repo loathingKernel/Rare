@@ -1,8 +1,8 @@
 var searchData=
 [
   ['fail_0',['FAIL',['../classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html#a7bf3517b2596adaac658ae1c8aa6ba28',1,'rare::utils::steam_grades::ProtondbRatings']]],
-  ['failed_1',['failed',['../classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker_1_1_signals.html#a4af14f376aef238cb4e75252d40eeb82',1,'rare::shared::workers::install_info::InstallInfoWorker::Signals']]],
-  ['failed_2',['FAILED',['../classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_result.html#a1b36e350a0ccd3034b122070e6c27196',1,'rare::components::tabs::library::integrations::import_group::ImportResult']]],
+  ['failed_1',['FAILED',['../classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_result.html#a1b36e350a0ccd3034b122070e6c27196',1,'rare::components::tabs::library::integrations::import_group::ImportResult']]],
+  ['failed_2',['failed',['../classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker_1_1_signals.html#a4af14f376aef238cb4e75252d40eeb82',1,'rare::shared::workers::install_info::InstallInfoWorker::Signals']]],
   ['favorites_5fcheck_3',['favorites_check',['../classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_ui___game_details.html#a98a7d8469bcb335199c4ce1eb43bdfdd',1,'rare::ui::components::tabs::library::details::details::Ui_GameDetails']]],
   ['fd_4',['fd',['../classrare_1_1utils_1_1singleton_1_1_single_instance.html#a44f21d5190b5a6df8089f54799628d7e',1,'rare::utils::singleton::SingleInstance']]],
   ['feed_5fquery_5',['FEED_QUERY',['../namespacerare_1_1components_1_1tabs_1_1store_1_1api_1_1constants_1_1queries.html#ac9bd455b5af0612e3066c7db78bc381f',1,'rare::components::tabs::store::api::constants::queries']]],

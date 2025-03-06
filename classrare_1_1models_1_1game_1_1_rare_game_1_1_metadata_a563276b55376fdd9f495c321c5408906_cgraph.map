@@ -6,7 +6,7 @@
 <area shape="rect" id="node8" href="$classrare_1_1models_1_1game_1_1_rare_game.html#acf7a30791ab5f7954378b060bd4a42be" title=" " alt="" coords="739,759,967,800"/>
 <area shape="rect" id="node9" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a44ad13c0a844d30263bbf7ca3ce625ea" title=" " alt="" coords="134,408,362,449"/>
 <area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a97c61b9578819ef09ba2b90def669ba6" title=" " alt="" coords="757,260,949,301"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="1015,316,1288,357"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="1015,349,1288,391"/>
 <area shape="rect" id="node5" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="766,195,940,236"/>
 <area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#ae1cd35b1295fa44fd6906c1bcf28fd20" title=" " alt="" coords="418,628,691,669"/>
 <area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_item.html#ae1cd35b1295fa44fd6906c1bcf28fd20" title=" " alt="" coords="418,195,691,236"/>
@@ -14,16 +14,14 @@
 <area shape="rect" id="node13" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#ae1cd35b1295fa44fd6906c1bcf28fd20" title=" " alt="" coords="460,284,649,325"/>
 <area shape="rect" id="node14" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a9830be59bfb2ba21c1f2afb0a715f61e" title="Property to report if a Game is an Unreal Engine bundle." alt="" coords="453,29,656,71"/>
 <area shape="rect" id="node16" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a9b76c292a174e6a6013ae0b0d6f2b4b5" title=" " alt="" coords="449,539,660,580"/>
-<area shape="rect" id="node27" href="$namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" title=" " alt="" coords="481,374,628,401"/>
+<area shape="rect" id="node25" href="$namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" title=" " alt="" coords="481,374,628,401"/>
 <area shape="rect" id="node15" href="$classrare_1_1models_1_1game_1_1_rare_game.html#aff330cd3e3495874fbccb325e0c95236" title="Property to report if a Game doesn&#39;t have assets." alt="" coords="752,29,954,71"/>
 <area shape="rect" id="node17" href="$namespacerare_1_1utils_1_1steam__grades.html#ad5da927491f3a57e4f9ab3ad62ce2324" title=" " alt="" coords="764,669,942,711"/>
-<area shape="rect" id="node22" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a482bcbd6705c56fd50bd1e7461f245e2" title=" " alt="" coords="748,401,958,443"/>
-<area shape="rect" id="node25" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" title=" " alt="" coords="763,491,943,532"/>
-<area shape="rect" id="node26" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="766,580,940,621"/>
-<area shape="rect" id="node18" href="$namespacerare_1_1utils_1_1steam__grades.html#afb84b77f9ccf4f2f47fe022771e9b7b4" title=" " alt="" coords="1063,624,1240,665"/>
-<area shape="rect" id="node19" href="$namespacerare_1_1utils_1_1steam__grades.html#a4fbb4d953a461c946de723d1f1751396" title=" " alt="" coords="1063,713,1240,755"/>
-<area shape="rect" id="node20" href="$namespacerare_1_1utils_1_1steam__grades.html#a65145276c5b5f93556777b0f2f8ceb25" title=" " alt="" coords="1336,721,1551,747"/>
-<area shape="rect" id="node21" href="$namespacerare_1_1utils_1_1paths.html#a967cf7dd54d6f29434b1b44099984396" title=" " alt="" coords="1599,721,1764,747"/>
-<area shape="rect" id="node23" href="$namespacerare_1_1utils_1_1config__helper.html#afb11223556320d6455409421029ae307" title=" " alt="" coords="1066,405,1237,447"/>
-<area shape="rect" id="node24" href="$namespacerare_1_1utils_1_1config__helper.html#a0a3960476587413425d900834d8377ca" title=" " alt="" coords="1358,405,1529,447"/>
+<area shape="rect" id="node22" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a482bcbd6705c56fd50bd1e7461f245e2" title=" " alt="" coords="748,349,958,391"/>
+<area shape="rect" id="node23" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="766,491,940,532"/>
+<area shape="rect" id="node24" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" title=" " alt="" coords="763,580,943,621"/>
+<area shape="rect" id="node18" href="$namespacerare_1_1utils_1_1steam__grades.html#afb84b77f9ccf4f2f47fe022771e9b7b4" title=" " alt="" coords="1063,625,1240,667"/>
+<area shape="rect" id="node19" href="$namespacerare_1_1utils_1_1steam__grades.html#a4fbb4d953a461c946de723d1f1751396" title=" " alt="" coords="1063,715,1240,756"/>
+<area shape="rect" id="node20" href="$namespacerare_1_1utils_1_1steam__grades.html#a65145276c5b5f93556777b0f2f8ceb25" title=" " alt="" coords="1336,722,1551,749"/>
+<area shape="rect" id="node21" href="$namespacerare_1_1utils_1_1paths.html#a967cf7dd54d6f29434b1b44099984396" title=" " alt="" coords="1599,722,1764,749"/>
 </map>

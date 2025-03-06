@@ -95,10 +95,14 @@ $(document).ready(function(){initNavTree('namespacerare_1_1utils_1_1compat_1_1ut
 Functions</h2></td></tr>
 <tr class="memitem:ae0c1ec9639aacf544d9e102488c01010"><td class="memItemLeft" align="right" valign="top">ConfigParser&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1compat_1_1utils.html#ae0c1ec9639aacf544d9e102488c01010">read_registry</a> (str registry, str prefix)</td></tr>
 <tr class="separator:ae0c1ec9639aacf544d9e102488c01010"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a19e91e1c70f9e95ec77b79663c925ffe"><td class="memItemLeft" align="right" valign="top">QProcess&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1compat_1_1utils.html#a19e91e1c70f9e95ec77b79663c925ffe">get_configured_qprocess</a> (List[str] command, Mapping environment)</td></tr>
-<tr class="separator:a19e91e1c70f9e95ec77b79663c925ffe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a47fbf0889d8088e9004f52c093d59aff"><td class="memItemLeft" align="right" valign="top">subprocess.Popen&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1compat_1_1utils.html#a47fbf0889d8088e9004f52c093d59aff">get_configured_subprocess</a> (List[str] command, Mapping environment)</td></tr>
-<tr class="separator:a47fbf0889d8088e9004f52c093d59aff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b5d155e1da4ff47437e3ac64f0affe8"><td class="memItemLeft" align="right" valign="top">Tuple[str, List[str], Dict]&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1compat_1_1utils.html#a5b5d155e1da4ff47437e3ac64f0affe8">prepare_process</a> (List[str] command, Dict environment)</td></tr>
+<tr class="separator:a5b5d155e1da4ff47437e3ac64f0affe8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8bdf2f4b0acacd40f5009a037341b863"><td class="memItemLeft" align="right" valign="top">QProcessEnvironment&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1compat_1_1utils.html#a8bdf2f4b0acacd40f5009a037341b863">dict_to_qprocenv</a> (Dict env)</td></tr>
+<tr class="separator:a8bdf2f4b0acacd40f5009a037341b863"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96adfc4f3766f9ed7d75571e715d3e25"><td class="memItemLeft" align="right" valign="top">QProcess&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1compat_1_1utils.html#a96adfc4f3766f9ed7d75571e715d3e25">get_configured_qprocess</a> (List[str] command, Dict environment)</td></tr>
+<tr class="separator:a96adfc4f3766f9ed7d75571e715d3e25"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4027dfba10abf4d5dfdde96aac56e3f"><td class="memItemLeft" align="right" valign="top">subprocess.Popen&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1compat_1_1utils.html#ae4027dfba10abf4d5dfdde96aac56e3f">get_configured_subprocess</a> (List[str] command, Dict environment)</td></tr>
+<tr class="separator:ae4027dfba10abf4d5dfdde96aac56e3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1a304da88880b62fb9c020af8c24ed0c"><td class="memItemLeft" align="right" valign="top">Tuple[str, str]&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1compat_1_1utils.html#a1a304da88880b62fb9c020af8c24ed0c">execute_subprocess</a> (List[str] command, List[str] arguments, Mapping environment)</td></tr>
 <tr class="separator:a1a304da88880b62fb9c020af8c24ed0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5692ab5c1cef4e68b08fa7cbccf0da96"><td class="memItemLeft" align="right" valign="top">Tuple[str, str]&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1compat_1_1utils.html#a5692ab5c1cef4e68b08fa7cbccf0da96">execute_qprocess</a> (List[str] command, List[str] arguments, Mapping environment)</td></tr>
@@ -115,8 +119,8 @@ Functions</h2></td></tr>
 <tr class="separator:a55d02dc69113de40f2086e3ffabefd62"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a167ce7bd4fe21eef4d233da2af16ceba"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1compat_1_1utils.html#a167ce7bd4fe21eef4d233da2af16ceba">convert_to_unix_path</a> (List[str] command, Mapping environment, str path)</td></tr>
 <tr class="separator:a167ce7bd4fe21eef4d233da2af16ceba"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acdf5b67fccd4bb36f661a235d3aee592"><td class="memItemLeft" align="right" valign="top">Dict&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1compat_1_1utils.html#acdf5b67fccd4bb36f661a235d3aee592">get_host_environment</a> (Dict app_environment, bool silent=True)</td></tr>
-<tr class="separator:acdf5b67fccd4bb36f661a235d3aee592"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6a495a8b0e4fd7b5605d8d93c8e1ba28"><td class="memItemLeft" align="right" valign="top">Dict&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1utils_1_1compat_1_1utils.html#a6a495a8b0e4fd7b5605d8d93c8e1ba28">get_host_environment</a> (Dict app_environment, bool silent=False)</td></tr>
+<tr class="separator:a6a495a8b0e4fd7b5605d8d93c8e1ba28"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
@@ -156,11 +160,11 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00146">146</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00151">151</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a167ce7bd4fe21eef4d233da2af16ceba_cgraph.svg" width="660" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a167ce7bd4fe21eef4d233da2af16ceba_cgraph.svg" width="100%" height="402"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 <div class="dynheader">
@@ -204,7 +208,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00142">142</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00147">147</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -215,6 +219,38 @@ Here is the call graph for this function:</div>
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a55d02dc69113de40f2086e3ffabefd62_icgraph.svg" width="184" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+
+</div>
+</div>
+<a id="a8bdf2f4b0acacd40f5009a037341b863" name="a8bdf2f4b0acacd40f5009a037341b863"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8bdf2f4b0acacd40f5009a037341b863">&#9670;&nbsp;</a></span>dict_to_qprocenv()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"> QProcessEnvironment rare.utils.compat.utils.dict_to_qprocenv </td>
+          <td>(</td>
+          <td class="paramtype">Dict&#160;</td>
+          <td class="paramname"><em>env</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00044">44</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a8bdf2f4b0acacd40f5009a037341b863_cgraph.svg" width="132" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a8bdf2f4b0acacd40f5009a037341b863_icgraph.svg" width="100%" height="458"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 
@@ -252,11 +288,11 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00088">88</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00104">104</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_ac35c8c6fa6ffee52956ca3418b5ea123_cgraph.svg" width="467" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_ac35c8c6fa6ffee52956ca3418b5ea123_cgraph.svg" width="636" height="136"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <div class="dynheader">
@@ -300,11 +336,11 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00069">69</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00085">85</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a5692ab5c1cef4e68b08fa7cbccf0da96_cgraph.svg" width="352" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a5692ab5c1cef4e68b08fa7cbccf0da96_cgraph.svg" width="522" height="136"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <div class="dynheader">
@@ -348,11 +384,11 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00057">57</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00074">74</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a1a304da88880b62fb9c020af8c24ed0c_cgraph.svg" width="380" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a1a304da88880b62fb9c020af8c24ed0c_cgraph.svg" width="547" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <div class="dynheader">
@@ -364,8 +400,8 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a id="a19e91e1c70f9e95ec77b79663c925ffe" name="a19e91e1c70f9e95ec77b79663c925ffe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a19e91e1c70f9e95ec77b79663c925ffe">&#9670;&nbsp;</a></span>get_configured_qprocess()</h2>
+<a id="a96adfc4f3766f9ed7d75571e715d3e25" name="a96adfc4f3766f9ed7d75571e715d3e25"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96adfc4f3766f9ed7d75571e715d3e25">&#9670;&nbsp;</a></span>get_configured_qprocess()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -379,7 +415,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Mapping&#160;</td>
+          <td class="paramtype">Dict&#160;</td>
           <td class="paramname"><em>environment</em>&#160;</td>
         </tr>
         <tr>
@@ -390,24 +426,24 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00031">31</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00051">51</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a19e91e1c70f9e95ec77b79663c925ffe_cgraph.svg" width="178" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a96adfc4f3766f9ed7d75571e715d3e25_cgraph.svg" width="347" height="136"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a19e91e1c70f9e95ec77b79663c925ffe_icgraph.svg" width="660" height="211"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a96adfc4f3766f9ed7d75571e715d3e25_icgraph.svg" width="660" height="211"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 
 </div>
 </div>
-<a id="a47fbf0889d8088e9004f52c093d59aff" name="a47fbf0889d8088e9004f52c093d59aff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a47fbf0889d8088e9004f52c093d59aff">&#9670;&nbsp;</a></span>get_configured_subprocess()</h2>
+<a id="ae4027dfba10abf4d5dfdde96aac56e3f" name="ae4027dfba10abf4d5dfdde96aac56e3f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4027dfba10abf4d5dfdde96aac56e3f">&#9670;&nbsp;</a></span>get_configured_subprocess()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -421,7 +457,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Mapping&#160;</td>
+          <td class="paramtype">Dict&#160;</td>
           <td class="paramname"><em>environment</em>&#160;</td>
         </tr>
         <tr>
@@ -432,24 +468,24 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00044">44</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00061">61</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a47fbf0889d8088e9004f52c093d59aff_cgraph.svg" width="191" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_ae4027dfba10abf4d5dfdde96aac56e3f_cgraph.svg" width="358" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a47fbf0889d8088e9004f52c093d59aff_icgraph.svg" width="380" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_ae4027dfba10abf4d5dfdde96aac56e3f_icgraph.svg" width="380" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 
 </div>
 </div>
-<a id="acdf5b67fccd4bb36f661a235d3aee592" name="acdf5b67fccd4bb36f661a235d3aee592"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acdf5b67fccd4bb36f661a235d3aee592">&#9670;&nbsp;</a></span>get_host_environment()</h2>
+<a id="a6a495a8b0e4fd7b5605d8d93c8e1ba28" name="a6a495a8b0e4fd7b5605d8d93c8e1ba28"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a495a8b0e4fd7b5605d8d93c8e1ba28">&#9670;&nbsp;</a></span>get_host_environment()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -464,7 +500,7 @@ Here is the caller graph for this function:</div>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">bool &#160;</td>
-          <td class="paramname"><em>silent</em> = <code>True</code>&#160;</td>
+          <td class="paramname"><em>silent</em> = <code>False</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -474,17 +510,59 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00156">156</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00161">161</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_acdf5b67fccd4bb36f661a235d3aee592_cgraph.svg" width="162" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a6a495a8b0e4fd7b5605d8d93c8e1ba28_cgraph.svg" width="162" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_acdf5b67fccd4bb36f661a235d3aee592_icgraph.svg" width="162" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a6a495a8b0e4fd7b5605d8d93c8e1ba28_icgraph.svg" width="162" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+
+</div>
+</div>
+<a id="a5b5d155e1da4ff47437e3ac64f0affe8" name="a5b5d155e1da4ff47437e3ac64f0affe8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5b5d155e1da4ff47437e3ac64f0affe8">&#9670;&nbsp;</a></span>prepare_process()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"> Tuple[str, List[str], Dict] rare.utils.compat.utils.prepare_process </td>
+          <td>(</td>
+          <td class="paramtype">List[str]&#160;</td>
+          <td class="paramname"><em>command</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Dict&#160;</td>
+          <td class="paramname"><em>environment</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00031">31</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a5b5d155e1da4ff47437e3ac64f0affe8_cgraph.svg" width="130" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a5b5d155e1da4ff47437e3ac64f0affe8_icgraph.svg" width="100%" height="458"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 
@@ -528,11 +606,11 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00126">126</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00131">131</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_af341870f4cc825c898fff74d544c652f_cgraph.svg" width="620" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_af341870f4cc825c898fff74d544c652f_cgraph.svg" width="100%" height="402"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 <div class="dynheader">
@@ -576,7 +654,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00122">122</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00127">127</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -666,11 +744,11 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00108">108</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="utils_2compat_2utils_8py_source.html#l00113">113</a> of file <a class="el" href="utils_2compat_2utils_8py_source.html">utils.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a11e706df1b880d8bb392b33bd98df744_cgraph.svg" width="611" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1utils_1_1compat_1_1utils_a11e706df1b880d8bb392b33bd98df744_cgraph.svg" width="100%" height="402"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 <div class="dynheader">

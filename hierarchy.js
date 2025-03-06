@@ -112,9 +112,13 @@ var hierarchy =
         [ "CloudSaves", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html", null ],
         [ "GameDetails", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html", null ],
         [ "GameDlcs", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlcs.html", null ],
-        [ "GameSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1game_1_1_game_settings_base.html", [
-          [ "GameSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_settings.html", null ],
-          [ "GameSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1settings_1_1_game_settings.html", null ]
+        [ "CompatSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_compat_settings_base.html", [
+          [ "LocalCompatSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_compat_settings.html", null ],
+          [ "GlobalCompatSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_global_compat_settings.html", null ]
+        ] ],
+        [ "GameSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_game_settings_base.html", [
+          [ "LocalGameSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_game_settings.html", null ],
+          [ "GlobalGameSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_global_game_settings.html", null ]
         ] ],
         [ "LandingPage", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_page.html", null ],
         [ "LandingWidget", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_widget.html", null ],
@@ -293,25 +297,33 @@ var hierarchy =
       [ "UbisoftGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html", null ],
       [ "DiscordRPCSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1discord__rpc_1_1_discord_r_p_c_settings.html", null ],
       [ "EnvVars", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html", [
-        [ "GameEnvVars", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_env_vars.html", null ]
+        [ "LocalEnvVars", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_env_vars.html", null ]
       ] ],
       [ "LaunchSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html", [
-        [ "GameLaunchSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_launch_settings.html", null ],
-        [ "LaunchSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1settings_1_1_launch_settings.html", null ]
+        [ "LocalLaunchSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_launch_settings.html", null ],
+        [ "GlobalLaunchSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_global_launch_settings.html", null ]
       ] ],
       [ "OverlaySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html", [
-        [ "DxvkSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_settings.html", [
-          [ "GameDxvkSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_dxvk_settings.html", null ]
+        [ "DxvkConfigSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings.html", [
+          [ "LocalDxvkConfigSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_config_settings.html", null ]
+        ] ],
+        [ "DxvkNvapiDrsSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings.html", null ],
+        [ "DxvkOverlaySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_overlay_settings.html", [
+          [ "LocalDxvkOverlaySettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_overlay_settings.html", null ]
         ] ],
         [ "MangoHudSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings.html", [
-          [ "GameMangoHudSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_mango_hud_settings.html", null ]
+          [ "LocalMangoHudSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_mango_hud_settings.html", null ]
         ] ]
       ] ],
       [ "ProtonSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html", [
-        [ "GameProtonSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_proton_settings.html", null ]
+        [ "LocalProtonSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_proton_settings.html", null ]
+      ] ],
+      [ "RunnerSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1runner_1_1_runner_settings_base.html", [
+        [ "LocalRunnerSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_runner_settings.html", null ],
+        [ "GlobalRunnerSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_global_runner_settings.html", null ]
       ] ],
       [ "WineSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings.html", [
-        [ "GameWineSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_wine_settings.html", null ]
+        [ "LocalWineSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_wine_settings.html", null ]
       ] ],
       [ "StoreGroup", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1groups_1_1_store_group.html", null ],
       [ "CollapsibleGroupBox", "classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_group_box.html", null ]
@@ -428,7 +440,6 @@ var hierarchy =
     ] ],
     [ "QScrollArea", null, [
       [ "WrapperSettingsScroll", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings_scroll.html", null ],
-      [ "FreeGamesScroll", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_free_games_scroll.html", null ],
       [ "ResultsWidget", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_results_widget.html", null ]
     ] ],
     [ "QStackedWidget", null, [
@@ -479,13 +490,14 @@ var hierarchy =
         [ "ListViewContainer", "classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_list_view_container.html", null ]
       ] ],
       [ "About", "classrare_1_1components_1_1tabs_1_1settings_1_1about_1_1_about.html", null ],
+      [ "CompatSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_compat_settings_base.html", null ],
       [ "DebugSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1debug_1_1_debug_settings.html", null ],
+      [ "GameSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_game_settings_base.html", null ],
       [ "LegendarySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html", null ],
       [ "RareSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html", null ],
-      [ "GameSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1game_1_1_game_settings_base.html", null ],
       [ "WrapperContainer", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_container.html", null ],
       [ "WrapperSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings.html", [
-        [ "GameWrapperSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_wrapper_settings.html", null ]
+        [ "LocalWrapperSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_wrapper_settings.html", null ]
       ] ],
       [ "LandingWidget", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_widget.html", null ],
       [ "SearchWidget", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_widget.html", null ],

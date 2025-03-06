@@ -109,8 +109,12 @@ Functions</h2></td></tr>
 <tr class="separator:a994d4b312004fac05d64b47fe1f7e55c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abf2d7d38da6177ee9d089cef4917abdd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_args.html">LaunchArgs</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#abf2d7d38da6177ee9d089cef4917abdd">get_launch_args</a> (<a class="el" href="classrare_1_1models_1_1base__game_1_1_rare_game_slim.html">RareGameSlim</a> rgame, <a class="el" href="classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_init_args.html">InitArgs</a> init_args=None)</td></tr>
 <tr class="separator:abf2d7d38da6177ee9d089cef4917abdd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9759496f746c478547ac939b6271959e"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a9759496f746c478547ac939b6271959e">get_configured_process</a> (dict env=None)</td></tr>
-<tr class="separator:a9759496f746c478547ac939b6271959e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1143cdeef4568dea440a5f8f5aa9ddb2"><td class="memItemLeft" align="right" valign="top">Tuple[str, List[str], Dict]&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a1143cdeef4568dea440a5f8f5aa9ddb2">prepare_process</a> (List[str] command, Dict environment)</td></tr>
+<tr class="separator:a1143cdeef4568dea440a5f8f5aa9ddb2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4079e12d04167490b2b535baf65034a"><td class="memItemLeft" align="right" valign="top">QProcessEnvironment&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#ae4079e12d04167490b2b535baf65034a">dict_to_qprocenv</a> (Dict env)</td></tr>
+<tr class="separator:ae4079e12d04167490b2b535baf65034a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0b5e556bc5d152f008c456ab445ec0b"><td class="memItemLeft" align="right" valign="top">QProcess&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#ae0b5e556bc5d152f008c456ab445ec0b">get_configured_qprocess</a> (List[str] command, Dict environment)</td></tr>
+<tr class="separator:ae0b5e556bc5d152f008c456ab445ec0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
@@ -118,33 +122,75 @@ Variables</h2></td></tr>
 <tr class="separator:a0b14e488ae28d98d262453f3e9cd6e4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a9759496f746c478547ac939b6271959e" name="a9759496f746c478547ac939b6271959e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9759496f746c478547ac939b6271959e">&#9670;&nbsp;</a></span>get_configured_process()</h2>
+<a id="ae4079e12d04167490b2b535baf65034a" name="ae4079e12d04167490b2b535baf65034a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4079e12d04167490b2b535baf65034a">&#9670;&nbsp;</a></span>dict_to_qprocenv()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">def rare.commands.launcher.lgd_helper.get_configured_process </td>
+          <td class="memname"> QProcessEnvironment rare.commands.launcher.lgd_helper.dict_to_qprocenv </td>
           <td>(</td>
-          <td class="paramtype">dict &#160;</td>
-          <td class="paramname"><em>env</em> = <code>None</code></td><td>)</td>
+          <td class="paramtype">Dict&#160;</td>
+          <td class="paramname"><em>env</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="lgd__helper_8py_source.html#l00172">172</a> of file <a class="el" href="lgd__helper_8py_source.html">lgd_helper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="lgd__helper_8py_source.html#l00190">190</a> of file <a class="el" href="lgd__helper_8py_source.html">lgd_helper.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1launcher_1_1lgd__helper_a9759496f746c478547ac939b6271959e_cgraph.svg" width="170" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1launcher_1_1lgd__helper_ae4079e12d04167490b2b535baf65034a_cgraph.svg" width="132" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1launcher_1_1lgd__helper_a9759496f746c478547ac939b6271959e_icgraph.svg" width="639" height="76"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1launcher_1_1lgd__helper_ae4079e12d04167490b2b535baf65034a_icgraph.svg" width="100%" height="509"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+</div>
+
+</div>
+</div>
+<a id="ae0b5e556bc5d152f008c456ab445ec0b" name="ae0b5e556bc5d152f008c456ab445ec0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae0b5e556bc5d152f008c456ab445ec0b">&#9670;&nbsp;</a></span>get_configured_qprocess()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"> QProcess rare.commands.launcher.lgd_helper.get_configured_qprocess </td>
+          <td>(</td>
+          <td class="paramtype">List[str]&#160;</td>
+          <td class="paramname"><em>command</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Dict&#160;</td>
+          <td class="paramname"><em>environment</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="lgd__helper_8py_source.html#l00197">197</a> of file <a class="el" href="lgd__helper_8py_source.html">lgd_helper.py</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1launcher_1_1lgd__helper_ae0b5e556bc5d152f008c456ab445ec0b_cgraph.svg" width="347" height="136"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1launcher_1_1lgd__helper_ae0b5e556bc5d152f008c456ab445ec0b_icgraph.svg" width="647" height="76"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 
@@ -182,11 +228,11 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="lgd__helper_8py_source.html#l00091">91</a> of file <a class="el" href="lgd__helper_8py_source.html">lgd_helper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="lgd__helper_8py_source.html#l00083">83</a> of file <a class="el" href="lgd__helper_8py_source.html">lgd_helper.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1launcher_1_1lgd__helper_a994d4b312004fac05d64b47fe1f7e55c_cgraph.svg" width="140" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1launcher_1_1lgd__helper_a994d4b312004fac05d64b47fe1f7e55c_cgraph.svg" width="307" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <div class="dynheader">
@@ -224,11 +270,11 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="lgd__helper_8py_source.html#l00144">144</a> of file <a class="el" href="lgd__helper_8py_source.html">lgd_helper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="lgd__helper_8py_source.html#l00127">127</a> of file <a class="el" href="lgd__helper_8py_source.html">lgd_helper.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1launcher_1_1lgd__helper_abf2d7d38da6177ee9d089cef4917abdd_cgraph.svg" width="306" height="136"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1launcher_1_1lgd__helper_abf2d7d38da6177ee9d089cef4917abdd_cgraph.svg" width="472" height="136"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <div class="dynheader">
@@ -272,17 +318,59 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="lgd__helper_8py_source.html#l00057">57</a> of file <a class="el" href="lgd__helper_8py_source.html">lgd_helper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="lgd__helper_8py_source.html#l00060">60</a> of file <a class="el" href="lgd__helper_8py_source.html">lgd_helper.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1launcher_1_1lgd__helper_aa9cac0757a279f375bc3641b0aa936f8_cgraph.svg" width="139" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1launcher_1_1lgd__helper_aa9cac0757a279f375bc3641b0aa936f8_cgraph.svg" width="306" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1launcher_1_1lgd__helper_aa9cac0757a279f375bc3641b0aa936f8_icgraph.svg" width="100%" height="300"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+</div>
+
+</div>
+</div>
+<a id="a1143cdeef4568dea440a5f8f5aa9ddb2" name="a1143cdeef4568dea440a5f8f5aa9ddb2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1143cdeef4568dea440a5f8f5aa9ddb2">&#9670;&nbsp;</a></span>prepare_process()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"> Tuple[str, List[str], Dict] rare.commands.launcher.lgd_helper.prepare_process </td>
+          <td>(</td>
+          <td class="paramtype">List[str]&#160;</td>
+          <td class="paramname"><em>command</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Dict&#160;</td>
+          <td class="paramname"><em>environment</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="lgd__helper_8py_source.html#l00155">155</a> of file <a class="el" href="lgd__helper_8py_source.html">lgd_helper.py</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1launcher_1_1lgd__helper_a1143cdeef4568dea440a5f8f5aa9ddb2_cgraph.svg" width="130" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1launcher_1_1lgd__helper_a1143cdeef4568dea440a5f8f5aa9ddb2_icgraph.svg" width="100%" height="458"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 
@@ -301,7 +389,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="lgd__helper_8py_source.html#l00014">14</a> of file <a class="el" href="lgd__helper_8py_source.html">lgd_helper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="lgd__helper_8py_source.html#l00015">15</a> of file <a class="el" href="lgd__helper_8py_source.html">lgd_helper.py</a>.</p>
 
 </div>
 </div>

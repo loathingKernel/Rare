@@ -1,9 +1,10 @@
 <map id="setFixedSize" name="setFixedSize">
-<area shape="rect" id="node1" title=" " alt="" coords="944,155,1040,182"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_search_item_widget.html#aa6e4a481f332ad11a870b247a793e7d1" title=" " alt="" coords="317,81,581,123"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_wishlist_item_widget.html#aa6e4a481f332ad11a870b247a793e7d1" title=" " alt="" coords="317,277,581,319"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_store_item_widget.html#a10bc7e3ba7dbaf8018c30feaee63e609" title=" " alt="" coords="5,85,269,127"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1icon__game__widget_1_1_icon_game_widget.html#a6c734fe46844d27ba3c41824b2080754" title=" " alt="" coords="633,237,892,279"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image_1_1_loading_image_widget.html#a5e746b7db8fca760d821d8bdd801fc52" title=" " alt="" coords="629,148,896,189"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_store_item_widget.html#a25fcdb296abc02d48b1b9c473f1b7597" title=" " alt="" coords="317,171,581,212"/>
+<area shape="rect" id="node1" title=" " alt="" coords="948,207,1044,234"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_social_button.html#a1325bc28ca699bbe6432bf24acf9e180" title=" " alt="" coords="629,29,900,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_search_item_widget.html#aa6e4a481f332ad11a870b247a793e7d1" title=" " alt="" coords="317,51,581,92"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_wishlist_item_widget.html#aa6e4a481f332ad11a870b247a793e7d1" title=" " alt="" coords="317,229,581,271"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_store_item_widget.html#a10bc7e3ba7dbaf8018c30feaee63e609" title=" " alt="" coords="5,215,269,256"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1icon__game__widget_1_1_icon_game_widget.html#a6c734fe46844d27ba3c41824b2080754" title=" " alt="" coords="635,371,894,412"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image_1_1_loading_image_widget.html#a5e746b7db8fca760d821d8bdd801fc52" title=" " alt="" coords="631,171,898,212"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_store_item_widget.html#a25fcdb296abc02d48b1b9c473f1b7597" title=" " alt="" coords="317,140,581,181"/>
 </map>

@@ -19,7 +19,7 @@ var classrare_1_1models_1_1game_1_1_rare_game =
     [ "is_non_asset", "classrare_1_1models_1_1game_1_1_rare_game.html#aff330cd3e3495874fbccb325e0c95236", null ],
     [ "is_ubisoft", "classrare_1_1models_1_1game_1_1_rare_game.html#acd0b13e14a42884135db535b9d575942", null ],
     [ "is_unreal", "classrare_1_1models_1_1game_1_1_rare_game.html#a9830be59bfb2ba21c1f2afb0a715f61e", null ],
-    [ "launch", "classrare_1_1models_1_1game_1_1_rare_game.html#ab82459b9faa06688eab18988ab4024e6", null ],
+    [ "launch", "classrare_1_1models_1_1game_1_1_rare_game.html#a52f719d3dd964e44c5550f2f79aacb7e", null ],
     [ "load_pixmaps", "classrare_1_1models_1_1game_1_1_rare_game.html#ac21f4c2b75f0029c243a81d8696ba4f9", null ],
     [ "modify", "classrare_1_1models_1_1game_1_1_rare_game.html#aef20d094578870f90347cdd968d2991b", null ],
     [ "needs_repair", "classrare_1_1models_1_1game_1_1_rare_game.html#a1e5f462f6a7e72f83a96f5b085bb3eec", null ],

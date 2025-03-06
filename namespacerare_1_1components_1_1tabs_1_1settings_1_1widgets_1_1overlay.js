@@ -1,7 +1,9 @@
 var namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay =
 [
     [ "ActivationStates", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_activation_states.html", null ],
-    [ "DxvkSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_settings" ],
+    [ "DxvkConfigSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings" ],
+    [ "DxvkNvapiDrsSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings" ],
+    [ "DxvkOverlaySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_overlay_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_overlay_settings" ],
     [ "MangoHudSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings" ],
     [ "OverlayCheckBox", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_check_box.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_check_box" ],
     [ "OverlayComboBox", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box" ],
@@ -10,15 +12,21 @@ var namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay =
     [ "OverlaySelectInput", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_select_input.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_select_input" ],
     [ "OverlaySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings" ],
     [ "OverlayStringInput", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_string_input.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_string_input" ],
+    [ "get_envvar", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#a9600f21c672502ddcf36ec17cb3fcdbe", null ],
     [ "app", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#afe63fea7be31b0200b496d08bc6b517d", null ],
-    [ "core", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#ab65a1cfe05166d06195718a9587d7b86", null ],
+    [ "config", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#ad2256458892609d0533df5d72a7257ad", null ],
     [ "dlg", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#ad2ee3c07560eb98d17a382b71105bf98", null ],
-    [ "dxvk", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#aa8abb5c6caf957d9648255360a688bac", null ],
+    [ "dxvk_cfg", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#aa2b561a575617ea7abb04b5542f06ddd", null ],
+    [ "dxvk_hud", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#a6b460b5f051a34970825fbf0c019ad38", null ],
+    [ "dxvk_nvapi_drs", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#a566a94a19837bd7049f15f76e72841f2", null ],
+    [ "get_envvar", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#a5e289f32458a3777b15778fc411e6eb9", null ],
     [ "layout", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#a18ba736185d3b51366b94e8366becce0", null ],
     [ "logger", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ],
     [ "mangohud", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#a1f5ed3993d1f1a750e245945fb5fa6d5", null ],
-    [ "mangohud_gl_vsync", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#a3d0230d76d0421aad3b12645e23adadc", null ],
-    [ "mangohud_position", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#a9260a1cfe58fbb1caabb4a614e1c766c", null ],
-    [ "mangohud_vsync", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#aece51018fdfe5a18c68fae4546aa8ee9", null ],
-    [ "ret", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#af1ec77bdca1b30e8153fc5da88f603db", null ]
+    [ "remove_envvar", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#a2adae3927e6252e895f571bb5a97ae8d", null ],
+    [ "remove_option", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#a852a623bc2c3f98c58df77feb79448a4", null ],
+    [ "ret", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#af1ec77bdca1b30e8153fc5da88f603db", null ],
+    [ "save_config", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#a6694362c66204ec212f35099905ec3b2", null ],
+    [ "set_envvar", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#ab11e3f27f0ee6eceaa9b4be47989dfd5", null ],
+    [ "set_option", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html#a809522f3cddf88cea8a84976513bd6d2", null ]
 ];

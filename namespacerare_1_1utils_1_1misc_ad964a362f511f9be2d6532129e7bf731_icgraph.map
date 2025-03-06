@@ -5,7 +5,7 @@
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_installed_game_dlc_widget.html#a98fbff44ff71f0dc573bbf78ca60d7ed" title=" " alt="" coords="380,208,635,249"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_available_game_dlc_widget.html#a98fbff44ff71f0dc573bbf78ca60d7ed" title=" " alt="" coords="380,297,635,339"/>
 <area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_widget.html#a55ed65b7af64c1cd6da45165fb8ceb4c" title=" " alt="" coords="356,387,659,428"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html#a8f9705707225e3a806138596d5edae0d" title=" " alt="" coords="9,763,304,804"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html#a8f9705707225e3a806138596d5edae0d" title=" " alt="" coords="9,719,304,760"/>
 <area shape="rect" id="node8" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame.html#a7e119c6e6dbb69ec4948da2763039e3d" title=" " alt="" coords="379,528,636,569"/>
 <area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html#a18777578f9602d2461dfedea68f316d2" title=" " alt="" coords="372,617,643,659"/>
 <area shape="rect" id="node10" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#a051a5c88b188dc1e47f120d327dd4d99" title=" " alt="" coords="412,707,603,763"/>
@@ -14,8 +14,10 @@
 <area shape="rect" id="node13" href="$classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_select_view_widget.html#a4bfff48519307b26beadeeb3050a7d8b" title=" " alt="" coords="400,991,615,1032"/>
 <area shape="rect" id="node14" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1list__widget_1_1_list_widget.html#a70938cd70d473d7134d3d1db007bd152" title=" " alt="" coords="382,1080,633,1121"/>
 <area shape="rect" id="node15" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html#aa56afc440f4694cd7d78c59fb3280b60" title=" " alt="" coords="369,1259,646,1300"/>
-<area shape="rect" id="node19" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html#a4f1fc3fc743e9e74ae4d1c677928ef3f" title=" " alt="" coords="360,1169,655,1211"/>
-<area shape="rect" id="node16" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html#afb98620e5c3e93764e3a474baf06aa6a" title=" " alt="" coords="18,1169,295,1211"/>
-<area shape="rect" id="node17" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#af997cabd23f14f71f7f87c986ccd582c" title=" " alt="" coords="18,1259,295,1300"/>
-<area shape="rect" id="node18" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="5,1348,308,1389"/>
+<area shape="rect" id="node21" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html#a4f1fc3fc743e9e74ae4d1c677928ef3f" title=" " alt="" coords="360,1169,655,1211"/>
+<area shape="rect" id="node16" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html#afb98620e5c3e93764e3a474baf06aa6a" title=" " alt="" coords="18,1080,295,1121"/>
+<area shape="rect" id="node17" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#ae3086ed15d86fab628d5249118184203" title=" " alt="" coords="18,1169,295,1211"/>
+<area shape="rect" id="node18" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#af997cabd23f14f71f7f87c986ccd582c" title=" " alt="" coords="18,1259,295,1300"/>
+<area shape="rect" id="node19" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="5,1348,308,1389"/>
+<area shape="rect" id="node20" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#a940f04ae50563122887c6d4b551d314f" title=" " alt="" coords="18,1437,295,1479"/>
 </map>

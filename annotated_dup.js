@@ -87,6 +87,15 @@ var annotated_dup =
               [ "cloud_saves", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves.html", [
                 [ "CloudSaves", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves" ]
               ] ],
+              [ "compat", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1compat.html", [
+                [ "LocalCompatSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_compat_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_compat_settings" ],
+                [ "LocalDxvkConfigSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_config_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_config_settings" ],
+                [ "LocalDxvkOverlaySettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_overlay_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_overlay_settings" ],
+                [ "LocalMangoHudSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_mango_hud_settings" ],
+                [ "LocalProtonSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_proton_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_proton_settings" ],
+                [ "LocalRunnerSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_runner_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_runner_settings" ],
+                [ "LocalWineSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_wine_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_wine_settings" ]
+              ] ],
               [ "details", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1details.html", [
                 [ "GameDetails", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details" ]
               ] ],
@@ -96,15 +105,11 @@ var annotated_dup =
                 [ "GameDlcWidget", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlc_widget" ],
                 [ "InstalledGameDlcWidget", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_installed_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_installed_game_dlc_widget" ]
               ] ],
-              [ "settings", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1settings.html", [
-                [ "GameDxvkSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_dxvk_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_dxvk_settings" ],
-                [ "GameEnvVars", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_env_vars.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_env_vars" ],
-                [ "GameLaunchSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_launch_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_launch_settings" ],
-                [ "GameMangoHudSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_mango_hud_settings" ],
-                [ "GameProtonSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_proton_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_proton_settings" ],
-                [ "GameSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_settings" ],
-                [ "GameWineSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_wine_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_wine_settings" ],
-                [ "GameWrapperSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_wrapper_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_wrapper_settings" ]
+              [ "game", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1game.html", [
+                [ "LocalEnvVars", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_env_vars.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_env_vars" ],
+                [ "LocalGameSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_game_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_game_settings" ],
+                [ "LocalLaunchSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_launch_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_launch_settings" ],
+                [ "LocalWrapperSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_wrapper_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_wrapper_settings" ]
               ] ],
               [ "GameInfoTabs", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs" ],
               [ "GameMetadataView", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_metadata_view.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_metadata_view" ]
@@ -176,8 +181,18 @@ var annotated_dup =
             [ "about", "namespacerare_1_1components_1_1tabs_1_1settings_1_1about.html", [
               [ "About", "classrare_1_1components_1_1tabs_1_1settings_1_1about_1_1_about.html", "classrare_1_1components_1_1tabs_1_1settings_1_1about_1_1_about" ]
             ] ],
+            [ "compat", "namespacerare_1_1components_1_1tabs_1_1settings_1_1compat.html", [
+              [ "CompatSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_compat_settings_base.html", "classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_compat_settings_base" ],
+              [ "GlobalCompatSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_global_compat_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_global_compat_settings" ],
+              [ "GlobalRunnerSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_global_runner_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_global_runner_settings" ]
+            ] ],
             [ "debug", "namespacerare_1_1components_1_1tabs_1_1settings_1_1debug.html", [
               [ "DebugSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1debug_1_1_debug_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1debug_1_1_debug_settings" ]
+            ] ],
+            [ "game", "namespacerare_1_1components_1_1tabs_1_1settings_1_1game.html", [
+              [ "GameSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_game_settings_base.html", "classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_game_settings_base" ],
+              [ "GlobalGameSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_global_game_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_global_game_settings" ],
+              [ "GlobalLaunchSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_global_launch_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_global_launch_settings" ]
             ] ],
             [ "legendary", "namespacerare_1_1components_1_1tabs_1_1settings_1_1legendary.html", [
               [ "LegendarySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings" ],
@@ -185,10 +200,6 @@ var annotated_dup =
             ] ],
             [ "rare", "namespacerare_1_1components_1_1tabs_1_1settings_1_1rare.html", [
               [ "RareSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings" ]
-            ] ],
-            [ "settings", "namespacerare_1_1components_1_1tabs_1_1settings_1_1settings.html", [
-              [ "GameSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1settings_1_1_game_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1settings_1_1_game_settings" ],
-              [ "LaunchSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1settings_1_1_launch_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1settings_1_1_launch_settings" ]
             ] ],
             [ "widgets", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets.html", [
               [ "discord_rpc", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1discord__rpc.html", [
@@ -201,15 +212,14 @@ var annotated_dup =
                 [ "EnvVarsTableModel", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model" ],
                 [ "MainDialog", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_main_dialog.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_main_dialog" ]
               ] ],
-              [ "game", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1game.html", [
-                [ "GameSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1game_1_1_game_settings_base.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1game_1_1_game_settings_base" ]
-              ] ],
               [ "launch", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch.html", [
                 [ "LaunchSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base" ]
               ] ],
               [ "overlay", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html", [
                 [ "ActivationStates", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_activation_states.html", null ],
-                [ "DxvkSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_settings" ],
+                [ "DxvkConfigSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings" ],
+                [ "DxvkNvapiDrsSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings" ],
+                [ "DxvkOverlaySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_overlay_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_overlay_settings" ],
                 [ "MangoHudSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings" ],
                 [ "OverlayCheckBox", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_check_box.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_check_box" ],
                 [ "OverlayComboBox", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box" ],
@@ -221,6 +231,9 @@ var annotated_dup =
               ] ],
               [ "proton", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton.html", [
                 [ "ProtonSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings" ]
+              ] ],
+              [ "runner", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1runner.html", [
+                [ "RunnerSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1runner_1_1_runner_settings_base.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1runner_1_1_runner_settings_base" ]
               ] ],
               [ "wine", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine.html", [
                 [ "WineSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings" ]
@@ -286,7 +299,6 @@ var annotated_dup =
               [ "Constants", "classrare_1_1components_1_1tabs_1_1store_1_1constants_1_1_constants.html", "classrare_1_1components_1_1tabs_1_1store_1_1constants_1_1_constants" ]
             ] ],
             [ "landing", "namespacerare_1_1components_1_1tabs_1_1store_1_1landing.html", [
-              [ "FreeGamesScroll", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_free_games_scroll.html", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_free_games_scroll" ],
               [ "LandingPage", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_page.html", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_page" ],
               [ "LandingWidget", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_widget" ]
             ] ],

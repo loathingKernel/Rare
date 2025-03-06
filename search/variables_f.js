@@ -47,8 +47,7 @@ var searchData=
   ['progress_5flabel_44',['progress_label',['../classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1library__widget_1_1_library_widget.html#a47cfb9b6ce2b0c88b563bf6e400669c1',1,'rare::components::tabs::library::widgets::library_widget::LibraryWidget']]],
   ['promotions_5fquery_45',['PROMOTIONS_QUERY',['../namespacerare_1_1components_1_1tabs_1_1store_1_1api_1_1constants_1_1queries.html#a14414b8cdcf87d790090e6c404811b01',1,'rare::components::tabs::store::api::constants::queries']]],
   ['promotionsmodel_46',['PromotionsModel',['../classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_catalog_offer_model.html#afd1a7fd713dc9e67533ecadf1c53778d',1,'rare::components::tabs::store::api::models::response::CatalogOfferModel']]],
-  ['proton_5ftool_47',['proton_tool',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1game_1_1_game_settings_base.html#ab4a32eb28a8f29bd8d09853e23db9aa7',1,'rare::components::tabs::settings::widgets::game::GameSettingsBase']]],
-  ['protondb_5furl_48',['protondb_url',['../namespacerare_1_1utils_1_1steam__grades.html#a8a0bdc5cb3d451728255d7c4a552130a',1,'rare::utils::steam_grades']]],
-  ['publisher_49',['publisher',['../classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_details_widget.html#a7277d205751fbcdc6753d41e2d151ee3',1,'rare::ui::components::tabs::store::details::Ui_StoreDetailsWidget']]],
-  ['publisher_5flabel_50',['publisher_label',['../classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_details_widget.html#ace7705e7ffbc0eb10be90732804d2487',1,'rare::ui::components::tabs::store::details::Ui_StoreDetailsWidget']]]
+  ['protondb_5furl_47',['protondb_url',['../namespacerare_1_1utils_1_1steam__grades.html#a8a0bdc5cb3d451728255d7c4a552130a',1,'rare::utils::steam_grades']]],
+  ['publisher_48',['publisher',['../classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_details_widget.html#a7277d205751fbcdc6753d41e2d151ee3',1,'rare::ui::components::tabs::store::details::Ui_StoreDetailsWidget']]],
+  ['publisher_5flabel_49',['publisher_label',['../classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_details_widget.html#ace7705e7ffbc0eb10be90732804d2487',1,'rare::ui::components::tabs::store::details::Ui_StoreDetailsWidget']]]
 ];

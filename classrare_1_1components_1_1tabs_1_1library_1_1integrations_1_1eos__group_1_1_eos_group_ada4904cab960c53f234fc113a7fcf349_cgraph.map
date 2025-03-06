@@ -1,4 +1,14 @@
 <map id="update_state" name="update_state">
-<area shape="rect" id="node1" title=" " alt="" coords="5,37,103,63"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="151,29,417,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,247,103,274"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#ab4497a00f2030cf37a1005cd4a03db92" title=" " alt="" coords="189,29,379,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ab4497a00f2030cf37a1005cd4a03db92" title=" " alt="" coords="155,119,413,146"/>
+<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1misc.html#a75e1dd7e1c0a66c6cccfd8f5511fc81a" title=" " alt="" coords="218,195,350,236"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="151,284,417,325"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_update_widget.html#a1e436b61f937ea687fa3897d286899cf" title=" " alt="" coords="153,373,415,415"/>
+<area shape="rect" id="node8" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a1e436b61f937ea687fa3897d286899cf" title="Reports the currently installed version of the Game." alt="" coords="189,463,379,504"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a278563422a00c7eb39dfc65d0b71f51a" title="Property to report if a Game is an Origin game." alt="" coords="465,112,655,153"/>
+<area shape="rect" id="node9" href="$classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a3ae4fe315e7d530f77daf1e8d63468e3" title=" " alt="" coords="477,417,643,459"/>
+<area shape="rect" id="node10" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a3ae4fe315e7d530f77daf1e8d63468e3" title=" " alt="" coords="465,507,655,548"/>
+<area shape="rect" id="node11" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="711,461,884,503"/>
+<area shape="rect" id="node12" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a030a686885e9e90bfbcd7f7f61fa318b" title="Property that holds the platforms a game is available for." alt="" coords="703,551,892,592"/>
 </map>

@@ -1,6 +1,6 @@
 <map id="LaunchSettingsBase" name="LaunchSettingsBase">
-<area shape="rect" id="node1" title=" " alt="" coords="86,131,229,311"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1settings_1_1_game_launch_settings.html" title=" " alt="" coords="5,359,155,553"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1settings_1_1_launch_settings.html" title=" " alt="" coords="179,417,293,495"/>
-<area shape="rect" id="node2" title=" " alt="" coords="113,5,202,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="95,131,238,311"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_launch_settings.html" title=" " alt="" coords="5,359,155,553"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_global_launch_settings.html" title=" " alt="" coords="179,417,330,495"/>
+<area shape="rect" id="node2" title=" " alt="" coords="122,5,211,83"/>
 </map>

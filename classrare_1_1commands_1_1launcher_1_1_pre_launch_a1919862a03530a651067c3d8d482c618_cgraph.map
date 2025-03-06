@@ -1,9 +1,11 @@
 <map id="prepare_launch" name="prepare_launch">
-<area shape="rect" id="node1" title=" " alt="" coords="5,171,116,198"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a9759496f746c478547ac939b6271959e" title=" " alt="" coords="164,29,368,71"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#abf2d7d38da6177ee9d089cef4917abdd" title=" " alt="" coords="175,119,357,160"/>
-<area shape="rect" id="node6" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="179,208,353,249"/>
-<area shape="rect" id="node7" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" title=" " alt="" coords="176,297,356,339"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a994d4b312004fac05d64b47fe1f7e55c" title=" " alt="" coords="416,75,599,116"/>
-<area shape="rect" id="node5" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#aa9cac0757a279f375bc3641b0aa936f8" title=" " alt="" coords="416,164,599,205"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,226,116,253"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#ae0b5e556bc5d152f008c456ab445ec0b" title=" " alt="" coords="164,84,375,125"/>
+<area shape="rect" id="node5" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#abf2d7d38da6177ee9d089cef4917abdd" title=" " alt="" coords="178,173,361,215"/>
+<area shape="rect" id="node8" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="183,263,356,304"/>
+<area shape="rect" id="node9" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" title=" " alt="" coords="179,352,359,393"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#ae4079e12d04167490b2b535baf65034a" title=" " alt="" coords="423,29,605,71"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a1143cdeef4568dea440a5f8f5aa9ddb2" title=" " alt="" coords="653,171,836,212"/>
+<area shape="rect" id="node6" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a994d4b312004fac05d64b47fe1f7e55c" title=" " alt="" coords="423,171,605,212"/>
+<area shape="rect" id="node7" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#aa9cac0757a279f375bc3641b0aa936f8" title=" " alt="" coords="423,260,605,301"/>
 </map>

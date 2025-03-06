@@ -11,12 +11,12 @@ var classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1
     [ "update_prefixes", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#ae51350a186f0277d85d4e0e7fd5a8518", null ],
     [ "update_state", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#ada4904cab960c53f234fc113a7fcf349", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#ab65a1cfe05166d06195718a9587d7b86", null ],
-    [ "installed_path_label", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#a979a83a85c71545ef6789eddd57d4ca0", null ],
-    [ "installed_version_label", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#a48406031abb60d06fdb961e0e224369c", null ],
+    [ "install_path", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#aaced0c8b7a4a9e90bb385b0fcb593f49", null ],
     [ "overlay", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#ad18735e21b9100cb298ea247556c1868", null ],
     [ "rcore", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#a1d6ec79bbcf8bfd8b30c3e5be0b67f34", null ],
     [ "signals", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#a0de0a2c91773619dac1660c29940c55e", null ],
     [ "threadpool", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#ad7d6a26c2b0e3239367e07430b368118", null ],
     [ "ui", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#ac492f8de2d00b6c4282e766bfadaf2e7", null ],
+    [ "version", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#a4c7a521b8f1a0769c09bfa4a1fca7dab", null ],
     [ "worker", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#a32297f24cbffd363480f4acdc531e1b7", null ]
 ];
