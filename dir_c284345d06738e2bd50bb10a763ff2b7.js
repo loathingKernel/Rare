@@ -28,7 +28,7 @@ var dir_c284345d06738e2bd50bb10a763ff2b7 =
       [ "RareStyle", "classrare_1_1widgets_1_1rare__style_1_1_rare_style.html", "classrare_1_1widgets_1_1rare__style_1_1_rare_style" ]
     ] ],
     [ "selective_widget.py", "selective__widget_8py.html", [
-      [ "TagCheckBox", "classrare_1_1widgets_1_1selective__widget_1_1_tag_check_box.html", "classrare_1_1widgets_1_1selective__widget_1_1_tag_check_box" ],
+      [ "InstallTagCheckBox", "classrare_1_1widgets_1_1selective__widget_1_1_install_tag_check_box.html", "classrare_1_1widgets_1_1selective__widget_1_1_install_tag_check_box" ],
       [ "SelectiveWidget", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget.html", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget" ]
     ] ],
     [ "side_tab.py", "side__tab_8py.html", "side__tab_8py" ],

@@ -1,6 +1,9 @@
 var shared_2wrappers_8py =
 [
+    [ "WrapperEntry", "classrare_1_1shared_1_1wrappers_1_1_wrapper_entry.html", "classrare_1_1shared_1_1wrappers_1_1_wrapper_entry" ],
     [ "Wrappers", "classrare_1_1shared_1_1wrappers_1_1_wrappers.html", "classrare_1_1shared_1_1wrappers_1_1_wrappers" ],
+    [ "adjust_option", "shared_2wrappers_8py.html#a17c1ec151a2d34a2998a7e5492392930", null ],
+    [ "app_wrappers", "shared_2wrappers_8py.html#a4391091859492348bb4bc46cc4e46134", null ],
     [ "config", "shared_2wrappers_8py.html#ad2256458892609d0533df5d72a7257ad", null ],
     [ "config_dir", "shared_2wrappers_8py.html#ae98aba5bd0a7e665c4f138ed242424bb", null ],
     [ "game_wrappers", "shared_2wrappers_8py.html#abd5e928b1a6a154fc1d0af645a512c5b", null ],
@@ -16,6 +19,5 @@ var shared_2wrappers_8py =
     [ "w6", "shared_2wrappers_8py.html#aba3a1c8c7e556694486d909e5c5911f0", null ],
     [ "w7", "shared_2wrappers_8py.html#a114068f33e278fee8489366347830146", null ],
     [ "wr", "shared_2wrappers_8py.html#abdaf24bd72e7b3af79b38ca8f22d7745", null ],
-    [ "wrs", "shared_2wrappers_8py.html#a6fa225240adbe6ca75d96334e34de812", null ],
     [ "wt", "shared_2wrappers_8py.html#a7a7b7e39443ef5fd0550dea9959b22fd", null ]
 ];

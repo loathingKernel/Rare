@@ -6,7 +6,8 @@ var searchData=
   ['wine_5fresolver_2epy_3',['wine_resolver.py',['../wine__resolver_8py.html',1,'']]],
   ['wishlist_2epy_4',['wishlist.py',['../components_2tabs_2store_2wishlist_8py.html',1,'(Global Namespace)'],['../ui_2components_2tabs_2store_2wishlist_8py.html',1,'(Global Namespace)']]],
   ['wishlist_5fwidget_2epy_5',['wishlist_widget.py',['../wishlist__widget_8py.html',1,'']]],
-  ['worker_2epy_6',['worker.py',['../worker_8py.html',1,'']]],
-  ['wrapper_2epy_7',['wrapper.py',['../wrapper_8py.html',1,'']]],
-  ['wrappers_2epy_8',['wrappers.py',['../components_2tabs_2settings_2widgets_2wrappers_8py.html',1,'(Global Namespace)'],['../shared_2wrappers_8py.html',1,'(Global Namespace)']]]
+  ['workarounds_2epy_6',['workarounds.py',['../workarounds_8py.html',1,'']]],
+  ['worker_2epy_7',['worker.py',['../worker_8py.html',1,'']]],
+  ['wrapper_2epy_8',['wrapper.py',['../wrapper_8py.html',1,'']]],
+  ['wrappers_2epy_9',['wrappers.py',['../components_2tabs_2settings_2widgets_2wrappers_8py.html',1,'(Global Namespace)'],['../shared_2wrappers_8py.html',1,'(Global Namespace)']]]
 ];

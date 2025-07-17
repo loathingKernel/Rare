@@ -26,7 +26,8 @@ var searchData=
   ['installinfoworker_23',['InstallInfoWorker',['../classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker.html',1,'rare::shared::workers::install_info']]],
   ['installoptionsmodel_24',['InstallOptionsModel',['../classrare_1_1models_1_1install_1_1_install_options_model.html',1,'rare::models::install']]],
   ['installqueueitemmodel_25',['InstallQueueItemModel',['../classrare_1_1models_1_1install_1_1_install_queue_item_model.html',1,'rare::models::install']]],
-  ['integrationstabs_26',['IntegrationsTabs',['../classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1_integrations_tabs.html',1,'rare::components::tabs::library::integrations']]],
-  ['integrationswidget_27',['IntegrationsWidget',['../classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1_integrations_widget.html',1,'rare::components::tabs::library::integrations']]],
-  ['itemwidget_28',['ItemWidget',['../classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_item_widget.html',1,'rare::components::tabs::store::widgets::items']]]
+  ['installtagcheckbox_26',['InstallTagCheckBox',['../classrare_1_1widgets_1_1selective__widget_1_1_install_tag_check_box.html',1,'rare::widgets::selective_widget']]],
+  ['integrationstabs_27',['IntegrationsTabs',['../classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1_integrations_tabs.html',1,'rare::components::tabs::library::integrations']]],
+  ['integrationswidget_28',['IntegrationsWidget',['../classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1_integrations_widget.html',1,'rare::components::tabs::library::integrations']]],
+  ['itemwidget_29',['ItemWidget',['../classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_item_widget.html',1,'rare::components::tabs::store::widgets::items']]]
 ];

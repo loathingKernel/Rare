@@ -1,7 +1,8 @@
 <map id="click" name="click">
-<area shape="rect" id="node1" title=" " alt="" coords="17,171,66,198"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box.html#acf3a93e2b0705f28b833cc1031b949a6" title=" " alt="" coords="126,29,337,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base.html#adfad5211860514a9e4d582cba44fc4f4" title=" " alt="" coords="118,119,345,160"/>
-<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame.html#adfad5211860514a9e4d582cba44fc4f4" title=" " alt="" coords="114,208,349,249"/>
-<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_group_box.html#adfad5211860514a9e4d582cba44fc4f4" title=" " alt="" coords="190,298,273,325"/>
+<area shape="rect" id="node1" title=" " alt="" coords="17,167,66,194"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base.html#adfad5211860514a9e4d582cba44fc4f4" title=" " alt="" coords="118,29,345,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame.html#adfad5211860514a9e4d582cba44fc4f4" title=" " alt="" coords="114,119,349,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_group_box.html#adfad5211860514a9e4d582cba44fc4f4" title=" " alt="" coords="190,209,273,235"/>
+<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1selective__widget_1_1_install_tag_check_box.html#acf3a93e2b0705f28b833cc1031b949a6" title=" " alt="" coords="132,283,331,339"/>
+<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a72dad49f74d9c9ba67eca7e2ead920e4" title=" " alt="" coords="397,298,614,325"/>
 </map>

@@ -2,8 +2,8 @@ var namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay =
 [
     [ "ActivationStates", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_activation_states.html", null ],
     [ "DxvkConfigSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings" ],
+    [ "DxvkHudSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_hud_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_hud_settings" ],
     [ "DxvkNvapiDrsSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings" ],
-    [ "DxvkOverlaySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_overlay_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_overlay_settings" ],
     [ "MangoHudSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings" ],
     [ "OverlayCheckBox", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_check_box.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_check_box" ],
     [ "OverlayComboBox", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box" ],

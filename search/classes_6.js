@@ -12,12 +12,14 @@ var searchData=
   ['gamesettingsbase_9',['GameSettingsBase',['../classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_game_settings_base.html',1,'rare::components::tabs::settings::game']]],
   ['gamesignals_10',['GameSignals',['../classrare_1_1models_1_1signals_1_1_global_signals_1_1_game_signals.html',1,'rare::models::signals::GlobalSignals']]],
   ['gameslibrary_11',['GamesLibrary',['../classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html',1,'rare::components::tabs::library']]],
-  ['gamewidget_12',['GameWidget',['../classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html',1,'rare::components::tabs::library::widgets::game_widget']]],
-  ['getbooleanchoiceprotocol_13',['GetBooleanChoiceProtocol',['../classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_get_boolean_choice_protocol.html',1,'rare::lgndr::glue::monkeys']]],
-  ['getpriceresmodel_14',['GetPriceResModel',['../classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_get_price_res_model.html',1,'rare::components::tabs::store::api::models::response']]],
-  ['globalcompatsettings_15',['GlobalCompatSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_global_compat_settings.html',1,'rare::components::tabs::settings::compat']]],
-  ['globalgamesettings_16',['GlobalGameSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_global_game_settings.html',1,'rare::components::tabs::settings::game']]],
-  ['globallaunchsettings_17',['GlobalLaunchSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_global_launch_settings.html',1,'rare::components::tabs::settings::game']]],
-  ['globalrunnersettings_18',['GlobalRunnerSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_global_runner_settings.html',1,'rare::components::tabs::settings::compat']]],
-  ['globalsignals_19',['GlobalSignals',['../classrare_1_1models_1_1signals_1_1_global_signals.html',1,'rare::models::signals']]]
+  ['gametagadddialog_12',['GameTagAddDialog',['../classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_add_dialog.html',1,'rare::components::tabs::library::details::details']]],
+  ['gametagcheckbox_13',['GameTagCheckBox',['../classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_check_box.html',1,'rare::components::tabs::library::details::details']]],
+  ['gamewidget_14',['GameWidget',['../classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html',1,'rare::components::tabs::library::widgets::game_widget']]],
+  ['getbooleanchoiceprotocol_15',['GetBooleanChoiceProtocol',['../classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_get_boolean_choice_protocol.html',1,'rare::lgndr::glue::monkeys']]],
+  ['getpriceresmodel_16',['GetPriceResModel',['../classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_get_price_res_model.html',1,'rare::components::tabs::store::api::models::response']]],
+  ['globalcompatsettings_17',['GlobalCompatSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_global_compat_settings.html',1,'rare::components::tabs::settings::compat']]],
+  ['globalgamesettings_18',['GlobalGameSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_global_game_settings.html',1,'rare::components::tabs::settings::game']]],
+  ['globallaunchsettings_19',['GlobalLaunchSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_global_launch_settings.html',1,'rare::components::tabs::settings::game']]],
+  ['globalrunnersettings_20',['GlobalRunnerSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_global_runner_settings.html',1,'rare::components::tabs::settings::compat']]],
+  ['globalsignals_21',['GlobalSignals',['../classrare_1_1models_1_1signals_1_1_global_signals.html',1,'rare::models::signals']]]
 ];

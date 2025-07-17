@@ -1,7 +1,7 @@
 <map id="CompatSettingsBase" name="CompatSettingsBase">
-<area shape="rect" id="node1" title=" " alt="" coords="93,271,238,465"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_compat_settings.html" title=" " alt="" coords="5,513,152,605"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_global_compat_settings.html" title=" " alt="" coords="176,521,328,598"/>
+<area shape="rect" id="node1" title=" " alt="" coords="93,271,238,480"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_compat_settings.html" title=" " alt="" coords="5,528,152,620"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_global_compat_settings.html" title=" " alt="" coords="176,535,328,613"/>
 <area shape="rect" id="node2" title=" " alt="" coords="69,138,141,215"/>
 <area shape="rect" id="node3" href="$classrare_1_1widgets_1_1side__tab_1_1_side_tab_contents.html" title=" " alt="" coords="165,131,288,223"/>
 <area shape="rect" id="node4" title=" " alt="" coords="198,5,255,83"/>

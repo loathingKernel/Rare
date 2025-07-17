@@ -2,6 +2,10 @@ var namespacerare_1_1utils =
 [
     [ "compat", "namespacerare_1_1utils_1_1compat.html", "namespacerare_1_1utils_1_1compat" ],
     [ "config_helper", "namespacerare_1_1utils_1_1config__helper.html", [
+      [ "adjust_envvar", "namespacerare_1_1utils_1_1config__helper.html#a1fb4424b1c4e801a4ee948eee66cf3f1", null ],
+      [ "adjust_option", "namespacerare_1_1utils_1_1config__helper.html#aadcc062faeadaa8c5563719ca3d57aa9", null ],
+      [ "adjust_proton_compatdata", "namespacerare_1_1utils_1_1config__helper.html#a4e6188344459360bdf785548c5d72ce7", null ],
+      [ "adjust_wine_prefix", "namespacerare_1_1utils_1_1config__helper.html#a65e3011dfa9ba230763642affd6e5d49", null ],
       [ "get_boolean", "namespacerare_1_1utils_1_1config__helper.html#ae81d996ac48dfd0728a6429bd783fa38", null ],
       [ "get_envvar", "namespacerare_1_1utils_1_1config__helper.html#a457d37bbe224d5f64555cb8451ca6b18", null ],
       [ "get_envvar_fallback", "namespacerare_1_1utils_1_1config__helper.html#a1036abeb768da2d46786af3a2ff50b63", null ],
@@ -21,10 +25,6 @@ var namespacerare_1_1utils =
       [ "remove_option", "namespacerare_1_1utils_1_1config__helper.html#a9ec9617d16f101878b16aa325a3231f1", null ],
       [ "remove_section", "namespacerare_1_1utils_1_1config__helper.html#a5e4ef4c70ef2e548d6623014935ef0c4", null ],
       [ "save_config", "namespacerare_1_1utils_1_1config__helper.html#a9c8e0fb7cc40aeb2668c9df41056429b", null ],
-      [ "save_envvar", "namespacerare_1_1utils_1_1config__helper.html#abb61ad01d47ef603ef23d607d4e6de35", null ],
-      [ "save_option", "namespacerare_1_1utils_1_1config__helper.html#a267a5f12a4baf45647523a113068e11c", null ],
-      [ "save_proton_compatdata", "namespacerare_1_1utils_1_1config__helper.html#a2140eb21904d70d460af985c8bf9a244", null ],
-      [ "save_wine_prefix", "namespacerare_1_1utils_1_1config__helper.html#abe4da597ff958ca26dbdcf78de1af291", null ],
       [ "set_boolean", "namespacerare_1_1utils_1_1config__helper.html#ad4fe34623cb1be69c5efc79a237e6e9e", null ],
       [ "set_envvar", "namespacerare_1_1utils_1_1config__helper.html#afb11223556320d6455409421029ae307", null ],
       [ "set_option", "namespacerare_1_1utils_1_1config__helper.html#a0a3960476587413425d900834d8377ca", null ]
@@ -84,5 +84,9 @@ var namespacerare_1_1utils =
       [ "steam_shortcuts_supported", "namespacerare_1_1utils_1_1steam__shortcuts.html#a484aafb02f6b04d0a04df9bdb732ce53", null ],
       [ "logger", "namespacerare_1_1utils_1_1steam__shortcuts.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ],
       [ "steam_client_install_paths", "namespacerare_1_1utils_1_1steam__shortcuts.html#a1d36e2d3282a002a669a8b6a6414879b", null ]
+    ] ],
+    [ "workarounds", "namespacerare_1_1utils_1_1workarounds.html", [
+      [ "apply_workarounds", "namespacerare_1_1utils_1_1workarounds.html#a094d0c41a9fe2bb779d8f5954a355653", null ],
+      [ "Set", "namespacerare_1_1utils_1_1workarounds.html#a0fb907d7d6c4e05aca21c1c7cf4ee269", null ]
     ] ]
 ];

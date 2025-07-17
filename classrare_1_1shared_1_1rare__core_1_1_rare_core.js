@@ -12,6 +12,7 @@ var classrare_1_1shared_1_1rare__core_1_1_rare_core =
     [ "fetch", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aaa74ecf58689d52b7b0ee618709228aa", null ],
     [ "fetch_saves", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a18465ae42222b6a7254c72c9815a69d7", null ],
     [ "game_list", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#ac4a25c947b93e07b68dd8ac7d1f17f5f", null ],
+    [ "game_tags", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a646134f881e41a4642c996867a37021a", null ],
     [ "games", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a8b6d96777b61ca0df458868188d67107", null ],
     [ "games_and_dlcs", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a844056ea6564ca86dbcb79b8c5c53302", null ],
     [ "get_game", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a79c176b5faed55afa14f43bf9096caf5", null ],

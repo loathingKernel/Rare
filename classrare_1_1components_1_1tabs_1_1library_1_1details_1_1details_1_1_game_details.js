@@ -1,8 +1,10 @@
 var classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details =
 [
     [ "__init__", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a39d165427992dd2720f91929a88cde17", null ],
+    [ "hideEvent", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a685840c701fe685c02f6af4cef409442", null ],
     [ "move_game", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#ab5496f80e54a69d968995df463181716", null ],
     [ "repair_game", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a0c1ec5a8b5b81f2e8b0483bfd9330a81", null ],
+    [ "showEvent", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a69e1c4c787e405c90bfc338c8241ce7f", null ],
     [ "update_game", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a31df619d45c585656d938a0c09e9d115", null ],
     [ "verify_game", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#ad98d231f7b0a60e8aa3b72120eebf843", null ],
     [ "args", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a8187411843a6284ffb964ef3fb9fcab3", null ],

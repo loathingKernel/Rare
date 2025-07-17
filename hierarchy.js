@@ -173,6 +173,7 @@ var hierarchy =
     [ "WishlistItemsModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_wishlist_items_model.html", null ],
     [ "WishlistModel", "classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_wishlist_model.html", null ],
     [ "Wrapper", "classrare_1_1models_1_1wrapper_1_1_wrapper.html", null ],
+    [ "WrapperEntry", "classrare_1_1shared_1_1wrappers_1_1_wrapper_entry.html", null ],
     [ "Wrappers", "classrare_1_1shared_1_1wrappers_1_1_wrappers.html", null ],
     [ "Enum", null, [
       [ "ImageType", "classrare_1_1models_1_1image_1_1_image_type.html", null ],
@@ -232,10 +233,10 @@ var hierarchy =
       ] ]
     ] ],
     [ "QCheckBox", null, [
-      [ "TagCheckBox", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box.html", null ],
+      [ "GameTagCheckBox", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_check_box.html", null ],
       [ "OverlayCheckBox", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_check_box.html", null ],
       [ "CheckBox", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_check_box.html", null ],
-      [ "TagCheckBox", "classrare_1_1widgets_1_1selective__widget_1_1_tag_check_box.html", null ]
+      [ "InstallTagCheckBox", "classrare_1_1widgets_1_1selective__widget_1_1_install_tag_check_box.html", null ]
     ] ],
     [ "QComboBox", null, [
       [ "OverlayComboBox", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html", [
@@ -243,7 +244,7 @@ var hierarchy =
       ] ]
     ] ],
     [ "QCompleter", null, [
-      [ "AppNameCompleter", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_app_name_completer.html", null ]
+      [ "ColumnCompleter", "classrare_1_1widgets_1_1indicator__edit_1_1_column_completer.html", null ]
     ] ],
     [ "QDialog", null, [
       [ "ConsoleDialog", "classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html", null ],
@@ -258,6 +259,7 @@ var hierarchy =
           [ "CloudSyncDialog", "classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html", null ],
           [ "SelectiveDialog", "classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog.html", null ],
           [ "UninstallDialog", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html", null ],
+          [ "GameTagAddDialog", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_add_dialog.html", null ],
           [ "WrapperEditDialog", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_edit_dialog.html", [
             [ "WrapperAddDialog", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_add_dialog.html", null ]
           ] ],
@@ -307,9 +309,11 @@ var hierarchy =
         [ "DxvkConfigSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings.html", [
           [ "LocalDxvkConfigSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_config_settings.html", null ]
         ] ],
-        [ "DxvkNvapiDrsSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings.html", null ],
-        [ "DxvkOverlaySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_overlay_settings.html", [
-          [ "LocalDxvkOverlaySettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_overlay_settings.html", null ]
+        [ "DxvkHudSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_hud_settings.html", [
+          [ "LocalDxvkHudSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_hud_settings.html", null ]
+        ] ],
+        [ "DxvkNvapiDrsSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings.html", [
+          [ "LocalDxvkNvapiDrsSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_nvapi_drs_settings.html", null ]
         ] ],
         [ "MangoHudSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings.html", [
           [ "LocalMangoHudSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_mango_hud_settings.html", null ]
@@ -423,7 +427,8 @@ var hierarchy =
         [ "RefreshGameMetaWorker", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html", null ],
         [ "FetchWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html", [
           [ "EntitlementsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html", null ],
-          [ "GamesDlcsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html", null ]
+          [ "GamesDlcsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html", null ],
+          [ "SteamAppIdsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_steam_app_ids_worker.html", null ]
         ] ],
         [ "InstallInfoWorker", "classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker.html", null ],
         [ "UninstallWorker", "classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html", null ],

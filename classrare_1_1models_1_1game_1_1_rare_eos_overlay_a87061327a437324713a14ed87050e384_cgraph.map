@@ -1,5 +1,7 @@
 <map id="disable" name="disable">
-<area shape="rect" id="node1" title=" " alt="" coords="5,37,68,63"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a197f6461e0ae30d6681905c952edd02f" title=" " alt="" coords="116,37,200,63"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="248,29,421,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="8,82,71,109"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1wrapper_1_1_wrapper.html#a619f6caf8ea967eb02834998b7859bbc" title=" " alt="" coords="119,32,321,73"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a197f6461e0ae30d6681905c952edd02f" title=" " alt="" coords="178,123,262,150"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1wrapper_1_1_wrapper.html#aa20aca14dd0b8100dab7a4d1488ab10e" title=" " alt="" coords="369,29,572,71"/>
+<area shape="rect" id="node5" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="384,119,557,160"/>
 </map>

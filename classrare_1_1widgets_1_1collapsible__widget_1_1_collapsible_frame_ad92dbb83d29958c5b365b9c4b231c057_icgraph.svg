@@ -185,10 +185,10 @@ var sectionId = 'dynsection-15';
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_overlay_settings.html#a39d165427992dd2720f91929a88cde17" target="_top" xlink:title=" ">
+<g id="a_node9"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_hud_settings.html#a39d165427992dd2720f91929a88cde17" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="1.5,-603.5 1.5,-633.5 219.5,-633.5 219.5,-603.5 1.5,-603.5"/>
 <text text-anchor="start" x="9.5" y="-621.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.widgets.overlay.</text>
-<text text-anchor="middle" x="110.5" y="-610.5" font-family="Helvetica,sans-Serif" font-size="10.00">DxvkOverlaySettings.__init__</text>
+<text text-anchor="middle" x="110.5" y="-610.5" font-family="Helvetica,sans-Serif" font-size="10.00">DxvkHudSettings.__init__</text>
 </a>
 </g>
 </g>

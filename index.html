@@ -113,7 +113,7 @@ Reporting issues</h1>
 <tr class="markdownTableRowEven">
 <td class="markdownTableBodyNone">Linux   </td><td class="markdownTableBodyNone"><code>/home/&lt;username&gt;/.cache/Rare/Rare/logs</code>    </td></tr>
 <tr class="markdownTableRowOdd">
-<td class="markdownTableBodyNone">masOS   </td><td class="markdownTableBodyNone"><code>/Users/&lt;username&gt;/Library/Caches/Rare/Rare/logs</code>   </td></tr>
+<td class="markdownTableBodyNone">macOS   </td><td class="markdownTableBodyNone"><code>/Users/&lt;username&gt;/Library/Caches/Rare/Rare/logs</code>   </td></tr>
 </table>
 <p >In these folders you will find files named like below</p>
 <ul>
@@ -126,13 +126,31 @@ Reporting issues</h1>
 <p >These are the logs for each of the games you run through Rare. Rare uses a separate instance of itself to launch games, and these are the logs of that instance.</p>
 <p >If you don't have a GitHub account or you just want to chat, you also can contact us on Discord: <a href="https://discord.gg/YvmABK9YSk">https://discord.gg/YvmABK9YSk</a></p>
 <h1><a class="anchor" id="autotoc_md6"></a>
+Common issues</h1>
+<ul>
+<li>If you are using multiple accounts, there is a chance that at some point you will not be able to log in into your account and see something like the following. <blockquote class="doxtable">
+<p >Login failed. Decryption of EPIC launcher user information failed. </p>
+</blockquote>
+In that case navigate to one of the following directorories depending on your operating system and delete <code>user.json</code></li>
+</ul>
+<table class="markdownTable">
+<tr class="markdownTableHead">
+<th class="markdownTableHeadNone">OS   </th><th class="markdownTableHeadNone">Path    </th></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">Windows   </td><td class="markdownTableBodyNone"><code>USERPROFILE%\.config\legendary\</code>    </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">Linux   </td><td class="markdownTableBodyNone"><code>$HOME/.config/legendary/</code>    </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">macOS   </td><td class="markdownTableBodyNone"><code>$HOME/.config/legendary/</code>   </td></tr>
+</table>
+<h1><a class="anchor" id="autotoc_md7"></a>
 Installation</h1>
-<h2><a class="anchor" id="autotoc_md7"></a>
+<h2><a class="anchor" id="autotoc_md8"></a>
 Windows</h2>
 <p >There is an <code>.msi</code> installer available in <a href="https://github.com/RareDevs/Rare/releases">releases page</a>.</p>
 <p >There is also a semi-portable <code>.zip</code> archive in <a href="https://github.com/RareDevs/Rare/releases">releases page</a> that lets you run Rare without installing it.</p>
 <p ><b>Important</b>: On recent version of Windows you should have MSVC 2015 installed, you can get it from <a href="https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022">here</a></p>
-<h3><a class="anchor" id="autotoc_md8"></a>
+<h3><a class="anchor" id="autotoc_md9"></a>
 Packages</h3>
 <ul>
 <li>Rare is available as a <a href="https://github.com/microsoft/winget-pkgs/tree/master/manifests/d/Dummerle/Rare">Winget package</a>. You can install Rare with the following one-liner: <div class="fragment"><div class="line">winget install rare</div>
@@ -140,25 +158,25 @@ Packages</h3>
 <li>Rare is available as a <a href="https://community.chocolatey.org/packages/rare">Chocolatey package</a>. You can install Rare with the following one-liner: <div class="fragment"><div class="line">choco install rare</div>
 </div><!-- fragment --></li>
 </ul>
-<h2><a class="anchor" id="autotoc_md9"></a>
+<h2><a class="anchor" id="autotoc_md10"></a>
 Linux</h2>
-<h3><a class="anchor" id="autotoc_md10"></a>
+<h3><a class="anchor" id="autotoc_md11"></a>
 Flatpak</h3>
 <p >Rare is available as a flatpak. See <a href="https://flathub.org/apps/details/io.github.dummerle.rare">rare</a>.</p>
 <p >Install it via: </p><div class="fragment"><div class="line">flatpak install flathub io.github.dummerle.rare</div>
 </div><!-- fragment --><p >Run it via: </p><div class="fragment"><div class="line">flatpak run io.github.dummerle.rare</div>
 </div><!-- fragment --><p >Alternatively, you can download the flatpak package from <a href="https://github.com/RareDevs/io.github.dummerle.rare/releases">our repository</a></p>
-<h2><a class="anchor" id="autotoc_md11"></a>
+<h2><a class="anchor" id="autotoc_md12"></a>
 AppImage</h2>
 <p >Available in <a href="https://github.com/RareDevs/Rare/releases">releases page</a>.</p>
-<h3><a class="anchor" id="autotoc_md12"></a>
+<h3><a class="anchor" id="autotoc_md13"></a>
 Arch based</h3>
 <p >There are some AUR packages available:</p>
 <ul>
 <li><a href="https://aur.archlinux.org/packages/rare">rare</a> - for stable releases</li>
 <li><a href="https://aur.archlinux.org/packages/rare-git">rare-git</a> - for the latest development version</li>
 </ul>
-<h3><a class="anchor" id="autotoc_md13"></a>
+<h3><a class="anchor" id="autotoc_md14"></a>
 Debian based</h3>
 <ul>
 <li>DUR package: <a href="https://mpr.hunterwittenborn.com/packages/rare">rare</a></li>
@@ -168,18 +186,18 @@ Debian based</h3>
 <li>pypresence is an optional package. You can install it from <a href="https://mpr.hunterwittenborn.com/packages/python3-pypresence">DUR</a> or with pip.</li>
 <li>Some icons might look strange on Debian based distributions. The official python3-qtawesome package is too old.</li>
 </ul>
-<h2><a class="anchor" id="autotoc_md14"></a>
+<h2><a class="anchor" id="autotoc_md15"></a>
 macOS</h2>
 <p >There is a <code>.dmg</code> file available in <a href="https://github.com/RareDevs/Rare/releases">releases page</a>.</p>
 <p >Rare's macOS binaries are currently not singed and because of that when you launch Rare, you will see an error, that the package is from an unknown source. You have to enable it manually in <code>Settings -&gt; Security and Privacy</code>. Otherwise, Gatekeeper will block Rare from running.</p>
 <p >After installing Rare, if macOS complains that it is damaged, open a terminal and run the following command </p><div class="fragment"><div class="line">sudo xattr -dr com.apple.quarantine /Applications/Rare.app</div>
 </div><!-- fragment --><p> which will allow the application to run normally.</p>
 <p >Alternatively, you can install using <code>pip</code>/<code>pipx</code> or from source.</p>
-<h2><a class="anchor" id="autotoc_md15"></a>
+<h2><a class="anchor" id="autotoc_md16"></a>
 Latest development version</h2>
 <p >In the <a href="https://github.com/RareDevs/Rare/actions/workflows/snapshot.yml">actions</a> tab you can find packages for the latest commits.</p>
 <p ><b>Note</b>: They might be unstable and likely broken.</p>
-<h2><a class="anchor" id="autotoc_md16"></a>
+<h2><a class="anchor" id="autotoc_md17"></a>
 Installation via pip (platform independent)</h2>
 <p >Execute <code>pip install Rare</code> for all users, or <code>pip install Rare --user</code> for the current user only.</p>
 <ul>
@@ -196,9 +214,9 @@ Installation via pip (platform independent)</h2>
 <tr class="markdownTableRowEven">
 <td class="markdownTableBodyNone">Linux   </td><td class="markdownTableBodyNone"><code>/home/&lt;username&gt;/.local/bin</code>    </td></tr>
 <tr class="markdownTableRowOdd">
-<td class="markdownTableBodyNone">masOS   </td><td class="markdownTableBodyNone"><code>/Users/&lt;username&gt;/Library/Python/3.x/bin</code>   </td></tr>
+<td class="markdownTableBodyNone">macOS   </td><td class="markdownTableBodyNone"><code>/Users/&lt;username&gt;/Library/Python/3.x/bin</code>   </td></tr>
 </table>
-<h2><a class="anchor" id="autotoc_md17"></a>
+<h2><a class="anchor" id="autotoc_md18"></a>
 Run from source</h2>
 <ol type="1">
 <li>Clone the repo: <code>git clone <a href="https://github.com/RareDevs/Rare">https://github.com/RareDevs/Rare</a></code></li>
@@ -214,7 +232,7 @@ Run from source</h2>
 </li>
 <li><code>Run</code>python3 -m rare`</li>
 </ol>
-<h1><a class="anchor" id="autotoc_md18"></a>
+<h1><a class="anchor" id="autotoc_md19"></a>
 Contributing</h1>
 <p >There are several options to contribute.</p>
 <ul>
@@ -222,7 +240,7 @@ Contributing</h1>
 <li>You can translate the application in your language: Check our <a href="https://www.transifex.com/rare-1/rare">transifex</a> page for that.</li>
 </ul>
 <p >More information is available in CONTRIBUTING.md.</p>
-<h1><a class="anchor" id="autotoc_md19"></a>
+<h1><a class="anchor" id="autotoc_md20"></a>
 Screenshots</h1>
 <table class="markdownTable">
 <tr class="markdownTableHead">

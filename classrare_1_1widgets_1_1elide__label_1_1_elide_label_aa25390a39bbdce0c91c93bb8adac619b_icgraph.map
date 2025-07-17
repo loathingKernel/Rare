@@ -1,9 +1,10 @@
 <map id="setText" name="setText">
-<area shape="rect" id="node1" title=" " alt="" coords="683,224,748,251"/>
+<area shape="rect" id="node1" title=" " alt="" coords="683,284,748,311"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_tab_button_widget.html#adcdc47594d7e1aee3f78bc9fdb90e440" title=" " alt="" coords="399,29,579,85"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box.html#a76ea5a4239cce08ee2dc391579a2f2e2" title=" " alt="" coords="390,134,589,175"/>
-<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1elide__label_1_1_elide_label.html#afd72e8ba55945f7de018094f120bd3c8" title=" " alt="" coords="456,224,523,251"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit.html#ae8cc8c5a2c7576b6684240f0104a3345" title=" " alt="" coords="344,350,635,391"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit.html#a9ff4a771b55b705e2653927926385052" title=" " alt="" coords="5,267,296,309"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html#a9ff4a771b55b705e2653927926385052" title=" " alt="" coords="5,357,296,398"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_check_box.html#ae01da8d90d776928b7a9e2d7e4fb12d9" title=" " alt="" coords="355,134,623,175"/>
+<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1selective__widget_1_1_install_tag_check_box.html#a76ea5a4239cce08ee2dc391579a2f2e2" title=" " alt="" coords="395,224,584,280"/>
+<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1elide__label_1_1_elide_label.html#afd72e8ba55945f7de018094f120bd3c8" title=" " alt="" coords="456,328,523,355"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit.html#ae8cc8c5a2c7576b6684240f0104a3345" title=" " alt="" coords="344,454,635,495"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit.html#a9ff4a771b55b705e2653927926385052" title=" " alt="" coords="5,371,296,413"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html#a9ff4a771b55b705e2653927926385052" title=" " alt="" coords="5,461,296,502"/>
 </map>

@@ -1,4 +1,0 @@
-var classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_app_name_completer =
-[
-    [ "__init__", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_app_name_completer.html#ad9e356ce8831071909053c9fc4bf1268", null ]
-];

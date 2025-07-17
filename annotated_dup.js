@@ -28,8 +28,7 @@ var annotated_dup =
           [ "install_dialog", "namespacerare_1_1components_1_1dialogs_1_1install__dialog.html", [
             [ "InstallDialog", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog" ],
             [ "InstallDialogAdvanced", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_advanced.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_advanced" ],
-            [ "InstallDialogSelective", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_selective.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_selective" ],
-            [ "TagCheckBox", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_tag_check_box" ]
+            [ "InstallDialogSelective", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_selective.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_selective" ]
           ] ],
           [ "launch_dialog", "namespacerare_1_1components_1_1dialogs_1_1launch__dialog.html", [
             [ "LaunchDialog", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog" ]
@@ -90,14 +89,17 @@ var annotated_dup =
               [ "compat", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1compat.html", [
                 [ "LocalCompatSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_compat_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_compat_settings" ],
                 [ "LocalDxvkConfigSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_config_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_config_settings" ],
-                [ "LocalDxvkOverlaySettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_overlay_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_overlay_settings" ],
+                [ "LocalDxvkHudSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_hud_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_hud_settings" ],
+                [ "LocalDxvkNvapiDrsSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_nvapi_drs_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_nvapi_drs_settings" ],
                 [ "LocalMangoHudSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_mango_hud_settings" ],
                 [ "LocalProtonSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_proton_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_proton_settings" ],
                 [ "LocalRunnerSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_runner_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_runner_settings" ],
                 [ "LocalWineSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_wine_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_wine_settings" ]
               ] ],
               [ "details", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1details.html", [
-                [ "GameDetails", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details" ]
+                [ "GameDetails", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details" ],
+                [ "GameTagAddDialog", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_add_dialog.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_add_dialog" ],
+                [ "GameTagCheckBox", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_check_box.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_check_box" ]
               ] ],
               [ "dlcs", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs.html", [
                 [ "AvailableGameDlcWidget", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_available_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_available_game_dlc_widget" ],
@@ -135,7 +137,6 @@ var annotated_dup =
                 [ "EosPrefixWidget", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_prefix_widget" ]
               ] ],
               [ "import_group", "namespacerare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group.html", [
-                [ "AppNameCompleter", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_app_name_completer.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_app_name_completer" ],
                 [ "ImportedGame", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_imported_game.html", null ],
                 [ "ImportGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group" ],
                 [ "ImportResult", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_result.html", null ],
@@ -218,8 +219,8 @@ var annotated_dup =
               [ "overlay", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html", [
                 [ "ActivationStates", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_activation_states.html", null ],
                 [ "DxvkConfigSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings" ],
+                [ "DxvkHudSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_hud_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_hud_settings" ],
                 [ "DxvkNvapiDrsSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings" ],
-                [ "DxvkOverlaySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_overlay_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_overlay_settings" ],
                 [ "MangoHudSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings" ],
                 [ "OverlayCheckBox", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_check_box.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_check_box" ],
                 [ "OverlayComboBox", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box" ],
@@ -468,7 +469,8 @@ var annotated_dup =
           [ "fetch", "namespacerare_1_1shared_1_1workers_1_1fetch.html", [
             [ "EntitlementsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker" ],
             [ "FetchWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker" ],
-            [ "GamesDlcsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker" ]
+            [ "GamesDlcsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker" ],
+            [ "SteamAppIdsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_steam_app_ids_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_steam_app_ids_worker" ]
           ] ],
           [ "install_info", "namespacerare_1_1shared_1_1workers_1_1install__info.html", [
             [ "InstallInfoWorker", "classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker.html", "classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker" ]
@@ -495,6 +497,7 @@ var annotated_dup =
           ] ]
         ] ],
         [ "wrappers", "namespacerare_1_1shared_1_1wrappers.html", [
+          [ "WrapperEntry", "classrare_1_1shared_1_1wrappers_1_1_wrapper_entry.html", "classrare_1_1shared_1_1wrappers_1_1_wrapper_entry" ],
           [ "Wrappers", "classrare_1_1shared_1_1wrappers_1_1_wrappers.html", "classrare_1_1shared_1_1wrappers_1_1_wrappers" ]
         ] ]
       ] ],
@@ -680,6 +683,7 @@ var annotated_dup =
           [ "ImageWidget", "classrare_1_1widgets_1_1image__widget_1_1_image_widget.html", "classrare_1_1widgets_1_1image__widget_1_1_image_widget" ]
         ] ],
         [ "indicator_edit", "namespacerare_1_1widgets_1_1indicator__edit.html", [
+          [ "ColumnCompleter", "classrare_1_1widgets_1_1indicator__edit_1_1_column_completer.html", "classrare_1_1widgets_1_1indicator__edit_1_1_column_completer" ],
           [ "EditFuncRunnable", "classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable.html", "classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable" ],
           [ "IndicatorLineEdit", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit" ],
           [ "IndicatorReasons", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons.html", null ],
@@ -702,8 +706,8 @@ var annotated_dup =
           [ "RareStyle", "classrare_1_1widgets_1_1rare__style_1_1_rare_style.html", "classrare_1_1widgets_1_1rare__style_1_1_rare_style" ]
         ] ],
         [ "selective_widget", "namespacerare_1_1widgets_1_1selective__widget.html", [
-          [ "SelectiveWidget", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget.html", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget" ],
-          [ "TagCheckBox", "classrare_1_1widgets_1_1selective__widget_1_1_tag_check_box.html", "classrare_1_1widgets_1_1selective__widget_1_1_tag_check_box" ]
+          [ "InstallTagCheckBox", "classrare_1_1widgets_1_1selective__widget_1_1_install_tag_check_box.html", "classrare_1_1widgets_1_1selective__widget_1_1_install_tag_check_box" ],
+          [ "SelectiveWidget", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget.html", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget" ]
         ] ],
         [ "side_tab", "namespacerare_1_1widgets_1_1side__tab.html", [
           [ "SideTabBar", "classrare_1_1widgets_1_1side__tab_1_1_side_tab_bar.html", "classrare_1_1widgets_1_1side__tab_1_1_side_tab_bar" ],

@@ -28,24 +28,25 @@ var NAVTREE =
     [ "A frontend for legendary, the open source Epic Games Launcher alternative", "index.html#autotoc_md3", null ],
     [ "Why Rare?", "index.html#autotoc_md4", null ],
     [ "Reporting issues", "index.html#autotoc_md5", null ],
-    [ "Installation", "index.html#autotoc_md6", [
-      [ "Windows", "index.html#autotoc_md7", [
-        [ "Packages", "index.html#autotoc_md8", null ]
+    [ "Common issues", "index.html#autotoc_md6", null ],
+    [ "Installation", "index.html#autotoc_md7", [
+      [ "Windows", "index.html#autotoc_md8", [
+        [ "Packages", "index.html#autotoc_md9", null ]
       ] ],
-      [ "Linux", "index.html#autotoc_md9", [
-        [ "Flatpak", "index.html#autotoc_md10", null ]
+      [ "Linux", "index.html#autotoc_md10", [
+        [ "Flatpak", "index.html#autotoc_md11", null ]
       ] ],
-      [ "AppImage", "index.html#autotoc_md11", [
-        [ "Arch based", "index.html#autotoc_md12", null ],
-        [ "Debian based", "index.html#autotoc_md13", null ]
+      [ "AppImage", "index.html#autotoc_md12", [
+        [ "Arch based", "index.html#autotoc_md13", null ],
+        [ "Debian based", "index.html#autotoc_md14", null ]
       ] ],
-      [ "macOS", "index.html#autotoc_md14", null ],
-      [ "Latest development version", "index.html#autotoc_md15", null ],
-      [ "Installation via pip (platform independent)", "index.html#autotoc_md16", null ],
-      [ "Run from source", "index.html#autotoc_md17", null ]
+      [ "macOS", "index.html#autotoc_md15", null ],
+      [ "Latest development version", "index.html#autotoc_md16", null ],
+      [ "Installation via pip (platform independent)", "index.html#autotoc_md17", null ],
+      [ "Run from source", "index.html#autotoc_md18", null ]
     ] ],
-    [ "Contributing", "index.html#autotoc_md18", null ],
-    [ "Screenshots", "index.html#autotoc_md19", null ],
+    [ "Contributing", "index.html#autotoc_md19", null ],
+    [ "Screenshots", "index.html#autotoc_md20", null ],
     [ "Packages", "namespaces.html", [
       [ "Packages", "namespaces.html", "namespaces_dup" ],
       [ "Package Functions", "namespacemembers.html", [
@@ -74,32 +75,32 @@ var NAVTREEINDEX =
 [
 "____init_____8py.html",
 "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html#aa902973791e81c8c4542da337b86289b",
-"classrare_1_1components_1_1main__window_1_1_rare_window.html#a8187411843a6284ffb964ef3fb9fcab3",
-"classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#abbc89345e5566a4f25c67a25838d60da",
-"classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_game_settings.html#a1d7fb6f66483b4e5b1ab0c32220c829e",
-"classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#a32297f24cbffd363480f4acdc531e1b7",
-"classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_view_container.html#ac2120158d02c101a8e51b0a363da2919",
-"classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_game_settings_base.html#a667d39fdfabe75662c24e6268ad500fd",
-"classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit.html#a3cfe71f40b244562d3665516c3934c06",
-"classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1query_1_1_search_store_query.html#a2287aeb3140dc753df7c798eb8f978a6",
-"classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#aa435e12b981d32efaa28900b588d9080",
-"classrare_1_1lgndr_1_1core_1_1_legendary_core.html",
-"classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a34fdf2c85c8c7358e5d5f65cace4a6b7",
-"classrare_1_1models_1_1library_1_1_library_order.html",
-"classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html#a0de0a2c91773619dac1660c29940c55e",
-"classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog__advanced_1_1_ui___install_dialog_advanced.html#a76bf2e9267562085bb12b4fb7bd4ec0b",
-"classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__sync__widget_1_1_ui___cloud_sync_widget.html#a8bca68c145928164b86a7af9df216eea",
-"classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__widget_1_1_ui___eos_widget.html#aa0954a4fe6f0e57890682cdc376ba4de",
-"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1discord__rpc_1_1_ui___discord_r_p_c_settings.html#a698ab916b059029df8a76c8babf4f0c0",
-"classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_ui___wishlist.html#a50aea7786e291eee22a660a52777c698",
-"classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame.html#adfad5211860514a9e4d582cba44fc4f4",
-"classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_strings.html",
-"components_2tabs_2library_2integrations_2____init_____8py_source.html",
-"functions_func_m.html",
-"namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#ae0b5e556bc5d152f008c456ab445ec0b",
-"namespacerare_1_1shared_1_1workers_1_1verify.html#a0b14e488ae28d98d262453f3e9cd6e4d",
-"namespacerare_1_1widgets_1_1selective__widget.html",
-"uninstall_8py.html"
+"classrare_1_1components_1_1main__window_1_1_rare_window.html#a977caf497a400fbd3c5aea459be200f4",
+"classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#afda815913f9185986c3c782371483248",
+"classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlcs.html#a667d39fdfabe75662c24e6268ad500fd",
+"classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker.html",
+"classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_list_view_container.html",
+"classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_global_runner_settings.html",
+"classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html",
+"classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_product_about.html",
+"classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html",
+"classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a41a65d7030dd1006b177d0bc24e1a12b",
+"classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals.html#ab587deac2ae34c126e6222afedb790ea",
+"classrare_1_1models_1_1install_1_1_uninstall_options_model.html",
+"classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a79c176b5faed55afa14f43bf9096caf5",
+"classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html#a3f18da6e3da6292301a9add898be10fb",
+"classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__base__widget_1_1_ui___queue_base_widget.html#af8709f63bc4049dc0d414ded0ccdc884",
+"classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_ui___e_g_l_sync_group.html#a7059b8e093a2039312e4a5dcbc0cb1b1",
+"classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1rare_1_1_ui___rare_settings.html#a6ca587a3481089b7ba1beccf17106c3c",
+"classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1search_1_1_ui___search_widget.html#adb35a32a2a57be6694f4190244847aec",
+"classrare_1_1widgets_1_1button__edit_1_1_button_line_edit.html",
+"classrare_1_1widgets_1_1image__widget_1_1_image_widget.html#abd3cbdf9ddb2421858afdd25fe0799ae",
+"collapsible__widget_8py.html",
+"dir_ef8924b2d63133e6517fd29e74e0600f.html",
+"models_2game_8py.html",
+"namespacerare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details.html",
+"namespacerare_1_1utils_1_1paths.html#a63ca50e1dbf62bd5632bc84b8bda2f22",
+"store_2api_2debug_8py_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

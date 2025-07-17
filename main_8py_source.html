@@ -184,62 +184,84 @@ $(document).ready(function(){initNavTree('main_8py_source.html',''); initResizab
 <div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>        help=<span class="stringliteral">&quot;Epic Games Launcher User Agent version&quot;</span>,</div>
 <div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>    )</div>
 <div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span> </div>
-<div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>    args = parser.parse_args()</div>
-<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span> </div>
-<div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>    <span class="keywordflow">if</span> args.desktop_shortcut <span class="keywordflow">or</span> args.startmenu_shortcut:</div>
-<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>        <span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils_1_1paths.html">rare.utils.paths</a> <span class="keyword">import</span> create_desktop_link</div>
-<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span> </div>
-<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>        <span class="keywordflow">if</span> args.desktop_shortcut:</div>
-<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>            <a class="code hl_function" href="namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5">create_desktop_link</a>(app_name=<span class="stringliteral">&quot;rare_shortcut&quot;</span>, link_type=<span class="stringliteral">&quot;desktop&quot;</span>)</div>
+<div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>    <span class="comment"># Subreaper command</span></div>
+<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>    subreaper_parser = subparsers.add_parser(<span class="stringliteral">&quot;subreaper&quot;</span>, aliases=[<span class="stringliteral">&quot;reaper&quot;</span>])</div>
+<div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>    subreaper_parser.add_argument(</div>
+<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>        <span class="stringliteral">&#39;--workdir&#39;</span>, action=<span class="stringliteral">&#39;store&#39;</span>, dest=<span class="stringliteral">&#39;workdir&#39;</span>,</div>
+<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>        metavar=<span class="stringliteral">&#39;&lt;workdir&gt;&#39;</span>,</div>
+<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>        help=<span class="stringliteral">&quot;Run command in this directory&quot;</span>,</div>
+<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>    )</div>
 <div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span> </div>
-<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>        <span class="keywordflow">if</span> args.startmenu_shortcut:</div>
-<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>            <a class="code hl_function" href="namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5">create_desktop_link</a>(app_name=<span class="stringliteral">&quot;rare_shortcut&quot;</span>, link_type=<span class="stringliteral">&quot;start_menu&quot;</span>)</div>
-<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span> </div>
-<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>        print(<span class="stringliteral">&quot;Link created&quot;</span>)</div>
-<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>        <span class="keywordflow">return</span> 0</div>
+<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>    subreaper_parser.add_argument(</div>
+<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>        <span class="stringliteral">&quot;command&quot;</span>, action=<span class="stringliteral">&quot;store&quot;</span>,</div>
+<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>        metavar=<span class="stringliteral">&quot;&lt;command&gt;&quot;</span>,</div>
+<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>        help=<span class="stringliteral">&quot;Command to execute in the subreaper&quot;</span></div>
+<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>    )</div>
 <div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span> </div>
-<div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span>    <span class="keywordflow">if</span> args.version:</div>
-<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>        <span class="keyword">from</span> rare <span class="keyword">import</span> __version__, __codename__</div>
-<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>        print(f<span class="stringliteral">&quot;Rare {__version__} Codename: {__codename__}&quot;</span>)</div>
-<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>        <span class="keywordflow">return</span> 0</div>
+<div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span>    args, other = parser.parse_known_args()</div>
+<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span> </div>
+<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>    <span class="keywordflow">if</span> args.desktop_shortcut <span class="keywordflow">or</span> args.startmenu_shortcut:</div>
+<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>        <span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils_1_1paths.html">rare.utils.paths</a> <span class="keyword">import</span> create_desktop_link</div>
 <div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span> </div>
-<div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>    <span class="keywordflow">if</span> args.subparser <span class="keywordflow">in</span> {<span class="stringliteral">&quot;login&quot;</span>, <span class="stringliteral">&quot;auth&quot;</span>}:</div>
-<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>        <span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1commands_1_1webview.html">rare.commands.webview</a> <span class="keyword">import</span> launch</div>
-<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="namespacerare_1_1commands_1_1launcher.html#a412675ee25d478741940175d2c1d9757">launch</a>(args)</div>
-<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span> </div>
-<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>    <span class="keywordflow">if</span> args.subparser <span class="keywordflow">in</span> {<span class="stringliteral">&quot;launch&quot;</span>, <span class="stringliteral">&quot;start&quot;</span>}:</div>
-<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>        <span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1commands_1_1launcher.html">rare.commands.launcher</a> <span class="keyword">import</span> launch</div>
-<div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="namespacerare_1_1commands_1_1launcher.html#a412675ee25d478741940175d2c1d9757">launch</a>(args)</div>
-<div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span> </div>
-<div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span>    <span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils.html">rare.utils</a> <span class="keyword">import</span> singleton</div>
-<div class="line"><a id="l00126" name="l00126"></a><span class="lineno">  126</span> </div>
-<div class="line"><a id="l00127" name="l00127"></a><span class="lineno">  127</span>    <span class="keywordflow">try</span>:</div>
-<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>        <span class="comment"># this object only allows one instance per machine</span></div>
-<div class="line"><a id="l00129" name="l00129"></a><span class="lineno">  129</span> </div>
-<div class="line"><a id="l00130" name="l00130"></a><span class="lineno">  130</span>        me = singleton.SingleInstance()</div>
-<div class="line"><a id="l00131" name="l00131"></a><span class="lineno">  131</span>    <span class="keywordflow">except</span> singleton.SingleInstanceException:</div>
-<div class="line"><a id="l00132" name="l00132"></a><span class="lineno">  132</span>        print(<span class="stringliteral">&quot;Rare is already running&quot;</span>)</div>
-<div class="line"><a id="l00133" name="l00133"></a><span class="lineno">  133</span>        <span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils_1_1paths.html">rare.utils.paths</a> <span class="keyword">import</span> lock_file</div>
+<div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>        <span class="keywordflow">if</span> args.desktop_shortcut:</div>
+<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>            <a class="code hl_function" href="namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5">create_desktop_link</a>(app_name=<span class="stringliteral">&quot;rare_shortcut&quot;</span>, link_type=<span class="stringliteral">&quot;desktop&quot;</span>)</div>
+<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span> </div>
+<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>        <span class="keywordflow">if</span> args.startmenu_shortcut:</div>
+<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>            <a class="code hl_function" href="namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5">create_desktop_link</a>(app_name=<span class="stringliteral">&quot;rare_shortcut&quot;</span>, link_type=<span class="stringliteral">&quot;start_menu&quot;</span>)</div>
+<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span> </div>
+<div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>        print(<span class="stringliteral">&quot;Link created&quot;</span>)</div>
+<div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span>        <span class="keywordflow">return</span> 0</div>
+<div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span> </div>
+<div class="line"><a id="l00126" name="l00126"></a><span class="lineno">  126</span>    <span class="keywordflow">if</span> args.version:</div>
+<div class="line"><a id="l00127" name="l00127"></a><span class="lineno">  127</span>        <span class="keyword">from</span> rare <span class="keyword">import</span> __version__, __codename__</div>
+<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>        print(f<span class="stringliteral">&quot;Rare {__version__} Codename: {__codename__}&quot;</span>)</div>
+<div class="line"><a id="l00129" name="l00129"></a><span class="lineno">  129</span>        <span class="keywordflow">return</span> 0</div>
+<div class="line"><a id="l00130" name="l00130"></a><span class="lineno">  130</span> </div>
+<div class="line"><a id="l00131" name="l00131"></a><span class="lineno">  131</span>    <span class="keywordflow">if</span> args.subparser <span class="keywordflow">in</span> {<span class="stringliteral">&quot;login&quot;</span>, <span class="stringliteral">&quot;auth&quot;</span>}:</div>
+<div class="line"><a id="l00132" name="l00132"></a><span class="lineno">  132</span>        <span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1commands_1_1webview.html">rare.commands.webview</a> <span class="keyword">import</span> webview</div>
+<div class="line"><a id="l00133" name="l00133"></a><span class="lineno">  133</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="namespacerare_1_1commands_1_1webview.html#aa26e04dfc29fe5485a86e51138dddddb">webview</a>(args)</div>
 <div class="line"><a id="l00134" name="l00134"></a><span class="lineno">  134</span> </div>
-<div class="line"><a id="l00135" name="l00135"></a><span class="lineno">  135</span>        <span class="keyword">with</span> open(<a class="code hl_function" href="namespacerare_1_1utils_1_1paths.html#a40ba74ba4e0cbcc72c8500d38c04b461">lock_file</a>(), <span class="stringliteral">&quot;w&quot;</span>) <span class="keyword">as</span> file:</div>
-<div class="line"><a id="l00136" name="l00136"></a><span class="lineno">  136</span>            file.write(<span class="stringliteral">&quot;show&quot;</span>)</div>
-<div class="line"><a id="l00137" name="l00137"></a><span class="lineno">  137</span>            file.close()</div>
-<div class="line"><a id="l00138" name="l00138"></a><span class="lineno">  138</span>        <span class="keywordflow">return</span> -1</div>
-<div class="line"><a id="l00139" name="l00139"></a><span class="lineno">  139</span> </div>
-<div class="line"><a id="l00140" name="l00140"></a><span class="lineno">  140</span>    <span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1components.html">rare.components</a> <span class="keyword">import</span> start</div>
-<div class="line"><a id="l00141" name="l00141"></a><span class="lineno">  141</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958">start</a>(args)</div>
+<div class="line"><a id="l00135" name="l00135"></a><span class="lineno">  135</span>    <span class="keywordflow">if</span> args.subparser <span class="keywordflow">in</span> {<span class="stringliteral">&quot;launch&quot;</span>, <span class="stringliteral">&quot;start&quot;</span>}:</div>
+<div class="line"><a id="l00136" name="l00136"></a><span class="lineno">  136</span>        <span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1commands_1_1launcher.html">rare.commands.launcher</a> <span class="keyword">import</span> launcher</div>
+<div class="line"><a id="l00137" name="l00137"></a><span class="lineno">  137</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="namespacerare_1_1commands_1_1launcher.html#adfc6158c24f1489fab203c59148d8e7c">launcher</a>(args)</div>
+<div class="line"><a id="l00138" name="l00138"></a><span class="lineno">  138</span> </div>
+<div class="line"><a id="l00139" name="l00139"></a><span class="lineno">  139</span>    <span class="keywordflow">if</span> args.subparser <span class="keywordflow">in</span> {<span class="stringliteral">&quot;subreaper&quot;</span>, <span class="stringliteral">&quot;reaper&quot;</span>}:</div>
+<div class="line"><a id="l00140" name="l00140"></a><span class="lineno">  140</span>        <span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1commands_1_1subreaper.html">rare.commands.subreaper</a> <span class="keyword">import</span> subreaper</div>
+<div class="line"><a id="l00141" name="l00141"></a><span class="lineno">  141</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="namespacerare_1_1commands_1_1subreaper.html#a4257db1d0966ff5dc4db2cd612db43a5">subreaper</a>(args, other)</div>
 <div class="line"><a id="l00142" name="l00142"></a><span class="lineno">  142</span> </div>
 <div class="line"><a id="l00143" name="l00143"></a><span class="lineno">  143</span> </div>
-<div class="line"><a id="l00144" name="l00144"></a><span class="lineno">  144</span><span class="keywordflow">if</span> __name__ == <span class="stringliteral">&quot;__main__&quot;</span>:</div>
-<div class="line"><a id="l00145" name="l00145"></a><span class="lineno">  145</span>    <span class="comment"># insert source directory if running `main.py` as python script</span></div>
-<div class="line"><a id="l00146" name="l00146"></a><span class="lineno">  146</span>    <span class="comment"># Required by AppImage</span></div>
-<div class="line"><a id="l00147" name="l00147"></a><span class="lineno">  147</span>    <span class="keywordflow">if</span> <span class="stringliteral">&quot;__compiled__&quot;</span> <span class="keywordflow">not</span> <span class="keywordflow">in</span> globals():</div>
-<div class="line"><a id="l00148" name="l00148"></a><span class="lineno">  148</span>        sys.path.insert(0, <a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(pathlib.Path(__file__).parents[1].absolute()))</div>
-<div class="line"><a id="l00149" name="l00149"></a><span class="lineno">  149</span> </div>
-<div class="line"><a id="l00150" name="l00150"></a><span class="lineno">  150</span>    sys.exit(<a class="code hl_function" href="namespacerare_1_1main.html#a532d4b899b39c9f08370e91c54b63e33">main</a>())</div>
+<div class="line"><a id="l00144" name="l00144"></a><span class="lineno">  144</span>    <span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils.html">rare.utils</a> <span class="keyword">import</span> singleton</div>
+<div class="line"><a id="l00145" name="l00145"></a><span class="lineno">  145</span> </div>
+<div class="line"><a id="l00146" name="l00146"></a><span class="lineno">  146</span>    <span class="keywordflow">try</span>:</div>
+<div class="line"><a id="l00147" name="l00147"></a><span class="lineno">  147</span>        <span class="comment"># this object only allows one instance per machine</span></div>
+<div class="line"><a id="l00148" name="l00148"></a><span class="lineno">  148</span> </div>
+<div class="line"><a id="l00149" name="l00149"></a><span class="lineno">  149</span>        me = singleton.SingleInstance()  <span class="comment"># noqa: F841</span></div>
+<div class="line"><a id="l00150" name="l00150"></a><span class="lineno">  150</span>    <span class="keywordflow">except</span> singleton.SingleInstanceException:</div>
+<div class="line"><a id="l00151" name="l00151"></a><span class="lineno">  151</span>        print(<span class="stringliteral">&quot;Rare is already running&quot;</span>)</div>
+<div class="line"><a id="l00152" name="l00152"></a><span class="lineno">  152</span>        <span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils_1_1paths.html">rare.utils.paths</a> <span class="keyword">import</span> lock_file</div>
+<div class="line"><a id="l00153" name="l00153"></a><span class="lineno">  153</span> </div>
+<div class="line"><a id="l00154" name="l00154"></a><span class="lineno">  154</span>        <span class="keyword">with</span> open(<a class="code hl_function" href="namespacerare_1_1utils_1_1paths.html#a40ba74ba4e0cbcc72c8500d38c04b461">lock_file</a>(), <span class="stringliteral">&quot;w&quot;</span>) <span class="keyword">as</span> file:</div>
+<div class="line"><a id="l00155" name="l00155"></a><span class="lineno">  155</span>            file.write(<span class="stringliteral">&quot;show&quot;</span>)</div>
+<div class="line"><a id="l00156" name="l00156"></a><span class="lineno">  156</span>            file.close()</div>
+<div class="line"><a id="l00157" name="l00157"></a><span class="lineno">  157</span>        <span class="keywordflow">return</span> -1</div>
+<div class="line"><a id="l00158" name="l00158"></a><span class="lineno">  158</span> </div>
+<div class="line"><a id="l00159" name="l00159"></a><span class="lineno">  159</span>    <span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1components.html">rare.components</a> <span class="keyword">import</span> start</div>
+<div class="line"><a id="l00160" name="l00160"></a><span class="lineno">  160</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958">start</a>(args)</div>
+<div class="line"><a id="l00161" name="l00161"></a><span class="lineno">  161</span> </div>
+<div class="line"><a id="l00162" name="l00162"></a><span class="lineno">  162</span> </div>
+<div class="line"><a id="l00163" name="l00163"></a><span class="lineno">  163</span><span class="keywordflow">if</span> __name__ == <span class="stringliteral">&quot;__main__&quot;</span>:</div>
+<div class="line"><a id="l00164" name="l00164"></a><span class="lineno">  164</span>    <span class="comment"># insert source directory if running `main.py` as python script</span></div>
+<div class="line"><a id="l00165" name="l00165"></a><span class="lineno">  165</span>    <span class="comment"># Required by AppImage</span></div>
+<div class="line"><a id="l00166" name="l00166"></a><span class="lineno">  166</span>    <span class="keywordflow">if</span> <span class="stringliteral">&quot;__compiled__&quot;</span> <span class="keywordflow">not</span> <span class="keywordflow">in</span> globals():</div>
+<div class="line"><a id="l00167" name="l00167"></a><span class="lineno">  167</span>        sys.path.insert(0, <a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(pathlib.Path(__file__).parents[1].absolute()))</div>
+<div class="line"><a id="l00168" name="l00168"></a><span class="lineno">  168</span> </div>
+<div class="line"><a id="l00169" name="l00169"></a><span class="lineno">  169</span>    sys.exit(<a class="code hl_function" href="namespacerare_1_1main.html#a532d4b899b39c9f08370e91c54b63e33">main</a>())</div>
 <div class="ttc" id="anamespacerare_1_1commands_1_1launcher_html"><div class="ttname"><a href="namespacerare_1_1commands_1_1launcher.html">rare.commands.launcher</a></div><div class="ttdef"><b>Definition:</b> <a href="commands_2launcher_2____init_____8py_source.html#l00001">__init__.py:1</a></div></div>
-<div class="ttc" id="anamespacerare_1_1commands_1_1launcher_html_a412675ee25d478741940175d2c1d9757"><div class="ttname"><a href="namespacerare_1_1commands_1_1launcher.html#a412675ee25d478741940175d2c1d9757">rare.commands.launcher.launch</a></div><div class="ttdeci">int launch(Namespace args)</div><div class="ttdef"><b>Definition:</b> <a href="commands_2launcher_2____init_____8py_source.html#l00450">__init__.py:450</a></div></div>
+<div class="ttc" id="anamespacerare_1_1commands_1_1launcher_html_adfc6158c24f1489fab203c59148d8e7c"><div class="ttname"><a href="namespacerare_1_1commands_1_1launcher.html#adfc6158c24f1489fab203c59148d8e7c">rare.commands.launcher.launcher</a></div><div class="ttdeci">int launcher(Namespace args)</div><div class="ttdef"><b>Definition:</b> <a href="commands_2launcher_2____init_____8py_source.html#l00463">__init__.py:463</a></div></div>
+<div class="ttc" id="anamespacerare_1_1commands_1_1subreaper_html"><div class="ttname"><a href="namespacerare_1_1commands_1_1subreaper.html">rare.commands.subreaper</a></div><div class="ttdef"><b>Definition:</b> <a href="subreaper_8py_source.html#l00001">subreaper.py:1</a></div></div>
+<div class="ttc" id="anamespacerare_1_1commands_1_1subreaper_html_a4257db1d0966ff5dc4db2cd612db43a5"><div class="ttname"><a href="namespacerare_1_1commands_1_1subreaper.html#a4257db1d0966ff5dc4db2cd612db43a5">rare.commands.subreaper.subreaper</a></div><div class="ttdeci">int subreaper(Namespace args, List[str] other)</div><div class="ttdef"><b>Definition:</b> <a href="subreaper_8py_source.html#l00023">subreaper.py:23</a></div></div>
 <div class="ttc" id="anamespacerare_1_1commands_1_1webview_html"><div class="ttname"><a href="namespacerare_1_1commands_1_1webview.html">rare.commands.webview</a></div><div class="ttdef"><b>Definition:</b> <a href="webview_8py_source.html#l00001">webview.py:1</a></div></div>
+<div class="ttc" id="anamespacerare_1_1commands_1_1webview_html_aa26e04dfc29fe5485a86e51138dddddb"><div class="ttname"><a href="namespacerare_1_1commands_1_1webview.html#aa26e04dfc29fe5485a86e51138dddddb">rare.commands.webview.webview</a></div><div class="ttdeci">int webview(Namespace args)</div><div class="ttdef"><b>Definition:</b> <a href="webview_8py_source.html#l00007">webview.py:7</a></div></div>
 <div class="ttc" id="anamespacerare_1_1components_html"><div class="ttname"><a href="namespacerare_1_1components.html">rare.components</a></div><div class="ttdef"><b>Definition:</b> <a href="components_2____init_____8py_source.html#l00001">__init__.py:1</a></div></div>
 <div class="ttc" id="anamespacerare_1_1components_html_a019ee207f5c041fb0d2e61f76eafa958"><div class="ttname"><a href="namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958">rare.components.start</a></div><div class="ttdeci">int start(args)</div><div class="ttdef"><b>Definition:</b> <a href="components_2____init_____8py_source.html#l00123">__init__.py:123</a></div></div>
 <div class="ttc" id="anamespacerare_1_1main_html_a532d4b899b39c9f08370e91c54b63e33"><div class="ttname"><a href="namespacerare_1_1main.html#a532d4b899b39c9f08370e91c54b63e33">rare.main.main</a></div><div class="ttdeci">int main()</div><div class="ttdef"><b>Definition:</b> <a href="main_8py_source.html#l00009">main.py:9</a></div></div>

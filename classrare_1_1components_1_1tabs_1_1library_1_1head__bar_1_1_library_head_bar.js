@@ -14,5 +14,6 @@ var classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar
     [ "rcore", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar.html#a1d6ec79bbcf8bfd8b30c3e5be0b67f34", null ],
     [ "refresh_list", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar.html#ae95fa7486e042ecb9d4bfda3965b70b1", null ],
     [ "search_bar", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar.html#a5c25f231b532303917111820bbfdc8f5", null ],
-    [ "settings", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar.html#a6cddb5e40c21eadd2ded85bc51f79822", null ]
+    [ "settings", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar.html#a6cddb5e40c21eadd2ded85bc51f79822", null ],
+    [ "signals", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar.html#a0de0a2c91773619dac1660c29940c55e", null ]
 ];

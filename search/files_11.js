@@ -10,5 +10,6 @@ var searchData=
   ['steam_2epy_7',['steam.py',['../models_2steam_8py.html',1,'(Global Namespace)'],['../utils_2compat_2steam_8py.html',1,'(Global Namespace)']]],
   ['steam_5fgrades_2epy_8',['steam_grades.py',['../steam__grades_8py.html',1,'']]],
   ['steam_5fshortcuts_2epy_9',['steam_shortcuts.py',['../steam__shortcuts_8py.html',1,'']]],
-  ['store_5fapi_2epy_10',['store_api.py',['../store__api_8py.html',1,'']]]
+  ['store_5fapi_2epy_10',['store_api.py',['../store__api_8py.html',1,'']]],
+  ['subreaper_2epy_11',['subreaper.py',['../subreaper_8py.html',1,'']]]
 ];

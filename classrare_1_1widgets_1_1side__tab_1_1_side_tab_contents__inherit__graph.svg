@@ -73,22 +73,23 @@ var sectionId = 'dynsection-0';
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_metadata_view.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="0,-188 0,-278 122,-278 122,-188 0,-188"/>
-<text text-anchor="middle" x="61" y="-266" font-family="Helvetica,sans-Serif" font-size="10.00">GameMetadataView</text>
-<polyline fill="none" stroke="black" points="0,-259 122,-259 "/>
-<text text-anchor="start" x="8" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">+ implements_scrollarea</text>
-<text text-anchor="start" x="8" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">+ model</text>
-<text text-anchor="start" x="8" y="-225" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
-<polyline fill="none" stroke="black" points="0,-218 122,-218 "/>
-<text text-anchor="start" x="8" y="-206" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="8" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
+<polygon fill="white" stroke="black" points="0,-182.5 0,-283.5 122,-283.5 122,-182.5 0,-182.5"/>
+<text text-anchor="middle" x="61" y="-271.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameMetadataView</text>
+<polyline fill="none" stroke="black" points="0,-264.5 122,-264.5 "/>
+<text text-anchor="start" x="8" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ implements_scrollarea</text>
+<text text-anchor="start" x="8" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ model</text>
+<text text-anchor="start" x="8" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
+<polyline fill="none" stroke="black" points="0,-223.5 122,-223.5 "/>
+<text text-anchor="start" x="8" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="8" y="-200.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ showEvent()</text>
+<text text-anchor="start" x="8" y="-189.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M922.73,-428.95C744.02,-423.61 197.27,-403.89 131,-361 101.83,-342.12 83.77,-306.69 73.32,-278.04"/>
+<path fill="none" stroke="midnightblue" d="M922.73,-428.95C744.02,-423.61 197.27,-403.89 131,-361 103.74,-343.35 86.17,-311.24 75.46,-283.73"/>
 <polygon fill="none" stroke="midnightblue" points="922.86,-432.46 932.96,-429.25 923.07,-425.46 922.86,-432.46"/>
 </g>
 <!-- Node4 -->
@@ -100,15 +101,15 @@ var sectionId = 'dynsection-0';
 <polyline fill="none" stroke="black" points="140.5,-336 285.5,-336 "/>
 <text text-anchor="start" x="148.5" y="-324" font-family="Helvetica,sans-Serif" font-size="10.00">+ sync_widget</text>
 <text text-anchor="start" x="148.5" y="-313" font-family="Helvetica,sans-Serif" font-size="10.00">+ sync_ui</text>
-<text text-anchor="start" x="148.5" y="-302" font-family="Helvetica,sans-Serif" font-size="10.00">+ info_label</text>
-<text text-anchor="start" x="148.5" y="-291" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
-<text text-anchor="start" x="148.5" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="148.5" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
-<text text-anchor="start" x="148.5" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">+ loading_widget</text>
-<text text-anchor="start" x="148.5" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">+ cloud_widget</text>
-<text text-anchor="start" x="148.5" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">+ cloud_ui</text>
-<text text-anchor="start" x="148.5" y="-225" font-family="Helvetica,sans-Serif" font-size="10.00">+ cloud_save_path_edit</text>
-<text text-anchor="start" x="148.5" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00">+ compute_save_path_button</text>
+<text text-anchor="start" x="148.5" y="-302" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
+<text text-anchor="start" x="148.5" y="-291" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="148.5" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<text text-anchor="start" x="148.5" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">+ loading_widget</text>
+<text text-anchor="start" x="148.5" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">+ cloud_widget</text>
+<text text-anchor="start" x="148.5" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">+ cloud_ui</text>
+<text text-anchor="start" x="148.5" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">+ cloud_save_path_edit</text>
+<text text-anchor="start" x="148.5" y="-225" font-family="Helvetica,sans-Serif" font-size="10.00">+ compute_save_path_button</text>
+<text text-anchor="start" x="148.5" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00">+ info_label</text>
 <text text-anchor="start" x="148.5" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
 <polyline fill="none" stroke="black" points="140.5,-196 285.5,-196 "/>
 <text text-anchor="start" x="148.5" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
@@ -131,30 +132,32 @@ var sectionId = 'dynsection-0';
 <g id="node5" class="node">
 <title>Node5</title>
 <g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="304,-144 304,-322 420,-322 420,-144 304,-144"/>
-<text text-anchor="middle" x="362" y="-310" font-family="Helvetica,sans-Serif" font-size="10.00">GameDetails</text>
-<polyline fill="none" stroke="black" points="304,-303 420,-303 "/>
-<text text-anchor="start" x="312" y="-291" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
-<text text-anchor="start" x="312" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
-<text text-anchor="start" x="312" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="312" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
-<text text-anchor="start" x="312" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">+ image</text>
-<text text-anchor="start" x="312" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">+ steam_grade_ratings</text>
-<text text-anchor="start" x="312" y="-225" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
-<text text-anchor="start" x="312" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00">+ import_clicked</text>
-<polyline fill="none" stroke="black" points="304,-207 420,-207 "/>
-<text text-anchor="start" x="312" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="312" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ repair_game()</text>
-<text text-anchor="start" x="312" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ verify_game()</text>
-<text text-anchor="start" x="312" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ move_game()</text>
-<text text-anchor="start" x="312" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
+<polygon fill="white" stroke="black" points="304,-133 304,-333 420,-333 420,-133 304,-133"/>
+<text text-anchor="middle" x="362" y="-321" font-family="Helvetica,sans-Serif" font-size="10.00">GameDetails</text>
+<polyline fill="none" stroke="black" points="304,-314 420,-314 "/>
+<text text-anchor="start" x="312" y="-302" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
+<text text-anchor="start" x="312" y="-291" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
+<text text-anchor="start" x="312" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="312" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
+<text text-anchor="start" x="312" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">+ image</text>
+<text text-anchor="start" x="312" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">+ steam_grade_ratings</text>
+<text text-anchor="start" x="312" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
+<text text-anchor="start" x="312" y="-225" font-family="Helvetica,sans-Serif" font-size="10.00">+ import_clicked</text>
+<polyline fill="none" stroke="black" points="304,-218 420,-218 "/>
+<text text-anchor="start" x="312" y="-206" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="312" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">+ repair_game()</text>
+<text text-anchor="start" x="312" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ verify_game()</text>
+<text text-anchor="start" x="312" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ move_game()</text>
+<text text-anchor="start" x="312" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ showEvent()</text>
+<text text-anchor="start" x="312" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ hideEvent()</text>
+<text text-anchor="start" x="312" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M922.7,-429.84C798.97,-427.37 508.09,-415.75 429,-361 414.75,-351.14 403.31,-337.27 394.19,-322.3"/>
+<path fill="none" stroke="midnightblue" d="M922.7,-429.84C798.97,-427.37 508.09,-415.75 429,-361 418.24,-353.55 409.07,-343.82 401.3,-333.05"/>
 <polygon fill="none" stroke="midnightblue" points="922.67,-433.34 932.73,-430.02 922.8,-426.34 922.67,-433.34"/>
 </g>
 <!-- Node6 -->
@@ -193,27 +196,28 @@ var sectionId = 'dynsection-0';
 <g id="node7" class="node">
 <title>Node7</title>
 <g id="a_node7"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_compat_settings_base.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="586.5,-160.5 586.5,-305.5 695.5,-305.5 695.5,-160.5 586.5,-160.5"/>
-<text text-anchor="middle" x="641" y="-293.5" font-family="Helvetica,sans-Serif" font-size="10.00">CompatSettingsBase</text>
-<polyline fill="none" stroke="black" points="586.5,-286.5 695.5,-286.5 "/>
-<text text-anchor="start" x="594.5" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="594.5" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
-<text text-anchor="start" x="594.5" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ runner</text>
-<text text-anchor="start" x="594.5" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ dxvk_overlay</text>
-<text text-anchor="start" x="594.5" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ dxvk_config</text>
-<text text-anchor="start" x="594.5" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ mangohud</text>
-<text text-anchor="start" x="594.5" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ main_layout</text>
-<text text-anchor="start" x="594.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Signal</text>
-<polyline fill="none" stroke="black" points="586.5,-190.5 695.5,-190.5 "/>
-<text text-anchor="start" x="594.5" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="594.5" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ hideEvent()</text>
+<polygon fill="white" stroke="black" points="586.5,-155 586.5,-311 695.5,-311 695.5,-155 586.5,-155"/>
+<text text-anchor="middle" x="641" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">CompatSettingsBase</text>
+<polyline fill="none" stroke="black" points="586.5,-292 695.5,-292 "/>
+<text text-anchor="start" x="594.5" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="594.5" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<text text-anchor="start" x="594.5" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">+ runner</text>
+<text text-anchor="start" x="594.5" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">+ dxvk_hud</text>
+<text text-anchor="start" x="594.5" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">+ dxvk_config</text>
+<text text-anchor="start" x="594.5" y="-225" font-family="Helvetica,sans-Serif" font-size="10.00">+ dxvk_nvapi_drs</text>
+<text text-anchor="start" x="594.5" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00">+ mangohud</text>
+<text text-anchor="start" x="594.5" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00">+ main_layout</text>
+<text text-anchor="start" x="594.5" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00">+ Signal</text>
+<polyline fill="none" stroke="black" points="586.5,-185 695.5,-185 "/>
+<text text-anchor="start" x="594.5" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="594.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ hideEvent()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
 <title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M922.87,-429.56C862.86,-425.77 767.87,-411.45 705,-361 687.19,-346.71 673.89,-326.16 664.17,-305.75"/>
+<path fill="none" stroke="midnightblue" d="M922.87,-429.56C862.86,-425.77 767.87,-411.45 705,-361 688.73,-347.94 676.22,-329.67 666.78,-311.04"/>
 <polygon fill="none" stroke="midnightblue" points="922.74,-433.06 932.92,-430.11 923.13,-426.07 922.74,-433.06"/>
 </g>
 <!-- Node10 -->
@@ -495,8 +499,8 @@ var sectionId = 'dynsection-0';
 <!-- Node7&#45;&gt;Node8 -->
 <g id="edge7" class="edge">
 <title>Node7&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M604.54,-151.23C596.25,-135.43 586.93,-119.34 577,-105 568.22,-92.32 557.26,-79.58 546.91,-68.54"/>
-<polygon fill="none" stroke="midnightblue" points="601.61,-153.18 609.3,-160.47 607.84,-149.98 601.61,-153.18"/>
+<path fill="none" stroke="midnightblue" d="M601.58,-145.65C594.05,-131.68 585.76,-117.66 577,-105 568.22,-92.32 557.26,-79.58 546.91,-68.54"/>
+<polygon fill="none" stroke="midnightblue" points="598.65,-147.61 606.41,-154.82 604.84,-144.34 598.65,-147.61"/>
 </g>
 <!-- Node9 -->
 <g id="node9" class="node">
@@ -514,8 +518,8 @@ var sectionId = 'dynsection-0';
 <!-- Node7&#45;&gt;Node9 -->
 <g id="edge8" class="edge">
 <title>Node7&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M641.83,-150.22C642.15,-119.11 642.49,-85.73 642.72,-63.04"/>
-<polygon fill="none" stroke="midnightblue" points="638.33,-150.19 641.73,-160.22 645.33,-150.26 638.33,-150.19"/>
+<path fill="none" stroke="midnightblue" d="M641.89,-144.61C642.19,-115.3 642.5,-84.68 642.72,-63.37"/>
+<polygon fill="none" stroke="midnightblue" points="638.39,-144.87 641.78,-154.9 645.39,-144.94 638.39,-144.87"/>
 </g>
 <!-- Node11 -->
 <g id="node11" class="node">

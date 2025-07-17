@@ -1,14 +1,15 @@
 <map id="launch_game" name="launch_game">
-<area shape="rect" id="node1" title=" " alt="" coords="5,196,104,223"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4" title=" " alt="" coords="667,240,840,281"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#ae4079e12d04167490b2b535baf65034a" title=" " alt="" coords="152,80,335,121"/>
-<area shape="rect" id="node4" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a1ad309148fd22e4786258dc4a79ec7af" title=" " alt="" coords="925,174,1035,200"/>
-<area shape="rect" id="node5" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#af1af6ddf04f00f958949618f79c33b82" title=" " alt="" coords="219,310,267,336"/>
-<area shape="rect" id="node8" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a26ca7c1c7fcdd35378e7be97727047a6" title=" " alt="" coords="957,508,1003,535"/>
-<area shape="rect" id="node9" href="$classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html#a26ca7c1c7fcdd35378e7be97727047a6" title=" " alt="" coords="888,586,1072,628"/>
-<area shape="rect" id="node6" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="893,417,1067,458"/>
-<area shape="rect" id="node7" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ac2d7fc08d8189d84d207151df722ee19" title=" " alt="" coords="701,498,806,524"/>
-<area shape="rect" id="node10" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ac8b8dc7f48f8405350185a34a814e908" title=" " alt="" coords="519,322,617,348"/>
-<area shape="rect" id="node11" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#abc80b9c0d00c9ee171bcdd5b318f9329" title=" " alt="" coords="383,396,469,423"/>
-<area shape="rect" id="node12" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#aead78a8c5e26925de34e45d4aae39b4e" title=" " alt="" coords="517,396,619,423"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,263,104,290"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4" title=" " alt="" coords="667,332,840,373"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#ae4079e12d04167490b2b535baf65034a" title=" " alt="" coords="152,83,335,124"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1paths.html#a5aae2af81c71e81b5a7ce0c16db5ba19" title=" " alt="" coords="180,172,307,213"/>
+<area shape="rect" id="node5" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a1ad309148fd22e4786258dc4a79ec7af" title=" " alt="" coords="925,221,1035,247"/>
+<area shape="rect" id="node6" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#af1af6ddf04f00f958949618f79c33b82" title=" " alt="" coords="219,402,267,429"/>
+<area shape="rect" id="node9" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a26ca7c1c7fcdd35378e7be97727047a6" title=" " alt="" coords="957,601,1003,627"/>
+<area shape="rect" id="node10" href="$classrare_1_1widgets_1_1loading__widget_1_1_loading_widget.html#a26ca7c1c7fcdd35378e7be97727047a6" title=" " alt="" coords="888,679,1072,720"/>
+<area shape="rect" id="node7" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="893,509,1067,551"/>
+<area shape="rect" id="node8" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ac2d7fc08d8189d84d207151df722ee19" title=" " alt="" coords="701,590,806,617"/>
+<area shape="rect" id="node11" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ac8b8dc7f48f8405350185a34a814e908" title=" " alt="" coords="519,414,617,441"/>
+<area shape="rect" id="node12" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#abc80b9c0d00c9ee171bcdd5b318f9329" title=" " alt="" coords="383,489,469,515"/>
+<area shape="rect" id="node13" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#aead78a8c5e26925de34e45d4aae39b4e" title=" " alt="" coords="517,489,619,515"/>
 </map>

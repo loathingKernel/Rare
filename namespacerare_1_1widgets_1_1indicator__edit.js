@@ -1,5 +1,6 @@
 var namespacerare_1_1widgets_1_1indicator__edit =
 [
+    [ "ColumnCompleter", "classrare_1_1widgets_1_1indicator__edit_1_1_column_completer.html", "classrare_1_1widgets_1_1indicator__edit_1_1_column_completer" ],
     [ "EditFuncRunnable", "classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable.html", "classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable" ],
     [ "IndicatorLineEdit", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit" ],
     [ "IndicatorReasons", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons.html", null ],

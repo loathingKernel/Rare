@@ -1,3 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classrare_1_1models_1_1steam_1_1_steam_shortcut.html" title=" " alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node1" href="$classrare_1_1utils_1_1compat_1_1steam_1_1_steam_base.html" title=" " alt="" coords="5,31,96,57"/>
+<area shape="rect" id="node2" href="$classrare_1_1utils_1_1compat_1_1steam_1_1_compatibility_tool.html" title=" " alt="" coords="144,5,265,32"/>
+<area shape="rect" id="node3" href="$classrare_1_1utils_1_1compat_1_1steam_1_1_steam_runtime.html" title=" " alt="" coords="151,56,259,83"/>
+<area shape="rect" id="node4" href="$classrare_1_1utils_1_1compat_1_1steam_1_1_proton_tool.html" title=" " alt="" coords="313,56,399,83"/>
 </map>

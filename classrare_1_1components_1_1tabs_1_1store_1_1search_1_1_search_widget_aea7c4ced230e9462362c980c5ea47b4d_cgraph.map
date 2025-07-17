@@ -1,8 +1,9 @@
 <map id="load" name="load">
-<area shape="rect" id="node1" title=" " alt="" coords="6,171,53,198"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_widget.html#ad40685079c149157f03614f3b66fe2f3" title=" " alt="" coords="101,171,216,198"/>
+<area shape="rect" id="node1" title=" " alt="" coords="6,209,53,235"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_widget.html#ad40685079c149157f03614f3b66fe2f3" title=" " alt="" coords="101,209,216,235"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_widget.html#afe8e8ac663d9c09dad3a1364f128945b" title=" " alt="" coords="284,119,510,160"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="264,208,530,249"/>
+<area shape="rect" id="node10" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a72dad49f74d9c9ba67eca7e2ead920e4" title=" " alt="" coords="288,209,506,235"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="264,284,530,325"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_page.html#abdf35a8f677d168b77d233b030cb9e8f" title=" " alt="" coords="580,29,805,71"/>
 <area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_page.html#abdf35a8f677d168b77d233b030cb9e8f" title=" " alt="" coords="581,119,804,160"/>
 <area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_page.html#abdf35a8f677d168b77d233b030cb9e8f" title=" " alt="" coords="578,208,806,249"/>

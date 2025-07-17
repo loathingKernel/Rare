@@ -2,7 +2,7 @@ var classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overla
 [
     [ "__init__", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a39d165427992dd2720f91929a88cde17", null ],
     [ "setCurrentState", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a8f071ff85566d0c67acc43428955dae1", null ],
-    [ "setupWidget", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a8696a86abc106cc4c693e61a4d566f2b", null ],
+    [ "setupWidget", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a06d9360fcb45054a475dcced06df954a", null ],
     [ "showEvent", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a5b6a943cccc85daffddbc61bb1b9345d", null ],
     [ "update_settings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a451073bc1086cda82a8ac0ffa1c21425", null ],
     [ "update_settings_override", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a222dce25e94f7f1a271b79e8c5d46bf0", null ],

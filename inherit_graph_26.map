@@ -1,8 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,107,76,133"/>
-<area shape="rect" id="node2" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_get_boolean_choice_protocol.html" title=" " alt="" coords="124,5,303,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_sdl_prompt_protocol.html" title=" " alt="" coords="148,56,279,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_ui_update_protocol.html" title=" " alt="" coords="151,107,276,133"/>
-<area shape="rect" id="node5" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_verify_stdout_protocol.html" title=" " alt="" coords="143,157,284,184"/>
-<area shape="rect" id="node6" href="$classrare_1_1widgets_1_1side__tab_1_1_side_tab_contents_protocol.html" title=" " alt="" coords="128,208,299,235"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,96,108"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_check_box.html" title=" " alt="" coords="144,5,283,32"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_check_box.html" title=" " alt="" coords="151,56,276,83"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_check_box.html" title=" " alt="" coords="173,107,254,133"/>
+<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1selective__widget_1_1_install_tag_check_box.html" title=" " alt="" coords="144,157,283,184"/>
 </map>

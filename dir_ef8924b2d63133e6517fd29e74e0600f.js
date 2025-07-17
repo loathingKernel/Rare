@@ -11,5 +11,6 @@ var dir_ef8924b2d63133e6517fd29e74e0600f =
     [ "qt_requests.py", "qt__requests_8py.html", "qt__requests_8py" ],
     [ "singleton.py", "singleton_8py.html", "singleton_8py" ],
     [ "steam_grades.py", "steam__grades_8py.html", "steam__grades_8py" ],
-    [ "steam_shortcuts.py", "steam__shortcuts_8py.html", "steam__shortcuts_8py" ]
+    [ "steam_shortcuts.py", "steam__shortcuts_8py.html", "steam__shortcuts_8py" ],
+    [ "workarounds.py", "workarounds_8py.html", "workarounds_8py" ]
 ];

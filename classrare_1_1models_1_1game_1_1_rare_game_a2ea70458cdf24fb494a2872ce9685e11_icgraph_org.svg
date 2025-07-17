@@ -27,10 +27,10 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group.html#ab1f05ad7de57f4f9eeebb68fff4bd523" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="245,-335.5 245,-365.5 464,-365.5 464,-335.5 245,-335.5"/>
-<text text-anchor="start" x="253" y="-353.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.integrations.import</text>
-<text text-anchor="middle" x="354.5" y="-342.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.ImportGroup.app_name_changed</text>
+<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#a1ec89c41387bccb9b467b28aa0a358b8" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="250.5,-335.5 250.5,-365.5 458.5,-365.5 458.5,-335.5 250.5,-335.5"/>
+<text text-anchor="start" x="258.5" y="-353.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.integrations.eos</text>
+<text text-anchor="middle" x="354.5" y="-342.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.EosGroup.check_for_update</text>
 </a>
 </g>
 </g>
@@ -40,29 +40,29 @@
 <path fill="none" stroke="midnightblue" d="M520.83,-202.48C516.32,-233.86 502.94,-294.42 465,-326.5 460.99,-329.89 456.6,-332.84 451.97,-335.39"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="524.33,-202.71 522.12,-192.35 517.39,-201.83 524.33,-202.71"/>
 </g>
-<!-- Node3 -->
-<g id="node3" class="node">
-<title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#a1ec89c41387bccb9b467b28aa0a358b8" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="250.5,-268.5 250.5,-298.5 458.5,-298.5 458.5,-268.5 250.5,-268.5"/>
-<text text-anchor="start" x="258.5" y="-286.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.integrations.eos</text>
-<text text-anchor="middle" x="354.5" y="-275.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.EosGroup.check_for_update</text>
+<!-- Node4 -->
+<g id="node4" class="node">
+<title>Node4</title>
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group.html#a50b0cbf2d5eb5899e97a94182a1b1e0e" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="245,-268.5 245,-298.5 464,-298.5 464,-268.5 245,-268.5"/>
+<text text-anchor="start" x="253" y="-286.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.integrations.import</text>
+<text text-anchor="middle" x="354.5" y="-275.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.ImportGroup.import_dlcs_changed</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node3 -->
-<g id="edge3" class="edge">
-<title>Node1&#45;&gt;Node3</title>
+<!-- Node1&#45;&gt;Node4 -->
+<g id="edge5" class="edge">
+<title>Node1&#45;&gt;Node4</title>
 <path fill="none" stroke="midnightblue" d="M513.93,-201.19C504.29,-219 487.36,-245.15 465,-259.5 459.59,-262.97 453.76,-265.94 447.71,-268.49"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="517.16,-202.54 518.63,-192.05 510.94,-199.34 517.16,-202.54"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group.html#a50b0cbf2d5eb5899e97a94182a1b1e0e" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group.html#ae0eb67daec2b068f800e0270d984af63" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="245,-201.5 245,-231.5 464,-231.5 464,-201.5 245,-201.5"/>
 <text text-anchor="start" x="253" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.integrations.import</text>
-<text text-anchor="middle" x="354.5" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.ImportGroup.import_dlcs_changed</text>
+<text text-anchor="middle" x="354.5" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.ImportGroup.import_folder_changed</text>
 </a>
 </g>
 </g>
@@ -75,10 +75,10 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group.html#ae0eb67daec2b068f800e0270d984af63" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group.html#a699334cac596547e7c6c3d9e2216968a" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="245,-134.5 245,-164.5 464,-164.5 464,-134.5 245,-134.5"/>
 <text text-anchor="start" x="253" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.integrations.import</text>
-<text text-anchor="middle" x="354.5" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.ImportGroup.import_folder_changed</text>
+<text text-anchor="middle" x="354.5" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.ImportGroup.set_game</text>
 </a>
 </g>
 </g>
@@ -126,33 +126,33 @@
 <path fill="none" stroke="midnightblue" d="M384.35,-375.96C380.65,-380.68 370.7,-384 354.5,-384 327.92,-384 318.16,-375.06 325.22,-365.66"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="387.83,-375.45 383.78,-365.66 380.84,-375.84 387.83,-375.45"/>
 </g>
-<!-- Node3&#45;&gt;Node3 -->
-<g id="edge4" class="edge">
-<title>Node3&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M384.35,-308.96C380.65,-313.68 370.7,-317 354.5,-317 327.92,-317 318.16,-308.06 325.22,-298.66"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="387.83,-308.45 383.78,-298.66 380.84,-308.84 387.83,-308.45"/>
-</g>
-<!-- Node4 -->
-<g id="node4" class="node">
-<title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#af997cabd23f14f71f7f87c986ccd582c" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="0,-268.5 0,-298.5 208,-298.5 208,-268.5 0,-268.5"/>
-<text text-anchor="start" x="8" y="-286.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.integrations.eos</text>
-<text text-anchor="middle" x="104" y="-275.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.EosGroup.showEvent</text>
+<!-- Node3 -->
+<g id="node3" class="node">
+<title>Node3</title>
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html#af997cabd23f14f71f7f87c986ccd582c" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="0,-335.5 0,-365.5 208,-365.5 208,-335.5 0,-335.5"/>
+<text text-anchor="start" x="8" y="-353.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.integrations.eos</text>
+<text text-anchor="middle" x="104" y="-342.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.EosGroup.showEvent</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node4 -->
-<g id="edge5" class="edge">
-<title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M240.14,-283.5C229.53,-283.5 218.82,-283.5 208.31,-283.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="240.27,-287 250.27,-283.5 240.27,-280 240.27,-287"/>
+<!-- Node2&#45;&gt;Node3 -->
+<g id="edge3" class="edge">
+<title>Node2&#45;&gt;Node3</title>
+<path fill="none" stroke="midnightblue" d="M240.14,-350.5C229.53,-350.5 218.82,-350.5 208.31,-350.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="240.27,-354 250.27,-350.5 240.27,-347 240.27,-354"/>
+</g>
+<!-- Node3&#45;&gt;Node3 -->
+<g id="edge4" class="edge">
+<title>Node3&#45;&gt;Node3</title>
+<path fill="none" stroke="midnightblue" d="M148.83,-375.59C143.66,-380.51 128.72,-384 104,-384 64.45,-384 49.93,-375.06 60.43,-365.66"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="152.3,-375.14 147.57,-365.66 145.35,-376.02 152.3,-375.14"/>
 </g>
 <!-- Node4&#45;&gt;Node4 -->
 <g id="edge6" class="edge">
 <title>Node4&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M148.83,-308.59C143.66,-313.51 128.72,-317 104,-317 64.45,-317 49.93,-308.06 60.43,-298.66"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="152.3,-308.14 147.57,-298.66 145.35,-309.02 152.3,-308.14"/>
+<path fill="none" stroke="midnightblue" d="M384.35,-308.96C380.65,-313.68 370.7,-317 354.5,-317 327.92,-317 318.16,-308.06 325.22,-298.66"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="387.83,-308.45 383.78,-298.66 380.84,-308.84 387.83,-308.45"/>
 </g>
 <!-- Node5&#45;&gt;Node5 -->
 <g id="edge8" class="edge">

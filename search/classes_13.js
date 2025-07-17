@@ -19,9 +19,10 @@ var searchData=
   ['wrapperadddialog_16',['WrapperAddDialog',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_add_dialog.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
   ['wrappercontainer_17',['WrapperContainer',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_container.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
   ['wrappereditdialog_18',['WrapperEditDialog',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_edit_dialog.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
-  ['wrappers_19',['Wrappers',['../classrare_1_1shared_1_1wrappers_1_1_wrappers.html',1,'rare::shared::wrappers']]],
-  ['wrappersettings_20',['WrapperSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
-  ['wrappersettingsscroll_21',['WrapperSettingsScroll',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings_scroll.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
-  ['wrappertype_22',['WrapperType',['../classrare_1_1models_1_1wrapper_1_1_wrapper_type.html',1,'rare::models::wrapper']]],
-  ['wrapperwidget_23',['WrapperWidget',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_widget.html',1,'rare::components::tabs::settings::widgets::wrappers']]]
+  ['wrapperentry_19',['WrapperEntry',['../classrare_1_1shared_1_1wrappers_1_1_wrapper_entry.html',1,'rare::shared::wrappers']]],
+  ['wrappers_20',['Wrappers',['../classrare_1_1shared_1_1wrappers_1_1_wrappers.html',1,'rare::shared::wrappers']]],
+  ['wrappersettings_21',['WrapperSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
+  ['wrappersettingsscroll_22',['WrapperSettingsScroll',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings_scroll.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
+  ['wrappertype_23',['WrapperType',['../classrare_1_1models_1_1wrapper_1_1_wrapper_type.html',1,'rare::models::wrapper']]],
+  ['wrapperwidget_24',['WrapperWidget',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_widget.html',1,'rare::components::tabs::settings::widgets::wrappers']]]
 ];

@@ -27,10 +27,10 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group.html#a15e71de6245a3435379eb75461f15bc8" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_worker.html#a670fe67276cb94775a042958fe2c79d4" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-67.5 0,-97.5 219,-97.5 219,-67.5 0,-67.5"/>
 <text text-anchor="start" x="8" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.integrations.import</text>
-<text text-anchor="middle" x="109.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.ImportGroup.path_changed</text>
+<text text-anchor="middle" x="109.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.ImportWorker.run</text>
 </a>
 </g>
 </g>
@@ -43,10 +43,10 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_worker.html#a670fe67276cb94775a042958fe2c79d4" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group.html#a699334cac596547e7c6c3d9e2216968a" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-30.5 219,-30.5 219,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.integrations.import</text>
-<text text-anchor="middle" x="109.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.ImportWorker.run</text>
+<text text-anchor="middle" x="109.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.ImportGroup.set_game</text>
 </a>
 </g>
 </g>

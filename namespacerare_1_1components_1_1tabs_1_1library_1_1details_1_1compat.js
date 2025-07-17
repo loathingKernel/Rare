@@ -2,7 +2,8 @@ var namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1compat =
 [
     [ "LocalCompatSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_compat_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_compat_settings" ],
     [ "LocalDxvkConfigSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_config_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_config_settings" ],
-    [ "LocalDxvkOverlaySettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_overlay_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_overlay_settings" ],
+    [ "LocalDxvkHudSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_hud_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_hud_settings" ],
+    [ "LocalDxvkNvapiDrsSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_nvapi_drs_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_dxvk_nvapi_drs_settings" ],
     [ "LocalMangoHudSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_mango_hud_settings" ],
     [ "LocalProtonSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_proton_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_proton_settings" ],
     [ "LocalRunnerSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_runner_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_runner_settings" ],

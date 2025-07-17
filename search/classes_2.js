@@ -12,11 +12,12 @@ var searchData=
   ['collapsiblebase_9',['CollapsibleBase',['../classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base.html',1,'rare::widgets::collapsible_widget']]],
   ['collapsibleframe_10',['CollapsibleFrame',['../classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame.html',1,'rare::widgets::collapsible_widget']]],
   ['collapsiblegroupbox_11',['CollapsibleGroupBox',['../classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_group_box.html',1,'rare::widgets::collapsible_widget']]],
-  ['compatibilitytool_12',['CompatibilityTool',['../classrare_1_1utils_1_1compat_1_1steam_1_1_compatibility_tool.html',1,'rare::utils::compat::steam']]],
-  ['compatsettingsbase_13',['CompatSettingsBase',['../classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_compat_settings_base.html',1,'rare::components::tabs::settings::compat']]],
-  ['consoledialog_14',['ConsoleDialog',['../classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html',1,'rare::commands::launcher::console_dialog']]],
-  ['consoleedit_15',['ConsoleEdit',['../classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_edit.html',1,'rare::commands::launcher::console_dialog']]],
-  ['consoleenv_16',['ConsoleEnv',['../classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_env.html',1,'rare::commands::launcher::console_dialog']]],
-  ['constants_17',['Constants',['../classrare_1_1components_1_1tabs_1_1store_1_1constants_1_1_constants.html',1,'rare::components::tabs::store::constants']]],
-  ['customicontype_18',['CustomIconType',['../classrare_1_1widgets_1_1indicator__edit_1_1_path_edit_icon_provider_1_1_custom_icon_type.html',1,'rare::widgets::indicator_edit::PathEditIconProvider']]]
+  ['columncompleter_12',['ColumnCompleter',['../classrare_1_1widgets_1_1indicator__edit_1_1_column_completer.html',1,'rare::widgets::indicator_edit']]],
+  ['compatibilitytool_13',['CompatibilityTool',['../classrare_1_1utils_1_1compat_1_1steam_1_1_compatibility_tool.html',1,'rare::utils::compat::steam']]],
+  ['compatsettingsbase_14',['CompatSettingsBase',['../classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_compat_settings_base.html',1,'rare::components::tabs::settings::compat']]],
+  ['consoledialog_15',['ConsoleDialog',['../classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html',1,'rare::commands::launcher::console_dialog']]],
+  ['consoleedit_16',['ConsoleEdit',['../classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_edit.html',1,'rare::commands::launcher::console_dialog']]],
+  ['consoleenv_17',['ConsoleEnv',['../classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_env.html',1,'rare::commands::launcher::console_dialog']]],
+  ['constants_18',['Constants',['../classrare_1_1components_1_1tabs_1_1store_1_1constants_1_1_constants.html',1,'rare::components::tabs::store::constants']]],
+  ['customicontype_19',['CustomIconType',['../classrare_1_1widgets_1_1indicator__edit_1_1_path_edit_icon_provider_1_1_custom_icon_type.html',1,'rare::widgets::indicator_edit::PathEditIconProvider']]]
 ];

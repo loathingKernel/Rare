@@ -59,7 +59,7 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a8696a86abc106cc4c693e61a4d566f2b" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a06d9360fcb45054a475dcced06df954a" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="93.31,-0.5 93.31,-30.5 311.31,-30.5 311.31,-0.5 93.31,-0.5"/>
 <text text-anchor="start" x="101.31" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.widgets.overlay.</text>
 <text text-anchor="middle" x="202.31" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">OverlaySettings.setupWidget</text>

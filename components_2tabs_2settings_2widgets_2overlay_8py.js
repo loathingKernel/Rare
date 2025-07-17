@@ -8,7 +8,7 @@ var components_2tabs_2settings_2widgets_2overlay_8py =
     [ "OverlaySelectInput", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_select_input.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_select_input" ],
     [ "ActivationStates", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_activation_states.html", null ],
     [ "OverlaySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings" ],
-    [ "DxvkOverlaySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_overlay_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_overlay_settings" ],
+    [ "DxvkHudSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_hud_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_hud_settings" ],
     [ "DxvkConfigSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings" ],
     [ "DxvkNvapiDrsSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings" ],
     [ "MangoHudSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings" ],

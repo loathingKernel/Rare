@@ -164,7 +164,7 @@ $(document).ready(function(){initNavTree('misc_8py_source.html',''); initResizab
 <div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>                    palette.setColor(group, role, palette.color(QPalette.ColorGroup.Active, role))</div>
 <div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>            scheme.endGroup()</div>
 <div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>        scheme.endGroup()</div>
-<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>    <span class="keywordflow">except</span>:</div>
+<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>    <span class="keywordflow">except</span> Exception:</div>
 <div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span>        palette = <span class="keywordtype">None</span></div>
 <div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>    <span class="keywordflow">return</span> palette</div>
 <div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span> </div>
@@ -220,8 +220,8 @@ $(document).ready(function(){initNavTree('misc_8py_source.html',''); initResizab
 <div class="line"><a id="l00131" name="l00131"></a><span class="lineno">  131</span>    file.close()</div>
 <div class="line"><a id="l00132" name="l00132"></a><span class="lineno">  132</span>    qApp.setStyleSheet(stylesheet + static)</div>
 <div class="line"><a id="l00133" name="l00133"></a><span class="lineno">  133</span> </div>
-<div class="line"><a id="l00134" name="l00134"></a><span class="lineno">  134</span>    icon_color_normal = qApp.palette().color(QPalette.ColorRole.Text).name()</div>
-<div class="line"><a id="l00135" name="l00135"></a><span class="lineno">  135</span>    icon_color_disabled = qApp.palette().color(QPalette.ColorRole.Text).name()</div>
+<div class="line"><a id="l00134" name="l00134"></a><span class="lineno">  134</span>    icon_color_normal = qApp.palette().color(QPalette.ColorRole.Text).name()  <span class="comment"># noqa: F841</span></div>
+<div class="line"><a id="l00135" name="l00135"></a><span class="lineno">  135</span>    icon_color_disabled = qApp.palette().color(QPalette.ColorRole.Text).name()  <span class="comment"># noqa: F841</span></div>
 <div class="line"><a id="l00136" name="l00136"></a><span class="lineno">  136</span>    qtawesome.set_defaults(color=<span class="stringliteral">&quot;#eee&quot;</span>, color_disabled=<span class="stringliteral">&quot;#eee&quot;</span>)</div>
 <div class="line"><a id="l00137" name="l00137"></a><span class="lineno">  137</span> </div>
 <div class="line"><a id="l00138" name="l00138"></a><span class="lineno">  138</span> </div>

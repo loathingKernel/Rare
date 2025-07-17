@@ -16,10 +16,10 @@
 <polygon fill="#bfbfbf" stroke="black" points="0,-0.5 0,-156.5 110,-156.5 110,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="55" y="-144.5" font-family="Helvetica,sans-Serif" font-size="10.00">WrapperSettings</text>
 <polyline fill="none" stroke="black" points="0,-137.5 110,-137.5 "/>
-<text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrapper_label</text>
-<text text-anchor="start" x="8" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ add_button</text>
-<text text-anchor="start" x="8" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrapper_scroll</text>
-<text text-anchor="start" x="8" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrapper_container</text>
+<text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ add_button</text>
+<text text-anchor="start" x="8" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrapper_scroll</text>
+<text text-anchor="start" x="8" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrapper_container</text>
+<text text-anchor="start" x="8" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrapper_label</text>
 <text text-anchor="start" x="8" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
 <text text-anchor="start" x="8" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrappers</text>
 <polyline fill="none" stroke="black" points="0,-63.5 110,-63.5 "/>

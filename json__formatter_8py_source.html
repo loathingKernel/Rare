@@ -348,7 +348,7 @@ $(document).ready(function(){initNavTree('json__formatter_8py_source.html',''); 
 <div class="line"><a id="l00259" name="l00259"></a><span class="lineno">  259</span>                document[ch.key] = self.<a class="code hl_function" href="classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#a91c27517f3ce824342174e3fc6303348">genJson</a>genJson(ch)</div>
 <div class="line"><a id="l00260" name="l00260"></a><span class="lineno">  260</span>            <span class="keywordflow">return</span> document</div>
 <div class="line"><a id="l00261" name="l00261"></a><span class="lineno">  261</span> </div>
-<div class="line"><a id="l00262" name="l00262"></a><span class="lineno">  262</span>        <span class="keywordflow">elif</span> item.type == list:</div>
+<div class="line"><a id="l00262" name="l00262"></a><span class="lineno">  262</span>        <span class="keywordflow">elif</span> item.type <span class="keywordflow">is</span> list:</div>
 <div class="line"><a id="l00263" name="l00263"></a><span class="lineno">  263</span>            document = []</div>
 <div class="line"><a id="l00264" name="l00264"></a><span class="lineno">  264</span>            <span class="keywordflow">for</span> i <span class="keywordflow">in</span> range(nchild):</div>
 <div class="line"><a id="l00265" name="l00265"></a><span class="lineno">  265</span>                ch = item.child(i)</div>

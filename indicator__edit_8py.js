@@ -9,5 +9,6 @@ var indicator__edit_8py =
     [ "PathEditIconProvider", "classrare_1_1widgets_1_1indicator__edit_1_1_path_edit_icon_provider.html", "classrare_1_1widgets_1_1indicator__edit_1_1_path_edit_icon_provider" ],
     [ "PathEditIconProvider.CustomIconType", "classrare_1_1widgets_1_1indicator__edit_1_1_path_edit_icon_provider_1_1_custom_icon_type.html", null ],
     [ "PathEdit", "classrare_1_1widgets_1_1indicator__edit_1_1_path_edit.html", "classrare_1_1widgets_1_1indicator__edit_1_1_path_edit" ],
+    [ "ColumnCompleter", "classrare_1_1widgets_1_1indicator__edit_1_1_column_completer.html", "classrare_1_1widgets_1_1indicator__edit_1_1_column_completer" ],
     [ "logger", "indicator__edit_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ]
 ];

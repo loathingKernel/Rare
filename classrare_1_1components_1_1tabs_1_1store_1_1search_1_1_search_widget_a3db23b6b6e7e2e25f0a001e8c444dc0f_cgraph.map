@@ -1,8 +1,9 @@
 <map id="init_filter" name="init_filter">
-<area shape="rect" id="node1" title=" " alt="" coords="5,190,76,217"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_widget.html#ad40685079c149157f03614f3b66fe2f3" title=" " alt="" coords="124,165,239,191"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="287,208,553,249"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,250,76,277"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_widget.html#ad40685079c149157f03614f3b66fe2f3" title=" " alt="" coords="124,217,239,243"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="287,284,553,325"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_widget.html#afe8e8ac663d9c09dad3a1364f128945b" title=" " alt="" coords="307,119,533,160"/>
+<area shape="rect" id="node10" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a72dad49f74d9c9ba67eca7e2ead920e4" title=" " alt="" coords="311,209,529,235"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_page.html#abdf35a8f677d168b77d233b030cb9e8f" title=" " alt="" coords="603,29,828,71"/>
 <area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_page.html#abdf35a8f677d168b77d233b030cb9e8f" title=" " alt="" coords="604,119,827,160"/>
 <area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_page.html#abdf35a8f677d168b77d233b030cb9e8f" title=" " alt="" coords="601,208,829,249"/>

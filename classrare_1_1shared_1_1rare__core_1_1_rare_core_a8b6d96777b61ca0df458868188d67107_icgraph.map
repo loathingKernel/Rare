@@ -1,7 +1,8 @@
 <map id="games" name="games">
-<area shape="rect" id="node1" title=" " alt="" coords="512,104,573,131"/>
+<area shape="rect" id="node1" title=" " alt="" coords="512,141,573,168"/>
 <area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#ac4a25c947b93e07b68dd8ac7d1f17f5f" title=" " alt="" coords="309,29,388,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a3db95dc5356fb770b891be48e62d1604" title=" " alt="" coords="305,104,393,131"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_origin_wine_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="233,179,464,221"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="5,179,185,221"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a646134f881e41a4642c996867a37021a" title=" " alt="" coords="305,104,392,131"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a3db95dc5356fb770b891be48e62d1604" title=" " alt="" coords="305,179,393,205"/>
+<area shape="rect" id="node5" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_origin_wine_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="233,254,464,295"/>
+<area shape="rect" id="node6" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="5,254,185,295"/>
 </map>

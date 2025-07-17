@@ -7,6 +7,6 @@ var namespacerare_1_1commands_1_1launcher =
     [ "RareLauncher", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html", "classrare_1_1commands_1_1launcher_1_1_rare_launcher" ],
     [ "RareLauncherException", "classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception.html", "classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception" ],
     [ "SyncCheckWorker", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker.html", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker" ],
-    [ "launch", "namespacerare_1_1commands_1_1launcher.html#a412675ee25d478741940175d2c1d9757", null ],
+    [ "launcher", "namespacerare_1_1commands_1_1launcher.html#adfc6158c24f1489fab203c59148d8e7c", null ],
     [ "DETACHED_APP_NAMES", "namespacerare_1_1commands_1_1launcher.html#ac401e1a8757aba5d526538753354728f", null ]
 ];

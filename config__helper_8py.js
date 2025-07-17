@@ -1,5 +1,9 @@
 var config__helper_8py =
 [
+    [ "adjust_envvar", "config__helper_8py.html#a1fb4424b1c4e801a4ee948eee66cf3f1", null ],
+    [ "adjust_option", "config__helper_8py.html#aadcc062faeadaa8c5563719ca3d57aa9", null ],
+    [ "adjust_proton_compatdata", "config__helper_8py.html#a4e6188344459360bdf785548c5d72ce7", null ],
+    [ "adjust_wine_prefix", "config__helper_8py.html#a65e3011dfa9ba230763642affd6e5d49", null ],
     [ "get_boolean", "config__helper_8py.html#ae81d996ac48dfd0728a6429bd783fa38", null ],
     [ "get_envvar", "config__helper_8py.html#a457d37bbe224d5f64555cb8451ca6b18", null ],
     [ "get_envvar_fallback", "config__helper_8py.html#a1036abeb768da2d46786af3a2ff50b63", null ],
@@ -19,10 +23,6 @@ var config__helper_8py =
     [ "remove_option", "config__helper_8py.html#a9ec9617d16f101878b16aa325a3231f1", null ],
     [ "remove_section", "config__helper_8py.html#a5e4ef4c70ef2e548d6623014935ef0c4", null ],
     [ "save_config", "config__helper_8py.html#a9c8e0fb7cc40aeb2668c9df41056429b", null ],
-    [ "save_envvar", "config__helper_8py.html#abb61ad01d47ef603ef23d607d4e6de35", null ],
-    [ "save_option", "config__helper_8py.html#a267a5f12a4baf45647523a113068e11c", null ],
-    [ "save_proton_compatdata", "config__helper_8py.html#a2140eb21904d70d460af985c8bf9a244", null ],
-    [ "save_wine_prefix", "config__helper_8py.html#abe4da597ff958ca26dbdcf78de1af291", null ],
     [ "set_boolean", "config__helper_8py.html#ad4fe34623cb1be69c5efc79a237e6e9e", null ],
     [ "set_envvar", "config__helper_8py.html#afb11223556320d6455409421029ae307", null ],
     [ "set_option", "config__helper_8py.html#a0a3960476587413425d900834d8377ca", null ]

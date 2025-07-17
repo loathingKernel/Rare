@@ -24,6 +24,6 @@ var searchData=
   ['downloadstab_21',['DownloadsTab',['../classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html',1,'rare::components::tabs::downloads']]],
   ['downloadwidget_22',['DownloadWidget',['../classrare_1_1components_1_1tabs_1_1downloads_1_1download_1_1_download_widget.html',1,'rare::components::tabs::downloads::download']]],
   ['dxvkconfigsettings_23',['DxvkConfigSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings.html',1,'rare::components::tabs::settings::widgets::overlay']]],
-  ['dxvknvapidrssettings_24',['DxvkNvapiDrsSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings.html',1,'rare::components::tabs::settings::widgets::overlay']]],
-  ['dxvkoverlaysettings_25',['DxvkOverlaySettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_overlay_settings.html',1,'rare::components::tabs::settings::widgets::overlay']]]
+  ['dxvkhudsettings_24',['DxvkHudSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_hud_settings.html',1,'rare::components::tabs::settings::widgets::overlay']]],
+  ['dxvknvapidrssettings_25',['DxvkNvapiDrsSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings.html',1,'rare::components::tabs::settings::widgets::overlay']]]
 ];
