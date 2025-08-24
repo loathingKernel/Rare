@@ -273,11 +273,11 @@ $(document).ready(function(){initNavTree('response_8py_source.html',''); initRes
 <div class="line"><a id="l00184" name="l00184"></a><span class="lineno"><a class="line" href="classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_promotions_model.html#add95007f552c6ab49481ab10bb9afbb3">  184</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_promotions_model.html#add95007f552c6ab49481ab10bb9afbb3">from_dict</a>(cls: Type[<span class="stringliteral">&quot;PromotionsModel&quot;</span>], src: Dict[str, Any]) -&gt; <span class="stringliteral">&quot;PromotionsModel&quot;</span>:</div>
 <div class="line"><a id="l00185" name="l00185"></a><span class="lineno">  185</span>        d = src.copy()</div>
 <div class="line"><a id="l00186" name="l00186"></a><span class="lineno">  186</span>        promotional_offers = tuple(map(PromotionalOffersModel.from_list, d.pop(<span class="stringliteral">&quot;promotionalOffers&quot;</span>, [])))</div>
-<div class="line"><a id="l00187" name="l00187"></a><span class="lineno">  187</span>        upcoming_promotional_offers = tuple(</div>
-<div class="line"><a id="l00188" name="l00188"></a><span class="lineno">  188</span>            map(PromotionalOffersModel.from_list, d.pop(<span class="stringliteral">&quot;upcomingPromotionalOffers&quot;</span>, []))</div>
-<div class="line"><a id="l00189" name="l00189"></a><span class="lineno">  189</span>        )</div>
-<div class="line"><a id="l00190" name="l00190"></a><span class="lineno">  190</span>        <span class="keywordflow">return</span> cls(</div>
-<div class="line"><a id="l00191" name="l00191"></a><span class="lineno">  191</span>            promotionalOffers=promotional_offers, upcomingPromotionalOffers=upcoming_promotional_offers, unmapped=d</div>
+<div class="line"><a id="l00187" name="l00187"></a><span class="lineno">  187</span>        upcoming_promotional_offers = tuple(map(PromotionalOffersModel.from_list, d.pop(<span class="stringliteral">&quot;upcomingPromotionalOffers&quot;</span>, [])))</div>
+<div class="line"><a id="l00188" name="l00188"></a><span class="lineno">  188</span>        <span class="keywordflow">return</span> cls(</div>
+<div class="line"><a id="l00189" name="l00189"></a><span class="lineno">  189</span>            promotionalOffers=promotional_offers,</div>
+<div class="line"><a id="l00190" name="l00190"></a><span class="lineno">  190</span>            upcomingPromotionalOffers=upcoming_promotional_offers,</div>
+<div class="line"><a id="l00191" name="l00191"></a><span class="lineno">  191</span>            unmapped=d,</div>
 <div class="line"><a id="l00192" name="l00192"></a><span class="lineno">  192</span>        )</div>
 <div class="line"><a id="l00193" name="l00193"></a><span class="lineno">  193</span> </div>
 <div class="line"><a id="l00194" name="l00194"></a><span class="lineno">  194</span> </div>
@@ -510,9 +510,9 @@ $(document).ready(function(){initNavTree('response_8py_source.html',''); initRes
 <div class="line"><a id="l00421" name="l00421"></a><span class="lineno">  421</span>        d = src.copy()</div>
 <div class="line"><a id="l00422" name="l00422"></a><span class="lineno">  422</span>        <span class="keywordflow">return</span> cls(</div>
 <div class="line"><a id="l00423" name="l00423"></a><span class="lineno">  423</span>            message=d.pop(<span class="stringliteral">&quot;message&quot;</span>, <span class="stringliteral">&quot;&quot;</span>),</div>
-<div class="line"><a id="l00424" name="l00424"></a><span class="lineno">  424</span>            correlationId= d.pop(<span class="stringliteral">&quot;correlationId&quot;</span>, <span class="stringliteral">&quot;&quot;</span>),</div>
+<div class="line"><a id="l00424" name="l00424"></a><span class="lineno">  424</span>            correlationId=d.pop(<span class="stringliteral">&quot;correlationId&quot;</span>, <span class="stringliteral">&quot;&quot;</span>),</div>
 <div class="line"><a id="l00425" name="l00425"></a><span class="lineno">  425</span>            serviceResponse=d.pop(<span class="stringliteral">&quot;serviceResponse&quot;</span>, <span class="stringliteral">&quot;&quot;</span>),</div>
-<div class="line"><a id="l00426" name="l00426"></a><span class="lineno">  426</span>            unmapped=d</div>
+<div class="line"><a id="l00426" name="l00426"></a><span class="lineno">  426</span>            unmapped=d,</div>
 <div class="line"><a id="l00427" name="l00427"></a><span class="lineno">  427</span>        )</div>
 <div class="line"><a id="l00428" name="l00428"></a><span class="lineno">  428</span> </div>
 <div class="line"><a id="l00429" name="l00429"></a><span class="lineno">  429</span> </div>

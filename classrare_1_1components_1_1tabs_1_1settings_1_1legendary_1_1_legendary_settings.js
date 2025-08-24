@@ -2,7 +2,7 @@ var classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_setti
 [
     [ "__init__", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#a39d165427992dd2720f91929a88cde17", null ],
     [ "clean_metadata", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#a32b74bd5634c682405bf46dedf7cd8dd", null ],
-    [ "disable_https_save", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#a7592e771faadd867faaceebd4c451d35", null ],
+    [ "disable_https_save", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#a84262bdf1f1ec61d58fdaadfd915d130", null ],
     [ "hideEvent", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#ae7eaca782c2ff62c2ae59d01f699d9ba", null ],
     [ "locale_save_cb", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#a1af18a86583319d488e2bd4710b8f35b", null ],
     [ "max_memory_save", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html#ab1375020ee88d1f378bd0c48e003f916", null ],

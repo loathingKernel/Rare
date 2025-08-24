@@ -1,5 +1,7 @@
 <map id="setDefault" name="setDefault">
-<area shape="rect" id="node1" title=" " alt="" coords="344,71,425,97"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit.html#a9ff4a771b55b705e2653927926385052" title=" " alt="" coords="114,29,187,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html#a9ff4a771b55b705e2653927926385052" title=" " alt="" coords="5,105,296,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="795,71,876,97"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit.html#a9ff4a771b55b705e2653927926385052" title=" " alt="" coords="565,29,638,56"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html#a9ff4a771b55b705e2653927926385052" title=" " alt="" coords="456,105,747,146"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1settings_1_1_rare_app_settings.html#a03f9e31a95dd275096bf1b3057f25fea" title=" " alt="" coords="240,63,408,105"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1settings_1_1_rare_app_settings.html#ae7efd943ee285dc7f60ebe933ddb5e2d" title=" " alt="" coords="5,63,192,105"/>
 </map>

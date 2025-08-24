@@ -1,12 +1,13 @@
 <map id="data" name="data">
-<area shape="rect" id="node1" title=" " alt="" coords="16,133,63,160"/>
+<area shape="rect" id="node1" title=" " alt="" coords="16,177,63,204"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_widget.html#aa730e0a9866c3f07921ed39e8b960665" title=" " alt="" coords="161,5,279,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1signals_1_1_global_signals.html#a0f737db16078ef206ae669481138ff3f" title=" " alt="" coords="133,81,307,122"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#ae00c01f8599ea056e3e5afb873b756ba" title=" " alt="" coords="133,170,307,211"/>
-<area shape="rect" id="node10" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#ae00c01f8599ea056e3e5afb873b756ba" title=" " alt="" coords="111,259,329,301"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html#ad23a87042fcacd32722e00f2898803ce" title=" " alt="" coords="386,81,645,122"/>
-<area shape="rect" id="node6" href="$namespacerare_1_1shared_1_1workers_1_1uninstall.html#a90893d2937162f9d62f5a915a012191b" title=" " alt="" coords="377,177,653,204"/>
-<area shape="rect" id="node7" href="$namespacerare_1_1utils_1_1paths.html#ac2e6ac6baa5376d3ea5aa8b63e2af2bd" title="Creates the path of a shortcut link." alt="" coords="701,81,856,122"/>
-<area shape="rect" id="node8" href="$namespacerare_1_1utils_1_1paths.html#a87c539910fdff3dd0e2b1ee7c12bd1b7" title=" " alt="" coords="701,170,856,211"/>
-<area shape="rect" id="node9" href="$namespacerare_1_1utils_1_1paths.html#a328faa5a142700be21313b72953aab76" title=" " alt="" coords="701,259,856,301"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1settings_1_1_rare_app_settings.html#a0f737db16078ef206ae669481138ff3f" title=" " alt="" coords="136,81,304,122"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1signals_1_1_global_signals.html#a0f737db16078ef206ae669481138ff3f" title=" " alt="" coords="133,170,307,211"/>
+<area shape="rect" id="node6" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#ae00c01f8599ea056e3e5afb873b756ba" title=" " alt="" coords="133,259,307,301"/>
+<area shape="rect" id="node11" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#ae00c01f8599ea056e3e5afb873b756ba" title=" " alt="" coords="111,349,329,390"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html#ad23a87042fcacd32722e00f2898803ce" title=" " alt="" coords="386,170,645,211"/>
+<area shape="rect" id="node7" href="$namespacerare_1_1shared_1_1workers_1_1uninstall.html#a90893d2937162f9d62f5a915a012191b" title=" " alt="" coords="377,267,653,293"/>
+<area shape="rect" id="node8" href="$namespacerare_1_1utils_1_1paths.html#ac2e6ac6baa5376d3ea5aa8b63e2af2bd" title="Creates the path of a shortcut link." alt="" coords="701,170,856,211"/>
+<area shape="rect" id="node9" href="$namespacerare_1_1utils_1_1paths.html#a87c539910fdff3dd0e2b1ee7c12bd1b7" title=" " alt="" coords="701,259,856,301"/>
+<area shape="rect" id="node10" href="$namespacerare_1_1utils_1_1paths.html#a328faa5a142700be21313b72953aab76" title=" " alt="" coords="701,349,856,390"/>
 </map>

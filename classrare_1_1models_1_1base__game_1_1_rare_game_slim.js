@@ -15,5 +15,6 @@ var classrare_1_1models_1_1base__game_1_1_rare_game_slim =
     [ "supports_cloud_saves", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a57284a6f8752e074d8a1ee59e9105379", null ],
     [ "update_saves", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a538e01960833eed6bbda62ccc518f22f", null ],
     [ "upload_saves", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#ac83e5975f7cf1121c6443bc715ee08af", null ],
+    [ "settings", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a6cddb5e40c21eadd2ded85bc51f79822", null ],
     [ "state", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#adc6e5733fc3c22f0a7b2914188c49c90", null ]
 ];

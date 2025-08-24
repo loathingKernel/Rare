@@ -21,7 +21,7 @@ var searchData=
   ['view_5fscroll_18',['view_scroll',['../classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#abbc89345e5566a4f25c67a25838d60da',1,'rare::components::tabs::library::GamesLibrary']]],
   ['viewchanged_19',['viewChanged',['../classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar.html#a7ea8c388e04a1d7cefe59f2b2c69a0f3',1,'rare::components::tabs::library::head_bar::LibraryHeadBar']]],
   ['viewwidget_20',['ViewWidget',['../namespacerare_1_1components_1_1tabs_1_1library_1_1widgets.html#a237795999567e3909c34658e16978916',1,'rare::components::tabs::library::widgets']]],
-  ['vlist_21',['VLIST',['../classrare_1_1models_1_1library_1_1_library_view.html#abff3759cb4cacbd0b7536b84ef0c168c',1,'rare::models::library::LibraryView']]],
+  ['vlist_21',['VLIST',['../classrare_1_1models_1_1enumerations_1_1_library_view.html#abff3759cb4cacbd0b7536b84ef0c168c',1,'rare::models::enumerations::LibraryView']]],
   ['vscaper_22',['vscaper',['../classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1browser__login_1_1_ui___browser_login.html#a9d71e105469c66b73fae1400a0f8798e',1,'rare::ui::components::dialogs::login::browser_login::Ui_BrowserLogin']]],
   ['vspacer_23',['vspacer',['../classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_ui___import_login.html#af34097640b8d00bceb90fa76fc570a1d',1,'rare::ui::components::dialogs::login::import_login::Ui_ImportLogin']]]
 ];

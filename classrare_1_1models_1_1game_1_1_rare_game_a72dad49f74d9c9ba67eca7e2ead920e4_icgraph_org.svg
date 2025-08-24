@@ -98,9 +98,9 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1models_1_1options_1_1_value.html#a45163c19b7c87f553c6f1d055d4668cb" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="484,-466.5 484,-496.5 614,-496.5 614,-466.5 484,-466.5"/>
-<text text-anchor="start" x="492" y="-484.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.options.Value.</text>
+<g id="a_node3"><a xlink:href="classrare_1_1models_1_1settings_1_1_setting.html#a45163c19b7c87f553c6f1d055d4668cb" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="479.5,-466.5 479.5,-496.5 618.5,-496.5 618.5,-466.5 479.5,-466.5"/>
+<text text-anchor="start" x="487.5" y="-484.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.settings.Setting.</text>
 <text text-anchor="middle" x="549" y="-473.5" font-family="Helvetica,sans-Serif" font-size="10.00">__iter__</text>
 </a>
 </g>
@@ -108,15 +108,15 @@
 <!-- Node2&#45;&gt;Node3 -->
 <g id="edge3" class="edge">
 <title>Node2&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M729.45,-433.16C707.89,-441.3 681.87,-450.55 658,-457.5 643.89,-461.61 628.57,-465.4 614.02,-468.71"/>
+<path fill="none" stroke="midnightblue" d="M729.45,-433.16C707.89,-441.3 681.87,-450.55 658,-457.5 645.37,-461.18 631.76,-464.61 618.61,-467.66"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="730.92,-436.34 739.02,-429.51 728.43,-429.8 730.92,-436.34"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1models_1_1options_1_1_value.html#a810fdc262754b6d21f5acd0e280d4daf" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="484,-399.5 484,-429.5 614,-429.5 614,-399.5 484,-399.5"/>
-<text text-anchor="start" x="492" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.options.Value.</text>
+<g id="a_node4"><a xlink:href="classrare_1_1models_1_1settings_1_1_setting.html#a810fdc262754b6d21f5acd0e280d4daf" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="479.5,-399.5 479.5,-429.5 618.5,-429.5 618.5,-399.5 479.5,-399.5"/>
+<text text-anchor="start" x="487.5" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.settings.Setting.</text>
 <text text-anchor="middle" x="549" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00">__len__</text>
 </a>
 </g>
@@ -124,7 +124,7 @@
 <!-- Node2&#45;&gt;Node4 -->
 <g id="edge5" class="edge">
 <title>Node2&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M695.38,-414.5C668.73,-414.5 639.49,-414.5 614.26,-414.5"/>
+<path fill="none" stroke="midnightblue" d="M695.26,-414.5C670.24,-414.5 642.95,-414.5 618.85,-414.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="695.46,-418 705.46,-414.5 695.46,-411 695.46,-418"/>
 </g>
 <!-- Node3&#45;&gt;Node3 -->

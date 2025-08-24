@@ -9,9 +9,9 @@ var constants_8py =
     [ "SEARCH_STORE_QUERY", "constants_8py.html#a4fcddde0f05be965bfafbf34355223d2", null ],
     [ "STORE_CONFIG_QUERY", "constants_8py.html#a5cfa8b10d97536c6753138d55e03b080", null ],
     [ "store_config_query", "constants_8py.html#a1a3b0118fdf55cafa30216d8b56cdcef", null ],
-    [ "WISHLIST_ADD_QUERY", "constants_8py.html#a6a23283376f9e54960bae67e1bb68be5", null ],
+    [ "WISHLIST_ADD_QUERY", "constants_8py.html#ab47b5235769a191e3432a6dbd464abfe", null ],
     [ "wishlist_add_query", "constants_8py.html#a5415a7092fe0676eb1ad22017b3fbfeb", null ],
-    [ "WISHLIST_QUERY", "constants_8py.html#accf8958e6228b3b44324a3649253bf80", null ],
+    [ "WISHLIST_QUERY", "constants_8py.html#aa87bed20a03653a808f52b70cfa65995", null ],
     [ "wishlist_query", "constants_8py.html#acd93a9f7f840f79fcd811e2608811574", null ],
     [ "WISHLIST_REMOVE_QUERY", "constants_8py.html#a2453978a81fd5555672efa2b77073977", null ],
     [ "wishlist_remove_query", "constants_8py.html#ae4c3d0ce51c0f1356ba6ed06d7a1e035", null ]

@@ -93,7 +93,7 @@ $(document).ready(function(){initNavTree('subreaper_8py_source.html',''); initRe
 <div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">import</span> os</div>
 <div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">import</span> sys</div>
 <div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">from</span> argparse <span class="keyword">import</span> Namespace</div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">from</span> ctypes <span class="keyword">import</span> CDLL, c_int, c_ulong, create_string_buffer, byref</div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">from</span> ctypes <span class="keyword">import</span> CDLL, c_int, create_string_buffer, byref</div>
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="keyword">from</span> ctypes.util <span class="keyword">import</span> find_library</div>
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="keyword">from</span> logging <span class="keyword">import</span> getLogger</div>
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">from</span> typing <span class="keyword">import</span> List</div>
@@ -136,7 +136,7 @@ $(document).ready(function(){initNavTree('subreaper_8py_source.html',''); initRe
 <div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>    ]</div>
 <div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span> </div>
 <div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>    proc_name = b<span class="stringliteral">&quot;reaper&quot;</span></div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    buff = create_string_buffer(len(proc_name)+1)</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    buff = create_string_buffer(len(proc_name) + 1)</div>
 <div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>    buff.value = proc_name</div>
 <div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>    prctl_ret = prctl(PR_SET_NAME, byref(buff), 0, 0, 0)</div>
 <div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    logger.debug(<span class="stringliteral">&quot;prctl PR_SET_NAME exited with status: %s&quot;</span>, prctl_ret)</div>
@@ -167,7 +167,7 @@ $(document).ready(function(){initNavTree('subreaper_8py_source.html',''); initRe
 <div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span> </div>
 <div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span><span class="keywordflow">if</span> __name__ == <span class="stringliteral">&quot;__main__&quot;</span>:</div>
 <div class="line"><a id="l00080" name="l00080"></a><span class="lineno"><a class="line" href="namespacerare_1_1commands_1_1subreaper.html#a46420880a743b84984d25cc134101880">   80</a></span>    sep = sys.argv.index(<span class="stringliteral">&quot;--&quot;</span>)</div>
-<div class="line"><a id="l00081" name="l00081"></a><span class="lineno"><a class="line" href="namespacerare_1_1commands_1_1subreaper.html#a1fa302baef54f3e7f08e6831fcf3e191">   81</a></span>    argv = sys.argv[sep+1:]</div>
+<div class="line"><a id="l00081" name="l00081"></a><span class="lineno"><a class="line" href="namespacerare_1_1commands_1_1subreaper.html#a1fa302baef54f3e7f08e6831fcf3e191">   81</a></span>    argv = sys.argv[sep + 1 :]</div>
 <div class="line"><a id="l00082" name="l00082"></a><span class="lineno"><a class="line" href="namespacerare_1_1commands_1_1subreaper.html#a8187411843a6284ffb964ef3fb9fcab3">   82</a></span>    args = Namespace(command=argv.pop(0), workdir=os.getcwd(), debug=<span class="keyword">True</span>)</div>
 <div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>    <a class="code hl_function" href="namespacerare_1_1commands_1_1subreaper.html#a4257db1d0966ff5dc4db2cd612db43a5">subreaper</a>(args, argv)</div>
 <div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span> </div>

@@ -9,7 +9,7 @@ var classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings =
     [ "on_style_select_changed", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#af0b1b6858ed0b8efb6b4faa95f01cf6d", null ],
     [ "on_view_combo_changed", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#acb16d1601fe68a12f9e1bedb42e9e8b6", null ],
     [ "open_directory", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#aafbdb78c40c7726899ad8680fab606c3", null ],
-    [ "save_window_size", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#ae1e82c979fe6d0632f0d2af69fac13db", null ],
+    [ "save_window_size", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#ae0ad5c85aed826ce01d5c8f0e7599822", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "desktop_link", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#a3da0caa344f0270105d053cb60c88d3f", null ],
     [ "discord_rpc_settings", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html#ae5f0cdaeac5d0d506c1c249fa047fb39", null ],

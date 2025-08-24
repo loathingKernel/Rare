@@ -2,6 +2,12 @@ var dir_95eb7cbc278b6940b3a753cb740a708a =
 [
     [ "__init__.py", "models_2____init_____8py.html", null ],
     [ "base_game.py", "base__game_8py.html", "base__game_8py" ],
+    [ "enumerations.py", "enumerations_8py.html", [
+      [ "LibraryView", "classrare_1_1models_1_1enumerations_1_1_library_view.html", null ],
+      [ "LibraryFilter", "classrare_1_1models_1_1enumerations_1_1_library_filter.html", null ],
+      [ "LibraryOrder", "classrare_1_1models_1_1enumerations_1_1_library_order.html", null ],
+      [ "DiscordRPCMode", "classrare_1_1models_1_1enumerations_1_1_discord_r_p_c_mode.html", null ]
+    ] ],
     [ "game.py", "models_2game_8py.html", "models_2game_8py" ],
     [ "image.py", "models_2image_8py.html", [
       [ "ImageType", "classrare_1_1models_1_1image_1_1_image_type.html", null ],
@@ -24,15 +30,10 @@ var dir_95eb7cbc278b6940b3a753cb740a708a =
       [ "StateChangedModel.States", "classrare_1_1models_1_1launcher_1_1_state_changed_model_1_1_states.html", null ],
       [ "ErrorModel", "classrare_1_1models_1_1launcher_1_1_error_model.html", "classrare_1_1models_1_1launcher_1_1_error_model" ]
     ] ],
-    [ "library.py", "library_8py.html", [
-      [ "LibraryView", "classrare_1_1models_1_1library_1_1_library_view.html", null ],
-      [ "LibraryFilter", "classrare_1_1models_1_1library_1_1_library_filter.html", null ],
-      [ "LibraryOrder", "classrare_1_1models_1_1library_1_1_library_order.html", null ]
-    ] ],
-    [ "options.py", "options_8py.html", "options_8py" ],
     [ "pathspec.py", "pathspec_8py.html", [
       [ "PathSpec", "classrare_1_1models_1_1pathspec_1_1_path_spec.html", "classrare_1_1models_1_1pathspec_1_1_path_spec" ]
     ] ],
+    [ "settings.py", "settings_8py.html", "settings_8py" ],
     [ "signals.py", "signals_8py.html", [
       [ "GlobalSignals", "classrare_1_1models_1_1signals_1_1_global_signals.html", "classrare_1_1models_1_1signals_1_1_global_signals" ],
       [ "GlobalSignals.ApplicationSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_application_signals.html", null ],

@@ -10,6 +10,5 @@ var classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c =
     [ "core", "classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "rpc", "classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#a0ab21f4419a1405b21abd8a77d54c110", null ],
     [ "settings", "classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#a6cddb5e40c21eadd2ded85bc51f79822", null ],
-    [ "signals", "classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#a0de0a2c91773619dac1660c29940c55e", null ],
-    [ "state", "classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#adc6e5733fc3c22f0a7b2914188c49c90", null ]
+    [ "signals", "classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html#a0de0a2c91773619dac1660c29940c55e", null ]
 ];

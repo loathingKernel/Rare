@@ -28,7 +28,6 @@ var classrare_1_1shared_1_1rare__core_1_1_rare_core =
     [ "queued_workers", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a780163e59723a97218b5b14874d486f8", null ],
     [ "resolve_origin", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#af29ac67bc30fc5530252b2a234b84188", null ],
     [ "saves", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a4c5d7b0b818760d1a69d2dca743a2f4b", null ],
-    [ "settings", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aa1576e9b0056403059061071172ff834", null ],
     [ "signals", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c", null ],
     [ "ubisoft_games", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a7099dc17c478d6e4850ae5a839b640eb", null ],
     [ "unreal_engine", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a35a295629dc020d0e97b1c0926242c5c", null ],

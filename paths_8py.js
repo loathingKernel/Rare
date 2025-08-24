@@ -24,6 +24,7 @@ var paths_8py =
     [ "lock_file", "paths_8py.html#a40ba74ba4e0cbcc72c8500d38c04b461", null ],
     [ "log_dir", "paths_8py.html#ac2806d554b9f1bc2c539a8dd797afb60", null ],
     [ "proton_compat_dir", "paths_8py.html#a1eb8fcf1882e8fd3a8bdd2d76bb9c44f", null ],
+    [ "setup_compat_shaders_dir", "paths_8py.html#a42d71bade593ac6ab28a7ed393dcd9b5", null ],
     [ "tmp_dir", "paths_8py.html#a99b36d23efbef26b6963295af12a82fe", null ],
     [ "wine_prefix_dir", "paths_8py.html#a986b1d363b7893dc47310e3f13302d30", null ],
     [ "ignore_errors", "paths_8py.html#aced8d1ef2b6beb3419486de9524fc0a5", null ],

@@ -1,8 +1,7 @@
 <map id="on_color_select_changed" name="on_color_select_changed">
-<area shape="rect" id="node1" title=" " alt="" coords="5,170,175,197"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,126,175,153"/>
 <area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1misc.html#a0a1d2124185f1449d3f4f0c225e5e823" title=" " alt="" coords="295,73,417,115"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aa1576e9b0056403059061071172ff834" title=" " alt="" coords="269,163,443,204"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="223,252,489,293"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="223,163,489,204"/>
 <area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1misc.html#aa3e62dd2834c428ff219c692cd724722" title=" " alt="" coords="541,29,663,71"/>
 <area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1misc.html#a586da0b440a2004d273a0ad5f81baf9d" title=" " alt="" coords="537,119,667,160"/>
 </map>

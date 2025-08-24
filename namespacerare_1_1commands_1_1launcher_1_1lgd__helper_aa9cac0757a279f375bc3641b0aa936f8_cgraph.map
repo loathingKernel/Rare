@@ -1,4 +1,5 @@
 <map id="get_origin_params" name="get_origin_params">
-<area shape="rect" id="node1" title=" " alt="" coords="5,29,133,56"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a1143cdeef4568dea440a5f8f5aa9ddb2" title=" " alt="" coords="181,29,300,56"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,37,133,63"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a1143cdeef4568dea440a5f8f5aa9ddb2" title=" " alt="" coords="181,37,300,63"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1paths.html#a42d71bade593ac6ab28a7ed393dcd9b5" title="Setup per&#45;game shader cache if shader pre&#45;caching is disabled." alt="" coords="348,29,495,71"/>
 </map>

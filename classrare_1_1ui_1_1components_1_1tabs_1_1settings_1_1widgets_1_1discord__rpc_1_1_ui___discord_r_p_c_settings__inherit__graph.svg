@@ -17,11 +17,11 @@
 <text text-anchor="middle" x="60.5" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">Ui_DiscordRPCSettings</text>
 <polyline fill="none" stroke="black" points="0,-104.5 121,-104.5 "/>
 <text text-anchor="start" x="8" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ main_layout</text>
-<text text-anchor="start" x="8" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ enable</text>
+<text text-anchor="start" x="8" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ mode_combo</text>
 <text text-anchor="start" x="8" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ label</text>
-<text text-anchor="start" x="8" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ show_game</text>
-<text text-anchor="start" x="8" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ show_os</text>
-<text text-anchor="start" x="8" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ show_time</text>
+<text text-anchor="start" x="8" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ game_check</text>
+<text text-anchor="start" x="8" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ os_check</text>
+<text text-anchor="start" x="8" y="-37.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ time_check</text>
 <polyline fill="none" stroke="black" points="0,-30.5 121,-30.5 "/>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setupUi()</text>
 <text text-anchor="start" x="8" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ retranslateUi()</text>

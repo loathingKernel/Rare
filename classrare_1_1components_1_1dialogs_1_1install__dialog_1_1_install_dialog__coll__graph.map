@@ -1,7 +1,7 @@
 <map id="InstallDialog" name="InstallDialog">
-<area shape="rect" id="node1" title=" " alt="" coords="5,903,184,1273"/>
-<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html" title=" " alt="" coords="31,689,159,855"/>
-<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html" title=" " alt="" coords="25,329,165,641"/>
-<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html" title=" " alt="" coords="29,131,160,281"/>
-<area shape="rect" id="node5" title=" " alt="" coords="61,5,129,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,903,192,1288"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html" title=" " alt="" coords="35,689,163,855"/>
+<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html" title=" " alt="" coords="29,329,169,641"/>
+<area shape="rect" id="node4" href="$classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html" title=" " alt="" coords="33,131,164,281"/>
+<area shape="rect" id="node5" title=" " alt="" coords="65,5,133,83"/>
 </map>

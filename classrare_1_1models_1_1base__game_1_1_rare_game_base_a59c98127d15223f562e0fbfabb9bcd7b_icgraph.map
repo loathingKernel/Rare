@@ -1,0 +1,7 @@
+<map id="state" name="state">
+<area shape="rect" id="node1" title=" " alt="" coords="243,171,293,198"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a13a51449b5ed361bfe860829df5a87f5" title=" " alt="" coords="5,29,195,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="10,119,190,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a353be26086318f1f2cdedb1987790ecb" title=" " alt="" coords="13,208,187,249"/>
+<area shape="rect" id="node5" href="$classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html#a353be26086318f1f2cdedb1987790ecb" title=" " alt="" coords="14,297,186,339"/>
+</map>

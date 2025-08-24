@@ -1,14 +1,3 @@
 <map id="retranslateUi" name="retranslateUi">
-<area shape="rect" id="node1" title=" " alt="" coords="5,305,101,331"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a490161fe09206c763886fa3a9528a8b5" title=" " alt="" coords="149,297,325,339"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#ae68685164b1b90928a903f2292b4cfb2" title=" " alt="" coords="387,29,563,71"/>
-<area shape="rect" id="node5" href="$classrare_1_1models_1_1wrapper_1_1_wrapper.html#a619f6caf8ea967eb02834998b7859bbc" title=" " alt="" coords="373,208,576,249"/>
-<area shape="rect" id="node7" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a197f6461e0ae30d6681905c952edd02f" title=" " alt="" coords="387,119,563,160"/>
-<area shape="rect" id="node8" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a823ab7286cb07208f430cc54252c82bb" title=" " alt="" coords="380,297,569,339"/>
-<area shape="rect" id="node9" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a823ab7286cb07208f430cc54252c82bb" title=" " alt="" coords="380,387,569,428"/>
-<area shape="rect" id="node11" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a823ab7286cb07208f430cc54252c82bb" title="Property to report if a game is installed." alt="" coords="373,476,576,517"/>
-<area shape="rect" id="node12" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a823ab7286cb07208f430cc54252c82bb" title=" " alt="" coords="387,565,563,607"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="639,75,812,116"/>
-<area shape="rect" id="node6" href="$classrare_1_1models_1_1wrapper_1_1_wrapper.html#aa20aca14dd0b8100dab7a4d1488ab10e" title=" " alt="" coords="624,208,827,249"/>
-<area shape="rect" id="node10" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a278563422a00c7eb39dfc65d0b71f51a" title="Property to report if a Game is an Origin game." alt="" coords="631,431,820,472"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,29,101,56"/>
 </map>

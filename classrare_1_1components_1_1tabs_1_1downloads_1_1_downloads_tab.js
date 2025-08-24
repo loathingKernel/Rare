@@ -10,6 +10,7 @@ var classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab =
     [ "queue_group", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#aeaab38baf8841cc187621ba38899757d", null ],
     [ "queue_scrollarea", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a07b1ddad12c4dbcd378175640d263166", null ],
     [ "rcore", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a1d6ec79bbcf8bfd8b30c3e5be0b67f34", null ],
+    [ "settings", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a6cddb5e40c21eadd2ded85bc51f79822", null ],
     [ "signals", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a0de0a2c91773619dac1660c29940c55e", null ],
     [ "updates_group", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a211574ea72520af21988b030c1616ef7", null ]
 ];

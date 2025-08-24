@@ -1,8 +1,8 @@
 <map id="steam_appid" name="steam_appid">
-<area shape="rect" id="node1" title=" " alt="" coords="783,82,879,109"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html#a563276b55376fdd9f495c321c5408906" title=" " alt="" coords="227,75,419,116"/>
-<area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a9b76c292a174e6a6013ae0b0d6f2b4b5" title=" " alt="" coords="612,119,735,146"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1options_1_1_value.html#a45163c19b7c87f553c6f1d055d4668cb" title=" " alt="" coords="5,29,179,71"/>
-<area shape="rect" id="node4" href="$classrare_1_1models_1_1options_1_1_value.html#a810fdc262754b6d21f5acd0e280d4daf" title=" " alt="" coords="5,119,179,160"/>
-<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a44ad13c0a844d30263bbf7ca3ce625ea" title=" " alt="" coords="467,119,564,146"/>
+<area shape="rect" id="node1" title=" " alt="" coords="479,167,575,194"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html#a563276b55376fdd9f495c321c5408906" title=" " alt="" coords="239,119,431,160"/>
+<area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a9b76c292a174e6a6013ae0b0d6f2b4b5" title=" " alt="" coords="273,209,396,235"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1settings_1_1_setting.html#a45163c19b7c87f553c6f1d055d4668cb" title=" " alt="" coords="5,29,191,71"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1settings_1_1_setting.html#a810fdc262754b6d21f5acd0e280d4daf" title=" " alt="" coords="5,119,191,160"/>
+<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1b184a94ba3b2d1dee4c2540864607cf" title=" " alt="" coords="37,209,159,235"/>
 </map>

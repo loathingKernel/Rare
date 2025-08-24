@@ -188,13 +188,15 @@ var hierarchy =
       [ "DlResultCode", "classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_result_code.html", null ],
       [ "ImportResult", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_result.html", null ],
       [ "ActivationStates", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_activation_states.html", null ],
+      [ "ProtonSettings.CompatLocation", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings_1_1_compat_location.html", null ],
       [ "WishlistFilter", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_filter.html", null ],
       [ "WishlistOrder", "classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_order.html", null ],
       [ "LgndrInstallGameRealRet.ReturnCode", "classrare_1_1lgndr_1_1glue_1_1arguments_1_1_lgndr_install_game_real_ret_1_1_return_code.html", null ],
       [ "RareGameBase.State", "classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_state.html", null ],
-      [ "LibraryFilter", "classrare_1_1models_1_1library_1_1_library_filter.html", null ],
-      [ "LibraryOrder", "classrare_1_1models_1_1library_1_1_library_order.html", null ],
-      [ "LibraryView", "classrare_1_1models_1_1library_1_1_library_view.html", null ],
+      [ "DiscordRPCMode", "classrare_1_1models_1_1enumerations_1_1_discord_r_p_c_mode.html", null ],
+      [ "LibraryFilter", "classrare_1_1models_1_1enumerations_1_1_library_filter.html", null ],
+      [ "LibraryOrder", "classrare_1_1models_1_1enumerations_1_1_library_order.html", null ],
+      [ "LibraryView", "classrare_1_1models_1_1enumerations_1_1_library_view.html", null ],
       [ "WrapperType", "classrare_1_1models_1_1wrapper_1_1_wrapper_type.html", null ],
       [ "GameProcess.Code", "classrare_1_1shared_1_1game__process_1_1_game_process_1_1_code.html", null ],
       [ "FetchWorker.Result", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker_1_1_result.html", null ],
@@ -207,8 +209,8 @@ var hierarchy =
     ] ],
     [ "Namespace", null, [
       [ "InitArgs", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_init_args.html", null ],
-      [ "Defaults", "classrare_1_1models_1_1options_1_1_defaults.html", null ],
-      [ "Value", "classrare_1_1models_1_1options_1_1_value.html", null ]
+      [ "Setting", "classrare_1_1models_1_1settings_1_1_setting.html", null ],
+      [ "Settings", "classrare_1_1models_1_1settings_1_1_settings.html", null ]
     ] ],
     [ "Protocol", null, [
       [ "GetBooleanChoiceProtocol", "classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_get_boolean_choice_protocol.html", null ],
@@ -446,6 +448,9 @@ var hierarchy =
     [ "QScrollArea", null, [
       [ "WrapperSettingsScroll", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings_scroll.html", null ],
       [ "ResultsWidget", "classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_results_widget.html", null ]
+    ] ],
+    [ "QSettings", null, [
+      [ "RareAppSettings", "classrare_1_1models_1_1settings_1_1_rare_app_settings.html", null ]
     ] ],
     [ "QStackedWidget", null, [
       [ "GamesLibrary", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html", null ],

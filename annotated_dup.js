@@ -408,6 +408,12 @@ var annotated_dup =
           [ "RareGameSlim", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html", "classrare_1_1models_1_1base__game_1_1_rare_game_slim" ],
           [ "RareSaveGame", "classrare_1_1models_1_1base__game_1_1_rare_save_game.html", null ]
         ] ],
+        [ "enumerations", "namespacerare_1_1models_1_1enumerations.html", [
+          [ "DiscordRPCMode", "classrare_1_1models_1_1enumerations_1_1_discord_r_p_c_mode.html", null ],
+          [ "LibraryFilter", "classrare_1_1models_1_1enumerations_1_1_library_filter.html", null ],
+          [ "LibraryOrder", "classrare_1_1models_1_1enumerations_1_1_library_order.html", null ],
+          [ "LibraryView", "classrare_1_1models_1_1enumerations_1_1_library_view.html", null ]
+        ] ],
         [ "game", "namespacerare_1_1models_1_1game.html", [
           [ "RareEosOverlay", "classrare_1_1models_1_1game_1_1_rare_eos_overlay.html", "classrare_1_1models_1_1game_1_1_rare_eos_overlay" ],
           [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", "classrare_1_1models_1_1game_1_1_rare_game" ]
@@ -431,17 +437,13 @@ var annotated_dup =
           [ "FinishedModel", "classrare_1_1models_1_1launcher_1_1_finished_model.html", "classrare_1_1models_1_1launcher_1_1_finished_model" ],
           [ "StateChangedModel", "classrare_1_1models_1_1launcher_1_1_state_changed_model.html", "classrare_1_1models_1_1launcher_1_1_state_changed_model" ]
         ] ],
-        [ "library", "namespacerare_1_1models_1_1library.html", [
-          [ "LibraryFilter", "classrare_1_1models_1_1library_1_1_library_filter.html", null ],
-          [ "LibraryOrder", "classrare_1_1models_1_1library_1_1_library_order.html", null ],
-          [ "LibraryView", "classrare_1_1models_1_1library_1_1_library_view.html", null ]
-        ] ],
-        [ "options", "namespacerare_1_1models_1_1options.html", [
-          [ "Defaults", "classrare_1_1models_1_1options_1_1_defaults.html", null ],
-          [ "Value", "classrare_1_1models_1_1options_1_1_value.html", "classrare_1_1models_1_1options_1_1_value" ]
-        ] ],
         [ "pathspec", "namespacerare_1_1models_1_1pathspec.html", [
           [ "PathSpec", "classrare_1_1models_1_1pathspec_1_1_path_spec.html", "classrare_1_1models_1_1pathspec_1_1_path_spec" ]
+        ] ],
+        [ "settings", "namespacerare_1_1models_1_1settings.html", [
+          [ "RareAppSettings", "classrare_1_1models_1_1settings_1_1_rare_app_settings.html", "classrare_1_1models_1_1settings_1_1_rare_app_settings" ],
+          [ "Setting", "classrare_1_1models_1_1settings_1_1_setting.html", "classrare_1_1models_1_1settings_1_1_setting" ],
+          [ "Settings", "classrare_1_1models_1_1settings_1_1_settings.html", null ]
         ] ],
         [ "signals", "namespacerare_1_1models_1_1signals.html", [
           [ "GlobalSignals", "classrare_1_1models_1_1signals_1_1_global_signals.html", "classrare_1_1models_1_1signals_1_1_global_signals" ]
