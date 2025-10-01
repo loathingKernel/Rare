@@ -1,9 +1,9 @@
 var namespacerare_1_1components_1_1dialogs =
 [
-    [ "install_dialog", "namespacerare_1_1components_1_1dialogs_1_1install__dialog.html", "namespacerare_1_1components_1_1dialogs_1_1install__dialog" ],
-    [ "launch_dialog", "namespacerare_1_1components_1_1dialogs_1_1launch__dialog.html", "namespacerare_1_1components_1_1dialogs_1_1launch__dialog" ],
+    [ "install", "namespacerare_1_1components_1_1dialogs_1_1install.html", "namespacerare_1_1components_1_1dialogs_1_1install" ],
+    [ "launch", "namespacerare_1_1components_1_1dialogs_1_1launch.html", "namespacerare_1_1components_1_1dialogs_1_1launch" ],
     [ "login", "namespacerare_1_1components_1_1dialogs_1_1login.html", "namespacerare_1_1components_1_1dialogs_1_1login" ],
-    [ "move_dialog", "namespacerare_1_1components_1_1dialogs_1_1move__dialog.html", "namespacerare_1_1components_1_1dialogs_1_1move__dialog" ],
-    [ "selective_dialog", "namespacerare_1_1components_1_1dialogs_1_1selective__dialog.html", "namespacerare_1_1components_1_1dialogs_1_1selective__dialog" ],
-    [ "uninstall_dialog", "namespacerare_1_1components_1_1dialogs_1_1uninstall__dialog.html", "namespacerare_1_1components_1_1dialogs_1_1uninstall__dialog" ]
+    [ "move", "namespacerare_1_1components_1_1dialogs_1_1move.html", "namespacerare_1_1components_1_1dialogs_1_1move" ],
+    [ "selective", "namespacerare_1_1components_1_1dialogs_1_1selective.html", "namespacerare_1_1components_1_1dialogs_1_1selective" ],
+    [ "uninstall", "namespacerare_1_1components_1_1dialogs_1_1uninstall.html", "namespacerare_1_1components_1_1dialogs_1_1uninstall" ]
 ];

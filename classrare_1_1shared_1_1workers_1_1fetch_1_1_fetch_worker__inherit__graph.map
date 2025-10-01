@@ -1,8 +1,8 @@
 <map id="FetchWorker" name="FetchWorker">
-<area shape="rect" id="node1" title=" " alt="" coords="182,315,278,436"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html" title=" " alt="" coords="5,484,140,561"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html" title=" " alt="" coords="165,484,295,561"/>
-<area shape="rect" id="node6" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_steam_app_ids_worker.html" title=" " alt="" coords="319,484,461,561"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html" title="Base QRunnable class." alt="" coords="187,131,273,267"/>
+<area shape="rect" id="node1" title=" " alt="" coords="182,329,278,451"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html" title=" " alt="" coords="5,499,140,576"/>
+<area shape="rect" id="node5" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html" title=" " alt="" coords="165,499,295,576"/>
+<area shape="rect" id="node6" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_steam_app_ids_worker.html" title=" " alt="" coords="319,499,461,576"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html" title="Base QRunnable class." alt="" coords="187,131,273,281"/>
 <area shape="rect" id="node3" title=" " alt="" coords="187,5,273,83"/>
 </map>

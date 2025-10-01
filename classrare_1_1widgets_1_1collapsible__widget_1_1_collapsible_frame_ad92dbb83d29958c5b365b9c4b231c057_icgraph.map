@@ -1,20 +1,17 @@
 <map id="setTitle" name="setTitle">
-<area shape="rect" id="node1" title=" " alt="" coords="348,751,413,778"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html#a75020e7f3888d6f837fae592b305add8" title=" " alt="" coords="19,29,286,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_advanced.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="31,119,274,160"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="25,208,281,249"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="25,297,281,339"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_group.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="16,387,289,428"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_group.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="16,476,289,517"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="5,565,300,607"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_hud_settings.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="7,655,298,696"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="7,744,298,785"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="7,833,298,875"/>
-<area shape="rect" id="node12" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="7,923,298,964"/>
-<area shape="rect" id="node13" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton_1_1_proton_settings.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="10,1012,295,1053"/>
-<area shape="rect" id="node14" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="15,1101,291,1143"/>
-<area shape="rect" id="node15" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_selective.html#a6c734fe46844d27ba3c41824b2080754" title=" " alt="" coords="33,1191,272,1232"/>
-<area shape="rect" id="node16" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1groups_1_1_store_group.html#af87af9f189c0f0469608556b2a55f818" title=" " alt="" coords="17,1280,288,1321"/>
-<area shape="rect" id="node17" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1runner_1_1_runner_settings_base.html#ab9b7167b766245f3e3bfcab9c8ac2469" title=" " alt="" coords="10,1369,295,1411"/>
-<area shape="rect" id="node18" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#a9412eaa0450af253ddb7544db927475e" title=" " alt="" coords="9,1459,296,1500"/>
+<area shape="rect" id="node1" title=" " alt="" coords="344,618,409,645"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html#a138afb2aa766bf519b397c8010d78bf6" title=" " alt="" coords="23,29,279,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#a9723abedef6a16f485ab57870348b46a" title=" " alt="" coords="23,119,279,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html#ab2c23a0888538f4cc3800be28bca49ba" title=" " alt="" coords="17,208,284,249"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1install_1_1advanced_1_1_install_dialog_advanced.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="20,297,281,339"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1dialogs_1_1install_1_1file__filters_1_1_install_dialog_file_filters.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="31,387,270,428"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_hud_settings.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="5,476,296,517"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="5,565,296,607"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="5,655,296,696"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings.html#a39d165427992dd2720f91929a88cde17" title=" " alt="" coords="5,744,296,785"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_group.html#adbc7f074f0f3883940bce7d68a9b9f7f" title=" " alt="" coords="14,833,287,875"/>
+<area shape="rect" id="node12" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_group.html#adbc7f074f0f3883940bce7d68a9b9f7f" title=" " alt="" coords="14,923,287,964"/>
+<area shape="rect" id="node13" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#a6f2ac2d0739ee4b03fbdb60274a2d1b5" title=" " alt="" coords="7,1012,294,1053"/>
+<area shape="rect" id="node14" href="$classrare_1_1components_1_1dialogs_1_1install_1_1selective_1_1_install_dialog_selective.html#a6c734fe46844d27ba3c41824b2080754" title=" " alt="" coords="22,1101,279,1143"/>
+<area shape="rect" id="node15" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1groups_1_1_store_group.html#af87af9f189c0f0469608556b2a55f818" title=" " alt="" coords="15,1191,286,1232"/>
 </map>

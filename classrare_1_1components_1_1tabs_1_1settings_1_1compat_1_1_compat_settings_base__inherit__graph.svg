@@ -62,8 +62,8 @@ var sectionId = 'dynsection-0';
 <polygon fill="#bfbfbf" stroke="black" points="65.5,-105.5 65.5,-261.5 174.5,-261.5 174.5,-105.5 65.5,-105.5"/>
 <text text-anchor="middle" x="120" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">CompatSettingsBase</text>
 <polyline fill="none" stroke="black" points="65.5,-242.5 174.5,-242.5 "/>
-<text text-anchor="start" x="73.5" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="73.5" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<text text-anchor="start" x="73.5" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<text text-anchor="start" x="73.5" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
 <text text-anchor="start" x="73.5" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ runner</text>
 <text text-anchor="start" x="73.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ dxvk_hud</text>
 <text text-anchor="start" x="73.5" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ dxvk_config</text>

@@ -55,9 +55,9 @@
 <polyline fill="none" stroke="black" points="140.5,-336 285.5,-336 "/>
 <text text-anchor="start" x="148.5" y="-324" font-family="Helvetica,sans-Serif" font-size="10.00">+ sync_widget</text>
 <text text-anchor="start" x="148.5" y="-313" font-family="Helvetica,sans-Serif" font-size="10.00">+ sync_ui</text>
-<text text-anchor="start" x="148.5" y="-302" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
-<text text-anchor="start" x="148.5" y="-291" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="148.5" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<text text-anchor="start" x="148.5" y="-302" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<text text-anchor="start" x="148.5" y="-291" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
+<text text-anchor="start" x="148.5" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
 <text text-anchor="start" x="148.5" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">+ loading_widget</text>
 <text text-anchor="start" x="148.5" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">+ cloud_widget</text>
 <text text-anchor="start" x="148.5" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">+ cloud_ui</text>
@@ -65,14 +65,14 @@
 <text text-anchor="start" x="148.5" y="-225" font-family="Helvetica,sans-Serif" font-size="10.00">+ compute_save_path_button</text>
 <text text-anchor="start" x="148.5" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00">+ info_label</text>
 <text text-anchor="start" x="148.5" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00">+ rgame</text>
-<polyline fill="none" stroke="black" points="140.5,-196 285.5,-196 "/>
-<text text-anchor="start" x="148.5" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="148.5" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ save_save_path()</text>
-<text text-anchor="start" x="148.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ upload()</text>
-<text text-anchor="start" x="148.5" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ download()</text>
-<text text-anchor="start" x="148.5" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">+ compute_save_path()</text>
-<text text-anchor="start" x="148.5" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
-<text text-anchor="start" x="148.5" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">+ edit_save_path()</text>
+<text text-anchor="start" x="148.5" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00">+ save_path_spec</text>
+<polyline fill="none" stroke="black" points="140.5,-185 285.5,-185 "/>
+<text text-anchor="start" x="148.5" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="148.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+ edit_save_path()</text>
+<text text-anchor="start" x="148.5" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">+ save_save_path()</text>
+<text text-anchor="start" x="148.5" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">+ upload()</text>
+<text text-anchor="start" x="148.5" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">+ download()</text>
+<text text-anchor="start" x="148.5" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_game()</text>
 </a>
 </g>
 </g>
@@ -153,8 +153,8 @@
 <polygon fill="white" stroke="black" points="586.5,-155 586.5,-311 695.5,-311 695.5,-155 586.5,-155"/>
 <text text-anchor="middle" x="641" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">CompatSettingsBase</text>
 <polyline fill="none" stroke="black" points="586.5,-292 695.5,-292 "/>
-<text text-anchor="start" x="594.5" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="594.5" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<text text-anchor="start" x="594.5" y="-280" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<text text-anchor="start" x="594.5" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
 <text text-anchor="start" x="594.5" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">+ runner</text>
 <text text-anchor="start" x="594.5" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">+ dxvk_hud</text>
 <text text-anchor="start" x="594.5" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">+ dxvk_config</text>
@@ -182,8 +182,8 @@
 <text text-anchor="middle" x="775" y="-282.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameSettingsBase</text>
 <polyline fill="none" stroke="black" points="714,-275.5 836,-275.5 "/>
 <text text-anchor="start" x="722" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ implements_scrollarea</text>
-<text text-anchor="start" x="722" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="722" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<text text-anchor="start" x="722" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<text text-anchor="start" x="722" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
 <text text-anchor="start" x="722" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ launch</text>
 <text text-anchor="start" x="722" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ env_vars</text>
 <text text-anchor="start" x="722" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ main_layout</text>

@@ -4,7 +4,11 @@ var dir_c284345d06738e2bd50bb10a763ff2b7 =
     [ "button_edit.py", "button__edit_8py.html", [
       [ "ButtonLineEdit", "classrare_1_1widgets_1_1button__edit_1_1_button_line_edit.html", "classrare_1_1widgets_1_1button__edit_1_1_button_line_edit" ]
     ] ],
-    [ "collapsible_widget.py", "collapsible__widget_8py.html", "collapsible__widget_8py" ],
+    [ "collapsible_widget.py", "collapsible__widget_8py.html", [
+      [ "CollapsibleBase", "classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base.html", "classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_base" ],
+      [ "CollapsibleFrame", "classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame.html", "classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_frame" ],
+      [ "CollapsibleGroupBox", "classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_group_box.html", "classrare_1_1widgets_1_1collapsible__widget_1_1_collapsible_group_box" ]
+    ] ],
     [ "dialogs.py", "dialogs_8py.html", "dialogs_8py" ],
     [ "elide_label.py", "elide__label_8py.html", [
       [ "ElideLabel", "classrare_1_1widgets_1_1elide__label_1_1_elide_label.html", "classrare_1_1widgets_1_1elide__label_1_1_elide_label" ]
@@ -26,10 +30,6 @@ var dir_c284345d06738e2bd50bb10a763ff2b7 =
     ] ],
     [ "rare_style.py", "rare__style_8py.html", [
       [ "RareStyle", "classrare_1_1widgets_1_1rare__style_1_1_rare_style.html", "classrare_1_1widgets_1_1rare__style_1_1_rare_style" ]
-    ] ],
-    [ "selective_widget.py", "selective__widget_8py.html", [
-      [ "InstallTagCheckBox", "classrare_1_1widgets_1_1selective__widget_1_1_install_tag_check_box.html", "classrare_1_1widgets_1_1selective__widget_1_1_install_tag_check_box" ],
-      [ "SelectiveWidget", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget.html", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget" ]
     ] ],
     [ "side_tab.py", "side__tab_8py.html", "side__tab_8py" ],
     [ "sliding_stack.py", "sliding__stack_8py.html", [

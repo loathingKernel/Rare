@@ -1,6 +1,6 @@
 var classrare_1_1components_1_1tabs_1_1library_1_1_games_library =
 [
-    [ "__init__", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#a39d165427992dd2720f91929a88cde17", null ],
+    [ "__init__", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#ae2e90028fa77149a1e0a7c0cc813c13d", null ],
     [ "add_library_widget", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#a18eb918c38e326a54666699b7ba4b686", null ],
     [ "filter_games", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#ab87762a230ea4fd6f70a415a62244bae", null ],
     [ "order_games", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#acca591e42eb0bf05aae8327471a5181a", null ],
@@ -13,12 +13,9 @@ var classrare_1_1components_1_1tabs_1_1library_1_1_games_library =
     [ "show_import", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#afda815913f9185986c3c782371483248", null ],
     [ "showEvent", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#a5b6a943cccc85daffddbc61bb1b9345d", null ],
     [ "update_count_games_label", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#a2efffcc49dcc1c9f2d26040e865a660b", null ],
-    [ "args", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
-    [ "core", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "game_info_page", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#aae2902e5ed19967419cec96c770d466f", null ],
     [ "games_page", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#a71e16e81d06550db8250d7ecb039dcbc", null ],
     [ "head_bar", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#a1ca62d022b16aa84c51653f5d6aa84b3", null ],
-    [ "image_manager", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#aee5f66b42f4c40d2fbb8ee5c2aa32b8c", null ],
     [ "init", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#a978c1602c1c480e86c09f3c3a1b8cc98", null ],
     [ "integrations_page", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#a734271082b30a97677606637687c74df", null ],
     [ "library_controller", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#aa10b5fffbdf121e78a714835b13bfa3d", null ],

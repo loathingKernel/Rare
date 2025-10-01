@@ -30,8 +30,8 @@
 <text text-anchor="middle" x="72" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameSettingsBase</text>
 <polyline fill="none" stroke="black" points="11,-198.5 133,-198.5 "/>
 <text text-anchor="start" x="19" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ implements_scrollarea</text>
-<text text-anchor="start" x="19" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="19" y="-164.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<text text-anchor="start" x="19" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<text text-anchor="start" x="19" y="-164.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
 <text text-anchor="start" x="19" y="-153.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ launch</text>
 <text text-anchor="start" x="19" y="-142.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ env_vars</text>
 <text text-anchor="start" x="19" y="-131.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ main_layout</text>

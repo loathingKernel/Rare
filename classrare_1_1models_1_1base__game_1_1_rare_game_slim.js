@@ -1,6 +1,6 @@
 var classrare_1_1models_1_1base__game_1_1_rare_game_slim =
 [
-    [ "__init__", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#af74b3c57bfee5c7eb5f5ed1e49976867", null ],
+    [ "__init__", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#aaab7d8528464e179ae0e41f06ca6c09f", null ],
     [ "auto_sync_saves", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a34fdf2c85c8c7358e5d5f65cace4a6b7", null ],
     [ "download_saves", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a13a51449b5ed361bfe860829df5a87f5", null ],
     [ "is_installed", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a823ab7286cb07208f430cc54252c82bb", null ],

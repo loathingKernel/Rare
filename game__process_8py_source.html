@@ -88,17 +88,17 @@ $(document).ready(function(){initNavTree('game__process_8py_source.html',''); in
 </div><!--header-->
 <div class="contents">
 <a href="game__process_8py.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno"><a class="line" href="namespacerare_1_1shared_1_1game__process.html">    1</a></span><span class="keyword">import</span> json</div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">import</span> logging</div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">from</span> enum <span class="keyword">import</span> IntEnum</div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">from</span> enum <span class="keyword">import</span> IntEnum</div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">from</span> logging <span class="keyword">import</span> getLogger</div>
 <div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span> </div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">from</span> PySide6.QtCore <span class="keyword">import</span> QObject, Signal, QTimer, Slot</div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">from</span> PySide6.QtNetwork <span class="keyword">import</span> QLocalSocket</div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">from</span> PySide6.QtWidgets <span class="keyword">import</span> QMessageBox</div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="keyword">from</span> legendary.models.game <span class="keyword">import</span> Game</div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">from</span> legendary.models.game <span class="keyword">import</span> Game</div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">from</span> PySide6.QtCore <span class="keyword">import</span> QObject, QTimer, Signal, Slot</div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">from</span> PySide6.QtNetwork <span class="keyword">import</span> QLocalSocket</div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="keyword">from</span> PySide6.QtWidgets <span class="keyword">import</span> QMessageBox</div>
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span> </div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1models_1_1launcher.html">rare.models.launcher</a> <span class="keyword">import</span> ErrorModel, Actions, FinishedModel, StateChangedModel</div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1models_1_1launcher.html">rare.models.launcher</a> <span class="keyword">import</span> Actions, ErrorModel, FinishedModel, StateChangedModel</div>
 <div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span> </div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno"><a class="line" href="namespacerare_1_1shared_1_1game__process.html#a0b14e488ae28d98d262453f3e9cd6e4d">   12</a></span>logger = logging.getLogger(<span class="stringliteral">&quot;GameProcess&quot;</span>)</div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno"><a class="line" href="namespacerare_1_1shared_1_1game__process.html#a0b14e488ae28d98d262453f3e9cd6e4d">   12</a></span>logger = getLogger(<span class="stringliteral">&quot;GameProcess&quot;</span>)</div>
 <div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span> </div>
 <div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span> </div>
 <div class="line"><a id="l00015" name="l00015"></a><span class="lineno"><a class="line" href="classrare_1_1shared_1_1game__process_1_1_game_process.html">   15</a></span><span class="keyword">class </span><a class="code hl_class" href="classrare_1_1shared_1_1game__process_1_1_game_process.html">GameProcess</a>(QObject):</div>

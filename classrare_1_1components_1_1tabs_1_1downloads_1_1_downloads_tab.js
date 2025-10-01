@@ -1,6 +1,6 @@
 var classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab =
 [
-    [ "__init__", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a39d165427992dd2720f91929a88cde17", null ],
+    [ "__init__", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ae2e90028fa77149a1e0a7c0cc813c13d", null ],
     [ "is_download_active", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a91ee81dee5df73fb4e3057d7c12624e0", null ],
     [ "stop_download", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad688e83ab96ce32b1ed9e5ccc83d0ee8", null ],
     [ "update_queues_count", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a11794ca2c7c3add2ed90cd2edb79b927", null ],

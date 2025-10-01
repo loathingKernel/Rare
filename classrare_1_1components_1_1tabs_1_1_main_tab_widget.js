@@ -1,6 +1,6 @@
 var classrare_1_1components_1_1tabs_1_1_main_tab_widget =
 [
-    [ "__init__", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a75020e7f3888d6f837fae592b305add8", null ],
+    [ "__init__", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#af4d19b653517deeaee9ce5d176daf73d", null ],
     [ "mouse_clicked", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a60e20012db9d0080309b0831320ce13c", null ],
     [ "resizeEvent", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a0815964d2d7e4debf9b3e7cff7840436", null ],
     [ "account_widget", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a00a0921c2b880ff52eb24ae9b26d9020", null ],
@@ -11,6 +11,7 @@ var classrare_1_1components_1_1tabs_1_1_main_tab_widget =
     [ "games_index", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a33eaf991e35941bf2a9104eec8a08318", null ],
     [ "games_tab", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a050007279d8c604233783bc78266a4bc", null ],
     [ "rcore", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a1d6ec79bbcf8bfd8b30c3e5be0b67f34", null ],
+    [ "settings", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a6cddb5e40c21eadd2ded85bc51f79822", null ],
     [ "settings_index", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a166b333d2bf6463790e3f55ffd015e57", null ],
     [ "settings_tab", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a215fa69cb7f6667b7521fcecbfa8a128", null ],
     [ "signals", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a0de0a2c91773619dac1660c29940c55e", null ],

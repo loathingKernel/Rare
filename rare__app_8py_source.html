@@ -97,23 +97,23 @@ $(document).ready(function(){initNavTree('rare__app_8py_source.html',''); initRe
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span> </div>
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="keyword">import</span> legendary</div>
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">from</span> PySide6 <span class="keyword">import</span> __version__ <span class="keyword">as</span> PYSIDE_VERSION_STR</div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="keyword">from</span> PySide6.QtCore <span class="keyword">import</span> __version__ <span class="keyword">as</span> QT_VERSION_STR</div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="keyword">from</span> PySide6.QtCore <span class="keyword">import</span> (</div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>    QTranslator,</div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="keyword">from</span> PySide6.QtCore <span class="keyword">import</span> (</div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>    QLibraryInfo,</div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>    QLocale,</div>
 <div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    QObject,</div>
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>    Signal,</div>
-<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    Slot,</div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>    Qt,</div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>    QLibraryInfo,</div>
-<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>    QLocale,</div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>)</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>    Qt,</div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    QTranslator,</div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>    Signal,</div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>    Slot,</div>
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>)</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="keyword">from</span> PySide6.QtCore <span class="keyword">import</span> __version__ <span class="keyword">as</span> QT_VERSION_STR</div>
 <div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span><span class="keyword">from</span> PySide6.QtGui <span class="keyword">import</span> QIcon</div>
 <div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span><span class="keyword">from</span> PySide6.QtWidgets <span class="keyword">import</span> QApplication, QMessageBox</div>
 <div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span> </div>
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span><span class="keyword">import</span> rare.resources.resources</div>
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1models_1_1settings.html">rare.models.settings</a> <span class="keyword">import</span> RareAppSettings, settings</div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1models_1_1settings.html">rare.models.settings</a> <span class="keyword">import</span> RareAppSettings, app_settings</div>
 <div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils.html">rare.utils</a> <span class="keyword">import</span> paths</div>
-<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils_1_1misc.html">rare.utils.misc</a> <span class="keyword">import</span> set_color_pallete, set_style_sheet, get_static_style</div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils_1_1misc.html">rare.utils.misc</a> <span class="keyword">import</span> get_static_style, set_color_pallete, set_style_sheet</div>
 <div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span> </div>
 <div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span> </div>
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno"><a class="line" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html">   30</a></span><span class="keyword">class </span><a class="code hl_class" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html">RareAppException</a>(QObject):</div>
@@ -200,18 +200,18 @@ $(document).ready(function(){initNavTree('rare__app_8py_source.html',''); initRe
 <div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span> </div>
 <div class="line"><a id="l00112" name="l00112"></a><span class="lineno"><a class="line" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#a6cddb5e40c21eadd2ded85bc51f79822">  112</a></span>        self.<a class="code hl_variable" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#a6cddb5e40c21eadd2ded85bc51f79822">settings</a>settings = <a class="code hl_class" href="classrare_1_1models_1_1settings_1_1_rare_app_settings.html">RareAppSettings</a>(self)</div>
 <div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span> </div>
-<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>        language = self.<a class="code hl_variable" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#a6cddb5e40c21eadd2ded85bc51f79822">settings</a>settings.get_value(settings.language)</div>
+<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>        language = self.<a class="code hl_variable" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#a6cddb5e40c21eadd2ded85bc51f79822">settings</a>settings.get_value(app_settings.language)</div>
 <div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>        self.<a class="code hl_function" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#a47b7a80e07b17d577a3a0fcdfa4f6d37">load_translator</a>load_translator(language)</div>
 <div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span> </div>
 <div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>        <span class="comment"># Style</span></div>
 <div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>        <span class="comment"># lk: this is a bit silly but serves well until we have a class</span></div>
 <div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>        <span class="comment"># lk: store the default qt style name from the system on startup as a property for later reference</span></div>
 <div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>        self.setProperty(<span class="stringliteral">&quot;rareDefaultQtStyle&quot;</span>, self.style().objectName())</div>
-<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>        <span class="keywordflow">if</span> color_scheme := self.<a class="code hl_variable" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#a6cddb5e40c21eadd2ded85bc51f79822">settings</a>settings.get_value(settings.color_scheme):</div>
-<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>            self.<a class="code hl_variable" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#a6cddb5e40c21eadd2ded85bc51f79822">settings</a>settings.set_value(settings.style_sheet, <span class="stringliteral">&quot;&quot;</span>)</div>
+<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>        <span class="keywordflow">if</span> color_scheme := self.<a class="code hl_variable" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#a6cddb5e40c21eadd2ded85bc51f79822">settings</a>settings.get_value(app_settings.color_scheme):</div>
+<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>            self.<a class="code hl_variable" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#a6cddb5e40c21eadd2ded85bc51f79822">settings</a>settings.set_value(app_settings.style_sheet, <span class="stringliteral">&quot;&quot;</span>)</div>
 <div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>            <a class="code hl_function" href="namespacerare_1_1utils_1_1misc.html#a0a1d2124185f1449d3f4f0c225e5e823">set_color_pallete</a>(<a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(color_scheme))</div>
-<div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span>        <span class="keywordflow">elif</span> style_sheet := self.<a class="code hl_variable" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#a6cddb5e40c21eadd2ded85bc51f79822">settings</a>settings.get_value(settings.style_sheet):</div>
-<div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span>            self.<a class="code hl_variable" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#a6cddb5e40c21eadd2ded85bc51f79822">settings</a>settings.set_value(settings.color_scheme, <span class="stringliteral">&quot;&quot;</span>)</div>
+<div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span>        <span class="keywordflow">elif</span> style_sheet := self.<a class="code hl_variable" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#a6cddb5e40c21eadd2ded85bc51f79822">settings</a>settings.get_value(app_settings.style_sheet):</div>
+<div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span>            self.<a class="code hl_variable" href="classrare_1_1widgets_1_1rare__app_1_1_rare_app.html#a6cddb5e40c21eadd2ded85bc51f79822">settings</a>settings.set_value(app_settings.color_scheme, <span class="stringliteral">&quot;&quot;</span>)</div>
 <div class="line"><a id="l00126" name="l00126"></a><span class="lineno">  126</span>            <a class="code hl_function" href="namespacerare_1_1utils_1_1misc.html#a0e697f47ccaa4704ff2b095b9d6e397f">set_style_sheet</a>(<a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(style_sheet))</div>
 <div class="line"><a id="l00127" name="l00127"></a><span class="lineno">  127</span>        <span class="keywordflow">else</span>:</div>
 <div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>            self.setStyleSheet(<a class="code hl_function" href="namespacerare_1_1utils_1_1misc.html#aa3e62dd2834c428ff219c692cd724722">get_static_style</a>())</div>

@@ -31,17 +31,17 @@
 <polygon fill="white" stroke="black" points="0,-0.5 0,-200.5 125,-200.5 125,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="62.5" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameInfoTabs</text>
 <polyline fill="none" stroke="black" points="0,-181.5 125,-181.5 "/>
-<text text-anchor="start" x="8" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="8" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
-<text text-anchor="start" x="8" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
-<text text-anchor="start" x="8" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ details_tab</text>
-<text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ details_index</text>
-<text text-anchor="start" x="8" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ game_settings_tab</text>
-<text text-anchor="start" x="8" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ game_settings_index</text>
-<text text-anchor="start" x="8" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ compat_settings_tab</text>
-<text text-anchor="start" x="8" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ compat_settings_index</text>
-<text text-anchor="start" x="8" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ cloud_saves_tab</text>
-<text text-anchor="start" x="8" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 9 more...</text>
+<text text-anchor="start" x="8" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
+<text text-anchor="start" x="8" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="8" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
+<text text-anchor="start" x="8" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
+<text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ details_tab</text>
+<text text-anchor="start" x="8" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ details_index</text>
+<text text-anchor="start" x="8" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ game_settings_tab</text>
+<text text-anchor="start" x="8" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ game_settings_index</text>
+<text text-anchor="start" x="8" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ compat_settings_tab</text>
+<text text-anchor="start" x="8" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ compat_settings_index</text>
+<text text-anchor="start" x="8" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 10 more...</text>
 <text text-anchor="start" x="8" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ import_clicked</text>
 <polyline fill="none" stroke="black" points="0,-41.5 125,-41.5 "/>
 <text text-anchor="start" x="8" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
@@ -91,26 +91,25 @@
 <g id="node5" class="node">
 <title>Node5</title>
 <g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1_settings_tab.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="271.5,-33.5 271.5,-167.5 365.5,-167.5 365.5,-33.5 271.5,-33.5"/>
-<text text-anchor="middle" x="318.5" y="-155.5" font-family="Helvetica,sans-Serif" font-size="10.00">SettingsTab</text>
-<polyline fill="none" stroke="black" points="271.5,-148.5 365.5,-148.5 "/>
-<text text-anchor="start" x="279.5" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
-<text text-anchor="start" x="279.5" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rare_index</text>
-<text text-anchor="start" x="279.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ legendary_index</text>
-<text text-anchor="start" x="279.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ game_index</text>
-<text text-anchor="start" x="279.5" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ compat_index</text>
-<text text-anchor="start" x="279.5" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ about</text>
-<text text-anchor="start" x="279.5" y="-70.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ about_index</text>
-<text text-anchor="start" x="279.5" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ debug_index</text>
-<polyline fill="none" stroke="black" points="271.5,-52.5 365.5,-52.5 "/>
-<text text-anchor="start" x="279.5" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<polygon fill="white" stroke="black" points="271.5,-39 271.5,-162 365.5,-162 365.5,-39 271.5,-39"/>
+<text text-anchor="middle" x="318.5" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">SettingsTab</text>
+<polyline fill="none" stroke="black" points="271.5,-143 365.5,-143 "/>
+<text text-anchor="start" x="279.5" y="-131" font-family="Helvetica,sans-Serif" font-size="10.00">+ rare_index</text>
+<text text-anchor="start" x="279.5" y="-120" font-family="Helvetica,sans-Serif" font-size="10.00">+ legendary_index</text>
+<text text-anchor="start" x="279.5" y="-109" font-family="Helvetica,sans-Serif" font-size="10.00">+ game_index</text>
+<text text-anchor="start" x="279.5" y="-98" font-family="Helvetica,sans-Serif" font-size="10.00">+ compat_index</text>
+<text text-anchor="start" x="279.5" y="-87" font-family="Helvetica,sans-Serif" font-size="10.00">+ about</text>
+<text text-anchor="start" x="279.5" y="-76" font-family="Helvetica,sans-Serif" font-size="10.00">+ about_index</text>
+<text text-anchor="start" x="279.5" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00">+ debug_index</text>
+<polyline fill="none" stroke="black" points="271.5,-58 365.5,-58 "/>
+<text text-anchor="start" x="279.5" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M275.15,-227.57C281.54,-209.01 288.93,-187.49 295.79,-167.55"/>
+<path fill="none" stroke="midnightblue" d="M275.14,-227.62C282.11,-207.32 290.31,-183.5 297.68,-162.06"/>
 <polygon fill="none" stroke="midnightblue" points="271.76,-226.68 271.82,-237.27 278.38,-228.95 271.76,-226.68"/>
 </g>
 <!-- Node6 -->

@@ -6,7 +6,7 @@ var dir_90609c02637dbf8153bc283331604401 =
     ] ],
     [ "env_vars.py", "env__vars_8py.html", "env__vars_8py" ],
     [ "env_vars_model.py", "env__vars__model_8py.html", "env__vars__model_8py" ],
-    [ "launch.py", "launch_8py.html", "launch_8py" ],
+    [ "launch.py", "tabs_2settings_2widgets_2launch_8py.html", "tabs_2settings_2widgets_2launch_8py" ],
     [ "overlay.py", "components_2tabs_2settings_2widgets_2overlay_8py.html", "components_2tabs_2settings_2widgets_2overlay_8py" ],
     [ "proton.py", "proton_8py.html", "proton_8py" ],
     [ "runner.py", "runner_8py.html", "runner_8py" ],

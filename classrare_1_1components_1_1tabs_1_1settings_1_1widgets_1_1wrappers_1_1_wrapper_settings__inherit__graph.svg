@@ -16,12 +16,12 @@
 <polygon fill="#bfbfbf" stroke="black" points="1.5,-94.5 1.5,-250.5 111.5,-250.5 111.5,-94.5 1.5,-94.5"/>
 <text text-anchor="middle" x="56.5" y="-238.5" font-family="Helvetica,sans-Serif" font-size="10.00">WrapperSettings</text>
 <polyline fill="none" stroke="black" points="1.5,-231.5 111.5,-231.5 "/>
-<text text-anchor="start" x="9.5" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ add_button</text>
-<text text-anchor="start" x="9.5" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrapper_scroll</text>
-<text text-anchor="start" x="9.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrapper_container</text>
-<text text-anchor="start" x="9.5" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrapper_label</text>
-<text text-anchor="start" x="9.5" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="9.5" y="-164.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrappers</text>
+<text text-anchor="start" x="9.5" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="9.5" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrappers</text>
+<text text-anchor="start" x="9.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ add_button</text>
+<text text-anchor="start" x="9.5" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrapper_scroll</text>
+<text text-anchor="start" x="9.5" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrapper_container</text>
+<text text-anchor="start" x="9.5" y="-164.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ wrapper_label</text>
 <polyline fill="none" stroke="black" points="1.5,-157.5 111.5,-157.5 "/>
 <text text-anchor="start" x="9.5" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
 <text text-anchor="start" x="9.5" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ showEvent()</text>

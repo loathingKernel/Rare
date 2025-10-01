@@ -1,8 +1,8 @@
 <map id="ActionDialog" name="ActionDialog">
-<area shape="rect" id="node1" title=" " alt="" coords="131,689,259,855"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html" title=" " alt="" coords="5,903,192,1288"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html" title=" " alt="" coords="216,939,365,1251"/>
-<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html" title=" " alt="" coords="125,329,265,641"/>
-<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html" title=" " alt="" coords="129,131,260,281"/>
-<area shape="rect" id="node4" title=" " alt="" coords="161,5,229,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="99,719,227,884"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html" title=" " alt="" coords="5,932,155,1347"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html" title=" " alt="" coords="179,1013,312,1266"/>
+<area shape="rect" id="node2" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html" title=" " alt="" coords="93,329,233,671"/>
+<area shape="rect" id="node3" href="$classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html" title=" " alt="" coords="97,131,228,281"/>
+<area shape="rect" id="node4" title=" " alt="" coords="129,5,197,83"/>
 </map>

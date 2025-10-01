@@ -1,6 +1,6 @@
 var classrare_1_1shared_1_1rare__core_1_1_rare_core =
 [
-    [ "__init__", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aef5087eda294b25d77daf490e4bf4f9e", null ],
+    [ "__init__", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a407b3c5e65ad5dacd9be850701849f5a", null ],
     [ "active_workers", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a43753a33b5c6b5a5a38a721451322faa", null ],
     [ "args", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4", null ],
     [ "bit32_games", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a1a0556f7a341fe2972f17d14c6ad733f", null ],

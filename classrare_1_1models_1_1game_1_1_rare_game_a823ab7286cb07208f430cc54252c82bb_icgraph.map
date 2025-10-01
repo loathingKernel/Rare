@@ -1,11 +1,11 @@
 <map id="is_installed" name="is_installed">
-<area shape="rect" id="node1" title="Property to report if a game is installed." alt="" coords="979,165,1065,192"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a4431ce8cf18e5dd3414d8882e585bd8d" title=" " alt="" coords="619,121,707,148"/>
-<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a490161fe09206c763886fa3a9528a8b5" title=" " alt="" coords="755,69,931,110"/>
-<area shape="rect" id="node7" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#aae0820b518a5472343effc0dbeac6a1f" title=" " alt="" coords="755,158,931,199"/>
-<area shape="rect" id="node8" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a446ff523b2db28f598f431a4614f4a96" title="Property to report if a game doesn&#39;t belong to the current account." alt="" coords="803,248,882,275"/>
-<area shape="rect" id="node9" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a57ae42bf2cdbf9fc08a1a94eaabaa93b" title=" " alt="" coords="755,323,931,365"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a52f719d3dd964e44c5550f2f79aacb7e" title=" " alt="" coords="511,121,571,148"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#aa3fe4f510c683950f9a38eb445106504" title=" " alt="" coords="256,114,463,155"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" title=" " alt="" coords="5,114,208,155"/>
+<area shape="rect" id="node1" title="Property to report if a game is installed." alt="" coords="983,165,1069,192"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a4431ce8cf18e5dd3414d8882e585bd8d" title=" " alt="" coords="623,121,711,148"/>
+<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a490161fe09206c763886fa3a9528a8b5" title=" " alt="" coords="759,69,935,110"/>
+<area shape="rect" id="node7" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#aae0820b518a5472343effc0dbeac6a1f" title=" " alt="" coords="759,158,935,199"/>
+<area shape="rect" id="node8" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a446ff523b2db28f598f431a4614f4a96" title="Property to report if a game doesn&#39;t belong to the current account." alt="" coords="807,248,886,275"/>
+<area shape="rect" id="node9" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a57ae42bf2cdbf9fc08a1a94eaabaa93b" title=" " alt="" coords="759,323,935,365"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a52f719d3dd964e44c5550f2f79aacb7e" title=" " alt="" coords="515,121,575,148"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1launch_1_1_launch_dialog.html#aa3fe4f510c683950f9a38eb445106504" title=" " alt="" coords="260,114,467,155"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1launch_1_1_launch_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" title=" " alt="" coords="5,114,212,155"/>
 </map>

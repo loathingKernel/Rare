@@ -1,6 +1,6 @@
 <map id="path_size" name="path_size">
-<area shape="rect" id="node1" title=" " alt="" coords="512,93,589,120"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html#a1aff74b1226e0df9ac7a678f327f24c5" title=" " alt="" coords="250,29,447,85"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_origin_wine_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="233,134,464,175"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="5,134,185,175"/>
+<area shape="rect" id="node1" title=" " alt="" coords="512,82,589,109"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_info_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="262,29,435,71"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_origin_wine_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="233,119,464,160"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="5,75,185,116"/>
 </map>

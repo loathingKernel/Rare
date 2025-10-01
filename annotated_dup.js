@@ -1,5 +1,14 @@
 var annotated_dup =
 [
+    [ "advanced", "namespaceadvanced.html", [
+      [ "Ui_InstallDialogAdvanced", "classadvanced_1_1_ui___install_dialog_advanced.html", "classadvanced_1_1_ui___install_dialog_advanced" ]
+    ] ],
+    [ "dialog", "namespacedialog.html", [
+      [ "Ui_InstallDialog", "classdialog_1_1_ui___install_dialog.html", "classdialog_1_1_ui___install_dialog" ]
+    ] ],
+    [ "file_filters", "namespacefile__filters.html", [
+      [ "Ui_InstallDialogFileFilters", "classfile__filters_1_1_ui___install_dialog_file_filters.html", "classfile__filters_1_1_ui___install_dialog_file_filters" ]
+    ] ],
     [ "rare", "namespacerare.html", [
       [ "commands", "namespacerare_1_1commands.html", [
         [ "launcher", "namespacerare_1_1commands_1_1launcher.html", [
@@ -25,13 +34,24 @@ var annotated_dup =
       ] ],
       [ "components", "namespacerare_1_1components.html", [
         [ "dialogs", "namespacerare_1_1components_1_1dialogs.html", [
-          [ "install_dialog", "namespacerare_1_1components_1_1dialogs_1_1install__dialog.html", [
-            [ "InstallDialog", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog" ],
-            [ "InstallDialogAdvanced", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_advanced.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_advanced" ],
-            [ "InstallDialogSelective", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_selective.html", "classrare_1_1components_1_1dialogs_1_1install__dialog_1_1_install_dialog_selective" ]
+          [ "install", "namespacerare_1_1components_1_1dialogs_1_1install.html", [
+            [ "advanced", "namespacerare_1_1components_1_1dialogs_1_1install_1_1advanced.html", [
+              [ "InstallDialogAdvanced", "classrare_1_1components_1_1dialogs_1_1install_1_1advanced_1_1_install_dialog_advanced.html", "classrare_1_1components_1_1dialogs_1_1install_1_1advanced_1_1_install_dialog_advanced" ]
+            ] ],
+            [ "dialog", "namespacerare_1_1components_1_1dialogs_1_1install_1_1dialog.html", [
+              [ "InstallDialog", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog" ]
+            ] ],
+            [ "file_filters", "namespacerare_1_1components_1_1dialogs_1_1install_1_1file__filters.html", [
+              [ "InstallDialogFileFilters", "classrare_1_1components_1_1dialogs_1_1install_1_1file__filters_1_1_install_dialog_file_filters.html", "classrare_1_1components_1_1dialogs_1_1install_1_1file__filters_1_1_install_dialog_file_filters" ]
+            ] ],
+            [ "selective", "namespacerare_1_1components_1_1dialogs_1_1install_1_1selective.html", [
+              [ "InstallDialogSelective", "classrare_1_1components_1_1dialogs_1_1install_1_1selective_1_1_install_dialog_selective.html", "classrare_1_1components_1_1dialogs_1_1install_1_1selective_1_1_install_dialog_selective" ],
+              [ "InstallTagCheckBox", "classrare_1_1components_1_1dialogs_1_1install_1_1selective_1_1_install_tag_check_box.html", "classrare_1_1components_1_1dialogs_1_1install_1_1selective_1_1_install_tag_check_box" ],
+              [ "SelectiveWidget", "classrare_1_1components_1_1dialogs_1_1install_1_1selective_1_1_selective_widget.html", "classrare_1_1components_1_1dialogs_1_1install_1_1selective_1_1_selective_widget" ]
+            ] ]
           ] ],
-          [ "launch_dialog", "namespacerare_1_1components_1_1dialogs_1_1launch__dialog.html", [
-            [ "LaunchDialog", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html", "classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog" ]
+          [ "launch", "namespacerare_1_1components_1_1dialogs_1_1launch.html", [
+            [ "LaunchDialog", "classrare_1_1components_1_1dialogs_1_1launch_1_1_launch_dialog.html", "classrare_1_1components_1_1dialogs_1_1launch_1_1_launch_dialog" ]
           ] ],
           [ "login", "namespacerare_1_1components_1_1dialogs_1_1login.html", [
             [ "browser_login", "namespacerare_1_1components_1_1dialogs_1_1login_1_1browser__login.html", [
@@ -43,15 +63,14 @@ var annotated_dup =
             [ "LandingPage", "classrare_1_1components_1_1dialogs_1_1login_1_1_landing_page.html", "classrare_1_1components_1_1dialogs_1_1login_1_1_landing_page" ],
             [ "LoginDialog", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog" ]
           ] ],
-          [ "move_dialog", "namespacerare_1_1components_1_1dialogs_1_1move__dialog.html", [
-            [ "MoveDialog", "classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html", "classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog" ],
-            [ "MovePathEditReasons", "classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_path_edit_reasons.html", null ]
+          [ "move", "namespacerare_1_1components_1_1dialogs_1_1move.html", [
+            [ "MoveDialog", "classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html", "classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog" ]
           ] ],
-          [ "selective_dialog", "namespacerare_1_1components_1_1dialogs_1_1selective__dialog.html", [
-            [ "SelectiveDialog", "classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog.html", "classrare_1_1components_1_1dialogs_1_1selective__dialog_1_1_selective_dialog" ]
+          [ "selective", "namespacerare_1_1components_1_1dialogs_1_1selective.html", [
+            [ "SelectiveDialog", "classrare_1_1components_1_1dialogs_1_1selective_1_1_selective_dialog.html", "classrare_1_1components_1_1dialogs_1_1selective_1_1_selective_dialog" ]
           ] ],
-          [ "uninstall_dialog", "namespacerare_1_1components_1_1dialogs_1_1uninstall__dialog.html", [
-            [ "UninstallDialog", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog.html", "classrare_1_1components_1_1dialogs_1_1uninstall__dialog_1_1_uninstall_dialog" ]
+          [ "uninstall", "namespacerare_1_1components_1_1dialogs_1_1uninstall.html", [
+            [ "UninstallDialog", "classrare_1_1components_1_1dialogs_1_1uninstall_1_1_uninstall_dialog.html", "classrare_1_1components_1_1dialogs_1_1uninstall_1_1_uninstall_dialog" ]
           ] ]
         ] ],
         [ "main_window", "namespacerare_1_1components_1_1main__window.html", [
@@ -474,10 +493,12 @@ var annotated_dup =
             [ "GamesDlcsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker" ],
             [ "SteamAppIdsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_steam_app_ids_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_steam_app_ids_worker" ]
           ] ],
-          [ "install_info", "namespacerare_1_1shared_1_1workers_1_1install__info.html", [
-            [ "InstallInfoWorker", "classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker.html", "classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker" ]
+          [ "install", "namespacerare_1_1shared_1_1workers_1_1install.html", [
+            [ "InstallInfoWorker", "classrare_1_1shared_1_1workers_1_1install_1_1_install_info_worker.html", "classrare_1_1shared_1_1workers_1_1install_1_1_install_info_worker" ]
           ] ],
           [ "move", "namespacerare_1_1shared_1_1workers_1_1move.html", [
+            [ "MoveInfoWorker", "classrare_1_1shared_1_1workers_1_1move_1_1_move_info_worker.html", "classrare_1_1shared_1_1workers_1_1move_1_1_move_info_worker" ],
+            [ "MovePathEditReasons", "classrare_1_1shared_1_1workers_1_1move_1_1_move_path_edit_reasons.html", null ],
             [ "MoveWorker", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker" ]
           ] ],
           [ "uninstall", "namespacerare_1_1shared_1_1workers_1_1uninstall.html", [
@@ -513,12 +534,6 @@ var annotated_dup =
         ] ],
         [ "components", "namespacerare_1_1ui_1_1components.html", [
           [ "dialogs", "namespacerare_1_1ui_1_1components_1_1dialogs.html", [
-            [ "install_dialog", "namespacerare_1_1ui_1_1components_1_1dialogs_1_1install__dialog.html", [
-              [ "Ui_InstallDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog.html", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog_1_1_ui___install_dialog" ]
-            ] ],
-            [ "install_dialog_advanced", "namespacerare_1_1ui_1_1components_1_1dialogs_1_1install__dialog__advanced.html", [
-              [ "Ui_InstallDialogAdvanced", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog__advanced_1_1_ui___install_dialog_advanced.html", "classrare_1_1ui_1_1components_1_1dialogs_1_1install__dialog__advanced_1_1_ui___install_dialog_advanced" ]
-            ] ],
             [ "launch_dialog", "namespacerare_1_1ui_1_1components_1_1dialogs_1_1launch__dialog.html", [
               [ "Ui_LaunchDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1launch__dialog_1_1_ui___launch_dialog.html", "classrare_1_1ui_1_1components_1_1dialogs_1_1launch__dialog_1_1_ui___launch_dialog" ]
             ] ],
@@ -535,6 +550,9 @@ var annotated_dup =
               [ "login_dialog", "namespacerare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog.html", [
                 [ "Ui_LoginDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog_1_1_ui___login_dialog.html", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog_1_1_ui___login_dialog" ]
               ] ]
+            ] ],
+            [ "move_dialog", "namespacerare_1_1ui_1_1components_1_1dialogs_1_1move__dialog.html", [
+              [ "Ui_MoveDialog", "classrare_1_1ui_1_1components_1_1dialogs_1_1move__dialog_1_1_ui___move_dialog.html", "classrare_1_1ui_1_1components_1_1dialogs_1_1move__dialog_1_1_ui___move_dialog" ]
             ] ]
           ] ],
           [ "tabs", "namespacerare_1_1ui_1_1components_1_1tabs.html", [
@@ -706,10 +724,6 @@ var annotated_dup =
         ] ],
         [ "rare_style", "namespacerare_1_1widgets_1_1rare__style.html", [
           [ "RareStyle", "classrare_1_1widgets_1_1rare__style_1_1_rare_style.html", "classrare_1_1widgets_1_1rare__style_1_1_rare_style" ]
-        ] ],
-        [ "selective_widget", "namespacerare_1_1widgets_1_1selective__widget.html", [
-          [ "InstallTagCheckBox", "classrare_1_1widgets_1_1selective__widget_1_1_install_tag_check_box.html", "classrare_1_1widgets_1_1selective__widget_1_1_install_tag_check_box" ],
-          [ "SelectiveWidget", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget.html", "classrare_1_1widgets_1_1selective__widget_1_1_selective_widget" ]
         ] ],
         [ "side_tab", "namespacerare_1_1widgets_1_1side__tab.html", [
           [ "SideTabBar", "classrare_1_1widgets_1_1side__tab_1_1_side_tab_bar.html", "classrare_1_1widgets_1_1side__tab_1_1_side_tab_bar" ],

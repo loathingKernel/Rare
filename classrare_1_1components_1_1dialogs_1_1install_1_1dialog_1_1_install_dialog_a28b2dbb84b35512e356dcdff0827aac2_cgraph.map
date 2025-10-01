@@ -1,0 +1,29 @@
+<map id="same_platform" name="same_platform">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1019,113,1046"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#aa1af2e48ef5d21eae429581cfe81f00b" title=" " alt="" coords="771,33,955,75"/>
+<area shape="rect" id="node3" href="$classrare_1_1commands_1_1launcher_1_1console__dialog_1_1_console_dialog.html#a7df04f32b8c03f8466e5b558ba482582" title=" " alt="" coords="161,803,372,844"/>
+<area shape="rect" id="node7" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a783ddce0cb0d324bc475e9b39f7a6f2f" title=" " alt="" coords="178,429,355,471"/>
+<area shape="rect" id="node16" href="$classrare_1_1widgets_1_1dialogs_1_1_test_dialog.html#a783ddce0cb0d324bc475e9b39f7a6f2f" title=" " alt="" coords="184,892,349,933"/>
+<area shape="rect" id="node18" href="$namespacerare_1_1utils_1_1misc.html#a3544b31f50ff739b7e8bb4ab751026b7" title=" " alt="" coords="181,982,353,1009"/>
+<area shape="rect" id="node19" href="$classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#ab5cb6ac1450dcc74ff2e38691e0bdbd9" title=" " alt="" coords="209,1057,324,1083"/>
+<area shape="rect" id="node21" href="$classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#ab5cb6ac1450dcc74ff2e38691e0bdbd9" title=" " alt="" coords="167,1132,367,1173"/>
+<area shape="rect" id="node22" href="$classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#aee793814073e1655a8bc6d62815192bb" title=" " alt="" coords="211,1222,322,1249"/>
+<area shape="rect" id="node25" href="$classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#a20ce954e47306fad3afb7e182dc0c79c" title=" " alt="" coords="167,1297,367,1339"/>
+<area shape="rect" id="node26" href="$classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html#af158ac9042a7aeb74a4f085f0f9c8552" title=" " alt="" coords="179,1387,355,1428"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1main__window_1_1_rare_window.html#ad9f81f4c56e23ca3c206b1e9374fc137" title=" " alt="" coords="480,795,663,836"/>
+<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a8639372c33e15084a7f7c4d9d87b7bfe" title=" " alt="" coords="483,884,660,925"/>
+<area shape="rect" id="node6" href="$classrare_1_1widgets_1_1dialogs_1_1_test_dialog.html#a8639372c33e15084a7f7c4d9d87b7bfe" title=" " alt="" coords="489,973,654,1015"/>
+<area shape="rect" id="node8" href="$classrare_1_1commands_1_1launcher_1_1cloud__sync__dialog_1_1_cloud_sync_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63" title=" " alt="" coords="451,422,691,478"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63" title=" " alt="" coords="516,78,627,105"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63" title=" " alt="" coords="471,527,671,568"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1dialogs_1_1selective_1_1_selective_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63" title=" " alt="" coords="461,616,681,657"/>
+<area shape="rect" id="node12" href="$classrare_1_1components_1_1dialogs_1_1uninstall_1_1_uninstall_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63" title=" " alt="" coords="463,705,679,747"/>
+<area shape="rect" id="node13" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_add_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63" title=" " alt="" coords="437,153,705,195"/>
+<area shape="rect" id="node14" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_edit_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63" title=" " alt="" coords="420,243,723,284"/>
+<area shape="rect" id="node15" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63" title=" " alt="" coords="483,332,660,373"/>
+<area shape="rect" id="node17" href="$classrare_1_1widgets_1_1dialogs_1_1_test_dialog.html#aabea3c93766dc521bfb00bb34037879d" title=" " alt="" coords="489,1039,654,1080"/>
+<area shape="rect" id="node20" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="438,1140,705,1181"/>
+<area shape="rect" id="node23" href="$classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#a2a555f68dbcbc2701724e236a87fde1c" title=" " alt="" coords="512,1299,631,1326"/>
+<area shape="rect" id="node24" href="$classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#a2a555f68dbcbc2701724e236a87fde1c" title=" " alt="" coords="471,1227,671,1268"/>
+<area shape="rect" id="node27" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#acfe7313b68b17f07cefdc9aa5d2dfe6b" title=" " alt="" coords="483,1387,660,1428"/>
+</map>

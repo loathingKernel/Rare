@@ -1,7 +1,7 @@
 var classrare_1_1models_1_1game_1_1_rare_game =
 [
     [ "Metadata", "classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html", "classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata" ],
-    [ "__init__", "classrare_1_1models_1_1game_1_1_rare_game.html#a1eaf92363513879b4d3fdfc7607b6175", null ],
+    [ "__init__", "classrare_1_1models_1_1game_1_1_rare_game.html#a06b7d3650276c01f29165ad71f562614", null ],
     [ "add_dlc", "classrare_1_1models_1_1game_1_1_rare_game.html#ae1b80e70cd9f1369c04c162f16bfd810", null ],
     [ "can_launch", "classrare_1_1models_1_1game_1_1_rare_game.html#a4431ce8cf18e5dd3414d8882e585bd8d", null ],
     [ "can_run_offline", "classrare_1_1models_1_1game_1_1_rare_game.html#af3b5f267d190558f0bbc61ea26f269bd", null ],
@@ -16,6 +16,7 @@ var classrare_1_1models_1_1game_1_1_rare_game =
     [ "install_path", "classrare_1_1models_1_1game_1_1_rare_game.html#ab4497a00f2030cf37a1005cd4a03db92", null ],
     [ "install_path", "classrare_1_1models_1_1game_1_1_rare_game.html#a0a82a2571a71e89add24aada56de6e71", null ],
     [ "install_size", "classrare_1_1models_1_1game_1_1_rare_game.html#ad95738186d1a39b3a1ec0605405e9ebc", null ],
+    [ "is_android_only", "classrare_1_1models_1_1game_1_1_rare_game.html#a23b5a0d5b14df86f0523f05762f28979", null ],
     [ "is_foreign", "classrare_1_1models_1_1game_1_1_rare_game.html#a446ff523b2db28f598f431a4614f4a96", null ],
     [ "is_installed", "classrare_1_1models_1_1game_1_1_rare_game.html#a823ab7286cb07208f430cc54252c82bb", null ],
     [ "is_non_asset", "classrare_1_1models_1_1game_1_1_rare_game.html#aff330cd3e3495874fbccb325e0c95236", null ],

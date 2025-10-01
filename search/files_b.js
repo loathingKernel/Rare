@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['landing_2epy_0',['landing.py',['../ui_2components_2tabs_2store_2landing_8py.html',1,'(Global Namespace)'],['../components_2tabs_2store_2landing_8py.html',1,'(Global Namespace)']]],
+  ['landing_2epy_0',['landing.py',['../components_2tabs_2store_2landing_8py.html',1,'(Global Namespace)'],['../ui_2components_2tabs_2store_2landing_8py.html',1,'(Global Namespace)']]],
   ['landing_5fpage_2epy_1',['landing_page.py',['../landing__page_8py.html',1,'']]],
-  ['launch_2epy_2',['launch.py',['../launch_8py.html',1,'']]],
-  ['launch_5fdialog_2epy_3',['launch_dialog.py',['../components_2dialogs_2launch__dialog_8py.html',1,'(Global Namespace)'],['../ui_2components_2dialogs_2launch__dialog_8py.html',1,'(Global Namespace)']]],
+  ['launch_2epy_2',['launch.py',['../dialogs_2launch_8py.html',1,'(Global Namespace)'],['../tabs_2settings_2widgets_2launch_8py.html',1,'(Global Namespace)']]],
+  ['launch_5fdialog_2epy_3',['launch_dialog.py',['../launch__dialog_8py.html',1,'']]],
   ['launcher_2epy_4',['launcher.py',['../launcher_8py.html',1,'']]],
   ['legendary_2epy_5',['legendary.py',['../components_2tabs_2settings_2legendary_8py.html',1,'(Global Namespace)'],['../ui_2components_2tabs_2settings_2legendary_8py.html',1,'(Global Namespace)']]],
   ['lgd_5fhelper_2epy_6',['lgd_helper.py',['../lgd__helper_8py.html',1,'']]],

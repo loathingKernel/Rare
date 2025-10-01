@@ -5,5 +5,6 @@ var classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread =
     [ "run", "classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#ad22709b2e67308af35f55680d5a026e0", null ],
     [ "debug", "classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#a0514aabed091ee5e2f35766eb01eced6", null ],
     [ "dl_size", "classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#ad62f7347c9546ac0919c2817b13b5930", null ],
+    [ "logger", "classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ],
     [ "rgame", "classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#a29f3c8f8d4ae84548a9e5b962851f8a0", null ]
 ];

@@ -5,5 +5,6 @@ var classrare_1_1widgets_1_1dialogs_1_1_base_dialog =
     [ "exec", "classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html#a2f7d60251f1d2f33457ec7cbf40c9ab3", null ],
     [ "exec_", "classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html#a754b17f868a851427f0be1bd9cf6677f", null ],
     [ "keyPressEvent", "classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html#a38b630940925571db38dec597d6f6fc8", null ],
-    [ "setWindowTitle", "classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html#abf7d3ae733a1864b1c688c897944ff64", null ]
+    [ "setWindowTitle", "classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html#abf7d3ae733a1864b1c688c897944ff64", null ],
+    [ "logger", "classrare_1_1widgets_1_1dialogs_1_1_base_dialog.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ]
 ];

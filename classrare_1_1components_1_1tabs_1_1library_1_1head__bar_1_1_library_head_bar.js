@@ -1,6 +1,6 @@
 var classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar =
 [
-    [ "__init__", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar.html#a39d165427992dd2720f91929a88cde17", null ],
+    [ "__init__", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar.html#ae2e90028fa77149a1e0a7c0cc813c13d", null ],
     [ "current_filter", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar.html#aa1f601e8f2da760839854f0ff0a05787", null ],
     [ "current_order", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar.html#a3d6859968df93bb4acaf4c08ace98ae0", null ],
     [ "set_games_count", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar.html#afec04464b52c0acdf0aa94462d1fb6e2", null ],

@@ -2,11 +2,12 @@ var classrare_1_1models_1_1base__game_1_1_rare_game_base =
 [
     [ "Signals", "classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals.html", "classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals" ],
     [ "State", "classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_state.html", null ],
-    [ "__init__", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#af74b3c57bfee5c7eb5f5ed1e49976867", null ],
+    [ "__init__", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#ad63ddf1a2b0bce17b5ea7f3fdd7fd532", null ],
     [ "app_name", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a0afe16b2357823a068971d7af5918a23", null ],
     [ "app_title", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#ae1cd35b1295fa44fd6906c1bcf28fd20", null ],
     [ "default_platform", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a3ae4fe315e7d530f77daf1e8d63468e3", null ],
     [ "install_path", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#ab4497a00f2030cf37a1005cd4a03db92", null ],
+    [ "is_android", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a7fc92600c137ee87697721f11714aa32", null ],
     [ "is_dlc", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#aef0a849df11b29e665072d941527d7a5", null ],
     [ "is_idle", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a5c91214c9c0ce70e64033ac6a3494d76", null ],
     [ "is_installed", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a823ab7286cb07208f430cc54252c82bb", null ],

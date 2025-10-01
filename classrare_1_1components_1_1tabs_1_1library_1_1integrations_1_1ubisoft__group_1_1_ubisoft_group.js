@@ -1,6 +1,6 @@
 var classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group =
 [
-    [ "__init__", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html#a39d165427992dd2720f91929a88cde17", null ],
+    [ "__init__", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html#adbc7f074f0f3883940bce7d68a9b9f7f", null ],
     [ "show_ubi_games", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html#a54141fcc5c074fd6f917191b04f0dc25", null ],
     [ "showEvent", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html#af997cabd23f14f71f7f87c986ccd582c", null ],
     [ "args", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html#a8187411843a6284ffb964ef3fb9fcab3", null ],

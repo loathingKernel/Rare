@@ -14,6 +14,7 @@ var classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager =
     [ "num_tasks_processed_since_last", "classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#ac6ed4e1b3df409cca044d1f4816fab38", null ],
     [ "running", "classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#a1a015fe02c9cea18a5cf62656e257c97", null ],
     [ "shared_memory", "classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#ad2ee61a44bb990cef71165957da4066c", null ],
+    [ "signed_chunks_q", "classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#aaee4f291661632e00e5dab23b1bf9a0a", null ],
     [ "writer_queue", "classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#a415e80ea19aed08747b8b9c98178877b", null ],
     [ "writer_result_q", "classrare_1_1lgndr_1_1downloader_1_1mp_1_1manager_1_1_d_l_manager.html#ad27dd13bc030d8aa5c9cb90de4376f09", null ]
 ];

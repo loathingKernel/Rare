@@ -1,6 +1,6 @@
 var classrare_1_1components_1_1main__window_1_1_rare_window =
 [
-    [ "__init__", "classrare_1_1components_1_1main__window_1_1_rare_window.html#a39d165427992dd2720f91929a88cde17", null ],
+    [ "__init__", "classrare_1_1components_1_1main__window_1_1_rare_window.html#ae2e90028fa77149a1e0a7c0cc813c13d", null ],
     [ "center_window", "classrare_1_1components_1_1main__window_1_1_rare_window.html#a91465b9ae57cdea67cbcbb58986892d7", null ],
     [ "close", "classrare_1_1components_1_1main__window_1_1_rare_window.html#ad9f81f4c56e23ca3c206b1e9374fc137", null ],
     [ "closeEvent", "classrare_1_1components_1_1main__window_1_1_rare_window.html#ac30eecc0cad05eea8f29e2c9d6a0e273", null ],

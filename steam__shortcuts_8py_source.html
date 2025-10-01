@@ -90,21 +90,21 @@ $(document).ready(function(){initNavTree('steam__shortcuts_8py_source.html','');
 <a href="steam__shortcuts_8py.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1steam__shortcuts.html">    1</a></span><span class="keyword">import</span> os</div>
 <div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">import</span> platform</div>
 <div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">import</span> shutil</div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">from</span> logging <span class="keyword">import</span> getLogger</div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">from</span> pathlib <span class="keyword">import</span> Path</div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">from</span> typing <span class="keyword">import</span> Optional, List, Dict</div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">from</span> dataclasses <span class="keyword">import</span> asdict</div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">from</span> dataclasses <span class="keyword">import</span> asdict</div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">from</span> logging <span class="keyword">import</span> getLogger</div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">from</span> pathlib <span class="keyword">import</span> Path</div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">from</span> typing <span class="keyword">import</span> Dict, List, Optional</div>
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span> </div>
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="keyword">import</span> vdf</div>
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span> </div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils_1_1paths.html">rare.utils.paths</a> <span class="keyword">import</span> (</div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>    image_icon_path,</div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>    image_wide_path,</div>
-<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    image_tall_path,</div>
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>    desktop_icon_path,</div>
-<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    get_rare_executable,</div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>)</div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1models_1_1steam.html">rare.models.steam</a> <span class="keyword">import</span> SteamUser, SteamShortcut</div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1models_1_1steam.html">rare.models.steam</a> <span class="keyword">import</span> SteamShortcut, SteamUser</div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils_1_1paths.html">rare.utils.paths</a> <span class="keyword">import</span> (</div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>    desktop_icon_path,</div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    get_rare_executable,</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>    image_icon_path,</div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    image_tall_path,</div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>    image_wide_path,</div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>)</div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span> </div>
 <div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="keywordflow">if</span> platform.system() == <span class="stringliteral">&quot;Windows&quot;</span>:</div>
 <div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>    <span class="comment"># noinspection PyUnresolvedReferences</span></div>

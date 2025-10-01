@@ -1,0 +1,4 @@
+var components_2dialogs_2install_2file__filters_8py =
+[
+    [ "InstallDialogFileFilters", "classrare_1_1components_1_1dialogs_1_1install_1_1file__filters_1_1_install_dialog_file_filters.html", "classrare_1_1components_1_1dialogs_1_1install_1_1file__filters_1_1_install_dialog_file_filters" ]
+];

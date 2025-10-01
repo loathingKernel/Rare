@@ -1,6 +1,6 @@
 var classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs =
 [
-    [ "__init__", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html#a39d165427992dd2720f91929a88cde17", null ],
+    [ "__init__", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html#ae2e90028fa77149a1e0a7c0cc813c13d", null ],
     [ "keyPressEvent", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html#afa962c4cc7ee70aff38a79a6bd2bd079", null ],
     [ "update_game", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html#a31df619d45c585656d938a0c09e9d115", null ],
     [ "args", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
@@ -19,6 +19,7 @@ var classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs =
     [ "game_settings_tab", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html#ab55463a0cb8d3b62072519dcd4f10ff9", null ],
     [ "igame_meta_index", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html#a087551c02974be5c3aefe4cb593dcdd8", null ],
     [ "igame_meta_view", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html#a541aff6522e455315a1c18dab554ac01", null ],
+    [ "rcore", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html#a1d6ec79bbcf8bfd8b30c3e5be0b67f34", null ],
     [ "rgame_meta_index", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html#a2328cd5336b9e244cd7b12cb5bdc2d12", null ],
     [ "rgame_meta_view", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html#a9dd68219e8612d2d14c058f8c7bbbdab", null ],
     [ "signals", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html#a0de0a2c91773619dac1660c29940c55e", null ]

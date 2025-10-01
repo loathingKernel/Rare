@@ -6,6 +6,6 @@ var classrare_1_1widgets_1_1dialogs_1_1_action_dialog =
     [ "active", "classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html#ad950eaba540d97f5e898e4af9c61ca74", null ],
     [ "closeEvent", "classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html#ac2059187ee3abe729fa7c41326035440", null ],
     [ "keyPressEvent", "classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html#a38b630940925571db38dec597d6f6fc8", null ],
-    [ "setActive", "classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html#a7e718e840cb7305e8bf707e866dc75e5", null ],
+    [ "setActive", "classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html#af158ac9042a7aeb74a4f085f0f9c8552", null ],
     [ "action_button", "classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html#a7d26618b41e4f3984acba09b55b2dccf", null ]
 ];

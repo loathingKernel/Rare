@@ -16,10 +16,10 @@
 <polygon fill="#bfbfbf" stroke="black" points="0,-0.5 0,-156.5 108,-156.5 108,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="54" y="-144.5" font-family="Helvetica,sans-Serif" font-size="10.00">DiscordRPC</text>
 <polyline fill="none" stroke="black" points="0,-137.5 108,-137.5 "/>
-<text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rpc</text>
+<text text-anchor="start" x="8" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
 <text text-anchor="start" x="8" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
 <text text-anchor="start" x="8" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ signals</text>
-<text text-anchor="start" x="8" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ settings</text>
+<text text-anchor="start" x="8" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rpc</text>
 <polyline fill="none" stroke="black" points="0,-85.5 108,-85.5 "/>
 <text text-anchor="start" x="8" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
 <text text-anchor="start" x="8" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_presence()</text>

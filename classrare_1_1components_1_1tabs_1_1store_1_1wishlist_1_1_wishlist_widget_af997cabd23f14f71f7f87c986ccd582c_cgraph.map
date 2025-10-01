@@ -1,18 +1,18 @@
 <map id="showEvent" name="showEvent">
 <area shape="rect" id="node1" title=" " alt="" coords="5,111,92,138"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1move__dialog_1_1_move_dialog.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="571,5,806,47"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="559,75,818,116"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="555,149,823,191"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_widget.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="629,234,749,261"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="563,5,822,47"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="559,75,827,116"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="555,149,831,191"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_widget.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="633,234,753,261"/>
 <area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_widget.html#ab7b6573570cd9aeae6e134c70e4fab75" title=" " alt="" coords="140,453,231,479"/>
 <area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_widget.html#aa69bc3f536266c1056b18008e7ce9bb4" title=" " alt="" coords="322,186,463,213"/>
 <area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_widget.html#a8ca7d5861c8657f6d59143170351cef7" title=" " alt="" coords="344,581,441,607"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="555,648,822,689"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="559,648,826,689"/>
 <area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_widget.html#ac6b786883bc13cc8ed726483a69c8cbe" title=" " alt="" coords="341,655,444,682"/>
 <area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_page.html#abdf35a8f677d168b77d233b030cb9e8f" title=" " alt="" coords="280,401,505,443"/>
 <area shape="rect" id="node15" href="$classrare_1_1components_1_1tabs_1_1store_1_1search_1_1_search_page.html#abdf35a8f677d168b77d233b030cb9e8f" title=" " alt="" coords="281,491,504,532"/>
 <area shape="rect" id="node16" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_page.html#abdf35a8f677d168b77d233b030cb9e8f" title=" " alt="" coords="279,312,507,353"/>
-<area shape="rect" id="node12" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ab032482dfc53fdfe48836e74a00f0871" title=" " alt="" coords="578,394,799,450"/>
-<area shape="rect" id="node13" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ad33b03cf3496c64ea301895641933e64" title=" " alt="" coords="871,345,1121,401"/>
-<area shape="rect" id="node14" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a8e7bec55adcc4afe502cf1e17b59a589" title=" " alt="" coords="915,449,1077,491"/>
+<area shape="rect" id="node12" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ab032482dfc53fdfe48836e74a00f0871" title=" " alt="" coords="582,394,803,450"/>
+<area shape="rect" id="node13" href="$classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ad33b03cf3496c64ea301895641933e64" title=" " alt="" coords="879,345,1129,401"/>
+<area shape="rect" id="node14" href="$classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html#a8e7bec55adcc4afe502cf1e17b59a589" title=" " alt="" coords="923,449,1085,491"/>
 </map>

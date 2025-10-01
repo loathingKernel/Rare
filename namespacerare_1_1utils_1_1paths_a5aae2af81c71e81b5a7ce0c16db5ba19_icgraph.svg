@@ -318,10 +318,10 @@ var sectionId = 'dynsection-29';
 <!-- Node11 -->
 <g id="node11" class="node">
 <title>Node11</title>
-<g id="a_node11"><a xlink:href="classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#aa3fe4f510c683950f9a38eb445106504" target="_top" xlink:title=" ">
+<g id="a_node11"><a xlink:href="classrare_1_1components_1_1dialogs_1_1launch_1_1_launch_dialog.html#aa3fe4f510c683950f9a38eb445106504" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="688.5,-229.5 688.5,-259.5 843.5,-259.5 843.5,-229.5 688.5,-229.5"/>
-<text text-anchor="start" x="696.5" y="-247.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.dialogs.launch</text>
-<text text-anchor="middle" x="766" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.LaunchDialog.do_launch</text>
+<text text-anchor="start" x="696.5" y="-247.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.dialogs.launch.</text>
+<text text-anchor="middle" x="766" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">LaunchDialog.do_launch</text>
 </a>
 </g>
 </g>
@@ -340,17 +340,17 @@ var sectionId = 'dynsection-29';
 <!-- Node12 -->
 <g id="node12" class="node">
 <title>Node12</title>
-<g id="a_node12"><a xlink:href="classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="469.5,-230.5 469.5,-260.5 621.5,-260.5 621.5,-230.5 469.5,-230.5"/>
-<text text-anchor="start" x="477.5" y="-248.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.dialogs.launch</text>
-<text text-anchor="middle" x="545.5" y="-237.5" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.LaunchDialog.login</text>
+<g id="a_node12"><a xlink:href="classrare_1_1components_1_1dialogs_1_1launch_1_1_launch_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="468,-230.5 468,-260.5 623,-260.5 623,-230.5 468,-230.5"/>
+<text text-anchor="start" x="476" y="-248.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.dialogs.launch.</text>
+<text text-anchor="middle" x="545.5" y="-237.5" font-family="Helvetica,sans-Serif" font-size="10.00">LaunchDialog.login</text>
 </a>
 </g>
 </g>
 <!-- Node11&#45;&gt;Node12 -->
 <g id="edge24" class="edge">
 <title>Node11&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M678.26,-244.9C659.51,-244.98 639.83,-245.07 621.57,-245.16"/>
+<path fill="none" stroke="midnightblue" d="M678.24,-244.9C660,-244.98 640.88,-245.07 623.04,-245.15"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="678.29,-248.4 688.27,-244.85 678.26,-241.4 678.29,-248.4"/>
 </g>
 <!-- Node12&#45;&gt;Node12 -->

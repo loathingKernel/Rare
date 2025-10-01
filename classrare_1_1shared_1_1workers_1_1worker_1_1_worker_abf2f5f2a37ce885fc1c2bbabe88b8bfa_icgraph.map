@@ -1,52 +1,52 @@
 <map id="signals" name="signals">
-<area shape="rect" id="node1" title=" " alt="" coords="1163,1446,1225,1473"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aef5087eda294b25d77daf490e4bf4f9e" title=" " alt="" coords="541,29,714,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="1163,1465,1225,1491"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a407b3c5e65ad5dacd9be850701849f5a" title=" " alt="" coords="541,29,714,71"/>
 <area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ae1b80e70cd9f1369c04c162f16bfd810" title=" " alt="" coords="850,127,1087,154"/>
 <area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#af626fd87a4280875286ed304d4270f61" title=" " alt="" coords="882,203,1055,244"/>
 <area shape="rect" id="node9" href="$classrare_1_1models_1_1game_1_1_rare_game.html#aae0820b518a5472343effc0dbeac6a1f" title=" " alt="" coords="855,293,1082,319"/>
 <area shape="rect" id="node10" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#aae0820b518a5472343effc0dbeac6a1f" title=" " alt="" coords="881,368,1057,409"/>
-<area shape="rect" id="node11" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a09658b980eca0a97191099319bf89b84" title="Use only in a thread." alt="" coords="533,2127,722,2168"/>
+<area shape="rect" id="node11" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a09658b980eca0a97191099319bf89b84" title="Use only in a thread." alt="" coords="533,2135,722,2176"/>
 <area shape="rect" id="node14" href="$classrare_1_1models_1_1game_1_1_rare_game.html#aef20d094578870f90347cdd968d2991b" title=" " alt="" coords="853,509,1084,535"/>
 <area shape="rect" id="node15" href="$classrare_1_1commands_1_1launcher_1_1_pre_launch.html#a1919862a03530a651067c3d8d482c618" title=" " alt="" coords="875,584,1062,625"/>
-<area shape="rect" id="node16" href="$classrare_1_1commands_1_1launcher_1_1_pre_launch.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="534,488,721,529"/>
-<area shape="rect" id="node17" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a0f9f88b07029d9ad56e4b094074fe596" title=" " alt="" coords="882,725,1055,767"/>
-<area shape="rect" id="node19" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="541,784,714,825"/>
-<area shape="rect" id="node20" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="317,1585,357,1611"/>
-<area shape="rect" id="node21" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1af54dec5ecebc74c9e5d6fdd9e32612" title=" " alt="" coords="857,917,1081,943"/>
-<area shape="rect" id="node22" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a9d6ffdaa7750050062073b0cdb5780a0" title=" " alt="" coords="858,992,1079,1033"/>
-<area shape="rect" id="node23" href="$classrare_1_1commands_1_1launcher_1_1_sync_check_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="871,1081,1066,1123"/>
-<area shape="rect" id="node24" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_check_for_update_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="830,1171,1107,1212"/>
-<area shape="rect" id="node25" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="823,1260,1115,1301"/>
-<area shape="rect" id="node26" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="877,1349,1061,1391"/>
-<area shape="rect" id="node27" href="$classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="879,1439,1058,1480"/>
-<area shape="rect" id="node28" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="480,1309,775,1351"/>
-<area shape="rect" id="node29" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="480,1399,775,1440"/>
-<area shape="rect" id="node30" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="499,1488,755,1529"/>
-<area shape="rect" id="node31" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_steam_app_ids_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="532,1577,723,1619"/>
-<area shape="rect" id="node32" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="535,1667,719,1708"/>
-<area shape="rect" id="node33" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="879,1783,1059,1824"/>
-<area shape="rect" id="node34" href="$classrare_1_1shared_1_1workers_1_1install__info_1_1_install_info_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="869,1872,1069,1913"/>
-<area shape="rect" id="node35" href="$classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="533,1859,722,1900"/>
-<area shape="rect" id="node36" href="$classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="541,1948,713,1989"/>
-<area shape="rect" id="node37" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="510,2037,745,2079"/>
-<area shape="rect" id="node38" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_save_path_resolver.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="495,605,759,647"/>
-<area shape="rect" id="node39" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a539fe458d8793eac2e6173614cb92cf4" title=" " alt="" coords="843,2141,1095,2167"/>
-<area shape="rect" id="node41" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a590836cea8227c1cb3994dabf184ecab" title="Sets the installation status of a game." alt="" coords="863,2216,1074,2257"/>
-<area shape="rect" id="node42" href="$classrare_1_1models_1_1game_1_1_rare_game.html#afb0966909d9062fa9eb0e80827694818" title=" " alt="" coords="863,2305,1074,2347"/>
-<area shape="rect" id="node43" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a59c98127d15223f562e0fbfabb9bcd7b" title=" " alt="" coords="874,2371,1063,2412"/>
-<area shape="rect" id="node47" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad688e83ab96ce32b1ed9e5ccc83d0ee8" title="Stops the active download, by optionally skipping the queue." alt="" coords="861,2460,1076,2501"/>
-<area shape="rect" id="node49" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a57ae42bf2cdbf9fc08a1a94eaabaa93b" title=" " alt="" coords="849,2550,1089,2577"/>
-<area shape="rect" id="node50" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a57ae42bf2cdbf9fc08a1a94eaabaa93b" title=" " alt="" coords="881,2625,1057,2667"/>
-<area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a9c621c21a12566200e162d57c8110859" title=" " alt="" coords="522,119,733,160"/>
-<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ac21f4c2b75f0029c243a81d8696ba4f9" title="Do not call this function, call set_pixmap instead." alt="" coords="519,208,735,249"/>
-<area shape="rect" id="node7" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a974efcc254c209206208ddd4d9f391a8" title=" " alt="" coords="511,297,743,339"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_queue_info_widget.html#af2c556abce885baacdae5d5cc5f70d1b" title=" " alt="" coords="496,387,759,428"/>
+<area shape="rect" id="node16" href="$classrare_1_1commands_1_1launcher_1_1_pre_launch.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="534,563,721,604"/>
+<area shape="rect" id="node17" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a0f9f88b07029d9ad56e4b094074fe596" title=" " alt="" coords="882,1591,1055,1632"/>
+<area shape="rect" id="node19" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="541,1495,714,1536"/>
+<area shape="rect" id="node20" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="317,1547,357,1574"/>
+<area shape="rect" id="node21" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1af54dec5ecebc74c9e5d6fdd9e32612" title=" " alt="" coords="857,877,1081,903"/>
+<area shape="rect" id="node22" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a9d6ffdaa7750050062073b0cdb5780a0" title=" " alt="" coords="858,952,1079,993"/>
+<area shape="rect" id="node23" href="$classrare_1_1commands_1_1launcher_1_1_sync_check_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="871,1041,1066,1083"/>
+<area shape="rect" id="node24" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_check_for_update_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="830,1131,1107,1172"/>
+<area shape="rect" id="node25" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_worker.html#a670fe67276cb94775a042958fe2c79d4" title=" " alt="" coords="823,1220,1115,1261"/>
+<area shape="rect" id="node26" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="877,1309,1061,1351"/>
+<area shape="rect" id="node27" href="$classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="879,1399,1058,1440"/>
+<area shape="rect" id="node28" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="480,664,775,705"/>
+<area shape="rect" id="node29" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="480,777,775,819"/>
+<area shape="rect" id="node30" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="499,916,755,957"/>
+<area shape="rect" id="node31" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_steam_app_ids_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="532,1103,723,1144"/>
+<area shape="rect" id="node32" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="535,1227,719,1268"/>
+<area shape="rect" id="node33" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="537,1316,717,1357"/>
+<area shape="rect" id="node34" href="$classrare_1_1shared_1_1workers_1_1install_1_1_install_info_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="540,1584,715,1625"/>
+<area shape="rect" id="node35" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_info_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="541,1673,714,1715"/>
+<area shape="rect" id="node36" href="$classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="533,1763,722,1804"/>
+<area shape="rect" id="node37" href="$classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="541,1852,713,1893"/>
+<area shape="rect" id="node38" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="851,1935,1086,1976"/>
+<area shape="rect" id="node39" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_save_path_resolver.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="495,1993,759,2035"/>
+<area shape="rect" id="node40" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a539fe458d8793eac2e6173614cb92cf4" title=" " alt="" coords="843,2153,1095,2179"/>
+<area shape="rect" id="node42" href="$classrare_1_1components_1_1tabs_1_1settings_1_1debug_1_1_debug_settings.html#a2b7d8b03691216e1e31003c2eb19ab95" title=" " alt="" coords="851,2228,1087,2269"/>
+<area shape="rect" id="node43" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a590836cea8227c1cb3994dabf184ecab" title="Sets the installation status of a game." alt="" coords="863,2317,1074,2359"/>
+<area shape="rect" id="node44" href="$classrare_1_1models_1_1game_1_1_rare_game.html#afb0966909d9062fa9eb0e80827694818" title=" " alt="" coords="863,2407,1074,2448"/>
+<area shape="rect" id="node45" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a59c98127d15223f562e0fbfabb9bcd7b" title=" " alt="" coords="874,2472,1063,2513"/>
+<area shape="rect" id="node48" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad688e83ab96ce32b1ed9e5ccc83d0ee8" title="Stops the active download, by optionally skipping the queue." alt="" coords="861,2561,1076,2603"/>
+<area shape="rect" id="node49" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a57ae42bf2cdbf9fc08a1a94eaabaa93b" title=" " alt="" coords="849,2651,1089,2678"/>
+<area shape="rect" id="node50" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a57ae42bf2cdbf9fc08a1a94eaabaa93b" title=" " alt="" coords="881,2727,1057,2768"/>
+<area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a9c621c21a12566200e162d57c8110859" title=" " alt="" coords="522,387,733,428"/>
+<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ac21f4c2b75f0029c243a81d8696ba4f9" title="Do not call this function, call set_pixmap instead." alt="" coords="519,119,735,160"/>
+<area shape="rect" id="node7" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a974efcc254c209206208ddd4d9f391a8" title=" " alt="" coords="511,208,743,249"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_queue_info_widget.html#af2c556abce885baacdae5d5cc5f70d1b" title=" " alt="" coords="496,297,759,339"/>
 <area shape="rect" id="node12" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a538e01960833eed6bbda62ccc518f22f" title="Use only in a thread." alt="" coords="243,2127,432,2168"/>
-<area shape="rect" id="node13" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a13a51449b5ed361bfe860829df5a87f5" title=" " alt="" coords="5,2227,195,2268"/>
-<area shape="rect" id="node18" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a3db95dc5356fb770b891be48e62d1604" title=" " alt="" coords="541,695,714,736"/>
-<area shape="rect" id="node40" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a299a7ea18948f61b7235c7bf6e7fa8af" title=" " alt="" coords="243,2268,432,2309"/>
-<area shape="rect" id="node44" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="537,2409,717,2451"/>
-<area shape="rect" id="node45" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a353be26086318f1f2cdedb1987790ecb" title=" " alt="" coords="541,2499,714,2540"/>
-<area shape="rect" id="node46" href="$classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html#a353be26086318f1f2cdedb1987790ecb" title=" " alt="" coords="541,2588,713,2629"/>
-<area shape="rect" id="node48" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a91ee81dee5df73fb4e3057d7c12624e0" title=" " alt="" coords="515,2677,740,2719"/>
+<area shape="rect" id="node13" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a13a51449b5ed361bfe860829df5a87f5" title=" " alt="" coords="5,2245,195,2287"/>
+<area shape="rect" id="node18" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a3db95dc5356fb770b891be48e62d1604" title=" " alt="" coords="541,1405,714,1447"/>
+<area shape="rect" id="node41" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a299a7ea18948f61b7235c7bf6e7fa8af" title=" " alt="" coords="243,2216,432,2257"/>
+<area shape="rect" id="node46" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="537,2461,717,2503"/>
+<area shape="rect" id="node47" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a353be26086318f1f2cdedb1987790ecb" title=" " alt="" coords="541,2551,714,2592"/>
 </map>

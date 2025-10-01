@@ -1,11 +1,13 @@
 <map id="timelogger" name="timelogger">
-<area shape="rect" id="node1" title=" " alt="" coords="576,261,659,287"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html#a7e43976b51be106948d8e7b1ab113864" title=" " alt="" coords="251,29,510,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a18465ae42222b6a7254c72c9815a69d7" title=" " alt="" coords="294,119,467,160"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="233,208,528,249"/>
-<area shape="rect" id="node7" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_steam_app_ids_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="285,297,476,339"/>
-<area shape="rect" id="node8" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="289,387,473,428"/>
-<area shape="rect" id="node9" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="291,476,471,517"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#af29ac67bc30fc5530252b2a234b84188" title=" " alt="" coords="9,119,182,160"/>
-<area shape="rect" id="node6" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="5,341,185,383"/>
+<area shape="rect" id="node1" title=" " alt="" coords="927,305,1009,331"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html#ad23a87042fcacd32722e00f2898803ce" title=" " alt="" coords="602,73,861,115"/>
+<area shape="rect" id="node6" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aaa74ecf58689d52b7b0ee618709228aa" title=" " alt="" coords="645,163,818,204"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html#af7b7791c46880f0718ec315e290a9f28" title=" " alt="" coords="584,252,879,293"/>
+<area shape="rect" id="node9" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_steam_app_ids_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="636,341,827,383"/>
+<area shape="rect" id="node10" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="639,431,823,472"/>
+<area shape="rect" id="node11" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8" title=" " alt="" coords="641,520,821,561"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1install_1_1_install_queue_item_model.html#a3dd81f64b703eff31446b257a4628090" title=" " alt="" coords="358,29,534,71"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1signals_1_1_global_signals.html#a0f737db16078ef206ae669481138ff3f" title=" " alt="" coords="359,119,533,160"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_widget.html#a208217f74b4d91485d90d654b788c103" title=" " alt="" coords="5,119,308,160"/>
+<area shape="rect" id="node8" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0" title=" " alt="" coords="356,385,536,427"/>
 </map>

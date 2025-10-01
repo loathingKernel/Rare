@@ -1,6 +1,6 @@
 var classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlcs =
 [
-    [ "__init__", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlcs.html#a39d165427992dd2720f91929a88cde17", null ],
+    [ "__init__", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlcs.html#adbc7f074f0f3883940bce7d68a9b9f7f", null ],
     [ "append_available", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlcs.html#a6fc286f0eda3ae10ed68fd8daf1566c8", null ],
     [ "append_installed", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlcs.html#a4ce7fd48e7721902c3001ec88974679a", null ],
     [ "get_available", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlcs.html#a4eb01d44a04686415da1af57c4fb7c79", null ],

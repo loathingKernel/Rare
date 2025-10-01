@@ -2,7 +2,9 @@ var classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit =
 [
     [ "__init__", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#aee4dfb99dfb42f5eb156dcfed796cb58", null ],
     [ "deleteLater", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#ae00c01f8599ea056e3e5afb873b756ba", null ],
-    [ "extend_reasons", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#a051a5c88b188dc1e47f120d327dd4d99", null ],
+    [ "reasons", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#aa35b022b6b15f99ce1a2740f7ba0a8fa", null ],
+    [ "reasons", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#a2690a8006a900468009e63303d66d67d", null ],
+    [ "refresh", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#a3f486d5b6ccd5fd3970d366db181efaf", null ],
     [ "setCompleter", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#ac2454a68342f0e6808c4f1a959f2b815", null ],
     [ "setInfo", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#abc5b8bcf9a4b07fac6e531cf19d2944f", null ],
     [ "setText", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#aa1ce5c203733553579a07cf1db0da9df", null ],

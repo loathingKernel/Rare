@@ -27,7 +27,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#aef5087eda294b25d77daf490e4bf4f9e" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a407b3c5e65ad5dacd9be850701849f5a" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="964.5,-1123 964.5,-1142 1014.5,-1142 1014.5,-1123 964.5,-1123"/>
 <text text-anchor="middle" x="989.5" y="-1130" font-family="Helvetica,sans-Serif" font-size="10.00">__init__</text>
 </a>
@@ -58,10 +58,10 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#aa3fe4f510c683950f9a38eb445106504" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1dialogs_1_1launch_1_1_launch_dialog.html#aa3fe4f510c683950f9a38eb445106504" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="912,-988.5 912,-1018.5 1067,-1018.5 1067,-988.5 912,-988.5"/>
-<text text-anchor="start" x="920" y="-1006.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.dialogs.launch</text>
-<text text-anchor="middle" x="989.5" y="-995.5" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.LaunchDialog.do_launch</text>
+<text text-anchor="start" x="920" y="-1006.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.dialogs.launch.</text>
+<text text-anchor="middle" x="989.5" y="-995.5" font-family="Helvetica,sans-Serif" font-size="10.00">LaunchDialog.do_launch</text>
 </a>
 </g>
 </g>
@@ -74,17 +74,17 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1components_1_1dialogs_1_1launch__dialog_1_1_launch_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="666.5,-966.5 666.5,-996.5 818.5,-996.5 818.5,-966.5 666.5,-966.5"/>
-<text text-anchor="start" x="674.5" y="-984.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.dialogs.launch</text>
-<text text-anchor="middle" x="742.5" y="-973.5" font-family="Helvetica,sans-Serif" font-size="10.00">_dialog.LaunchDialog.login</text>
+<g id="a_node5"><a xlink:href="classrare_1_1components_1_1dialogs_1_1launch_1_1_launch_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="665,-966.5 665,-996.5 820,-996.5 820,-966.5 665,-966.5"/>
+<text text-anchor="start" x="673" y="-984.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.dialogs.launch.</text>
+<text text-anchor="middle" x="742.5" y="-973.5" font-family="Helvetica,sans-Serif" font-size="10.00">LaunchDialog.login</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge25" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M1152.26,-638.55C1151.06,-702.32 1143.79,-898.73 1100,-940.5 1080.05,-959.53 917.27,-971.84 818.7,-977.63"/>
+<path fill="none" stroke="midnightblue" d="M1152.26,-638.55C1151.06,-702.32 1143.79,-898.73 1100,-940.5 1080.17,-959.42 919.1,-971.7 820.37,-977.53"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1155.76,-638.31 1152.42,-628.25 1148.77,-638.2 1155.76,-638.31"/>
 </g>
 <!-- Node6 -->
@@ -348,7 +348,7 @@
 <!-- Node4&#45;&gt;Node5 -->
 <g id="edge8" class="edge">
 <title>Node4&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M901.72,-995.71C874.58,-993.27 844.86,-990.6 818.59,-988.24"/>
+<path fill="none" stroke="midnightblue" d="M901.92,-995.73C875.3,-993.33 846.19,-990.72 820.27,-988.39"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="901.72,-999.22 911.99,-996.63 902.34,-992.25 901.72,-999.22"/>
 </g>
 <!-- Node5&#45;&gt;Node5 -->

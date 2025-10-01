@@ -1,6 +1,7 @@
 <map id="showEvent" name="showEvent">
-<area shape="rect" id="node1" title=" " alt="" coords="5,48,92,75"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="271,41,544,82"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings.html#ad84065482fc402349f07f97a339ab592" title=" " alt="" coords="141,48,221,75"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings.html#a3dd0f4d1f9570dcb1fca625c169cbae5" title=" " alt="" coords="140,123,223,150"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,92,134"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="145,5,403,47"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="140,71,408,112"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wine_1_1_wine_settings.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="214,137,334,163"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_widget.html#aabbda10522e56acdbe449fe0ce8760c2" title=" " alt="" coords="160,188,388,229"/>
 </map>

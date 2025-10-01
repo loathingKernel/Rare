@@ -1,5 +1,5 @@
 <map id="run" name="run">
-<area shape="rect" id="node1" title=" " alt="" coords="17,277,57,304"/>
+<area shape="rect" id="node1" title=" " alt="" coords="17,321,57,348"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#aa07e309611d929d84c4870941e1fbce8" title=" " alt="" coords="174,5,241,32"/>
 <area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html#a64e3413255352154f4779684030a5757" title=" " alt="" coords="105,57,309,98"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#a1b69ab5301b9b885ae5a60e8a063bb19" title=" " alt="" coords="144,123,271,149"/>
@@ -10,5 +10,6 @@
 <area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1thread_1_1_dl_thread.html#aee6f403547a8a3339bd61c5f56a5389a" title=" " alt="" coords="188,493,227,520"/>
 <area shape="rect" id="node11" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_d_l_manager_signals.html#a12151a88f7d2238a9b75b40e093a0038" title=" " alt="" coords="127,569,287,610"/>
 <area shape="rect" id="node12" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker.html#aee6f403547a8a3339bd61c5f56a5389a" title=" " alt="" coords="117,634,297,675"/>
+<area shape="rect" id="node13" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a5d3220537164bdcd6c040b54ef85f656" title=" " alt="" coords="117,723,297,765"/>
 <area shape="rect" id="node9" href="$classrare_1_1lgndr_1_1glue_1_1monkeys_1_1_lgndr_indirect_logger.html#a66bb1af90088807e5445bcf242390463" title=" " alt="" coords="357,403,523,445"/>
 </map>

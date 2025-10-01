@@ -1,0 +1,4 @@
+var namespacerare_1_1components_1_1dialogs_1_1install_1_1file__filters =
+[
+    [ "InstallDialogFileFilters", "classrare_1_1components_1_1dialogs_1_1install_1_1file__filters_1_1_install_dialog_file_filters.html", "classrare_1_1components_1_1dialogs_1_1install_1_1file__filters_1_1_install_dialog_file_filters" ]
+];

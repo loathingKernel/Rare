@@ -1,6 +1,6 @@
 var classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_launch_settings =
 [
-    [ "__init__", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_launch_settings.html#a39d165427992dd2720f91929a88cde17", null ],
+    [ "__init__", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_launch_settings.html#adbc7f074f0f3883940bce7d68a9b9f7f", null ],
     [ "load_settings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_launch_settings.html#a1d7fb6f66483b4e5b1ab0c32220c829e", null ],
     [ "showEvent", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_launch_settings.html#a5b6a943cccc85daffddbc61bb1b9345d", null ],
     [ "app_name", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_launch_settings.html#a268d47c9d5c9719ad90299f627f87132", null ],

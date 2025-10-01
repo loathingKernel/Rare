@@ -7,6 +7,7 @@ var classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_logi
     [ "prefix_path", "classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html#a8b3308e06ab4ba41e23686031565912a", null ],
     [ "core", "classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "found", "classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html#a8626f0bba659e1b0b2d966d226f378a9", null ],
+    [ "logger", "classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ],
     [ "text_egl_found", "classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html#af34dc871ba8f16d76626354eb1efb853", null ],
     [ "text_egl_notfound", "classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html#a5942bfaad3775769ab988092626b0987", null ],
     [ "ui", "classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html#ac492f8de2d00b6c4282e766bfadaf2e7", null ]

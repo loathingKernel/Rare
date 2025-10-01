@@ -3,6 +3,8 @@ var classrare_1_1widgets_1_1dialogs_1_1_button_dialog =
     [ "__init__", "classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a39d165427992dd2720f91929a88cde17", null ],
     [ "accept", "classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a783ddce0cb0d324bc475e9b39f7a6f2f", null ],
     [ "accept_handler", "classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63", null ],
+    [ "centralLayout", "classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a18541cba88fd873b7e1a6e7cbb4b5a05", null ],
+    [ "centralWidget", "classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#acfe7313b68b17f07cefdc9aa5d2dfe6b", null ],
     [ "close", "classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a8639372c33e15084a7f7c4d9d87b7bfe", null ],
     [ "closeEvent", "classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#ac2059187ee3abe729fa7c41326035440", null ],
     [ "done", "classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a97eae6fc819daae12bcbe59b520e6d59", null ],

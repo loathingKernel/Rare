@@ -1,6 +1,6 @@
 <map id="OriginWineWorker" name="OriginWineWorker">
-<area shape="rect" id="node1" title=" " alt="" coords="7,499,133,605"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver.html" title=" " alt="" coords="5,315,135,451"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html" title="Base QRunnable class." alt="" coords="27,131,113,267"/>
+<area shape="rect" id="node1" title=" " alt="" coords="7,513,133,620"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver.html" title=" " alt="" coords="5,329,135,465"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html" title="Base QRunnable class." alt="" coords="27,131,113,281"/>
 <area shape="rect" id="node4" title=" " alt="" coords="27,5,113,83"/>
 </map>

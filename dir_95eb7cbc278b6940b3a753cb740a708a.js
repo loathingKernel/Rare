@@ -14,7 +14,7 @@ var dir_95eb7cbc278b6940b3a753cb740a708a =
       [ "ImageSize", "classrare_1_1models_1_1image_1_1_image_size.html", "classrare_1_1models_1_1image_1_1_image_size" ],
       [ "ImageSize.Preset", "classrare_1_1models_1_1image_1_1_image_size_1_1_preset.html", "classrare_1_1models_1_1image_1_1_image_size_1_1_preset" ]
     ] ],
-    [ "install.py", "install_8py.html", [
+    [ "install.py", "models_2install_8py.html", [
       [ "InstallOptionsModel", "classrare_1_1models_1_1install_1_1_install_options_model.html", "classrare_1_1models_1_1install_1_1_install_options_model" ],
       [ "InstallDownloadModel", "classrare_1_1models_1_1install_1_1_install_download_model.html", null ],
       [ "InstallQueueItemModel", "classrare_1_1models_1_1install_1_1_install_queue_item_model.html", "classrare_1_1models_1_1install_1_1_install_queue_item_model" ],

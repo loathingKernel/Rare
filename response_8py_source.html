@@ -87,14 +87,14 @@ $(document).ready(function(){initNavTree('response_8py_source.html',''); initRes
   <div class="headertitle"><div class="title">response.py</div></div>
 </div><!--header-->
 <div class="contents">
-<a href="response_8py.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno"><a class="line" href="namespacerare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response.html">    1</a></span><span class="keyword">import</span> logging</div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">from</span> dataclasses <span class="keyword">import</span> dataclass, field</div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">from</span> datetime <span class="keyword">import</span> datetime</div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">from</span> typing <span class="keyword">import</span> List, Dict, Any, Type, Tuple</div>
+<a href="response_8py.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno"><a class="line" href="namespacerare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response.html">    1</a></span><span class="keyword">from</span> dataclasses <span class="keyword">import</span> dataclass, field</div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">from</span> datetime <span class="keyword">import</span> datetime</div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">from</span> logging <span class="keyword">import</span> getLogger</div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">from</span> typing <span class="keyword">import</span> Any, Dict, List, Tuple, Type</div>
 <div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span> </div>
 <div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">from</span> .utils <span class="keyword">import</span> parse_date</div>
 <div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span> </div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno"><a class="line" href="namespacerare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response.html#a0b14e488ae28d98d262453f3e9cd6e4d">    8</a></span>logger = logging.getLogger(<span class="stringliteral">&quot;StoreApiModels&quot;</span>)</div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno"><a class="line" href="namespacerare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response.html#a0b14e488ae28d98d262453f3e9cd6e4d">    8</a></span>logger = getLogger(<span class="stringliteral">&quot;StoreApiModels&quot;</span>)</div>
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span> </div>
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="comment"># lk: Typing overloads for unimplemented types</span></div>
 <div class="line"><a id="l00011" name="l00011"></a><span class="lineno"><a class="line" href="namespacerare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response.html#a3e2521da97894f084288f6471029d0b4">   11</a></span>DieselSocialLinks = Dict</div>

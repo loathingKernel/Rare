@@ -1,0 +1,28 @@
+var classadvanced_1_1_ui___install_dialog_advanced =
+[
+    [ "retranslateUi", "classadvanced_1_1_ui___install_dialog_advanced.html#a43894a96c879b2e1db36167debbf8cdf", null ],
+    [ "setupUi", "classadvanced_1_1_ui___install_dialog_advanced.html#a0933e096b3d00ebc31f4ce9014b06ed8", null ],
+    [ "dl_optimizations_check", "classadvanced_1_1_ui___install_dialog_advanced.html#ab258f7353439170c518724b6cfc36e79", null ],
+    [ "dl_optimizations_label", "classadvanced_1_1_ui___install_dialog_advanced.html#adb33199895817767631909a5db45f463", null ],
+    [ "download_only_check", "classadvanced_1_1_ui___install_dialog_advanced.html#a42bc07e1928435844b0de9034f029938", null ],
+    [ "download_only_label", "classadvanced_1_1_ui___install_dialog_advanced.html#a00d25b4863b61c8d0ca1a8ea2b68a14a", null ],
+    [ "force_download_check", "classadvanced_1_1_ui___install_dialog_advanced.html#a76bf2e9267562085bb12b4fb7bd4ec0b", null ],
+    [ "force_download_label", "classadvanced_1_1_ui___install_dialog_advanced.html#a348302ecccdaf7ede4916e548bcede15", null ],
+    [ "ignore_space_check", "classadvanced_1_1_ui___install_dialog_advanced.html#a61603f054b7e8064821ab18573048a3d", null ],
+    [ "ignore_space_label", "classadvanced_1_1_ui___install_dialog_advanced.html#a3c359a3417d1bd49aada01e5b42d8192", null ],
+    [ "install_prereqs_check", "classadvanced_1_1_ui___install_dialog_advanced.html#a22446739745ace5cd0cb549292c5d3db", null ],
+    [ "install_prereqs_label", "classadvanced_1_1_ui___install_dialog_advanced.html#a28945b058bb6ff5fd08ca642b85fd52c", null ],
+    [ "main_layout", "classadvanced_1_1_ui___install_dialog_advanced.html#a8bca68c145928164b86a7af9df216eea", null ],
+    [ "max_memory_info", "classadvanced_1_1_ui___install_dialog_advanced.html#a50a7184b747e7e4f1ec1f18c37b8ec85", null ],
+    [ "max_memory_label", "classadvanced_1_1_ui___install_dialog_advanced.html#a09abe5e8092a4e86179dc088c74e76c5", null ],
+    [ "max_memory_layout", "classadvanced_1_1_ui___install_dialog_advanced.html#ac24ea993afd06c4cebd9f3faae07bb9e", null ],
+    [ "max_memory_spin", "classadvanced_1_1_ui___install_dialog_advanced.html#ab998dcb59ab1e9d8f4c8078b2a851071", null ],
+    [ "max_workers_info", "classadvanced_1_1_ui___install_dialog_advanced.html#aed8070b550f650c4422042ace1f5d0de", null ],
+    [ "max_workers_label", "classadvanced_1_1_ui___install_dialog_advanced.html#a6560a923922ac3738923d100555b0e78", null ],
+    [ "max_workers_layout", "classadvanced_1_1_ui___install_dialog_advanced.html#a654411cd42e9568a772c2d6907ec80e0", null ],
+    [ "max_workers_spin", "classadvanced_1_1_ui___install_dialog_advanced.html#adc1eef783d12a7f4ccffe40fe8aab81f", null ],
+    [ "read_files_check", "classadvanced_1_1_ui___install_dialog_advanced.html#a896ce841a440abfa3d3595a243d07118", null ],
+    [ "read_files_label", "classadvanced_1_1_ui___install_dialog_advanced.html#a845418a64e02f3c5ccc4e94845aff4ce", null ],
+    [ "use_signed_urls_check", "classadvanced_1_1_ui___install_dialog_advanced.html#a3bb8a7fb2b6e60193ad0f69e50e0bf75", null ],
+    [ "use_signed_urls_label", "classadvanced_1_1_ui___install_dialog_advanced.html#ae8dfd457073ac9e9ba70296c2ed71968", null ]
+];

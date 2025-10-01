@@ -88,26 +88,26 @@ $(document).ready(function(){initNavTree('side__tab_8py_source.html',''); initRe
 </div><!--header-->
 <div class="contents">
 <a href="side__tab_8py.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno"><a class="line" href="namespacerare_1_1widgets_1_1side__tab.html">    1</a></span><span class="keyword">from</span> logging <span class="keyword">import</span> getLogger</div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">from</span> typing <span class="keyword">import</span> Union, Protocol</div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">from</span> typing <span class="keyword">import</span> Protocol, Union</div>
 <div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span> </div>
 <div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">from</span> PySide6.QtCore <span class="keyword">import</span> (</div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span>    Qt,</div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span>    QSize,</div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span>    QSize,</div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span>    Qt,</div>
 <div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span>    Signal,</div>
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>)</div>
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="keyword">from</span> PySide6.QtGui <span class="keyword">import</span> QFontMetrics</div>
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">from</span> PySide6.QtWidgets <span class="keyword">import</span> (</div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>    QStyle,</div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>    QLabel,</div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>    QWidget,</div>
-<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    QStyleOptionTab,</div>
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>    QStylePainter,</div>
-<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    QTabBar,</div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>    QTabWidget,</div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>    QVBoxLayout,</div>
-<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>    QScrollArea,</div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>    QLayout,</div>
-<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>    QSizePolicy,</div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>    QLabel,</div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>    QLayout,</div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>    QScrollArea,</div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    QSizePolicy,</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>    QStyle,</div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    QStyleOptionTab,</div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>    QStylePainter,</div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>    QTabBar,</div>
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>    QTabWidget,</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>    QVBoxLayout,</div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>    QWidget,</div>
 <div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>)</div>
 <div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span> </div>
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils_1_1misc.html">rare.utils.misc</a> <span class="keyword">import</span> qta_icon</div>
