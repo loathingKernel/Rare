@@ -1,11 +1,11 @@
 var searchData=
 [
-  ['game_0',['Game',['../classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals_1_1_game.html',1,'rare::models::base_game::RareGameBase::Signals']]],
+  ['game_0',['Game',['../classrare_1_1models_1_1base__game_1_1_rare_game_signals_1_1_game.html',1,'rare::models::base_game::RareGameSignals']]],
   ['gameargserror_1',['GameArgsError',['../classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_game_args_error.html',1,'rare::commands::launcher::lgd_helper']]],
   ['gamedetails_2',['GameDetails',['../classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html',1,'rare::components::tabs::library::details::details']]],
-  ['gamedlcs_3',['GameDlcs',['../classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlcs.html',1,'rare::components::tabs::library::details::dlcs']]],
-  ['gamedlcwidget_4',['GameDlcWidget',['../classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlc_widget.html',1,'rare::components::tabs::library::details::dlcs']]],
-  ['gameinfotabs_5',['GameInfoTabs',['../classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html',1,'rare::components::tabs::library::details']]],
+  ['gamedetailstabs_3',['GameDetailsTabs',['../classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs.html',1,'rare::components::tabs::library::details']]],
+  ['gamedlcs_4',['GameDlcs',['../classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlcs.html',1,'rare::components::tabs::library::details::dlcs']]],
+  ['gamedlcwidget_5',['GameDlcWidget',['../classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlc_widget.html',1,'rare::components::tabs::library::details::dlcs']]],
   ['gamemetadataview_6',['GameMetadataView',['../classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_metadata_view.html',1,'rare::components::tabs::library::details']]],
   ['gameprocess_7',['GameProcess',['../classrare_1_1shared_1_1game__process_1_1_game_process.html',1,'rare::shared::game_process']]],
   ['gamesdlcsworker_8',['GamesDlcsWorker',['../classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html',1,'rare::shared::workers::fetch']]],

@@ -43,10 +43,10 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html#afa962c4cc7ee70aff38a79a6bd2bd079" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs.html#afa962c4cc7ee70aff38a79a6bd2bd079" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="182.5,-67.5 182.5,-97.5 352.5,-97.5 352.5,-67.5 182.5,-67.5"/>
 <text text-anchor="start" x="190.5" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.details.</text>
-<text text-anchor="middle" x="267.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameInfoTabs.keyPressEvent</text>
+<text text-anchor="middle" x="267.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameDetailsTabs.keyPressEvent</text>
 </a>
 </g>
 </g>

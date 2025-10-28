@@ -1,10 +1,11 @@
 <map id="save_game_state" name="save_game_state">
-<area shape="rect" id="node1" title=" " alt="" coords="5,157,131,183"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="218,29,391,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a131db521413da91c5c8ad9b1eb057618" title=" " alt="" coords="260,119,349,146"/>
-<area shape="rect" id="node7" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#ae67c92b74c05707f28c4430681aaa860" title=" " alt="" coords="263,194,346,221"/>
-<area shape="rect" id="node8" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ae67c92b74c05707f28c4430681aaa860" title=" " alt="" coords="179,269,431,295"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a4c5d7b0b818760d1a69d2dca743a2f4b" title="SaveGameFiles across games." alt="" coords="479,112,652,153"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a68395f7577f6b1a63a7a62dbf1a4c6d0" title="RareGames that have SaveGameFiles associated with them." alt="" coords="700,112,873,153"/>
-<area shape="rect" id="node6" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a311e604b365ca958c3ae7b143b6190ce" title=" " alt="" coords="921,112,1095,153"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,161,131,187"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="218,31,391,72"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a131db521413da91c5c8ad9b1eb057618" title=" " alt="" coords="260,123,349,150"/>
+<area shape="rect" id="node8" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#ae67c92b74c05707f28c4430681aaa860" title=" " alt="" coords="263,198,346,225"/>
+<area shape="rect" id="node9" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ae67c92b74c05707f28c4430681aaa860" title=" " alt="" coords="179,273,431,299"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a5d3220537164bdcd6c040b54ef85f656" title=" " alt="" coords="479,29,659,71"/>
+<area shape="rect" id="node5" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a4c5d7b0b818760d1a69d2dca743a2f4b" title="SaveGameFiles across games." alt="" coords="482,119,655,160"/>
+<area shape="rect" id="node6" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a68395f7577f6b1a63a7a62dbf1a4c6d0" title="RareGames that have SaveGameFiles associated with them." alt="" coords="707,119,880,160"/>
+<area shape="rect" id="node7" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a311e604b365ca958c3ae7b143b6190ce" title=" " alt="" coords="928,119,1101,160"/>
 </map>

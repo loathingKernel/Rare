@@ -1,7 +1,7 @@
 <map id="do_login" name="do_login">
-<area shape="rect" id="node1" title=" " alt="" coords="11,171,82,198"/>
+<area shape="rect" id="node1" title=" " alt="" coords="11,137,82,163"/>
 <area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="176,29,350,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1pathspec_1_1_path_spec.html#a0a3363c7b22b987013ce4dfc2c00df89" title=" " alt="" coords="176,119,350,160"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a5d3220537164bdcd6c040b54ef85f656" title=" " alt="" coords="173,208,353,249"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="130,297,396,339"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a5d3220537164bdcd6c040b54ef85f656" title=" " alt="" coords="444,59,624,100"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1pathspec_1_1_path_spec.html#a0a3363c7b22b987013ce4dfc2c00df89" title=" " alt="" coords="176,171,350,212"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="130,260,396,301"/>
 </map>

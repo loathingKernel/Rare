@@ -1,5 +1,11 @@
 var NAVTREEINDEX26 =
 {
+"namespacerare_1_1utils_1_1compat_1_1utils.html#a55d02dc69113de40f2086e3ffabefd62":[0,7,3,8,0,1,1],
+"namespacerare_1_1utils_1_1compat_1_1utils.html#a5692ab5c1cef4e68b08fa7cbccf0da96":[0,7,3,8,0,1,4],
+"namespacerare_1_1utils_1_1compat_1_1utils.html#a5b5d155e1da4ff47437e3ac64f0affe8":[0,7,3,8,0,1,9],
+"namespacerare_1_1utils_1_1compat_1_1utils.html#a6a495a8b0e4fd7b5605d8d93c8e1ba28":[0,7,3,8,0,1,8],
+"namespacerare_1_1utils_1_1compat_1_1utils.html#a8bdf2f4b0acacd40f5009a037341b863":[0,7,3,8,0,1,2],
+"namespacerare_1_1utils_1_1compat_1_1utils.html#a96adfc4f3766f9ed7d75571e715d3e25":[0,7,3,8,0,1,6],
 "namespacerare_1_1utils_1_1compat_1_1utils.html#aa55d31ff8f016be452c3277a17d9709f":[0,7,3,8,0,1,11],
 "namespacerare_1_1utils_1_1compat_1_1utils.html#ac35c8c6fa6ffee52956ca3418b5ea123":[0,7,3,8,0,1,3],
 "namespacerare_1_1utils_1_1compat_1_1utils.html#ae0c1ec9639aacf544d9e102488c01010":[0,7,3,8,0,1,12],
@@ -217,7 +223,6 @@ var NAVTREEINDEX26 =
 "rare__app_8py.html":[2,0,0,7,10],
 "rare__app_8py_source.html":[2,0,0,7,10],
 "rare__core_8py.html":[2,0,0,4,4],
-"rare__core_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[2,0,0,4,4,1],
 "rare__core_8py_source.html":[2,0,0,4,4],
 "rare__style_8py.html":[2,0,0,7,11],
 "rare__style_8py_source.html":[2,0,0,7,11],
@@ -244,10 +249,5 @@ var NAVTREEINDEX26 =
 "selective_8py_source.html":[2,0,0,1,0,5],
 "settings_2compat_8py.html":[2,0,0,1,1,3,3],
 "settings_2compat_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[2,0,0,1,1,3,3,3],
-"settings_2compat_8py_source.html":[2,0,0,1,1,3,3],
-"settings_2debug_8py.html":[2,0,0,1,1,3,4],
-"settings_2debug_8py_source.html":[2,0,0,1,1,3,4],
-"settings_8py.html":[2,0,0,3,8],
-"settings_8py.html#ad8b81f2d0880f7d7ba766904389dda41":[2,0,0,3,8,3],
-"settings_8py_source.html":[2,0,0,3,8]
+"settings_2compat_8py_source.html":[2,0,0,1,1,3,3]
 };

@@ -1,27 +1,46 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,183,92,209"/>
-<area shape="rect" id="node2" href="$classrare_1_1commands_1_1launcher_1_1_pre_launch.html" title=" " alt="" coords="178,5,263,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1commands_1_1launcher_1_1_sync_check_worker.html" title=" " alt="" coords="156,56,285,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker.html" title=" " alt="" coords="161,107,280,133"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_check_for_update_worker.html" title=" " alt="" coords="140,157,301,184"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_worker.html" title=" " alt="" coords="171,208,271,235"/>
-<area shape="rect" id="node7" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker.html" title=" " alt="" coords="145,259,297,285"/>
-<area shape="rect" id="node8" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html" title="Base QRunnable class." alt="" coords="189,309,252,336"/>
-<area shape="rect" id="node25" href="$classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable.html" title=" " alt="" coords="157,360,284,387"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html" title=" " alt="" coords="370,107,501,133"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html" title=" " alt="" coords="372,157,499,184"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html" title=" " alt="" coords="349,208,521,235"/>
-<area shape="rect" id="node12" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html" title=" " alt="" coords="387,259,483,285"/>
-<area shape="rect" id="node16" href="$classrare_1_1shared_1_1workers_1_1install_1_1_install_info_worker.html" title=" " alt="" coords="375,309,495,336"/>
-<area shape="rect" id="node17" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_info_worker.html" title=" " alt="" coords="377,360,494,387"/>
-<area shape="rect" id="node18" href="$classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html" title=" " alt="" coords="378,411,493,437"/>
-<area shape="rect" id="node19" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver.html" title=" " alt="" coords="371,461,500,488"/>
-<area shape="rect" id="node22" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker.html" title="Base queueable worker class." alt="" coords="385,512,486,539"/>
-<area shape="rect" id="node13" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html" title=" " alt="" coords="581,208,716,235"/>
-<area shape="rect" id="node14" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html" title=" " alt="" coords="583,259,714,285"/>
-<area shape="rect" id="node15" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_steam_app_ids_worker.html" title=" " alt="" coords="577,309,720,336"/>
-<area shape="rect" id="node20" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_origin_wine_worker.html" title=" " alt="" coords="585,411,712,437"/>
-<area shape="rect" id="node21" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_save_path_resolver.html" title=" " alt="" coords="569,461,728,488"/>
-<area shape="rect" id="node23" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html" title=" " alt="" coords="601,512,696,539"/>
-<area shape="rect" id="node24" href="$classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html" title=" " alt="" coords="601,563,697,589"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,975,76,1001"/>
+<area shape="rect" id="node2" href="$classrare_1_1commands_1_1launcher_1_1_pre_launch_1_1_signals.html" title=" " alt="" coords="168,5,299,32"/>
+<area shape="rect" id="node3" href="$classrare_1_1commands_1_1launcher_1_1_sync_check_worker_1_1_signals.html" title=" " alt="" coords="146,56,321,83"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_check_for_update_wo034e1f37526255b38be1ba063c01008c.html" title=" " alt="" coords="133,107,334,149"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_worker_1_1_signals.html" title=" " alt="" coords="160,173,307,200"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker_1_1_signals.html" title=" " alt="" coords="145,224,322,251"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker_1_1_signals.html" title=" " alt="" coords="147,275,319,301"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_library_widget_controller.html" title=" " alt="" coords="155,325,311,352"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker_1_1_signals.html" title=" " alt="" coords="124,376,343,403"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1store_1_1constants_1_1_constants.html" title=" " alt="" coords="193,427,274,453"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html" title=" " alt="" coords="196,477,271,504"/>
+<area shape="rect" id="node12" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html" title=" " alt="" coords="176,528,291,555"/>
+<area shape="rect" id="node16" href="$classrare_1_1models_1_1base__game_1_1_rare_game_signals.html" title=" " alt="" coords="170,579,297,605"/>
+<area shape="rect" id="node17" href="$classrare_1_1models_1_1base__game_1_1_rare_game_signals_1_1_download.html" title=" " alt="" coords="140,629,327,656"/>
+<area shape="rect" id="node18" href="$classrare_1_1models_1_1base__game_1_1_rare_game_signals_1_1_game.html" title=" " alt="" coords="151,680,316,707"/>
+<area shape="rect" id="node19" href="$classrare_1_1models_1_1base__game_1_1_rare_game_signals_1_1_progress.html" title=" " alt="" coords="142,731,325,757"/>
+<area shape="rect" id="node20" href="$classrare_1_1models_1_1base__game_1_1_rare_game_signals_1_1_widget.html" title=" " alt="" coords="148,781,319,808"/>
+<area shape="rect" id="node21" href="$classrare_1_1models_1_1signals_1_1_global_signals.html" title=" " alt="" coords="182,832,285,859"/>
+<area shape="rect" id="node22" href="$classrare_1_1models_1_1signals_1_1_global_signals_1_1_application_signals.html" title=" " alt="" coords="149,883,318,925"/>
+<area shape="rect" id="node23" href="$classrare_1_1models_1_1signals_1_1_global_signals_1_1_discord_r_p_c_signals.html" title=" " alt="" coords="124,949,343,976"/>
+<area shape="rect" id="node24" href="$classrare_1_1models_1_1signals_1_1_global_signals_1_1_download_signals.html" title=" " alt="" coords="131,1000,336,1027"/>
+<area shape="rect" id="node25" href="$classrare_1_1models_1_1signals_1_1_global_signals_1_1_game_signals.html" title=" " alt="" coords="142,1051,325,1077"/>
+<area shape="rect" id="node26" href="$classrare_1_1shared_1_1game__process_1_1_game_process.html" title=" " alt="" coords="181,1101,286,1128"/>
+<area shape="rect" id="node27" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html" title=" " alt="" coords="179,1152,287,1179"/>
+<area shape="rect" id="node28" href="$classrare_1_1shared_1_1image__manager_1_1_image_worker_signals.html" title=" " alt="" coords="162,1203,305,1229"/>
+<area shape="rect" id="node29" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html" title=" " alt="" coords="195,1253,271,1280"/>
+<area shape="rect" id="node30" href="$classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker_1_1_signals.html" title=" " alt="" coords="162,1304,305,1331"/>
+<area shape="rect" id="node31" href="$classrare_1_1shared_1_1workers_1_1install_1_1_install_info_worker_1_1_signals.html" title=" " alt="" coords="150,1355,317,1381"/>
+<area shape="rect" id="node32" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_info_worker_1_1_signals.html" title=" " alt="" coords="152,1405,315,1432"/>
+<area shape="rect" id="node33" href="$classrare_1_1shared_1_1workers_1_1move_1_1_move_worker_1_1_signals.html" title=" " alt="" coords="163,1456,304,1483"/>
+<area shape="rect" id="node34" href="$classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker_1_1_signals.html" title=" " alt="" coords="153,1507,313,1533"/>
+<area shape="rect" id="node35" href="$classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker_1_1_signals.html" title=" " alt="" coords="162,1557,305,1584"/>
+<area shape="rect" id="node36" href="$classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver_1_1_signals.html" title=" " alt="" coords="146,1608,321,1635"/>
+<area shape="rect" id="node37" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_1_1_signals.html" title=" " alt="" coords="160,1659,307,1685"/>
+<area shape="rect" id="node38" href="$classrare_1_1utils_1_1discord__rpc_1_1_discord_r_p_c.html" title=" " alt="" coords="187,1709,280,1736"/>
+<area shape="rect" id="node39" href="$classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html" title=" " alt="" coords="188,1760,279,1787"/>
+<area shape="rect" id="node40" href="$classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable_1_1_signals.html" title=" " alt="" coords="147,1811,320,1837"/>
+<area shape="rect" id="node41" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_strings.html" title=" " alt="" coords="151,1861,315,1888"/>
+<area shape="rect" id="node42" href="$classrare_1_1widgets_1_1rare__app_1_1_rare_app_exception.html" title=" " alt="" coords="169,1912,297,1939"/>
+<area shape="rect" id="node13" href="$classrare_1_1models_1_1base__game_1_1_rare_game_slim.html" title=" " alt="" coords="415,503,525,529"/>
+<area shape="rect" id="node15" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html" title=" " alt="" coords="413,553,527,580"/>
+<area shape="rect" id="node14" href="$classrare_1_1models_1_1game_1_1_rare_game.html" title=" " alt="" coords="597,503,681,529"/>
+<area shape="rect" id="node43" href="$classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception.html" title=" " alt="" coords="391,1887,549,1913"/>
+<area shape="rect" id="node44" href="$classrare_1_1components_1_1_rare_exception.html" title=" " alt="" coords="417,1937,523,1964"/>
 </map>

@@ -1,5 +1,10 @@
 var NAVTREEINDEX27 =
 {
+"settings_2debug_8py.html":[2,0,0,1,1,3,4],
+"settings_2debug_8py_source.html":[2,0,0,1,1,3,4],
+"settings_8py.html":[2,0,0,3,8],
+"settings_8py.html#ad8b81f2d0880f7d7ba766904389dda41":[2,0,0,3,8,3],
+"settings_8py_source.html":[2,0,0,3,8],
 "shared_2____init_____8py.html":[2,0,0,4,1],
 "shared_2____init_____8py_source.html":[2,0,0,4,1],
 "shared_2workers_2____init_____8py.html":[2,0,0,4,0,0],
@@ -75,7 +80,6 @@ var NAVTREEINDEX27 =
 "store_2widgets_2groups_8py.html":[2,0,0,1,1,4,1,2],
 "store_2widgets_2groups_8py_source.html":[2,0,0,1,1,4,1,2],
 "store__api_8py.html":[2,0,0,1,1,4,7],
-"store__api_8py.html#a0b14e488ae28d98d262453f3e9cd6e4d":[2,0,0,1,1,4,7,3],
 "store__api_8py.html#a2ba63db98b4ef46ff3785bff3fc155fc":[2,0,0,1,1,4,7,2],
 "store__api_8py.html#a57d16cc997899c04029baa31e466ac32":[2,0,0,1,1,4,7,1],
 "store__api_8py_source.html":[2,0,0,1,1,4,7],

@@ -105,7 +105,7 @@ var sectionId = 'dynsection-6';
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_pre_launch.html#a1919862a03530a651067c3d8d482c618" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_pre_launch.html#a548f48bb21a468acd717495fc2819e61" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="96.59,-132 96.59,-151 179.59,-151 179.59,-132 96.59,-132"/>
 <text text-anchor="middle" x="138.09" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">prepare_launch</text>
 </a>
@@ -120,34 +120,34 @@ var sectionId = 'dynsection-6';
 <!-- Node12 -->
 <g id="node12" class="node">
 <title>Node12</title>
-<g id="a_node12"><a xlink:href="classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="250.59,-67.5 250.59,-97.5 385.59,-97.5 385.59,-67.5 250.59,-67.5"/>
-<text text-anchor="start" x="258.59" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.workers.worker.</text>
-<text text-anchor="middle" x="318.09" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">Worker.signals</text>
+<g id="a_node12"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="253.09,-67.5 253.09,-97.5 383.09,-97.5 383.09,-67.5 253.09,-67.5"/>
+<text text-anchor="start" x="261.09" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.rare_core.Rare</text>
+<text text-anchor="middle" x="318.09" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">Core.signals</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node12 -->
-<g id="edge29" class="edge">
+<g id="edge30" class="edge">
 <title>Node1&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M37.28,-135.23C47.15,-131.09 60.72,-125.83 73.09,-122.5 128.24,-107.66 191.96,-97.44 240.46,-91.05"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="241.1,-94.5 250.57,-89.74 240.2,-87.56 241.1,-94.5"/>
+<path fill="none" stroke="midnightblue" d="M37.28,-135.23C47.15,-131.09 60.72,-125.83 73.09,-122.5 129.11,-107.43 193.98,-97.12 242.74,-90.75"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="243.42,-94.19 252.9,-89.45 242.53,-87.25 243.42,-94.19"/>
 </g>
 <!-- Node13 -->
 <g id="node13" class="node">
 <title>Node13</title>
-<g id="a_node13"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="253.09,-0.5 253.09,-30.5 383.09,-30.5 383.09,-0.5 253.09,-0.5"/>
-<text text-anchor="start" x="261.09" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.rare_core.Rare</text>
-<text text-anchor="middle" x="318.09" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Core.signals</text>
+<g id="a_node13"><a xlink:href="classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="250.59,-0.5 250.59,-30.5 385.59,-30.5 385.59,-0.5 250.59,-0.5"/>
+<text text-anchor="start" x="258.59" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.workers.worker.</text>
+<text text-anchor="middle" x="318.09" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Worker.signals</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node13 -->
-<g id="edge30" class="edge">
+<g id="edge29" class="edge">
 <title>Node1&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M30.55,-131.84C39.52,-120.83 55.58,-103.01 73.09,-92.5 125.76,-60.89 192.72,-40.97 243.17,-29.32"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="244.04,-32.71 253.03,-27.1 242.5,-25.88 244.04,-32.71"/>
+<path fill="none" stroke="midnightblue" d="M30.55,-131.84C39.52,-120.83 55.58,-103.01 73.09,-92.5 124.87,-61.43 190.46,-41.64 240.59,-29.92"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="241.43,-33.32 250.4,-27.68 239.87,-26.49 241.43,-33.32"/>
 </g>
 <!-- Node2&#45;&gt;Node2 -->
 <g id="edge2" class="edge">
@@ -192,10 +192,10 @@ var sectionId = 'dynsection-6';
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#abf2d7d38da6177ee9d089cef4917abdd" target="_top" xlink:title=" ">
+<g id="a_node9"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#aadaa50c02cb87bac5cb2a513098f517c" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="249.59,-134.5 249.59,-164.5 386.59,-164.5 386.59,-134.5 249.59,-134.5"/>
 <text text-anchor="start" x="257.59" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.launcher.lgd</text>
-<text text-anchor="middle" x="318.09" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">_helper.get_launch_args</text>
+<text text-anchor="middle" x="318.09" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">_helper.get_launch_params</text>
 </a>
 </g>
 </g>
@@ -298,7 +298,7 @@ var sectionId = 'dynsection-6';
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a994d4b312004fac05d64b47fe1f7e55c" target="_top" xlink:title=" ">
+<g id="a_node10"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a004162d7f8707d01fc6903b05f001a33" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="433.09,-134.5 433.09,-164.5 570.09,-164.5 570.09,-134.5 433.09,-134.5"/>
 <text text-anchor="start" x="441.09" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.launcher.lgd</text>
 <text text-anchor="middle" x="501.59" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">_helper.get_game_params</text>
@@ -314,7 +314,7 @@ var sectionId = 'dynsection-6';
 <!-- Node11 -->
 <g id="node11" class="node">
 <title>Node11</title>
-<g id="a_node11"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#aa9cac0757a279f375bc3641b0aa936f8" target="_top" xlink:title=" ">
+<g id="a_node11"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a060177a9ec13d2b4567332eaed70aa08" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="433.09,-67.5 433.09,-97.5 570.09,-97.5 570.09,-67.5 433.09,-67.5"/>
 <text text-anchor="start" x="441.09" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.launcher.lgd</text>
 <text text-anchor="middle" x="501.59" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">_helper.get_origin_params</text>

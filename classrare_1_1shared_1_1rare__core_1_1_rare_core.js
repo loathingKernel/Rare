@@ -33,5 +33,6 @@ var classrare_1_1shared_1_1rare__core_1_1_rare_core =
     [ "unreal_engine", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a35a295629dc020d0e97b1c0926242c5c", null ],
     [ "updates", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#af77d4830ac34baf7f5be854c57124be8", null ],
     [ "wrappers", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a361d22fed4b0c7db6ea4d03e1b0a51ec", null ],
+    [ "logger", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ],
     [ "queue_threadpool", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a8f62d6fdee30210122279401f2574160", null ]
 ];

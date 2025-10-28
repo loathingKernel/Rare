@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 587;
+var viewWidth = 758;
 var viewHeight = 84;
 var sectionId = 'dynsection-14';
 </script>
@@ -54,7 +54,7 @@ var sectionId = 'dynsection-14';
 <svg id="graph" class="graph">
 <g id="viewport">
 <title>update_settings</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-80 583,-80 583,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-80 754,-80 754,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
@@ -65,7 +65,7 @@ var sectionId = 'dynsection-14';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node1 -->
-<g id="edge11" class="edge">
+<g id="edge13" class="edge">
 <title>Node1&#45;&gt;Node1</title>
 <path fill="none" stroke="midnightblue" d="M25.74,-47.76C17.34,-56.57 23.09,-66 43,-66 55.44,-66 62.35,-62.31 63.74,-57.4"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="66.95,-55.98 60.26,-47.76 60.36,-58.35 66.95,-55.98"/>
@@ -95,7 +95,7 @@ var sectionId = 'dynsection-14';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
-<g id="edge10" class="edge">
+<g id="edge12" class="edge">
 <title>Node1&#45;&gt;Node3</title>
 <path fill="none" stroke="midnightblue" d="M86.03,-43.69C97.66,-45.04 110.3,-46.29 122,-47 152.96,-48.89 187.68,-49.2 215.49,-49.01"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="215.82,-52.51 225.79,-48.91 215.76,-45.51 215.82,-52.51"/>
@@ -134,13 +134,13 @@ var sectionId = 'dynsection-14';
 <polygon fill="midnightblue" stroke="midnightblue" points="338.71,-39.63 347.97,-34.47 337.51,-32.73 338.71,-39.63"/>
 </g>
 <!-- Node4&#45;&gt;Node2 -->
-<g id="edge8" class="edge">
+<g id="edge10" class="edge">
 <title>Node4&#45;&gt;Node2</title>
 <path fill="none" stroke="midnightblue" d="M347.77,-26.29C309.17,-22.99 243.82,-17.41 200.54,-13.72"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="200.57,-10.21 190.31,-12.84 199.98,-17.18 200.57,-10.21"/>
 </g>
 <!-- Node4&#45;&gt;Node4 -->
-<g id="edge9" class="edge">
+<g id="edge11" class="edge">
 <title>Node4&#45;&gt;Node4</title>
 <path fill="none" stroke="midnightblue" d="M363.55,-38.76C355.3,-47.57 360.95,-57 380.5,-57 392.72,-57 399.51,-53.31 400.87,-48.4"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="404.09,-47.01 397.45,-38.76 397.49,-49.35 404.09,-47.01"/>
@@ -166,6 +166,28 @@ var sectionId = 'dynsection-14';
 <title>Node5&#45;&gt;Node5</title>
 <path fill="none" stroke="midnightblue" d="M491,-44.16C485.45,-53.56 493.12,-62.5 514,-62.5 526.73,-62.5 534.54,-59.18 537.45,-54.46"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="540.94,-54 537,-44.16 533.94,-54.3 540.94,-54"/>
+</g>
+<!-- Node6 -->
+<g id="node6" class="node">
+<title>Node6</title>
+<g id="a_node6"><a xlink:href="classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a5d3220537164bdcd6c040b54ef85f656" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="615,-14 615,-44 750,-44 750,-14 615,-14"/>
+<text text-anchor="start" x="623" y="-32" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.workers.worker.</text>
+<text text-anchor="middle" x="682.5" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00">Worker.logger</text>
+</a>
+</g>
+</g>
+<!-- Node5&#45;&gt;Node6 -->
+<g id="edge8" class="edge">
+<title>Node5&#45;&gt;Node6</title>
+<path fill="none" stroke="midnightblue" d="M579.37,-29C587.64,-29 596.16,-29 604.6,-29"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="604.82,-32.5 614.82,-29 604.82,-25.5 604.82,-32.5"/>
+</g>
+<!-- Node6&#45;&gt;Node6 -->
+<g id="edge9" class="edge">
+<title>Node6&#45;&gt;Node6</title>
+<path fill="none" stroke="midnightblue" d="M653.22,-44.16C646.16,-53.56 655.92,-62.5 682.5,-62.5 698.7,-62.5 708.65,-59.18 712.35,-54.46"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="715.83,-53.95 711.78,-44.16 708.84,-54.34 715.83,-53.95"/>
 </g>
 </g>
 </svg>

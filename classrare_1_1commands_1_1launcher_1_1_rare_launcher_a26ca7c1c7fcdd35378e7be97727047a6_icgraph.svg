@@ -88,7 +88,7 @@ var sectionId = 'dynsection-23';
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a62864ecc73de3f9e4a009737d0c01f01" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a5c2392a014391172392b0fa297732117" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="279,-94.5 279,-113.5 353,-113.5 353,-94.5 279,-94.5"/>
 <text text-anchor="middle" x="316" y="-101.5" font-family="Helvetica,sans-Serif" font-size="10.00">launch_game</text>
 </a>

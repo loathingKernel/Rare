@@ -5,7 +5,7 @@ var indexSectionsWithContent =
   2: "adfr",
   3: "_abcdefghijlmopqrstuvw",
   4: "_abcdefghijklmnopqrstuvw",
-  5: "abcdefghijklmnopqrstuvwy",
+  5: "abcdefghiklmnopqrstuvwy",
   6: "r"
 };
 

@@ -1,8 +1,7 @@
 <map id="download_image" name="download_image">
-<area shape="rect" id="node1" title=" " alt="" coords="5,107,124,133"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a973500f2307e21602fe9e5067e28316e" title=" " alt="" coords="180,5,319,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#aa1af2e48ef5d21eae429581cfe81f00b" title=" " alt="" coords="204,56,295,83"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a4159dfc5e42dddbb3aef008534f2b82e" title=" " alt="" coords="179,107,320,133"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a7848c0ad5acc9e1b5d9681b98cef438d" title=" " alt="" coords="172,157,327,184"/>
-<area shape="rect" id="node6" href="$namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" title=" " alt="" coords="176,232,323,259"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,101,124,127"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#aea891e497e8efbc4867ac746692dbe4b" title=" " alt="" coords="180,5,323,47"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a25f2f91548d8fab2ae61d5a5543116cb" title=" " alt="" coords="185,71,318,98"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a75dd8f072b3db9ab15f6cea9598a8c0f" title=" " alt="" coords="172,123,331,164"/>
+<area shape="rect" id="node5" href="$namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" title=" " alt="" coords="178,213,325,239"/>
 </map>

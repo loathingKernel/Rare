@@ -23,8 +23,8 @@ var annotated_dup =
           ] ],
           [ "lgd_helper", "namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html", [
             [ "GameArgsError", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_game_args_error.html", null ],
-            [ "InitArgs", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_init_args.html", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_init_args" ],
-            [ "LaunchArgs", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_args.html", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_args" ]
+            [ "InitParams", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_init_params.html", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_init_params" ],
+            [ "LaunchParams", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_params.html", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_params" ]
           ] ],
           [ "PreLaunch", "classrare_1_1commands_1_1launcher_1_1_pre_launch.html", "classrare_1_1commands_1_1launcher_1_1_pre_launch" ],
           [ "RareLauncher", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html", "classrare_1_1commands_1_1launcher_1_1_rare_launcher" ],
@@ -132,7 +132,7 @@ var annotated_dup =
                 [ "LocalLaunchSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_launch_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_launch_settings" ],
                 [ "LocalWrapperSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_wrapper_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_wrapper_settings" ]
               ] ],
-              [ "GameInfoTabs", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs" ],
+              [ "GameDetailsTabs", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs" ],
               [ "GameMetadataView", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_metadata_view.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_metadata_view" ]
             ] ],
             [ "head_bar", "namespacerare_1_1components_1_1tabs_1_1library_1_1head__bar.html", [
@@ -424,6 +424,7 @@ var annotated_dup =
       [ "models", "namespacerare_1_1models.html", [
         [ "base_game", "namespacerare_1_1models_1_1base__game.html", [
           [ "RareGameBase", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html", "classrare_1_1models_1_1base__game_1_1_rare_game_base" ],
+          [ "RareGameSignals", "classrare_1_1models_1_1base__game_1_1_rare_game_signals.html", "classrare_1_1models_1_1base__game_1_1_rare_game_signals" ],
           [ "RareGameSlim", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html", "classrare_1_1models_1_1base__game_1_1_rare_game_slim" ],
           [ "RareSaveGame", "classrare_1_1models_1_1base__game_1_1_rare_save_game.html", null ]
         ] ],
@@ -481,7 +482,9 @@ var annotated_dup =
           [ "GameProcess", "classrare_1_1shared_1_1game__process_1_1_game_process.html", "classrare_1_1shared_1_1game__process_1_1_game_process" ]
         ] ],
         [ "image_manager", "namespacerare_1_1shared_1_1image__manager.html", [
-          [ "ImageManager", "classrare_1_1shared_1_1image__manager_1_1_image_manager.html", "classrare_1_1shared_1_1image__manager_1_1_image_manager" ]
+          [ "ImageManager", "classrare_1_1shared_1_1image__manager_1_1_image_manager.html", "classrare_1_1shared_1_1image__manager_1_1_image_manager" ],
+          [ "ImageWorker", "classrare_1_1shared_1_1image__manager_1_1_image_worker.html", "classrare_1_1shared_1_1image__manager_1_1_image_worker" ],
+          [ "ImageWorkerSignals", "classrare_1_1shared_1_1image__manager_1_1_image_worker_signals.html", null ]
         ] ],
         [ "rare_core", "namespacerare_1_1shared_1_1rare__core.html", [
           [ "RareCore", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html", "classrare_1_1shared_1_1rare__core_1_1_rare_core" ]

@@ -2,8 +2,8 @@ var searchData=
 [
   ['landingpage_0',['LandingPage',['../classrare_1_1components_1_1dialogs_1_1login_1_1_landing_page.html',1,'LandingPage'],['../classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_page.html',1,'LandingPage']]],
   ['landingwidget_1',['LandingWidget',['../classrare_1_1components_1_1tabs_1_1store_1_1landing_1_1_landing_widget.html',1,'rare::components::tabs::store::landing']]],
-  ['launchargs_2',['LaunchArgs',['../classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_args.html',1,'rare::commands::launcher::lgd_helper']]],
-  ['launchdialog_3',['LaunchDialog',['../classrare_1_1components_1_1dialogs_1_1launch_1_1_launch_dialog.html',1,'rare::components::dialogs::launch']]],
+  ['launchdialog_2',['LaunchDialog',['../classrare_1_1components_1_1dialogs_1_1launch_1_1_launch_dialog.html',1,'rare::components::dialogs::launch']]],
+  ['launchparams_3',['LaunchParams',['../classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_params.html',1,'rare::commands::launcher::lgd_helper']]],
   ['launchsettingsbase_4',['LaunchSettingsBase',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html',1,'rare::components::tabs::settings::widgets::launch']]],
   ['legendarycli_5',['LegendaryCLI',['../classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html',1,'rare::lgndr::cli']]],
   ['legendarycore_6',['LegendaryCore',['../classrare_1_1lgndr_1_1core_1_1_legendary_core.html',1,'rare::lgndr::core']]],

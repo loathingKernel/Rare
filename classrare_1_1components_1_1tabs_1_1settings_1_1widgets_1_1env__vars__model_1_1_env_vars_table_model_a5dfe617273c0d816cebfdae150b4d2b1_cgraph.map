@@ -1,11 +1,12 @@
 <map id="setData" name="setData">
-<area shape="rect" id="node1" title=" " alt="" coords="5,191,72,218"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#a785ebf9c544297050f8105f2be49dc7d" title=" " alt="" coords="341,246,444,273"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#a723932c73ee938c493cfe44cd13cad84" title=" " alt="" coords="153,49,260,75"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#a50716b520de2d44af336e0fc4b43d54f" title=" " alt="" coords="179,99,235,126"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#ace8f4123e3bd770388e708dc8900e508" title=" " alt="" coords="173,150,240,177"/>
-<area shape="rect" id="node6" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="120,225,293,267"/>
-<area shape="rect" id="node7" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#aa1430e6d229de4f86973da60c3231a9a" title=" " alt="" coords="127,315,287,356"/>
-<area shape="rect" id="node8" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#af4eeafe773437e494d54ce4a1fe650f1" title=" " alt="" coords="127,404,287,445"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#a0064237ecb5b28f0a9ce6c2a47ce3fbc" title=" " alt="" coords="168,494,245,521"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,181,72,207"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#a785ebf9c544297050f8105f2be49dc7d" title=" " alt="" coords="380,105,483,131"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#a723932c73ee938c493cfe44cd13cad84" title=" " alt="" coords="153,42,260,69"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#a50716b520de2d44af336e0fc4b43d54f" title=" " alt="" coords="179,93,235,119"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#ace8f4123e3bd770388e708dc8900e508" title=" " alt="" coords="173,143,240,170"/>
+<area shape="rect" id="node6" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="120,472,293,513"/>
+<area shape="rect" id="node8" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#aa1430e6d229de4f86973da60c3231a9a" title=" " alt="" coords="127,293,287,335"/>
+<area shape="rect" id="node9" href="$classrare_1_1utils_1_1json__formatter_1_1_q_json_model.html#af4eeafe773437e494d54ce4a1fe650f1" title=" " alt="" coords="127,383,287,424"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html#a0064237ecb5b28f0a9ce6c2a47ce3fbc" title=" " alt="" coords="168,218,245,245"/>
+<area shape="rect" id="node7" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a5d3220537164bdcd6c040b54ef85f656" title=" " alt="" coords="341,472,521,513"/>
 </map>

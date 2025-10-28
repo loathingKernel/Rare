@@ -1,7 +1,8 @@
 <map id="fetch" name="fetch">
-<area shape="rect" id="node1" title=" " alt="" coords="11,93,62,120"/>
+<area shape="rect" id="node1" title=" " alt="" coords="11,139,62,165"/>
 <area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#afa2ee74ecb26b12edb400c94a81c467e" title=" " alt="" coords="128,5,271,32"/>
 <area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#ad0a724a415b65f70f930e6b25abf9c11" title=" " alt="" coords="137,56,262,83"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" title=" " alt="" coords="126,131,273,157"/>
-<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1metrics.html#a5d090481123c8dc931923165fc7fc29b" title=" " alt="" coords="110,205,290,232"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a5d3220537164bdcd6c040b54ef85f656" title=" " alt="" coords="110,131,290,173"/>
+<area shape="rect" id="node5" href="$namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" title=" " alt="" coords="126,221,273,248"/>
+<area shape="rect" id="node6" href="$namespacerare_1_1utils_1_1metrics.html#a5d090481123c8dc931923165fc7fc29b" title=" " alt="" coords="110,296,290,323"/>
 </map>

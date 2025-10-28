@@ -38,7 +38,6 @@ var classrare_1_1models_1_1game_1_1_rare_game =
     [ "save_path", "classrare_1_1models_1_1game_1_1_rare_game.html#a539fe458d8793eac2e6173614cb92cf4", null ],
     [ "set_installed", "classrare_1_1models_1_1game_1_1_rare_game.html#a590836cea8227c1cb3994dabf184ecab", null ],
     [ "set_origin_attributes", "classrare_1_1models_1_1game_1_1_rare_game.html#afb0966909d9062fa9eb0e80827694818", null ],
-    [ "set_pixmap", "classrare_1_1models_1_1game_1_1_rare_game.html#ab97aa84611663113dd2196fb2661c60e", null ],
     [ "set_steam_grade", "classrare_1_1models_1_1game_1_1_rare_game.html#a9b76c292a174e6a6013ae0b0d6f2b4b5", null ],
     [ "set_worker", "classrare_1_1models_1_1game_1_1_rare_game.html#ab280d487146a0726f6e57021d85acd54", null ],
     [ "steam_appid", "classrare_1_1models_1_1game_1_1_rare_game.html#ace3dd08fabd335717be01d7f8ca3a68e", null ],

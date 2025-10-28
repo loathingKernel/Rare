@@ -65,7 +65,7 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a994d4b312004fac05d64b47fe1f7e55c" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a004162d7f8707d01fc6903b05f001a33" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="546,-67.5 546,-97.5 683,-97.5 683,-67.5 546,-67.5"/>
 <text text-anchor="start" x="554" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.launcher.lgd</text>
 <text text-anchor="middle" x="614.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">_helper.get_game_params</text>
@@ -81,7 +81,7 @@
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
-<g id="a_node8"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#aa9cac0757a279f375bc3641b0aa936f8" target="_top" xlink:title=" ">
+<g id="a_node8"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a060177a9ec13d2b4567332eaed70aa08" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="546,-0.5 546,-30.5 683,-30.5 683,-0.5 546,-0.5"/>
 <text text-anchor="start" x="554" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.launcher.lgd</text>
 <text text-anchor="middle" x="614.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_helper.get_origin_params</text>
@@ -103,7 +103,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_pre_launch.html#a1919862a03530a651067c3d8d482c618" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_pre_launch.html#a548f48bb21a468acd717495fc2819e61" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="176,-95.5 176,-125.5 316,-125.5 316,-95.5 176,-95.5"/>
 <text text-anchor="start" x="184" y="-113.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.launcher.Pre</text>
 <text text-anchor="middle" x="246" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00">Launch.prepare_launch</text>
@@ -153,10 +153,10 @@
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#abf2d7d38da6177ee9d089cef4917abdd" target="_top" xlink:title=" ">
+<g id="a_node7"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#aadaa50c02cb87bac5cb2a513098f517c" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="362.5,-62.5 362.5,-92.5 499.5,-92.5 499.5,-62.5 362.5,-62.5"/>
 <text text-anchor="start" x="370.5" y="-80.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.launcher.lgd</text>
-<text text-anchor="middle" x="431" y="-69.5" font-family="Helvetica,sans-Serif" font-size="10.00">_helper.get_launch_args</text>
+<text text-anchor="middle" x="431" y="-69.5" font-family="Helvetica,sans-Serif" font-size="10.00">_helper.get_launch_params</text>
 </a>
 </g>
 </g>

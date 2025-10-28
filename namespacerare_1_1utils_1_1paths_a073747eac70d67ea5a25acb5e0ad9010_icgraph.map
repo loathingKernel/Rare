@@ -1,6 +1,8 @@
 <map id="image_tall_path" name="image_tall_path">
-<area shape="rect" id="node1" title=" " alt="" coords="576,86,689,113"/>
+<area shape="rect" id="node1" title=" " alt="" coords="576,134,689,161"/>
 <area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1steam__shortcuts.html#a161b1eceee8e5d44db9fd570e06c5e0e" title=" " alt="" coords="327,29,521,71"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a0f33d11820dcab6878441e35121d8402" title=" " alt="" coords="320,119,528,175"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a90df3f75b8a82c160062abc10996be7e" title=" " alt="" coords="320,119,528,175"/>
+<area shape="rect" id="node5" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#ac4af61e14fba2797bc2b836d35c2be32" title=" " alt="" coords="331,224,517,265"/>
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#a1c498583fd154d3fea8c59b543395ce5" title=" " alt="" coords="5,29,272,71"/>
+<area shape="rect" id="node6" href="$classrare_1_1shared_1_1image__manager_1_1_image_manager.html#afdc334679fb933b81874369a87017d12" title=" " alt="" coords="12,224,265,265"/>
 </map>

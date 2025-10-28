@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['widget_0',['Widget',['../classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_signals_1_1_widget.html',1,'rare::models::base_game::RareGameBase::Signals']]],
+  ['widget_0',['Widget',['../classrare_1_1models_1_1base__game_1_1_rare_game_signals_1_1_widget.html',1,'rare::models::base_game::RareGameSignals']]],
   ['winepathresolver_1',['WinePathResolver',['../classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver.html',1,'rare::shared::workers::wine_resolver']]],
   ['winerunner_2',['WineRunner',['../classrare_1_1utils_1_1compat_1_1wine_1_1_wine_runner.html',1,'rare::utils::compat::wine']]],
   ['wineruntime_3',['WineRuntime',['../classrare_1_1utils_1_1compat_1_1wine_1_1_wine_runtime.html',1,'rare::utils::compat::wine']]],
@@ -14,7 +14,7 @@ var searchData=
   ['wishlistorder_11',['WishlistOrder',['../classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_order.html',1,'rare::components::tabs::store::wishlist']]],
   ['wishlistpage_12',['WishlistPage',['../classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_page.html',1,'rare::components::tabs::store::wishlist']]],
   ['wishlistwidget_13',['WishlistWidget',['../classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_widget.html',1,'rare::components::tabs::store::wishlist']]],
-  ['worker_14',['Worker',['../classrare_1_1shared_1_1image__manager_1_1_image_manager_1_1_worker.html',1,'ImageManager.Worker'],['../classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html',1,'Worker']]],
+  ['worker_14',['Worker',['../classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html',1,'rare::shared::workers::worker']]],
   ['wrapper_15',['Wrapper',['../classrare_1_1models_1_1wrapper_1_1_wrapper.html',1,'rare::models::wrapper']]],
   ['wrapperadddialog_16',['WrapperAddDialog',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_add_dialog.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
   ['wrappercontainer_17',['WrapperContainer',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_container.html',1,'rare::components::tabs::settings::widgets::wrappers']]],

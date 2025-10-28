@@ -4,7 +4,7 @@
 <area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a7a75dfd263a4034413d91a6204e0c286" title=" " alt="" coords="189,413,333,440"/>
 <area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a8f95c12331473621465737e24f2ded05" title=" " alt="" coords="451,5,575,32"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad688e83ab96ce32b1ed9e5ccc83d0ee8" title="Stops the active download, by optionally skipping the queue." alt="" coords="207,539,316,565"/>
-<area shape="rect" id="node31" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a11794ca2c7c3add2ed90cd2edb79b927" title=" " alt="" coords="439,1180,588,1207"/>
+<area shape="rect" id="node32" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a11794ca2c7c3add2ed90cd2edb79b927" title=" " alt="" coords="439,1180,588,1207"/>
 <area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad04e39f7a02542bec368b03b2a0430e1" title=" " alt="" coords="429,56,598,83"/>
 <area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a9f7a02e315c0de328c345850d56c4ca5" title=" " alt="" coords="438,107,589,133"/>
 <area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#a5eac5cb663f6096b4b8181455c9e5802" title=" " alt="" coords="447,158,579,199"/>
@@ -15,19 +15,20 @@
 <area shape="rect" id="node13" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html#ad2f822331bcc1303cdea2a90405a0ecc" title=" " alt="" coords="450,456,577,483"/>
 <area shape="rect" id="node14" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4" title=" " alt="" coords="427,531,600,573"/>
 <area shape="rect" id="node15" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="427,621,600,662"/>
-<area shape="rect" id="node16" href="$namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5" title="Creates a desktop or start menu shortcut link." alt="" coords="441,710,586,751"/>
-<area shape="rect" id="node24" href="$namespacerare_1_1utils_1_1paths.html#a328faa5a142700be21313b72953aab76" title=" " alt="" coords="697,834,852,875"/>
-<area shape="rect" id="node27" href="$namespacerare_1_1components_1_1tabs_1_1downloads.html#a8959f5451ccd1f3d58344ffe90257d7a" title=" " alt="" coords="381,851,645,877"/>
-<area shape="rect" id="node28" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" title=" " alt="" coords="423,926,603,967"/>
-<area shape="rect" id="node29" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="427,1015,600,1057"/>
-<area shape="rect" id="node30" href="$namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" title=" " alt="" coords="440,1105,587,1132"/>
-<area shape="rect" id="node17" href="$namespacerare_1_1utils_1_1paths.html#af4d56a3b4065900877c517e24bddc366" title=" " alt="" coords="697,490,852,531"/>
-<area shape="rect" id="node23" href="$namespacerare_1_1utils_1_1paths.html#ac2e6ac6baa5376d3ea5aa8b63e2af2bd" title="Creates the path of a shortcut link." alt="" coords="697,579,852,621"/>
-<area shape="rect" id="node25" href="$namespacerare_1_1utils_1_1paths.html#a5aae2af81c71e81b5a7ce0c16db5ba19" title=" " alt="" coords="711,669,838,710"/>
-<area shape="rect" id="node26" href="$namespacerare_1_1utils_1_1paths.html#a71f5a7ae998e88f396ed58bb5ec6c67b" title=" " alt="" coords="693,759,856,785"/>
-<area shape="rect" id="node18" href="$namespacerare_1_1utils_1_1paths.html#a929db13896ab79cbbe77bc82ad2698fc" title=" " alt="" coords="904,423,1103,449"/>
-<area shape="rect" id="node19" href="$namespacerare_1_1utils_1_1paths.html#a68fd6933dc93b4140e22a3fb1380354f" title=" " alt="" coords="915,497,1091,524"/>
-<area shape="rect" id="node20" href="$namespacerare_1_1utils_1_1paths.html#a26cca1020569c6b5f07f09723c3607b9" title=" " alt="" coords="931,573,1075,614"/>
-<area shape="rect" id="node21" href="$namespacerare_1_1utils_1_1paths.html#ada300860b11ac604daaa4afc32f76fb7" title=" " alt="" coords="1151,580,1316,607"/>
-<area shape="rect" id="node22" href="$namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b" title=" " alt="" coords="1364,580,1519,607"/>
+<area shape="rect" id="node17" href="$namespacerare_1_1utils_1_1paths.html#a6013706d2f5027e7d2979078186b11e5" title="Creates a desktop or start menu shortcut link." alt="" coords="441,710,586,751"/>
+<area shape="rect" id="node25" href="$namespacerare_1_1utils_1_1paths.html#a328faa5a142700be21313b72953aab76" title=" " alt="" coords="706,875,861,917"/>
+<area shape="rect" id="node28" href="$namespacerare_1_1components_1_1tabs_1_1downloads.html#a8959f5451ccd1f3d58344ffe90257d7a" title=" " alt="" coords="381,851,645,877"/>
+<area shape="rect" id="node29" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" title=" " alt="" coords="423,926,603,967"/>
+<area shape="rect" id="node30" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" title=" " alt="" coords="427,1015,600,1057"/>
+<area shape="rect" id="node31" href="$namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" title=" " alt="" coords="440,1105,587,1132"/>
+<area shape="rect" id="node16" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a5d3220537164bdcd6c040b54ef85f656" title=" " alt="" coords="693,442,873,483"/>
+<area shape="rect" id="node18" href="$namespacerare_1_1utils_1_1paths.html#af4d56a3b4065900877c517e24bddc366" title=" " alt="" coords="706,531,861,573"/>
+<area shape="rect" id="node24" href="$namespacerare_1_1utils_1_1paths.html#ac2e6ac6baa5376d3ea5aa8b63e2af2bd" title="Creates the path of a shortcut link." alt="" coords="706,621,861,662"/>
+<area shape="rect" id="node26" href="$namespacerare_1_1utils_1_1paths.html#a5aae2af81c71e81b5a7ce0c16db5ba19" title=" " alt="" coords="720,710,847,751"/>
+<area shape="rect" id="node27" href="$namespacerare_1_1utils_1_1paths.html#a71f5a7ae998e88f396ed58bb5ec6c67b" title=" " alt="" coords="702,800,865,827"/>
+<area shape="rect" id="node19" href="$namespacerare_1_1utils_1_1paths.html#a929db13896ab79cbbe77bc82ad2698fc" title=" " alt="" coords="921,464,1120,491"/>
+<area shape="rect" id="node20" href="$namespacerare_1_1utils_1_1paths.html#a68fd6933dc93b4140e22a3fb1380354f" title=" " alt="" coords="933,539,1109,565"/>
+<area shape="rect" id="node21" href="$namespacerare_1_1utils_1_1paths.html#a26cca1020569c6b5f07f09723c3607b9" title=" " alt="" coords="949,614,1093,655"/>
+<area shape="rect" id="node22" href="$namespacerare_1_1utils_1_1paths.html#ada300860b11ac604daaa4afc32f76fb7" title=" " alt="" coords="1168,621,1333,648"/>
+<area shape="rect" id="node23" href="$namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b" title=" " alt="" coords="1381,621,1536,648"/>
 </map>

@@ -27,9 +27,9 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-200.5 125,-200.5 125,-0.5 0,-0.5"/>
-<text text-anchor="middle" x="62.5" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameInfoTabs</text>
+<text text-anchor="middle" x="62.5" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameDetailsTabs</text>
 <polyline fill="none" stroke="black" points="0,-181.5 125,-181.5 "/>
 <text text-anchor="start" x="8" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
 <text text-anchor="start" x="8" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>

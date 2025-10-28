@@ -2,9 +2,9 @@ var classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_det
 [
     [ "retranslateUi", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_details_widget.html#a7cfc2caa873b04d5228d18d7f15e367e", null ],
     [ "setupUi", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_details_widget.html#aa2ba813987778a98c45d075614811304", null ],
-    [ "actions", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_details_widget.html#af806efc6052edbc741683ec893bb2fe1", null ],
     [ "actions_label", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_details_widget.html#a0742e4103f4c4f6a929843fecfcee89c", null ],
     [ "actions_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_details_widget.html#ab7b011e0c181a183af60d318109cdd79", null ],
+    [ "actions_widget", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_details_widget.html#a5d98b5ab2123e2dc845c8f59a9057b0f", null ],
     [ "back_button", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_details_widget.html#a6ce2be444b12b82afc50cb2e790181f0", null ],
     [ "description_label", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_details_widget.html#a6cf275f6974f0a12a6bf629ffcd38d9d", null ],
     [ "details_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1store_1_1details_1_1_ui___store_details_widget.html#a4c6fd114dab248084be2978fadfd9ee4", null ],

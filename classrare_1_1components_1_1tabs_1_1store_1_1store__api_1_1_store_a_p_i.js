@@ -13,6 +13,7 @@ var classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i =
     [ "cached_manager", "classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#a1903a417073afab0dd1228084629de0b", null ],
     [ "installed", "classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#aa435e12b981d32efaa28900b588d9080", null ],
     [ "locale", "classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#a2287aeb3140dc753df7c798eb8f978a6", null ],
+    [ "logger", "classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ],
     [ "manager", "classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#a23416379944e641a8ad6bdbc95ef1859", null ],
     [ "next_browse_request", "classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#a262c2233e1b77dc2c76fb7ddecba1323", null ],
     [ "token", "classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#a87da3d8264af1c9427605148f20dd9c4", null ]

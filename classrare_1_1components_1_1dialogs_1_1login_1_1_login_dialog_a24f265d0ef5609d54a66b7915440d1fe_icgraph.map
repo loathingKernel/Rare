@@ -1,7 +1,7 @@
 <map id="back_clicked" name="back_clicked">
 <area shape="rect" id="node1" title=" " alt="" coords="545,126,644,153"/>
 <area shape="rect" id="node2" href="$classrare_1_1widgets_1_1side__tab_1_1_side_tab_widget.html#ae425e34e82f4b85be50e4d334bb75372" title=" " alt="" coords="275,29,449,71"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_info_tabs.html#afa962c4cc7ee70aff38a79a6bd2bd079" title=" " alt="" coords="249,119,475,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs.html#afa962c4cc7ee70aff38a79a6bd2bd079" title=" " alt="" coords="249,119,475,160"/>
 <area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html#afa962c4cc7ee70aff38a79a6bd2bd079" title=" " alt="" coords="227,208,497,249"/>
 <area shape="rect" id="node3" href="$classrare_1_1widgets_1_1side__tab_1_1_side_tab_widget.html#aecd21b5179959b42a65f7ccfd1c1a150" title=" " alt="" coords="5,29,179,71"/>
 </map>

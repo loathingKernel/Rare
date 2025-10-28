@@ -1,7 +1,0 @@
-<map id="set_pixmap" name="set_pixmap">
-<area shape="rect" id="node1" title=" " alt="" coords="192,141,280,168"/>
-<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ac21f4c2b75f0029c243a81d8696ba4f9" title="Do not call this function, call set_pixmap instead." alt="" coords="24,29,125,56"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a974efcc254c209206208ddd4d9f391a8" title=" " alt="" coords="19,104,130,131"/>
-<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a590836cea8227c1cb3994dabf184ecab" title="Sets the installation status of a game." alt="" coords="27,179,122,205"/>
-<area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_game.html#afb0966909d9062fa9eb0e80827694818" title=" " alt="" coords="5,253,144,280"/>
-</map>

@@ -1,7 +1,7 @@
 <map id="import_game" name="import_game">
-<area shape="rect" id="node1" title=" " alt="" coords="5,111,103,138"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="491,29,665,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a4aaa726f3b4643dc9fc5f027294fc9c9" title=" " alt="" coords="151,111,245,138"/>
-<area shape="rect" id="node5" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a5d3220537164bdcd6c040b54ef85f656" title=" " alt="" coords="488,155,668,196"/>
-<area shape="rect" id="node4" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a7de93b9e2b51b491d5c70be49680f66d" title=" " alt="" coords="293,111,440,138"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,103,103,130"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="488,155,661,196"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a5d3220537164bdcd6c040b54ef85f656" title=" " alt="" coords="709,47,889,88"/>
+<area shape="rect" id="node4" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a4aaa726f3b4643dc9fc5f027294fc9c9" title=" " alt="" coords="151,103,245,130"/>
+<area shape="rect" id="node5" href="$classrare_1_1lgndr_1_1cli_1_1_legendary_c_l_i.html#a7de93b9e2b51b491d5c70be49680f66d" title=" " alt="" coords="293,103,440,130"/>
 </map>

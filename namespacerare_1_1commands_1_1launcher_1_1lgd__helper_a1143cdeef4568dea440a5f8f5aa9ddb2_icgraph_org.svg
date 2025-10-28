@@ -42,7 +42,7 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a994d4b312004fac05d64b47fe1f7e55c" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a004162d7f8707d01fc6903b05f001a33" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="513,-56.5 513,-75.5 610,-75.5 610,-56.5 513,-56.5"/>
 <text text-anchor="middle" x="561.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">get_game_params</text>
 </a>
@@ -57,7 +57,7 @@
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#aa9cac0757a279f375bc3641b0aa936f8" target="_top" xlink:title=" ">
+<g id="a_node7"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a060177a9ec13d2b4567332eaed70aa08" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="513.5,-0.5 513.5,-19.5 609.5,-19.5 609.5,-0.5 513.5,-0.5"/>
 <text text-anchor="middle" x="561.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">get_origin_params</text>
 </a>
@@ -78,7 +78,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_pre_launch.html#a1919862a03530a651067c3d8d482c618" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_pre_launch.html#a548f48bb21a468acd717495fc2819e61" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="176,-79 176,-109 316,-109 316,-79 176,-79"/>
 <text text-anchor="start" x="184" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.launcher.Pre</text>
 <text text-anchor="middle" x="246" y="-86" font-family="Helvetica,sans-Serif" font-size="10.00">Launch.prepare_launch</text>
@@ -128,23 +128,23 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#abf2d7d38da6177ee9d089cef4917abdd" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="370.5,-56.5 370.5,-75.5 458.5,-75.5 458.5,-56.5 370.5,-56.5"/>
-<text text-anchor="middle" x="414.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">get_launch_args</text>
+<g id="a_node6"><a xlink:href="namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#aadaa50c02cb87bac5cb2a513098f517c" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="364,-56.5 364,-75.5 465,-75.5 465,-56.5 364,-56.5"/>
+<text text-anchor="middle" x="414.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">get_launch_params</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node6 -->
 <g id="edge9" class="edge">
 <title>Node5&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M502.26,-66C487.8,-66 472.54,-66 458.93,-66"/>
+<path fill="none" stroke="midnightblue" d="M502.46,-66C490.16,-66 477.28,-66 465.32,-66"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="502.62,-69.5 512.62,-66 502.62,-62.5 502.62,-69.5"/>
 </g>
 <!-- Node6&#45;&gt;Node3 -->
 <g id="edge11" class="edge">
 <title>Node6&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M360.25,-74.96C346.24,-77.31 330.93,-79.89 316.22,-82.36"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="360.91,-78.39 370.19,-73.28 359.75,-71.49 360.91,-78.39"/>
+<path fill="none" stroke="midnightblue" d="M353.89,-76.02C341.62,-78.09 328.6,-80.28 316.03,-82.39"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="354.71,-79.44 364,-74.33 353.55,-72.53 354.71,-79.44"/>
 </g>
 <!-- Node6&#45;&gt;Node6 -->
 <g id="edge10" class="edge">
