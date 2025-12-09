@@ -362,10 +362,10 @@ var sectionId = 'dynsection-4';
 <!-- Node29 -->
 <g id="node29" class="node">
 <title>Node29</title>
-<g id="a_node29"><a xlink:href="classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="313.5,-180 313.5,-210 448.5,-210 448.5,-180 313.5,-180"/>
-<text text-anchor="start" x="321.5" y="-198" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.workers.worker.</text>
-<text text-anchor="middle" x="381" y="-187" font-family="Helvetica,sans-Serif" font-size="10.00">Worker.signals</text>
+<g id="a_node29"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="316,-180 316,-210 446,-210 446,-180 316,-180"/>
+<text text-anchor="start" x="324" y="-198" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.rare_core.Rare</text>
+<text text-anchor="middle" x="381" y="-187" font-family="Helvetica,sans-Serif" font-size="10.00">Core.signals</text>
 </a>
 </g>
 </g>
@@ -378,10 +378,10 @@ var sectionId = 'dynsection-4';
 <!-- Node30 -->
 <g id="node30" class="node">
 <title>Node30</title>
-<g id="a_node30"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a135560fc58fcc2e5cff07ec25c23a06c" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="316,-113 316,-143 446,-143 446,-113 316,-113"/>
-<text text-anchor="start" x="324" y="-131" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.rare_core.Rare</text>
-<text text-anchor="middle" x="381" y="-120" font-family="Helvetica,sans-Serif" font-size="10.00">Core.signals</text>
+<g id="a_node30"><a xlink:href="classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="313.5,-113 313.5,-143 448.5,-143 448.5,-113 313.5,-113"/>
+<text text-anchor="start" x="321.5" y="-131" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.workers.worker.</text>
+<text text-anchor="middle" x="381" y="-120" font-family="Helvetica,sans-Serif" font-size="10.00">Worker.signals</text>
 </a>
 </g>
 </g>

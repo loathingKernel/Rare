@@ -145,7 +145,7 @@ Public Attributes</h2></td></tr>
 <p >This class is a specialization of the <code><a class="el" href="classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html" title="Base QRunnable class.">Worker</a></code> class. It provides feedback signals to know if a worker has started or finished.</p>
 <p >To use this class you have to assign the signals object of your concrete implementation to the <code><a class="el" href="classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a9998d928f5b6f30ebb69dc655c0756a8">QueueWorker.signals</a></code> attribute, implement <code><a class="el" href="classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8">QueueWorker.run_real()</a></code> and <code><a class="el" href="classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker.html#a353be26086318f1f2cdedb1987790ecb">QueueWorker.worker_info()</a></code> </p>
 
-<p class="definition">Definition at line <a class="el" href="worker_8py_source.html#l00065">65</a> of file <a class="el" href="worker_8py_source.html">worker.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="worker_8py_source.html#l00066">66</a> of file <a class="el" href="worker_8py_source.html">worker.py</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="ae64f0875afe3067b97ba370b354b9213" name="ae64f0875afe3067b97ba370b354b9213"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae64f0875afe3067b97ba370b354b9213">&#9670;&nbsp;</a></span>__init__()</h2>
@@ -165,9 +165,9 @@ Public Attributes</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ae64f0875afe3067b97ba370b354b9213">Worker</a>.</p>
 
-<p>Reimplemented in <a class="el" href="classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html#a371346623c6b90e8be88bcb32c4660bc">VerifyWorker</a>, and <a class="el" href="classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a9a82720391b19728edca07741a8e461f">MoveWorker</a>.</p>
+<p>Reimplemented in <a class="el" href="classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html#a371346623c6b90e8be88bcb32c4660bc">VerifyWorker</a>, <a class="el" href="classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#ace4193190588ce778720b5ac2f519059">MoveWorker</a>, and <a class="el" href="classrare_1_1shared_1_1workers_1_1cloud__sync_1_1_cloud_sync_worker.html#a68a86f76cf86eb4851eb5cb91899c227">CloudSyncWorker</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="worker_8py_source.html#l00080">80</a> of file <a class="el" href="worker_8py_source.html">worker.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="worker_8py_source.html#l00081">81</a> of file <a class="el" href="worker_8py_source.html">worker.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -200,7 +200,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="worker_8py_source.html#l00098">98</a> of file <a class="el" href="worker_8py_source.html">worker.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="worker_8py_source.html#l00099">99</a> of file <a class="el" href="worker_8py_source.html">worker.py</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -228,7 +228,7 @@ Here is the caller graph for this function:</div>
 
 <p>Reimplemented from <a class="el" href="classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#ad22709b2e67308af35f55680d5a026e0">Worker</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="worker_8py_source.html#l00087">87</a> of file <a class="el" href="worker_8py_source.html">worker.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="worker_8py_source.html#l00088">88</a> of file <a class="el" href="worker_8py_source.html">worker.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -260,9 +260,9 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Reimplemented in <a class="el" href="classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a353be26086318f1f2cdedb1987790ecb">MoveWorker</a>, and <a class="el" href="classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html#a353be26086318f1f2cdedb1987790ecb">VerifyWorker</a>.</p>
+<p>Reimplemented in <a class="el" href="classrare_1_1shared_1_1workers_1_1cloud__sync_1_1_cloud_sync_worker.html#a353be26086318f1f2cdedb1987790ecb">CloudSyncWorker</a>, <a class="el" href="classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html#a353be26086318f1f2cdedb1987790ecb">MoveWorker</a>, and <a class="el" href="classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html#a353be26086318f1f2cdedb1987790ecb">VerifyWorker</a>.</p>
 
-<p class="definition">Definition at line <a class="el" href="worker_8py_source.html#l00095">95</a> of file <a class="el" href="worker_8py_source.html">worker.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="worker_8py_source.html#l00096">96</a> of file <a class="el" href="worker_8py_source.html">worker.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -291,7 +291,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="worker_8py_source.html#l00082">82</a> of file <a class="el" href="worker_8py_source.html">worker.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="worker_8py_source.html#l00083">83</a> of file <a class="el" href="worker_8py_source.html">worker.py</a>.</p>
 
 </div>
 </div>
@@ -307,7 +307,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="worker_8py_source.html#l00083">83</a> of file <a class="el" href="worker_8py_source.html">worker.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="worker_8py_source.html#l00084">84</a> of file <a class="el" href="worker_8py_source.html">worker.py</a>.</p>
 
 </div>
 </div>

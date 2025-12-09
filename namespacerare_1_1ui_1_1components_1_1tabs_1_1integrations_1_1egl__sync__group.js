@@ -1,0 +1,4 @@
+var namespacerare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group =
+[
+    [ "Ui_EGLSyncGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_ui___e_g_l_sync_group.html", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_ui___e_g_l_sync_group" ]
+];

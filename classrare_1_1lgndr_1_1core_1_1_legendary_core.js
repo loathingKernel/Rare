@@ -7,7 +7,7 @@ var classrare_1_1lgndr_1_1core_1_1_legendary_core =
     [ "egl_sync", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a989b9bc897ba25d6d660df7df57512d1", null ],
     [ "egstore_delete", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a6766c9a61b0c6c46a9a7431b910fd79f", null ],
     [ "egstore_write", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a945b62f837b48b68ec1ec24a8b3ec130", null ],
-    [ "prepare_download", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html#aec80e5a793f19fbb18ab30de386d9579", null ],
+    [ "prepare_download", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html#ad7e985707bb8a0595170a691052494fe", null ],
     [ "prepare_overlay_install", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a2119bc8f64f2a5ce4f5a9a62dc6ea30d", null ],
     [ "uninstall_game", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a7bcefe53e37ab1b196104e71b49ee97f", null ],
     [ "update_check_enabled", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a2ccc3dc8e6b69eb81e95e6a9b6ff69d2", null ],

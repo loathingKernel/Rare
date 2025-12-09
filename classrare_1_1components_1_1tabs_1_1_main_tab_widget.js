@@ -1,8 +1,16 @@
 var classrare_1_1components_1_1tabs_1_1_main_tab_widget =
 [
     [ "__init__", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#af4d19b653517deeaee9ce5d176daf73d", null ],
+    [ "eventFilter", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a0af47a907fa93778ca599be0925ba3a3", null ],
     [ "mouse_clicked", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a60e20012db9d0080309b0831320ce13c", null ],
     [ "resizeEvent", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a0815964d2d7e4debf9b3e7cff7840436", null ],
+    [ "show_egl_sync", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#aa557f7017fd3d741f70da369de681935", null ],
+    [ "show_eos", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a587d012d08ee7d3fbffbbcc90f979c7b", null ],
+    [ "show_import", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#afda815913f9185986c3c782371483248", null ],
+    [ "show_ubisoft", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a83b72461fa7ec1ed10f25305c33ad1ab", null ],
+    [ "account_index", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a3c56afc84971401831d358eb462c540e", null ],
+    [ "account_menu", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a6a667cfb740ab08089fb8a90c91a94d2", null ],
+    [ "account_tab", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a38a44541d3a94ed8903a04a21961923f", null ],
     [ "account_widget", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a00a0921c2b880ff52eb24ae9b26d9020", null ],
     [ "args", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#ab65a1cfe05166d06195718a9587d7b86", null ],
@@ -10,12 +18,14 @@ var classrare_1_1components_1_1tabs_1_1_main_tab_widget =
     [ "downloads_tab", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#ac2728c194fe2ab6e10e007426df25c6e", null ],
     [ "games_index", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a33eaf991e35941bf2a9104eec8a08318", null ],
     [ "games_tab", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a050007279d8c604233783bc78266a4bc", null ],
+    [ "integrations_index", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a5438ab1796a9b76342c1f4f06e609292", null ],
+    [ "integrations_tab", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a3d65b955250e5b9ee6ca1896d66eeb5e", null ],
+    [ "main_bar", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a51b6b121535ffd384ff98aa8b5c893ad", null ],
     [ "rcore", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a1d6ec79bbcf8bfd8b30c3e5be0b67f34", null ],
     [ "settings", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a6cddb5e40c21eadd2ded85bc51f79822", null ],
     [ "settings_index", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a166b333d2bf6463790e3f55ffd015e57", null ],
     [ "settings_tab", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a215fa69cb7f6667b7521fcecbfa8a128", null ],
     [ "signals", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a0de0a2c91773619dac1660c29940c55e", null ],
     [ "store_index", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a0c98ec575efd5bc1c0d8c9a36228f1de", null ],
-    [ "store_tab", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a36b0b5de1495afddd0443b21e23efd03", null ],
-    [ "tab_bar", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#ada6ee847b28f1f37bfa46856ee306722", null ]
+    [ "store_tab", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html#a36b0b5de1495afddd0443b21e23efd03", null ]
 ];

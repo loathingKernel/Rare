@@ -1,5 +1,6 @@
 var namespacerare_1_1shared_1_1workers =
 [
+    [ "cloud_sync", "namespacerare_1_1shared_1_1workers_1_1cloud__sync.html", "namespacerare_1_1shared_1_1workers_1_1cloud__sync" ],
     [ "fetch", "namespacerare_1_1shared_1_1workers_1_1fetch.html", "namespacerare_1_1shared_1_1workers_1_1fetch" ],
     [ "install", "namespacerare_1_1shared_1_1workers_1_1install.html", "namespacerare_1_1shared_1_1workers_1_1install" ],
     [ "move", "namespacerare_1_1shared_1_1workers_1_1move.html", "namespacerare_1_1shared_1_1workers_1_1move" ],

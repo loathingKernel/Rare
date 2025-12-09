@@ -13,6 +13,7 @@ var classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cl
     [ "core", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "info_label", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html#ad633d67fbb6ec00cdc19542664b8f254", null ],
     [ "loading_widget", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html#aa3d0065f1d3a8c82edd475ef1b20bf16", null ],
+    [ "logger", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ],
     [ "rcore", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html#a1d6ec79bbcf8bfd8b30c3e5be0b67f34", null ],
     [ "rgame", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html#a29f3c8f8d4ae84548a9e5b962851f8a0", null ],
     [ "save_path_spec", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html#a96f537a23695184a33c9ae09376b740b", null ],

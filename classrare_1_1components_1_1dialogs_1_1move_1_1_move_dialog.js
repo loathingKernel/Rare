@@ -9,8 +9,9 @@ var classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog =
     [ "set_size_labels", "classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#a20ce954e47306fad3afb7e182dc0c79c", null ],
     [ "showEvent", "classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#af997cabd23f14f71f7f87c986ccd582c", null ],
     [ "core", "classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#ab65a1cfe05166d06195718a9587d7b86", null ],
+    [ "full_path_info", "classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#a0c78683d58f5bda7129e6dfcb2b84358", null ],
     [ "rcore", "classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#a1d6ec79bbcf8bfd8b30c3e5be0b67f34", null ],
-    [ "target_dir_edit", "classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#aebcf7191e9528db475afff7ce9bb046c", null ],
+    [ "target_path_edit", "classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#ac943500477c6f2225426387cef58e91d", null ],
     [ "threadpool", "classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#ad7d6a26c2b0e3239367e07430b368118", null ],
     [ "ui", "classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#ac492f8de2d00b6c4282e766bfadaf2e7", null ]
 ];

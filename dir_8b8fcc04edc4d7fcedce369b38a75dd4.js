@@ -1,6 +1,11 @@
 var dir_8b8fcc04edc4d7fcedce369b38a75dd4 =
 [
     [ "__init__.py", "shared_2workers_2____init_____8py.html", null ],
+    [ "cloud_sync.py", "cloud__sync_8py.html", [
+      [ "CloudSyncWorkerSignals", "classrare_1_1shared_1_1workers_1_1cloud__sync_1_1_cloud_sync_worker_signals.html", null ],
+      [ "CloudSyncWorker", "classrare_1_1shared_1_1workers_1_1cloud__sync_1_1_cloud_sync_worker.html", "classrare_1_1shared_1_1workers_1_1cloud__sync_1_1_cloud_sync_worker" ],
+      [ "CloudSyncWorker.Mode", "classrare_1_1shared_1_1workers_1_1cloud__sync_1_1_cloud_sync_worker_1_1_mode.html", null ]
+    ] ],
     [ "fetch.py", "fetch_8py.html", [
       [ "FetchWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker" ],
       [ "FetchWorker.Result", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker_1_1_result.html", null ],
@@ -17,13 +22,13 @@ var dir_8b8fcc04edc4d7fcedce369b38a75dd4 =
       [ "MovePathEditReasons", "classrare_1_1shared_1_1workers_1_1move_1_1_move_path_edit_reasons.html", null ],
       [ "MoveInfoWorker", "classrare_1_1shared_1_1workers_1_1move_1_1_move_info_worker.html", "classrare_1_1shared_1_1workers_1_1move_1_1_move_info_worker" ],
       [ "MoveInfoWorker.Signals", "classrare_1_1shared_1_1workers_1_1move_1_1_move_info_worker_1_1_signals.html", null ],
-      [ "MoveWorker", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker" ],
-      [ "MoveWorker.Signals", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker_1_1_signals.html", null ]
+      [ "MoveWorkerSignals", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker_signals.html", null ],
+      [ "MoveWorker", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker" ]
     ] ],
     [ "uninstall.py", "shared_2workers_2uninstall_8py.html", "shared_2workers_2uninstall_8py" ],
     [ "verify.py", "verify_8py.html", [
-      [ "VerifyWorker", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker" ],
-      [ "VerifyWorker.Signals", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker_1_1_signals.html", null ]
+      [ "VerifyWorkerSignals", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker_signals.html", null ],
+      [ "VerifyWorker", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker" ]
     ] ],
     [ "wine_resolver.py", "wine__resolver_8py.html", [
       [ "WinePathResolver", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver.html", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver" ],

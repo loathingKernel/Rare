@@ -1,3 +1,9 @@
 <map id="update_settings_override" name="update_settings_override">
-<area shape="rect" id="node1" title=" " alt="" coords="5,29,172,56"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,228,172,255"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="569,223,833,265"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="237,86,504,127"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_hud_settings.html#a222dce25e94f7f1a271b79e8c5d46bf0" title=" " alt="" coords="225,175,516,217"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_config_settings.html#a222dce25e94f7f1a271b79e8c5d46bf0" title=" " alt="" coords="225,265,516,306"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_dxvk_nvapi_drs_settings.html#a222dce25e94f7f1a271b79e8c5d46bf0" title=" " alt="" coords="220,354,521,395"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_mango_hud_settings.html#a222dce25e94f7f1a271b79e8c5d46bf0" title=" " alt="" coords="225,443,516,485"/>
 </map>

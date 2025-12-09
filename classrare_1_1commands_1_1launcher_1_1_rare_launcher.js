@@ -10,7 +10,7 @@ var classrare_1_1commands_1_1launcher_1_1_rare_launcher =
     [ "socket_disconnected", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a1ca9560f14a070233a7d08e293d43c76", null ],
     [ "start", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#af1af6ddf04f00f958949618f79c33b82", null ],
     [ "start_prepare", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ac8b8dc7f48f8405350185a34a814e908", null ],
-    [ "stop", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a26ca7c1c7fcdd35378e7be97727047a6", null ],
+    [ "stop", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a4dfa5455935d7f774521e4b389d26e8c", null ],
     [ "sync_ready", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#abc80b9c0d00c9ee171bcdd5b318f9329", null ],
     [ "args", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
     [ "console", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a59b27486da7ae78f25305f338b4b2fce", null ],

@@ -34,5 +34,6 @@ var classrare_1_1shared_1_1rare__core_1_1_rare_core =
     [ "updates", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#af77d4830ac34baf7f5be854c57124be8", null ],
     [ "wrappers", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a361d22fed4b0c7db6ea4d03e1b0a51ec", null ],
     [ "logger", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ],
-    [ "queue_threadpool", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a8f62d6fdee30210122279401f2574160", null ]
+    [ "threadpool_disk", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a798f0a0fc046e84aa691940d32640d84", null ],
+    [ "threadpool_net", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a8fee7c5926009821801d071a0b0b6fe0", null ]
 ];

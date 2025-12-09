@@ -42,7 +42,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a13a51449b5ed361bfe860829df5a87f5" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a9e9e02d909fe1bf79a7bd0a50bdd5709" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="1.5,-56.5 1.5,-75.5 90.5,-75.5 90.5,-56.5 1.5,-56.5"/>
 <text text-anchor="middle" x="46" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">download_saves</text>
 </a>
@@ -57,7 +57,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#ac83e5975f7cf1121c6443bc715ee08af" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a423781e35c152928fc42bf98f73c6587" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="7.5,-0.5 7.5,-19.5 84.5,-19.5 84.5,-0.5 7.5,-0.5"/>
 <text text-anchor="middle" x="46" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">upload_saves</text>
 </a>

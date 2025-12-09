@@ -4,7 +4,9 @@ var dir_a32a140b9bdd7229f50f29795d216de6 =
       [ "GameDetailsTabs", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs" ],
       [ "GameMetadataView", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_metadata_view.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_metadata_view" ]
     ] ],
-    [ "cloud_saves.py", "cloud__saves_8py.html", "cloud__saves_8py" ],
+    [ "cloud_saves.py", "cloud__saves_8py.html", [
+      [ "CloudSaves", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves_1_1_cloud_saves" ]
+    ] ],
     [ "compat.py", "library_2details_2compat_8py.html", "library_2details_2compat_8py" ],
     [ "details.py", "components_2tabs_2library_2details_2details_8py.html", "components_2tabs_2library_2details_2details_8py" ],
     [ "dlcs.py", "components_2tabs_2library_2details_2dlcs_8py.html", [

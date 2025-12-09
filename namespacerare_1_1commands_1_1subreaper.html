@@ -96,6 +96,9 @@ Functions</h2></td></tr>
 <tr class="memitem:a75605507cc3c1c61e71326172aeb294a"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1commands_1_1subreaper.html#a75605507cc3c1c61e71326172aeb294a">get_libc</a> ()</td></tr>
 <tr class="memdesc:a75605507cc3c1c61e71326172aeb294a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Find libc.so from the user's system.  <a href="namespacerare_1_1commands_1_1subreaper.html#a75605507cc3c1c61e71326172aeb294a">More...</a><br /></td></tr>
 <tr class="separator:a75605507cc3c1c61e71326172aeb294a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd3679d007424d2ac488814dfeecc453"><td class="memItemLeft" align="right" valign="top">set[int]&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1commands_1_1subreaper.html#acd3679d007424d2ac488814dfeecc453">get_pstree_from_pid</a> (int root_pid)</td></tr>
+<tr class="memdesc:acd3679d007424d2ac488814dfeecc453"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get descendent PIDs of a PID.  <a href="namespacerare_1_1commands_1_1subreaper.html#acd3679d007424d2ac488814dfeecc453">More...</a><br /></td></tr>
+<tr class="separator:acd3679d007424d2ac488814dfeecc453"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4257db1d0966ff5dc4db2cd612db43a5"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacerare_1_1commands_1_1subreaper.html#a4257db1d0966ff5dc4db2cd612db43a5">subreaper</a> (Namespace <a class="el" href="namespacerare_1_1commands_1_1subreaper.html#a8187411843a6284ffb964ef3fb9fcab3">args</a>, List[str] other)</td></tr>
 <tr class="separator:a4257db1d0966ff5dc4db2cd612db43a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -130,7 +133,7 @@ Variables</h2></td></tr>
 
 <p>Find libc.so from the user's system. </p>
 
-<p class="definition">Definition at line <a class="el" href="subreaper_8py_source.html#l00018">18</a> of file <a class="el" href="subreaper_8py_source.html">subreaper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="subreaper_8py_source.html#l00020">20</a> of file <a class="el" href="subreaper_8py_source.html">subreaper.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -141,6 +144,40 @@ Here is the call graph for this function:</div>
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1subreaper_a75605507cc3c1c61e71326172aeb294a_icgraph.svg" width="359" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+
+</div>
+</div>
+<a id="acd3679d007424d2ac488814dfeecc453" name="acd3679d007424d2ac488814dfeecc453"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd3679d007424d2ac488814dfeecc453">&#9670;&nbsp;</a></span>get_pstree_from_pid()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"> set[int] rare.commands.subreaper.get_pstree_from_pid </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>root_pid</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Get descendent PIDs of a PID. </p>
+
+<p class="definition">Definition at line <a class="el" href="subreaper_8py_source.html#l00029">29</a> of file <a class="el" href="subreaper_8py_source.html">subreaper.py</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1subreaper_acd3679d007424d2ac488814dfeecc453_cgraph.svg" width="151" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1subreaper_acd3679d007424d2ac488814dfeecc453_icgraph.svg" width="432" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 
@@ -172,11 +209,11 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="subreaper_8py_source.html#l00023">23</a> of file <a class="el" href="subreaper_8py_source.html">subreaper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="subreaper_8py_source.html#l00056">56</a> of file <a class="el" href="subreaper_8py_source.html">subreaper.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1subreaper_a4257db1d0966ff5dc4db2cd612db43a5_cgraph.svg" width="204" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="namespacerare_1_1commands_1_1subreaper_a4257db1d0966ff5dc4db2cd612db43a5_cgraph.svg" width="278" height="136"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <div class="dynheader">
@@ -201,7 +238,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="subreaper_8py_source.html#l00082">82</a> of file <a class="el" href="subreaper_8py_source.html">subreaper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="subreaper_8py_source.html#l00124">124</a> of file <a class="el" href="subreaper_8py_source.html">subreaper.py</a>.</p>
 
 </div>
 </div>
@@ -217,7 +254,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="subreaper_8py_source.html#l00081">81</a> of file <a class="el" href="subreaper_8py_source.html">subreaper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="subreaper_8py_source.html#l00123">123</a> of file <a class="el" href="subreaper_8py_source.html">subreaper.py</a>.</p>
 
 </div>
 </div>
@@ -233,7 +270,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="subreaper_8py_source.html#l00015">15</a> of file <a class="el" href="subreaper_8py_source.html">subreaper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="subreaper_8py_source.html#l00017">17</a> of file <a class="el" href="subreaper_8py_source.html">subreaper.py</a>.</p>
 
 </div>
 </div>
@@ -249,7 +286,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="subreaper_8py_source.html#l00014">14</a> of file <a class="el" href="subreaper_8py_source.html">subreaper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="subreaper_8py_source.html#l00016">16</a> of file <a class="el" href="subreaper_8py_source.html">subreaper.py</a>.</p>
 
 </div>
 </div>
@@ -265,7 +302,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="subreaper_8py_source.html#l00080">80</a> of file <a class="el" href="subreaper_8py_source.html">subreaper.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="subreaper_8py_source.html#l00122">122</a> of file <a class="el" href="subreaper_8py_source.html">subreaper.py</a>.</p>
 
 </div>
 </div>

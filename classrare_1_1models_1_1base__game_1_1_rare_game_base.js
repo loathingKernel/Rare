@@ -24,6 +24,7 @@ var classrare_1_1models_1_1base__game_1_1_rare_game_base =
     [ "version", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a1e436b61f937ea687fa3897d286899cf", null ],
     [ "app_name", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a268d47c9d5c9719ad90299f627f87132", null ],
     [ "core", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#ab65a1cfe05166d06195718a9587d7b86", null ],
+    [ "logger", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a0b14e488ae28d98d262453f3e9cd6e4d", null ],
     [ "signals", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a0de0a2c91773619dac1660c29940c55e", null ],
     [ "state", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html#adc6e5733fc3c22f0a7b2914188c49c90", null ]
 ];

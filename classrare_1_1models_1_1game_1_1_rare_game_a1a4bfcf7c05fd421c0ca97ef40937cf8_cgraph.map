@@ -1,10 +1,10 @@
 <map id="needs_verification" name="needs_verification">
-<area shape="rect" id="node1" title="Sets the verification status of a game." alt="" coords="5,112,132,138"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="467,35,641,76"/>
+<area shape="rect" id="node1" title="Sets the verification status of a game." alt="" coords="5,111,132,138"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="463,35,636,76"/>
 <area shape="rect" id="node4" href="$classrare_1_1models_1_1base__game_1_1_rare_game_base.html#aef0a849df11b29e665072d941527d7a5" title="Property to report if Game is a dlc." alt="" coords="180,63,369,104"/>
-<area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a75a2e37cdbb1feeb806eb179a21fa568" title="Property to report if a games requires to be verified." alt="" coords="211,153,338,180"/>
-<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a7bc00fcfc3d4a34476d191b522f5bcec" title=" " alt="" coords="228,228,321,254"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a5d3220537164bdcd6c040b54ef85f656" title=" " alt="" coords="739,35,919,76"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="417,179,691,220"/>
-<area shape="rect" id="node8" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ae8eea7f05df591bbd18ba200690027f8" title=" " alt="" coords="503,269,605,296"/>
+<area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a75a2e37cdbb1feeb806eb179a21fa568" title="Property to report if a games requires to be verified." alt="" coords="211,153,338,179"/>
+<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a7bc00fcfc3d4a34476d191b522f5bcec" title=" " alt="" coords="228,227,321,254"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a5d3220537164bdcd6c040b54ef85f656" title=" " alt="" coords="729,35,909,76"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="417,179,681,220"/>
+<area shape="rect" id="node8" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ae8eea7f05df591bbd18ba200690027f8" title=" " alt="" coords="498,269,601,295"/>
 </map>

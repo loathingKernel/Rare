@@ -217,9 +217,9 @@ var sectionId = 'dynsection-5';
 <!-- Node11 -->
 <g id="node11" class="node">
 <title>Node11</title>
-<g id="a_node11"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_group.html#adbc7f074f0f3883940bce7d68a9b9f7f" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="6.5,-268.5 6.5,-298.5 211.5,-298.5 211.5,-268.5 6.5,-268.5"/>
-<text text-anchor="start" x="14.5" y="-286.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.integrations.egl</text>
+<g id="a_node11"><a xlink:href="classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_group.html#adbc7f074f0f3883940bce7d68a9b9f7f" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="7,-268.5 7,-298.5 211,-298.5 211,-268.5 7,-268.5"/>
+<text text-anchor="start" x="15" y="-286.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.integrations.egl</text>
 <text text-anchor="middle" x="109" y="-275.5" font-family="Helvetica,sans-Serif" font-size="10.00">_sync_group.EGLSyncExportGroup.__init__</text>
 </a>
 </g>
@@ -233,9 +233,9 @@ var sectionId = 'dynsection-5';
 <!-- Node12 -->
 <g id="node12" class="node">
 <title>Node12</title>
-<g id="a_node12"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_group.html#adbc7f074f0f3883940bce7d68a9b9f7f" target="_top" xlink:title=" ">
+<g id="a_node12"><a xlink:href="classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_group.html#adbc7f074f0f3883940bce7d68a9b9f7f" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="6.5,-201.5 6.5,-231.5 211.5,-231.5 211.5,-201.5 6.5,-201.5"/>
-<text text-anchor="start" x="14.5" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.integrations.egl</text>
+<text text-anchor="start" x="14.5" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.integrations.egl</text>
 <text text-anchor="middle" x="109" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">_sync_group.EGLSyncImportGroup.__init__</text>
 </a>
 </g>

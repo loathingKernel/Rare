@@ -1,6 +1,7 @@
 <map id="showEvent" name="showEvent">
-<area shape="rect" id="node1" title=" " alt="" coords="5,119,92,146"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="140,29,413,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a8f071ff85566d0c67acc43428955dae1" title=" " alt="" coords="220,119,333,146"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="461,137,728,179"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,92,156"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a9123e445e36538192ad6245feb9f61f1" title=" " alt="" coords="192,5,352,32"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="140,81,404,122"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a8f071ff85566d0c67acc43428955dae1" title=" " alt="" coords="215,171,329,197"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="452,189,719,230"/>
 </map>

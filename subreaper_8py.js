@@ -1,6 +1,7 @@
 var subreaper_8py =
 [
     [ "get_libc", "subreaper_8py.html#a75605507cc3c1c61e71326172aeb294a", null ],
+    [ "get_pstree_from_pid", "subreaper_8py.html#acd3679d007424d2ac488814dfeecc453", null ],
     [ "subreaper", "subreaper_8py.html#a4257db1d0966ff5dc4db2cd612db43a5", null ],
     [ "args", "subreaper_8py.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
     [ "argv", "subreaper_8py.html#a1fa302baef54f3e7f08e6831fcf3e191", null ],

@@ -100,18 +100,18 @@
 <path fill="none" stroke="midnightblue" d="M36.89,-140.36C47.11,-130.1 64.42,-113.87 81.67,-103 96.48,-93.66 114.06,-85.6 129.42,-79.41"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="131.09,-82.52 139.13,-75.62 128.54,-76 131.09,-82.52"/>
 </g>
-<!-- Node18 -->
-<g id="node18" class="node">
-<title>Node18</title>
-<g id="a_node18"><a xlink:href="namespacerare_1_1commands_1_1webview.html#aa26e04dfc29fe5485a86e51138dddddb" target="_top" xlink:title=" ">
+<!-- Node19 -->
+<g id="node19" class="node">
+<title>Node19</title>
+<g id="a_node19"><a xlink:href="namespacerare_1_1commands_1_1webview.html#aa26e04dfc29fe5485a86e51138dddddb" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="86.17,-0.5 86.17,-19.5 250.17,-19.5 250.17,-0.5 86.17,-0.5"/>
 <text text-anchor="middle" x="168.17" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.webview.webview</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node18 -->
-<g id="edge34" class="edge">
-<title>Node1&#45;&gt;Node18</title>
+<!-- Node1&#45;&gt;Node19 -->
+<g id="edge36" class="edge">
+<title>Node1&#45;&gt;Node19</title>
 <path fill="none" stroke="midnightblue" d="M30.3,-140.42C36.25,-120.47 52.51,-74.06 81.67,-47 92.84,-36.63 107.37,-28.88 121.28,-23.23"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="122.64,-26.45 130.76,-19.64 120.17,-19.91 122.64,-26.45"/>
 </g>
@@ -197,8 +197,8 @@
 <!-- Node2&#45;&gt;Node12 -->
 <g id="edge21" class="edge">
 <title>Node2&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M222.99,-287.28C234.29,-283.61 245.53,-278.4 254.67,-271 280.93,-249.72 266,-227.12 290.67,-204 301.47,-193.88 315.52,-186.15 328.88,-180.44"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="330.44,-183.59 338.43,-176.64 327.85,-177.09 330.44,-183.59"/>
+<path fill="none" stroke="midnightblue" d="M222.96,-287.24C234.26,-283.57 245.51,-278.37 254.67,-271 280.69,-250.04 266.33,-227.9 290.67,-205 301.97,-194.36 316.79,-186.24 330.66,-180.29"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="332.09,-183.49 340.06,-176.51 329.48,-176.99 332.09,-183.49"/>
 </g>
 <!-- Node3&#45;&gt;Node3 -->
 <g id="edge8" class="edge">
@@ -355,7 +355,7 @@
 <polygon fill="midnightblue" stroke="midnightblue" points="197.24,-139.25 189.74,-131.76 190.93,-142.29 197.24,-139.25"/>
 </g>
 <!-- Node16&#45;&gt;Node16 -->
-<g id="edge33" class="edge">
+<g id="edge35" class="edge">
 <title>Node16&#45;&gt;Node16</title>
 <path fill="none" stroke="midnightblue" d="M146.59,-75.76C136.09,-84.57 143.28,-94 168.17,-94 184.11,-94 192.79,-90.13 194.21,-85.03"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="197.24,-83.25 189.74,-75.76 190.93,-86.29 197.24,-83.25"/>
@@ -364,26 +364,48 @@
 <g id="node17" class="node">
 <title>Node17</title>
 <g id="a_node17"><a xlink:href="namespacerare_1_1commands_1_1subreaper.html#a75605507cc3c1c61e71326172aeb294a" target="_top" xlink:title="Find libc.so from the user&#39;s system.">
-<polygon fill="white" stroke="black" points="290.67,-56.5 290.67,-75.5 454.67,-75.5 454.67,-56.5 290.67,-56.5"/>
-<text text-anchor="middle" x="372.67" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.subreaper.get_libc</text>
+<polygon fill="white" stroke="black" points="290.67,-79.5 290.67,-98.5 454.67,-98.5 454.67,-79.5 290.67,-79.5"/>
+<text text-anchor="middle" x="372.67" y="-86.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.subreaper.get_libc</text>
 </a>
 </g>
 </g>
 <!-- Node16&#45;&gt;Node17 -->
 <g id="edge31" class="edge">
 <title>Node16&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M254.75,-66C263.28,-66 271.97,-66 280.56,-66"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="280.58,-69.5 290.58,-66 280.58,-62.5 280.58,-69.5"/>
+<path fill="none" stroke="midnightblue" d="M252.99,-75.52C262,-76.54 271.21,-77.59 280.3,-78.62"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="280.18,-82.13 290.51,-79.78 280.97,-75.18 280.18,-82.13"/>
+</g>
+<!-- Node18 -->
+<g id="node18" class="node">
+<title>Node18</title>
+<g id="a_node18"><a xlink:href="namespacerare_1_1commands_1_1subreaper.html#acd3679d007424d2ac488814dfeecc453" target="_top" xlink:title="Get descendent PIDs of a PID.">
+<polygon fill="white" stroke="black" points="300.67,-12 300.67,-42 444.67,-42 444.67,-12 300.67,-12"/>
+<text text-anchor="start" x="308.67" y="-30" font-family="Helvetica,sans-Serif" font-size="10.00">rare.commands.subreaper.get</text>
+<text text-anchor="middle" x="372.67" y="-19" font-family="Helvetica,sans-Serif" font-size="10.00">_pstree_from_pid</text>
+</a>
+</g>
+</g>
+<!-- Node16&#45;&gt;Node18 -->
+<g id="edge33" class="edge">
+<title>Node16&#45;&gt;Node18</title>
+<path fill="none" stroke="midnightblue" d="M218.7,-56.46C240.31,-52.3 266.22,-47.31 290.52,-42.63"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="291.3,-46.04 300.46,-40.71 289.98,-39.17 291.3,-46.04"/>
 </g>
 <!-- Node17&#45;&gt;Node17 -->
 <g id="edge32" class="edge">
 <title>Node17&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M343.07,-75.76C328.68,-84.57 338.54,-94 372.67,-94 396.66,-94 408.66,-89.34 408.67,-83.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="411.33,-81.23 402.26,-75.76 405.93,-85.69 411.33,-81.23"/>
+<path fill="none" stroke="midnightblue" d="M343.07,-98.76C328.68,-107.57 338.54,-117 372.67,-117 396.66,-117 408.66,-112.34 408.67,-106.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="411.33,-104.23 402.26,-98.76 405.93,-108.69 411.33,-104.23"/>
 </g>
 <!-- Node18&#45;&gt;Node18 -->
-<g id="edge35" class="edge">
+<g id="edge34" class="edge">
 <title>Node18&#45;&gt;Node18</title>
+<path fill="none" stroke="midnightblue" d="M339.21,-42.16C331.14,-51.56 342.29,-60.5 372.67,-60.5 391.18,-60.5 402.55,-57.18 406.78,-52.46"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="410.25,-51.92 406.13,-42.16 403.27,-52.36 410.25,-51.92"/>
+</g>
+<!-- Node19&#45;&gt;Node19 -->
+<g id="edge37" class="edge">
+<title>Node19&#45;&gt;Node19</title>
 <path fill="none" stroke="midnightblue" d="M146.59,-19.76C136.09,-28.57 143.28,-38 168.17,-38 184.11,-38 192.79,-34.13 194.21,-29.03"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="197.24,-27.25 189.74,-19.76 190.93,-30.29 197.24,-27.25"/>
 </g>

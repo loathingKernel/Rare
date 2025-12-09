@@ -32,16 +32,16 @@
 <text text-anchor="middle" x="70" y="-271.5" font-family="Helvetica,sans-Serif" font-size="10.00">OverlaySettings</text>
 <polyline fill="none" stroke="black" points="0,-264.5 140,-264.5 "/>
 <text text-anchor="start" x="8" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
-<text text-anchor="start" x="8" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ envvar</text>
-<text text-anchor="start" x="8" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ force_disabled</text>
-<text text-anchor="start" x="8" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ force_defaults</text>
-<text text-anchor="start" x="8" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ separator</text>
-<text text-anchor="start" x="8" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ environ_changed</text>
-<polyline fill="none" stroke="black" points="0,-190.5 140,-190.5 "/>
-<text text-anchor="start" x="8" y="-178.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="8" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setupWidget()</text>
-<text text-anchor="start" x="8" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_settings_override()</text>
-<text text-anchor="start" x="8" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_settings()</text>
+<text text-anchor="start" x="8" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ control_key</text>
+<text text-anchor="start" x="8" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ config_key</text>
+<text text-anchor="start" x="8" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ force_disabled</text>
+<text text-anchor="start" x="8" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ force_defaults</text>
+<text text-anchor="start" x="8" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ separator</text>
+<text text-anchor="start" x="8" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ environ_changed</text>
+<polyline fill="none" stroke="black" points="0,-179.5 140,-179.5 "/>
+<text text-anchor="start" x="8" y="-167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="8" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setupWidget()</text>
+<text text-anchor="start" x="8" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ update_settings_override()</text>
 <text text-anchor="start" x="8" y="-134.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setCurrentState()</text>
 <text text-anchor="start" x="8" y="-123.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ showEvent()</text>
 </a>

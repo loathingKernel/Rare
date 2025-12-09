@@ -5,7 +5,7 @@
 <area shape="rect" id="node14" href="$namespacerare_1_1utils_1_1paths.html#a40ba74ba4e0cbcc72c8500d38c04b461" title=" " alt="" coords="152,440,308,467"/>
 <area shape="rect" id="node15" href="$namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" title=" " alt="" coords="156,515,303,541"/>
 <area shape="rect" id="node16" href="$namespacerare_1_1commands_1_1subreaper.html#a4257db1d0966ff5dc4db2cd612db43a5" title=" " alt="" coords="114,589,345,616"/>
-<area shape="rect" id="node18" href="$namespacerare_1_1commands_1_1webview.html#aa26e04dfc29fe5485a86e51138dddddb" title=" " alt="" coords="120,664,339,691"/>
+<area shape="rect" id="node19" href="$namespacerare_1_1commands_1_1webview.html#aa26e04dfc29fe5485a86e51138dddddb" title=" " alt="" coords="120,664,339,691"/>
 <area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1paths.html#af4d56a3b4065900877c517e24bddc366" title=" " alt="" coords="425,97,580,138"/>
 <area shape="rect" id="node9" href="$namespacerare_1_1utils_1_1paths.html#ac2e6ac6baa5376d3ea5aa8b63e2af2bd" title="Creates the path of a shortcut link." alt="" coords="425,186,580,227"/>
 <area shape="rect" id="node10" href="$namespacerare_1_1utils_1_1paths.html#a328faa5a142700be21313b72953aab76" title=" " alt="" coords="425,275,580,317"/>
@@ -16,5 +16,6 @@
 <area shape="rect" id="node6" href="$namespacerare_1_1utils_1_1paths.html#a26cca1020569c6b5f07f09723c3607b9" title=" " alt="" coords="687,179,831,221"/>
 <area shape="rect" id="node7" href="$namespacerare_1_1utils_1_1paths.html#ada300860b11ac604daaa4afc32f76fb7" title=" " alt="" coords="906,187,1072,213"/>
 <area shape="rect" id="node8" href="$namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b" title=" " alt="" coords="1120,187,1274,213"/>
-<area shape="rect" id="node17" href="$namespacerare_1_1commands_1_1subreaper.html#a75605507cc3c1c61e71326172aeb294a" title="Find libc.so from the user&#39;s system." alt="" coords="393,589,612,616"/>
+<area shape="rect" id="node17" href="$namespacerare_1_1commands_1_1subreaper.html#a75605507cc3c1c61e71326172aeb294a" title="Find libc.so from the user&#39;s system." alt="" coords="393,559,612,585"/>
+<area shape="rect" id="node18" href="$namespacerare_1_1commands_1_1subreaper.html#acd3679d007424d2ac488814dfeecc453" title="Get descendent PIDs of a PID." alt="" coords="406,634,598,675"/>
 </map>

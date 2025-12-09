@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['egl_5fsync_5fgroup_2epy_0',['egl_sync_group.py',['../components_2tabs_2library_2integrations_2egl__sync__group_8py.html',1,'(Global Namespace)'],['../ui_2components_2tabs_2library_2integrations_2egl__sync__group_8py.html',1,'(Global Namespace)']]],
+  ['egl_5fsync_5fgroup_2epy_0',['egl_sync_group.py',['../components_2tabs_2integrations_2egl__sync__group_8py.html',1,'(Global Namespace)'],['../ui_2components_2tabs_2integrations_2egl__sync__group_8py.html',1,'(Global Namespace)']]],
   ['egl_5fsync_5flist_5fgroup_2epy_1',['egl_sync_list_group.py',['../egl__sync__list__group_8py.html',1,'']]],
   ['elide_5flabel_2epy_2',['elide_label.py',['../elide__label_8py.html',1,'']]],
   ['enumerations_2epy_3',['enumerations.py',['../enumerations_8py.html',1,'']]],

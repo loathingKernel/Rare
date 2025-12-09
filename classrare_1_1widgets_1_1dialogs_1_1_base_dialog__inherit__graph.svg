@@ -435,31 +435,32 @@ var sectionId = 'dynsection-0';
 <g id="node14" class="node">
 <title>Node14</title>
 <g id="a_node14"><a xlink:href="classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="719.5,-61 719.5,-250 819.5,-250 819.5,-61 719.5,-61"/>
-<text text-anchor="middle" x="769.5" y="-238" font-family="Helvetica,sans-Serif" font-size="10.00">MoveDialog</text>
-<polyline fill="none" stroke="black" points="719.5,-231 819.5,-231 "/>
-<text text-anchor="start" x="727.5" y="-219" font-family="Helvetica,sans-Serif" font-size="10.00">+ threadpool</text>
-<text text-anchor="start" x="727.5" y="-208" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
-<text text-anchor="start" x="727.5" y="-197" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
-<text text-anchor="start" x="727.5" y="-186" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="727.5" y="-175" font-family="Helvetica,sans-Serif" font-size="10.00">+ target_dir_edit</text>
-<text text-anchor="start" x="727.5" y="-164" font-family="Helvetica,sans-Serif" font-size="10.00">+ result_ready</text>
-<polyline fill="none" stroke="black" points="719.5,-157 819.5,-157 "/>
-<text text-anchor="start" x="727.5" y="-145" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="727.5" y="-134" font-family="Helvetica,sans-Serif" font-size="10.00">+ showEvent()</text>
-<text text-anchor="start" x="727.5" y="-123" font-family="Helvetica,sans-Serif" font-size="10.00">+ action_handler()</text>
-<text text-anchor="start" x="727.5" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">+ done_handler()</text>
-<text text-anchor="start" x="727.5" y="-101" font-family="Helvetica,sans-Serif" font-size="10.00">+ accept_handler()</text>
-<text text-anchor="start" x="727.5" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">+ reject_handler()</text>
-<text text-anchor="start" x="727.5" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">+ set_size_labels()</text>
-<text text-anchor="start" x="727.5" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">+ set_error_labels()</text>
+<polygon fill="white" stroke="black" points="719.5,-55.5 719.5,-255.5 819.5,-255.5 819.5,-55.5 719.5,-55.5"/>
+<text text-anchor="middle" x="769.5" y="-243.5" font-family="Helvetica,sans-Serif" font-size="10.00">MoveDialog</text>
+<polyline fill="none" stroke="black" points="719.5,-236.5 819.5,-236.5 "/>
+<text text-anchor="start" x="727.5" y="-224.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ threadpool</text>
+<text text-anchor="start" x="727.5" y="-213.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
+<text text-anchor="start" x="727.5" y="-202.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
+<text text-anchor="start" x="727.5" y="-191.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="727.5" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ target_path_edit</text>
+<text text-anchor="start" x="727.5" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ full_path_info</text>
+<text text-anchor="start" x="727.5" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ result_ready</text>
+<polyline fill="none" stroke="black" points="719.5,-151.5 819.5,-151.5 "/>
+<text text-anchor="start" x="727.5" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="727.5" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ showEvent()</text>
+<text text-anchor="start" x="727.5" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ action_handler()</text>
+<text text-anchor="start" x="727.5" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ done_handler()</text>
+<text text-anchor="start" x="727.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ accept_handler()</text>
+<text text-anchor="start" x="727.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ reject_handler()</text>
+<text text-anchor="start" x="727.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ set_size_labels()</text>
+<text text-anchor="start" x="727.5" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ set_error_labels()</text>
 </a>
 </g>
 </g>
 <!-- Node12&#45;&gt;Node14 -->
 <g id="edge13" class="edge">
 <title>Node12&#45;&gt;Node14</title>
-<path fill="none" stroke="midnightblue" d="M692.04,-344.22C698.6,-333.31 704.98,-322 710.5,-311 720.16,-291.75 729.22,-270.52 737.21,-250.12"/>
+<path fill="none" stroke="midnightblue" d="M692.04,-344.22C698.6,-333.31 704.98,-322 710.5,-311 719.25,-293.55 727.52,-274.47 734.94,-255.85"/>
 <polygon fill="none" stroke="midnightblue" points="688.98,-342.52 686.74,-352.88 694.95,-346.17 688.98,-342.52"/>
 </g>
 </g>

@@ -31,7 +31,7 @@ var searchData=
   ['download_5fimage_28',['download_image',['../classrare_1_1shared_1_1image__manager_1_1_image_manager.html#ab91d1fca6c584c2d10f5eb2ea220c5c9',1,'rare::shared::image_manager::ImageManager']]],
   ['download_5fimage_5fblocking_29',['download_image_blocking',['../classrare_1_1shared_1_1image__manager_1_1_image_manager.html#a90df3f75b8a82c160062abc10996be7e',1,'rare::shared::image_manager::ImageManager']]],
   ['download_5fimage_5flaunch_30',['download_image_launch',['../classrare_1_1shared_1_1image__manager_1_1_image_manager.html#afdc334679fb933b81874369a87017d12',1,'rare::shared::image_manager::ImageManager']]],
-  ['download_5fsaves_31',['download_saves',['../classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a13a51449b5ed361bfe860829df5a87f5',1,'rare::models::base_game::RareGameSlim']]],
+  ['download_5fsaves_31',['download_saves',['../classrare_1_1models_1_1base__game_1_1_rare_game_slim.html#a9e9e02d909fe1bf79a7bd0a50bdd5709',1,'rare::models::base_game::RareGameSlim']]],
   ['download_5fsteam_5fappids_32',['download_steam_appids',['../namespacerare_1_1utils_1_1steam__grades.html#a63725fdba18246c4f3e29626b109f94d',1,'rare::utils::steam_grades']]],
   ['dragenterevent_33',['dragEnterEvent',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_container.html#a358805c057186fb4844c4812bb477091',1,'rare::components::tabs::settings::widgets::wrappers::WrapperContainer']]],
   ['dragmoveevent_34',['dragMoveEvent',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_container.html#aeeeb35fae7255f3bc84c878dbe33630e',1,'rare::components::tabs::settings::widgets::wrappers::WrapperContainer']]],

@@ -1,6 +1,5 @@
 var classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker =
 [
-    [ "Signals", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker_1_1_signals.html", null ],
     [ "__init__", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html#a371346623c6b90e8be88bcb32c4660bc", null ],
     [ "run_real", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html#a8ab35d074c65f417a6a0bf36e97bc7a8", null ],
     [ "worker_info", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html#a353be26086318f1f2cdedb1987790ecb", null ],

@@ -1,4 +1,0 @@
-var namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group =
-[
-    [ "Ui_ImportGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_ui___import_group.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_ui___import_group" ]
-];

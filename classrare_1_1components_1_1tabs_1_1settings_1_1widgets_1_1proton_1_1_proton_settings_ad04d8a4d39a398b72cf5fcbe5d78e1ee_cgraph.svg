@@ -27,9 +27,9 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="135,-67.5 135,-97.5 340,-97.5 340,-67.5 135,-67.5"/>
-<text text-anchor="start" x="143" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.integrations.egl</text>
+<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="138.5,-67.5 138.5,-97.5 336.5,-97.5 336.5,-67.5 138.5,-67.5"/>
+<text text-anchor="start" x="146.5" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.integrations.egl</text>
 <text text-anchor="middle" x="237.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">_sync_group.EGLSyncListItem.app_name</text>
 </a>
 </g>

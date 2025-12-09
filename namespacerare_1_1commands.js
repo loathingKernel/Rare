@@ -3,6 +3,7 @@ var namespacerare_1_1commands =
     [ "launcher", "namespacerare_1_1commands_1_1launcher.html", "namespacerare_1_1commands_1_1launcher" ],
     [ "subreaper", "namespacerare_1_1commands_1_1subreaper.html", [
       [ "get_libc", "namespacerare_1_1commands_1_1subreaper.html#a75605507cc3c1c61e71326172aeb294a", null ],
+      [ "get_pstree_from_pid", "namespacerare_1_1commands_1_1subreaper.html#acd3679d007424d2ac488814dfeecc453", null ],
       [ "subreaper", "namespacerare_1_1commands_1_1subreaper.html#a4257db1d0966ff5dc4db2cd612db43a5", null ],
       [ "args", "namespacerare_1_1commands_1_1subreaper.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
       [ "argv", "namespacerare_1_1commands_1_1subreaper.html#a1fa302baef54f3e7f08e6831fcf3e191", null ],

@@ -1,15 +1,15 @@
 <map id="reject_handler" name="reject_handler">
-<area shape="rect" id="node1" title=" " alt="" coords="5,333,108,359"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,342,108,369"/>
 <area shape="rect" id="node2" href="$classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html#ad950eaba540d97f5e898e4af9c61ca74" title=" " alt="" coords="187,29,363,71"/>
 <area shape="rect" id="node3" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#a8639372c33e15084a7f7c4d9d87b7bfe" title=" " alt="" coords="187,119,364,160"/>
 <area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1misc.html#a3544b31f50ff739b7e8bb4ab751026b7" title=" " alt="" coords="189,209,361,235"/>
-<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#ab5cb6ac1450dcc74ff2e38691e0bdbd9" title=" " alt="" coords="156,284,395,325"/>
-<area shape="rect" id="node7" href="$classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#ab5cb6ac1450dcc74ff2e38691e0bdbd9" title=" " alt="" coords="218,374,333,401"/>
-<area shape="rect" id="node8" href="$classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#aee793814073e1655a8bc6d62815192bb" title=" " alt="" coords="156,449,395,491"/>
-<area shape="rect" id="node11" href="$classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#a20ce954e47306fad3afb7e182dc0c79c" title=" " alt="" coords="220,539,331,566"/>
-<area shape="rect" id="node12" href="$classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html#af158ac9042a7aeb74a4f085f0f9c8552" title=" " alt="" coords="187,615,363,656"/>
-<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="443,376,709,417"/>
-<area shape="rect" id="node9" href="$classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#a2a555f68dbcbc2701724e236a87fde1c" title=" " alt="" coords="457,456,695,497"/>
-<area shape="rect" id="node10" href="$classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#a2a555f68dbcbc2701724e236a87fde1c" title=" " alt="" coords="517,534,635,561"/>
-<area shape="rect" id="node13" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#acfe7313b68b17f07cefdc9aa5d2dfe6b" title=" " alt="" coords="487,615,665,656"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#ab5cb6ac1450dcc74ff2e38691e0bdbd9" title=" " alt="" coords="156,335,395,376"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="443,417,709,459"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#ab5cb6ac1450dcc74ff2e38691e0bdbd9" title=" " alt="" coords="218,425,333,451"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#aee793814073e1655a8bc6d62815192bb" title=" " alt="" coords="156,575,395,616"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#a20ce954e47306fad3afb7e182dc0c79c" title=" " alt="" coords="220,499,331,526"/>
+<area shape="rect" id="node12" href="$classrare_1_1widgets_1_1dialogs_1_1_action_dialog.html#af158ac9042a7aeb74a4f085f0f9c8552" title=" " alt="" coords="187,664,363,705"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#a2a555f68dbcbc2701724e236a87fde1c" title=" " alt="" coords="457,504,695,545"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#a2a555f68dbcbc2701724e236a87fde1c" title=" " alt="" coords="517,577,635,603"/>
+<area shape="rect" id="node13" href="$classrare_1_1widgets_1_1dialogs_1_1_button_dialog.html#acfe7313b68b17f07cefdc9aa5d2dfe6b" title=" " alt="" coords="487,664,665,705"/>
 </map>

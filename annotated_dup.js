@@ -100,6 +100,37 @@ var annotated_dup =
             ] ],
             [ "DownloadsTab", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab.html", "classrare_1_1components_1_1tabs_1_1downloads_1_1_downloads_tab" ]
           ] ],
+          [ "integrations", "namespacerare_1_1components_1_1tabs_1_1integrations.html", [
+            [ "egl_sync_group", "namespacerare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group.html", [
+              [ "EGLSyncExportGroup", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_group.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_group" ],
+              [ "EGLSyncExportItem", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_item.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_item" ],
+              [ "EGLSyncGroup", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_group.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_group" ],
+              [ "EGLSyncImportGroup", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_group.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_group" ],
+              [ "EGLSyncImportItem", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_item.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_item" ],
+              [ "EGLSyncListGroup", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group" ],
+              [ "EGLSyncListItem", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item" ],
+              [ "EGLSyncWorker", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker" ]
+            ] ],
+            [ "eos_group", "namespacerare_1_1components_1_1tabs_1_1integrations_1_1eos__group.html", [
+              [ "CheckForUpdateWorker", "classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_check_for_update_worker.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_check_for_update_worker" ],
+              [ "EosGroup", "classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_eos_group.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_eos_group" ],
+              [ "EosPrefixWidget", "classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_eos_prefix_widget" ]
+            ] ],
+            [ "import_group", "namespacerare_1_1components_1_1tabs_1_1integrations_1_1import__group.html", [
+              [ "ImportedGame", "classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_imported_game.html", null ],
+              [ "ImportGroup", "classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_group.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_group" ],
+              [ "ImportResult", "classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_result.html", null ],
+              [ "ImportWorker", "classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_worker.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_worker" ]
+            ] ],
+            [ "ubisoft_group", "namespacerare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group.html", [
+              [ "UbiConnectWorker", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker" ],
+              [ "UbiGetInfoWorker", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker" ],
+              [ "UbiLinkWidget", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget" ],
+              [ "UbisoftGroup", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group" ]
+            ] ],
+            [ "IntegrationsTab", "classrare_1_1components_1_1tabs_1_1integrations_1_1_integrations_tab.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1_integrations_tab" ],
+            [ "IntegrationsWidget", "classrare_1_1components_1_1tabs_1_1integrations_1_1_integrations_widget.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1_integrations_widget" ]
+          ] ],
           [ "library", "namespacerare_1_1components_1_1tabs_1_1library.html", [
             [ "details", "namespacerare_1_1components_1_1tabs_1_1library_1_1details.html", [
               [ "cloud_saves", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__saves.html", [
@@ -138,37 +169,6 @@ var annotated_dup =
             [ "head_bar", "namespacerare_1_1components_1_1tabs_1_1library_1_1head__bar.html", [
               [ "LibraryHeadBar", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar.html", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_library_head_bar" ],
               [ "SelectViewWidget", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_select_view_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1head__bar_1_1_select_view_widget" ]
-            ] ],
-            [ "integrations", "namespacerare_1_1components_1_1tabs_1_1library_1_1integrations.html", [
-              [ "egl_sync_group", "namespacerare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group.html", [
-                [ "EGLSyncExportGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_group.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_group" ],
-                [ "EGLSyncExportItem", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_item.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_export_item" ],
-                [ "EGLSyncGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_group.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_group" ],
-                [ "EGLSyncImportGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_group.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_group" ],
-                [ "EGLSyncImportItem", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_item.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_import_item" ],
-                [ "EGLSyncListGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_group" ],
-                [ "EGLSyncListItem", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item" ],
-                [ "EGLSyncWorker", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_worker" ]
-              ] ],
-              [ "eos_group", "namespacerare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group.html", [
-                [ "CheckForUpdateWorker", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_check_for_update_worker.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_check_for_update_worker" ],
-                [ "EosGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_group" ],
-                [ "EosPrefixWidget", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__group_1_1_eos_prefix_widget" ]
-              ] ],
-              [ "import_group", "namespacerare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group.html", [
-                [ "ImportedGame", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_imported_game.html", null ],
-                [ "ImportGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_group" ],
-                [ "ImportResult", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_result.html", null ],
-                [ "ImportWorker", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_worker.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_import_worker" ]
-              ] ],
-              [ "ubisoft_group", "namespacerare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group.html", [
-                [ "UbiConnectWorker", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker" ],
-                [ "UbiGetInfoWorker", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker" ],
-                [ "UbiLinkWidget", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget" ],
-                [ "UbisoftGroup", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group" ]
-              ] ],
-              [ "IntegrationsTabs", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1_integrations_tabs.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1_integrations_tabs" ],
-              [ "IntegrationsWidget", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1_integrations_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1integrations_1_1_integrations_widget" ]
             ] ],
             [ "widgets", "namespacerare_1_1components_1_1tabs_1_1library_1_1widgets.html", [
               [ "game_widget", "namespacerare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget.html", [
@@ -360,8 +360,7 @@ var annotated_dup =
             [ "StoreTab", "classrare_1_1components_1_1tabs_1_1store_1_1_store_tab.html", "classrare_1_1components_1_1tabs_1_1store_1_1_store_tab" ]
           ] ],
           [ "tab_widgets", "namespacerare_1_1components_1_1tabs_1_1tab__widgets.html", [
-            [ "MainTabBar", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_main_tab_bar.html", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_main_tab_bar" ],
-            [ "TabButtonWidget", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_tab_button_widget.html", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_tab_button_widget" ]
+            [ "MainTabBar", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_main_tab_bar.html", "classrare_1_1components_1_1tabs_1_1tab__widgets_1_1_main_tab_bar" ]
           ] ],
           [ "MainTabWidget", "classrare_1_1components_1_1tabs_1_1_main_tab_widget.html", "classrare_1_1components_1_1tabs_1_1_main_tab_widget" ]
         ] ],
@@ -490,6 +489,10 @@ var annotated_dup =
           [ "RareCore", "classrare_1_1shared_1_1rare__core_1_1_rare_core.html", "classrare_1_1shared_1_1rare__core_1_1_rare_core" ]
         ] ],
         [ "workers", "namespacerare_1_1shared_1_1workers.html", [
+          [ "cloud_sync", "namespacerare_1_1shared_1_1workers_1_1cloud__sync.html", [
+            [ "CloudSyncWorker", "classrare_1_1shared_1_1workers_1_1cloud__sync_1_1_cloud_sync_worker.html", "classrare_1_1shared_1_1workers_1_1cloud__sync_1_1_cloud_sync_worker" ],
+            [ "CloudSyncWorkerSignals", "classrare_1_1shared_1_1workers_1_1cloud__sync_1_1_cloud_sync_worker_signals.html", null ]
+          ] ],
           [ "fetch", "namespacerare_1_1shared_1_1workers_1_1fetch.html", [
             [ "EntitlementsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker" ],
             [ "FetchWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker" ],
@@ -502,13 +505,15 @@ var annotated_dup =
           [ "move", "namespacerare_1_1shared_1_1workers_1_1move.html", [
             [ "MoveInfoWorker", "classrare_1_1shared_1_1workers_1_1move_1_1_move_info_worker.html", "classrare_1_1shared_1_1workers_1_1move_1_1_move_info_worker" ],
             [ "MovePathEditReasons", "classrare_1_1shared_1_1workers_1_1move_1_1_move_path_edit_reasons.html", null ],
-            [ "MoveWorker", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker" ]
+            [ "MoveWorker", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker" ],
+            [ "MoveWorkerSignals", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker_signals.html", null ]
           ] ],
           [ "uninstall", "namespacerare_1_1shared_1_1workers_1_1uninstall.html", [
             [ "UninstallWorker", "classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html", "classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker" ]
           ] ],
           [ "verify", "namespacerare_1_1shared_1_1workers_1_1verify.html", [
-            [ "VerifyWorker", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker" ]
+            [ "VerifyWorker", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker" ],
+            [ "VerifyWorkerSignals", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker_signals.html", null ]
           ] ],
           [ "wine_resolver", "namespacerare_1_1shared_1_1workers_1_1wine__resolver.html", [
             [ "OriginWineWorker", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_origin_wine_worker.html", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_origin_wine_worker" ],
@@ -570,6 +575,20 @@ var annotated_dup =
                 [ "Ui_QueueInfoWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__info__widget_1_1_ui___queue_info_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1downloads_1_1queue__info__widget_1_1_ui___queue_info_widget" ]
               ] ]
             ] ],
+            [ "integrations", "namespacerare_1_1ui_1_1components_1_1tabs_1_1integrations.html", [
+              [ "egl_sync_group", "namespacerare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group.html", [
+                [ "Ui_EGLSyncGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_ui___e_g_l_sync_group.html", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_ui___e_g_l_sync_group" ]
+              ] ],
+              [ "egl_sync_list_group", "namespacerare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1egl__sync__list__group.html", [
+                [ "Ui_EGLSyncListGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group.html", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group" ]
+              ] ],
+              [ "eos_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1eos__widget.html", [
+                [ "Ui_EosWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1eos__widget_1_1_ui___eos_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1eos__widget_1_1_ui___eos_widget" ]
+              ] ],
+              [ "import_group", "namespacerare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1import__group.html", [
+                [ "Ui_ImportGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_ui___import_group.html", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_ui___import_group" ]
+              ] ]
+            ] ],
             [ "library", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library.html", [
               [ "details", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1details.html", [
                 [ "cloud_settings_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1cloud__settings__widget.html", [
@@ -586,20 +605,6 @@ var annotated_dup =
                 ] ],
                 [ "dlcs", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs.html", [
                   [ "Ui_GameDlcs", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_ui___game_dlcs.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_ui___game_dlcs" ]
-                ] ]
-              ] ],
-              [ "integrations", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations.html", [
-                [ "egl_sync_group", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group.html", [
-                  [ "Ui_EGLSyncGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_ui___e_g_l_sync_group.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__group_1_1_ui___e_g_l_sync_group" ]
-                ] ],
-                [ "egl_sync_list_group", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__list__group.html", [
-                  [ "Ui_EGLSyncListGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1egl__sync__list__group_1_1_ui___e_g_l_sync_list_group" ]
-                ] ],
-                [ "eos_widget", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__widget.html", [
-                  [ "Ui_EosWidget", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__widget_1_1_ui___eos_widget.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1eos__widget_1_1_ui___eos_widget" ]
-                ] ],
-                [ "import_group", "namespacerare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group.html", [
-                  [ "Ui_ImportGroup", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_ui___import_group.html", "classrare_1_1ui_1_1components_1_1tabs_1_1library_1_1integrations_1_1import__group_1_1_ui___import_group" ]
                 ] ]
               ] ]
             ] ],
