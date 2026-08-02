@@ -9,5 +9,6 @@ var searchData=
   ['workarounds_2epy_6',['workarounds.py',['../workarounds_8py.html',1,'']]],
   ['worker_2epy_7',['worker.py',['../worker_8py.html',1,'']]],
   ['wrapper_2epy_8',['wrapper.py',['../wrapper_8py.html',1,'']]],
-  ['wrappers_2epy_9',['wrappers.py',['../components_2tabs_2settings_2widgets_2wrappers_8py.html',1,'(Global Namespace)'],['../shared_2wrappers_8py.html',1,'(Global Namespace)']]]
+  ['wrapper_5fexe_2epy_9',['wrapper_exe.py',['../wrapper__exe_8py.html',1,'']]],
+  ['wrappers_2epy_10',['wrappers.py',['../components_2tabs_2settings_2widgets_2wrappers_8py.html',1,'(Global Namespace)'],['../shared_2wrappers_8py.html',1,'(Global Namespace)']]]
 ];

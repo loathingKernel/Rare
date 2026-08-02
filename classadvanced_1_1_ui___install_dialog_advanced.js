@@ -22,7 +22,5 @@ var classadvanced_1_1_ui___install_dialog_advanced =
     [ "max_workers_layout", "classadvanced_1_1_ui___install_dialog_advanced.html#a654411cd42e9568a772c2d6907ec80e0", null ],
     [ "max_workers_spin", "classadvanced_1_1_ui___install_dialog_advanced.html#adc1eef783d12a7f4ccffe40fe8aab81f", null ],
     [ "read_files_check", "classadvanced_1_1_ui___install_dialog_advanced.html#a896ce841a440abfa3d3595a243d07118", null ],
-    [ "read_files_label", "classadvanced_1_1_ui___install_dialog_advanced.html#a845418a64e02f3c5ccc4e94845aff4ce", null ],
-    [ "use_signed_urls_check", "classadvanced_1_1_ui___install_dialog_advanced.html#a3bb8a7fb2b6e60193ad0f69e50e0bf75", null ],
-    [ "use_signed_urls_label", "classadvanced_1_1_ui___install_dialog_advanced.html#ae8dfd457073ac9e9ba70296c2ed71968", null ]
+    [ "read_files_label", "classadvanced_1_1_ui___install_dialog_advanced.html#a845418a64e02f3c5ccc4e94845aff4ce", null ]
 ];

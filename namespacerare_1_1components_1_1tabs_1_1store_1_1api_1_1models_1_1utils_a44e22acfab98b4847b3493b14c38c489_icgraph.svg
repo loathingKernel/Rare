@@ -73,10 +73,10 @@ var sectionId = 'dynsection-1';
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_catalog_offer_model.html#a136ca331c6ae209f3251c61a69ec5615" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_promotional_offer_model.html#ab025e76a7066dbf50593340a3724e5c1" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="229,-134.5 229,-164.5 456,-164.5 456,-134.5 229,-134.5"/>
 <text text-anchor="start" x="237" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.api.models.response.</text>
-<text text-anchor="middle" x="342.5" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">CatalogOfferModel.from_dict</text>
+<text text-anchor="middle" x="342.5" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">PromotionalOfferModel.from_dict</text>
 </a>
 </g>
 </g>
@@ -89,10 +89,10 @@ var sectionId = 'dynsection-1';
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_promotional_offer_model.html#aca09ed12a2d1bd303721daf8a51664ec" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_catalog_offer_model.html#a354c4b2ff100ee448da4e4e6fb670889" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="229,-67.5 229,-97.5 456,-97.5 456,-67.5 229,-67.5"/>
 <text text-anchor="start" x="237" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.api.models.response.</text>
-<text text-anchor="middle" x="342.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">PromotionalOfferModel.from_dict</text>
+<text text-anchor="middle" x="342.5" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">CatalogOfferModel.from_dict</text>
 </a>
 </g>
 </g>
@@ -105,7 +105,7 @@ var sectionId = 'dynsection-1';
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_wishlist_item_model.html#a7b43c55ab08c72580600456bec942f18" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_wishlist_item_model.html#ae58a388a5ef0d84302ea71ae818a65a4" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="229,-0.5 229,-30.5 456,-30.5 456,-0.5 229,-0.5"/>
 <text text-anchor="start" x="237" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.api.models.response.</text>
 <text text-anchor="middle" x="342.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">WishlistItemModel.from_dict</text>
@@ -127,7 +127,7 @@ var sectionId = 'dynsection-1';
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1models_1_1steam_1_1_steam_shortcut.html#a1c9c2ee249a8ca1c2a5daa6f646c19a9" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1models_1_1steam_1_1_steam_shortcut.html#afee5074e4e075af45bcd94ae39caeaa3" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-73 0,-92 193,-92 193,-73 0,-73"/>
 <text text-anchor="middle" x="96.5" y="-80" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.steam.SteamShortcut.create</text>
 </a>

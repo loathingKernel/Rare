@@ -48,7 +48,7 @@ if (edges && edges.length) {
 <script type="text/javascript">
 var viewWidth = 652;
 var viewHeight = 258;
-var sectionId = 'dynsection-12';
+var sectionId = 'dynsection-18';
 </script>
 <script xlink:href="svgpan.js"/>
 <svg id="graph" class="graph">
@@ -121,9 +121,9 @@ var sectionId = 'dynsection-12';
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_base.html#ae1cd35b1295fa44fd6906c1bcf28fd20" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="135.5,-0.5 135.5,-30.5 277.5,-30.5 277.5,-0.5 135.5,-0.5"/>
-<text text-anchor="start" x="143.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.base_game.Rare</text>
+<g id="a_node7"><a xlink:href="classrare_1_1models_1_1game__slim_1_1_rare_game_base.html#ae1cd35b1295fa44fd6906c1bcf28fd20" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="137,-0.5 137,-30.5 276,-30.5 276,-0.5 137,-0.5"/>
+<text text-anchor="start" x="145" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game_slim.Rare</text>
 <text text-anchor="middle" x="206.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameBase.app_title</text>
 </a>
 </g>

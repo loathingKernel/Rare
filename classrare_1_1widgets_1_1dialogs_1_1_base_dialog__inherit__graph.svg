@@ -59,17 +59,17 @@ var sectionId = 'dynsection-0';
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="228.5,-810.5 228.5,-922.5 326.5,-922.5 326.5,-810.5 228.5,-810.5"/>
-<text text-anchor="middle" x="277.5" y="-910.5" font-family="Helvetica,sans-Serif" font-size="10.00">BaseDialog</text>
-<polyline fill="none" stroke="black" points="228.5,-903.5 326.5,-903.5 "/>
-<text text-anchor="start" x="236.5" y="-891.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ logger</text>
-<polyline fill="none" stroke="black" points="228.5,-884.5 326.5,-884.5 "/>
-<text text-anchor="start" x="236.5" y="-872.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="236.5" y="-861.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setWindowTitle()</text>
-<text text-anchor="start" x="236.5" y="-850.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ exec()</text>
-<text text-anchor="start" x="236.5" y="-839.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ exec_()</text>
-<text text-anchor="start" x="236.5" y="-828.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ keyPressEvent()</text>
-<text text-anchor="start" x="236.5" y="-817.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ closeEvent()</text>
+<polygon fill="#bfbfbf" stroke="black" points="239.5,-810.5 239.5,-922.5 337.5,-922.5 337.5,-810.5 239.5,-810.5"/>
+<text text-anchor="middle" x="288.5" y="-910.5" font-family="Helvetica,sans-Serif" font-size="10.00">BaseDialog</text>
+<polyline fill="none" stroke="black" points="239.5,-903.5 337.5,-903.5 "/>
+<text text-anchor="start" x="247.5" y="-891.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ logger</text>
+<polyline fill="none" stroke="black" points="239.5,-884.5 337.5,-884.5 "/>
+<text text-anchor="start" x="247.5" y="-872.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="247.5" y="-861.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setWindowTitle()</text>
+<text text-anchor="start" x="247.5" y="-850.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ exec()</text>
+<text text-anchor="start" x="247.5" y="-839.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ exec_()</text>
+<text text-anchor="start" x="247.5" y="-828.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ keyPressEvent()</text>
+<text text-anchor="start" x="247.5" y="-817.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ closeEvent()</text>
 </a>
 </g>
 </g>
@@ -77,61 +77,60 @@ var sectionId = 'dynsection-0';
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="classrare_1_1components_1_1dialogs_1_1launch_1_1_launch_dialog.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="45,-568 45,-724 128,-724 128,-568 45,-568"/>
-<text text-anchor="middle" x="86.5" y="-712" font-family="Helvetica,sans-Serif" font-size="10.00">LaunchDialog</text>
-<polyline fill="none" stroke="black" points="45,-705 128,-705 "/>
-<text text-anchor="start" x="53" y="-693" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
-<text text-anchor="start" x="53" y="-682" font-family="Helvetica,sans-Serif" font-size="10.00">+ progress_info</text>
-<text text-anchor="start" x="53" y="-671" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
-<text text-anchor="start" x="53" y="-660" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="53" y="-649" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
-<text text-anchor="start" x="53" y="-638" font-family="Helvetica,sans-Serif" font-size="10.00">+ login_dialog</text>
-<text text-anchor="start" x="53" y="-627" font-family="Helvetica,sans-Serif" font-size="10.00">+ start_app</text>
-<polyline fill="none" stroke="black" points="45,-620 128,-620 "/>
-<text text-anchor="start" x="53" y="-608" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="53" y="-597" font-family="Helvetica,sans-Serif" font-size="10.00">+ login()</text>
-<text text-anchor="start" x="53" y="-586" font-family="Helvetica,sans-Serif" font-size="10.00">+ do_launch()</text>
-<text text-anchor="start" x="53" y="-575" font-family="Helvetica,sans-Serif" font-size="10.00">+ launch()</text>
+<polygon fill="white" stroke="black" points="87,-568 87,-724 170,-724 170,-568 87,-568"/>
+<text text-anchor="middle" x="128.5" y="-712" font-family="Helvetica,sans-Serif" font-size="10.00">LaunchDialog</text>
+<polyline fill="none" stroke="black" points="87,-705 170,-705 "/>
+<text text-anchor="start" x="95" y="-693" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
+<text text-anchor="start" x="95" y="-682" font-family="Helvetica,sans-Serif" font-size="10.00">+ progress_info</text>
+<text text-anchor="start" x="95" y="-671" font-family="Helvetica,sans-Serif" font-size="10.00">+ rcore</text>
+<text text-anchor="start" x="95" y="-660" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="95" y="-649" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
+<text text-anchor="start" x="95" y="-638" font-family="Helvetica,sans-Serif" font-size="10.00">+ login_dialog</text>
+<text text-anchor="start" x="95" y="-627" font-family="Helvetica,sans-Serif" font-size="10.00">+ start_app</text>
+<polyline fill="none" stroke="black" points="87,-620 170,-620 "/>
+<text text-anchor="start" x="95" y="-608" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="95" y="-597" font-family="Helvetica,sans-Serif" font-size="10.00">+ login()</text>
+<text text-anchor="start" x="95" y="-586" font-family="Helvetica,sans-Serif" font-size="10.00">+ do_launch()</text>
+<text text-anchor="start" x="95" y="-575" font-family="Helvetica,sans-Serif" font-size="10.00">+ launch()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M219.35,-838.11C191.5,-822.57 159.51,-800.84 137.5,-774 125.52,-759.39 116.06,-741.61 108.72,-724.04"/>
-<polygon fill="none" stroke="midnightblue" points="217.77,-841.23 228.22,-842.93 221.11,-835.08 217.77,-841.23"/>
+<path fill="none" stroke="midnightblue" d="M231.32,-826.9C212.57,-812.08 192.89,-793.9 178.5,-774 167.67,-759.02 158.8,-741.38 151.7,-724.09"/>
+<polygon fill="none" stroke="midnightblue" points="229.22,-829.7 239.27,-833.04 233.49,-824.16 229.22,-829.7"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="146.5,-546 146.5,-746 274.5,-746 274.5,-546 146.5,-546"/>
-<text text-anchor="middle" x="210.5" y="-734" font-family="Helvetica,sans-Serif" font-size="10.00">LoginDialog</text>
-<polyline fill="none" stroke="black" points="146.5,-727 274.5,-727 "/>
-<text text-anchor="start" x="154.5" y="-715" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
-<text text-anchor="start" x="154.5" y="-704" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
-<text text-anchor="start" x="154.5" y="-693" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
-<text text-anchor="start" x="154.5" y="-682" font-family="Helvetica,sans-Serif" font-size="10.00">+ login_stack</text>
-<text text-anchor="start" x="154.5" y="-671" font-family="Helvetica,sans-Serif" font-size="10.00">+ landing_page</text>
-<text text-anchor="start" x="154.5" y="-660" font-family="Helvetica,sans-Serif" font-size="10.00">+ browser_page</text>
-<text text-anchor="start" x="154.5" y="-649" font-family="Helvetica,sans-Serif" font-size="10.00">+ import_page</text>
-<text text-anchor="start" x="154.5" y="-638" font-family="Helvetica,sans-Serif" font-size="10.00">+ logged_in</text>
-<polyline fill="none" stroke="black" points="146.5,-631 274.5,-631 "/>
-<text text-anchor="start" x="154.5" y="-619" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
-<text text-anchor="start" x="154.5" y="-608" font-family="Helvetica,sans-Serif" font-size="10.00">+ browser_radio_clicked()</text>
-<text text-anchor="start" x="154.5" y="-597" font-family="Helvetica,sans-Serif" font-size="10.00">+ import_radio_clicked()</text>
-<text text-anchor="start" x="154.5" y="-586" font-family="Helvetica,sans-Serif" font-size="10.00">+ back_clicked()</text>
-<text text-anchor="start" x="154.5" y="-575" font-family="Helvetica,sans-Serif" font-size="10.00">+ next_clicked()</text>
-<text text-anchor="start" x="154.5" y="-564" font-family="Helvetica,sans-Serif" font-size="10.00">+ login()</text>
-<text text-anchor="start" x="154.5" y="-553" font-family="Helvetica,sans-Serif" font-size="10.00">+ login_successful()</text>
+<polygon fill="white" stroke="black" points="188,-551.5 188,-740.5 275,-740.5 275,-551.5 188,-551.5"/>
+<text text-anchor="middle" x="231.5" y="-728.5" font-family="Helvetica,sans-Serif" font-size="10.00">LoginDialog</text>
+<polyline fill="none" stroke="black" points="188,-721.5 275,-721.5 "/>
+<text text-anchor="start" x="196" y="-709.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ui</text>
+<text text-anchor="start" x="196" y="-698.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ args</text>
+<text text-anchor="start" x="196" y="-687.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ core</text>
+<text text-anchor="start" x="196" y="-676.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ login_stack</text>
+<text text-anchor="start" x="196" y="-665.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ landing_page</text>
+<text text-anchor="start" x="196" y="-654.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ landing_index</text>
+<text text-anchor="start" x="196" y="-643.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ browser_page</text>
+<text text-anchor="start" x="196" y="-632.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ browser_index</text>
+<text text-anchor="start" x="196" y="-621.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ import_page</text>
+<text text-anchor="start" x="196" y="-610.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ import_index</text>
+<text text-anchor="start" x="196" y="-599.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ info_message</text>
+<text text-anchor="start" x="196" y="-588.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ logged_in</text>
+<polyline fill="none" stroke="black" points="188,-581.5 275,-581.5 "/>
+<text text-anchor="start" x="196" y="-569.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __init__()</text>
+<text text-anchor="start" x="196" y="-558.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ login()</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M257.58,-800.55C252.36,-783.51 246.61,-764.75 240.97,-746.36"/>
-<polygon fill="none" stroke="midnightblue" points="254.32,-801.83 260.59,-810.36 261.01,-799.78 254.32,-801.83"/>
+<path fill="none" stroke="midnightblue" d="M271.54,-800.48C266.65,-781.74 261.22,-760.92 255.97,-740.8"/>
+<polygon fill="none" stroke="midnightblue" points="268.21,-801.57 274.12,-810.36 274.98,-799.8 268.21,-801.57"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
@@ -167,8 +166,8 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M297.63,-800.81C300.32,-792.17 303.15,-783.07 306.04,-773.81"/>
-<polygon fill="none" stroke="midnightblue" points="294.29,-799.77 294.66,-810.36 300.97,-801.85 294.29,-799.77"/>
+<path fill="none" stroke="midnightblue" d="M305.45,-800.53C307.68,-791.97 310.03,-782.97 312.42,-773.81"/>
+<polygon fill="none" stroke="midnightblue" points="302.02,-799.8 302.88,-810.36 308.79,-801.57 302.02,-799.8"/>
 </g>
 <!-- Node15 -->
 <g id="node15" class="node">
@@ -196,27 +195,27 @@ var sectionId = 'dynsection-0';
 <!-- Node1&#45;&gt;Node15 -->
 <g id="edge14" class="edge">
 <title>Node1&#45;&gt;Node15</title>
-<path fill="none" stroke="midnightblue" d="M335.5,-833.55C359.78,-818.02 386.86,-797.58 406.5,-774 417.47,-760.83 426.87,-745.28 434.74,-729.66"/>
-<polygon fill="none" stroke="midnightblue" points="333.32,-830.79 326.7,-839.05 337.03,-836.72 333.32,-830.79"/>
+<path fill="none" stroke="midnightblue" d="M346.02,-829.4C366.99,-814.2 389.67,-795.12 406.5,-774 417.11,-760.69 426.33,-745.17 434.12,-729.63"/>
+<polygon fill="none" stroke="midnightblue" points="343.91,-826.61 337.78,-835.25 347.96,-832.32 343.91,-826.61"/>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="252,-959.5 252,-1016.5 303,-1016.5 303,-959.5 252,-959.5"/>
-<text text-anchor="middle" x="277.5" y="-1004.5" font-family="Helvetica,sans-Serif" font-size="10.00">QDialog</text>
-<polyline fill="none" stroke="#bfbfbf" points="252,-997.5 303,-997.5 "/>
-<text text-anchor="middle" x="277.5" y="-985.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="252,-978.5 303,-978.5 "/>
-<text text-anchor="middle" x="277.5" y="-966.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="#bfbfbf" points="263,-959.5 263,-1016.5 314,-1016.5 314,-959.5 263,-959.5"/>
+<text text-anchor="middle" x="288.5" y="-1004.5" font-family="Helvetica,sans-Serif" font-size="10.00">QDialog</text>
+<polyline fill="none" stroke="#bfbfbf" points="263,-997.5 314,-997.5 "/>
+<text text-anchor="middle" x="288.5" y="-985.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="263,-978.5 314,-978.5 "/>
+<text text-anchor="middle" x="288.5" y="-966.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
 <title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M277.5,-949.11C277.5,-940.75 277.5,-931.73 277.5,-922.83"/>
-<polygon fill="none" stroke="midnightblue" points="274,-949.28 277.5,-959.28 281,-949.28 274,-949.28"/>
+<path fill="none" stroke="midnightblue" d="M288.5,-949.11C288.5,-940.75 288.5,-931.73 288.5,-922.83"/>
+<polygon fill="none" stroke="midnightblue" points="285,-949.28 288.5,-959.28 292,-949.28 285,-949.28"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">

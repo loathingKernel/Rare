@@ -1,10 +1,10 @@
 var classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget =
 [
-    [ "__init__", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html#a89cdd195d34c30a841790a869a9cc89d", null ],
+    [ "__init__", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html#a383cbc4f313da53bdc06fa210ca42642", null ],
     [ "add_to_wishlist", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html#afac058004097c4bd71ae3f32a6ef1db1", null ],
     [ "button_clicked", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html#a3535e0fdc2a4eb036c8f73b89b2472c2", null ],
     [ "data_received", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html#a18777578f9602d2461dfedea68f316d2", null ],
-    [ "handle_wishlist_update", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html#a1f0271c4c01a525e8b58f8cfa26ba464", null ],
+    [ "handle_wishlist_update", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html#a1eceb58d6bdf3310bad6c0942350f735", null ],
     [ "keyPressEvent", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html#afa962c4cc7ee70aff38a79a6bd2bd079", null ],
     [ "update_game", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html#aa2789e0a61560857f94bc1e1569bc12b", null ],
     [ "catalog_offer", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1details_1_1_store_details_widget.html#a0933295328ec74ef718a29e4d6e1bfca", null ],

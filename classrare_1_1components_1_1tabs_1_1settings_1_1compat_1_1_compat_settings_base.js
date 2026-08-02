@@ -1,6 +1,6 @@
 var classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_compat_settings_base =
 [
-    [ "__init__", "classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_compat_settings_base.html#a20af8e7b1467448c9d30ca5cb48ebd4b", null ],
+    [ "__init__", "classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_compat_settings_base.html#a91727494ea9efe9e6871a7c46672ad5f", null ],
     [ "hideEvent", "classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_compat_settings_base.html#ae7eaca782c2ff62c2ae59d01f699d9ba", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_compat_settings_base.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "dxvk_config", "classrare_1_1components_1_1tabs_1_1settings_1_1compat_1_1_compat_settings_base.html#a504a2c9a160e813a7fcf1a0acdeb6cfa", null ],

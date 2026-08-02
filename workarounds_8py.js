@@ -1,5 +1,6 @@
 var workarounds_8py =
 [
+    [ "Workarounds", "classrare_1_1utils_1_1workarounds_1_1_workarounds.html", "classrare_1_1utils_1_1workarounds_1_1_workarounds" ],
     [ "apply_workarounds", "workarounds_8py.html#a094d0c41a9fe2bb779d8f5954a355653", null ],
-    [ "Set", "workarounds_8py.html#a0fb907d7d6c4e05aca21c1c7cf4ee269", null ]
+    [ "workarounds", "workarounds_8py.html#a82daffb3f560b022783e07ed7235107e", null ]
 ];

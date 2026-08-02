@@ -1,0 +1,16 @@
+<map id="default_platform" name="default_platform">
+<area shape="rect" id="node1" title=" " alt="" coords="952,139,1067,165"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a974efcc254c209206208ddd4d9f391a8" title=" " alt="" coords="672,42,904,83"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#adf94568f84b36f0c783d76df96936a8b" title="Property to report the remote version of an InstalledGame." alt="" coords="672,131,904,173"/>
+<area shape="rect" id="node7" href="$classrare_1_1models_1_1game__slim_1_1_rare_game_base.html#a1e436b61f937ea687fa3897d286899cf" title="Reports the currently installed version of the Game." alt="" coords="756,224,820,251"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1e914552c775e095849d4c5e6e6840bd" title="Property to report if an InstalledGame has updates available." alt="" coords="383,105,597,146"/>
+<area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_game.html#ae6b2acec85ae135dec2149646b35c92c" title=" " alt="" coords="36,29,277,56"/>
+<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a590836cea8227c1cb3994dabf184ecab" title="Sets the installation status of a game." alt="" coords="51,105,262,146"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a685840c701fe685c02f6af4cef409442" title=" " alt="" coords="356,217,624,258"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_eos_group.html#ada4904cab960c53f234fc113a7fcf349" title=" " alt="" coords="370,350,610,391"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html#afb98620e5c3e93764e3a474baf06aa6a" title=" " alt="" coords="37,194,277,235"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_eos_group.html#ae3086ed15d86fab628d5249118184203" title=" " alt="" coords="37,283,277,325"/>
+<area shape="rect" id="node12" href="$classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings.html#a5b6a943cccc85daffddbc61bb1b9345d" title=" " alt="" coords="5,373,308,414"/>
+<area shape="rect" id="node13" href="$classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_eos_group.html#a7e310a3d6ecf3373329f265fa68eee2e" title=" " alt="" coords="37,462,277,503"/>
+<area shape="rect" id="node14" href="$classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_eos_group.html#a940f04ae50563122887c6d4b551d314f" title=" " alt="" coords="37,551,277,593"/>
+</map>

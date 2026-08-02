@@ -88,182 +88,134 @@ $(document).ready(function(){initNavTree('workarounds_8py_source.html',''); init
 </div><!--header-->
 <div class="contents">
 <a href="workarounds_8py.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1workarounds.html">    1</a></span><span class="keyword">import</span> platform</div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">from</span> typing <span class="keyword">import</span> Dict, Set, Union</div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">from</span> logging <span class="keyword">import</span> getLogger</div>
 <div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span> </div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">from</span> PySide6.QtWidgets <span class="keyword">import</span> QApplication</div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span> </div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils.html">rare.utils</a> <span class="keyword">import</span> config_helper <span class="keyword">as</span> config</div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">import</span> requests</div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">from</span> orjson <span class="keyword">import</span> orjson</div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">from</span> PySide6.QtWidgets <span class="keyword">import</span> QApplication</div>
 <div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span> </div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1workarounds.html#a0fb907d7d6c4e05aca21c1c7cf4ee269">    8</a></span>__os_compat: Set = {<span class="stringliteral">&quot;Linux&quot;</span>, <span class="stringliteral">&quot;Darwin&quot;</span>, <span class="stringliteral">&quot;FreeBSD&quot;</span>}</div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span>__os_native: Set = {<span class="stringliteral">&quot;Windows&quot;</span>}</div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>__os_all: Set = {*__os_compat, *__os_native}</div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils.html">rare.utils</a> <span class="keyword">import</span> config_helper <span class="keyword">as</span> config</div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils_1_1paths.html">rare.utils.paths</a> <span class="keyword">import</span> data_dir</div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">from</span> <a class="code hl_namespace" href="namespacerare_1_1utils_1_1wrapper__exe.html">rare.utils.wrapper_exe</a> <span class="keyword">import</span> wrapper_path</div>
 <div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span> </div>
 <div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span> </div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span><span class="keyword">def </span>__screen_height() -&gt; int:</div>
-<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    <span class="keywordflow">return</span> QApplication.instance().primaryScreen().geometry().height()</div>
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span> </div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html">   13</a></span><span class="keyword">class </span><a class="code hl_class" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html">Workarounds</a>:</div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    _workarounds_url = <span class="stringliteral">&#39;https://raredevs.github.io/wring/workarounds.json&#39;</span></div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>    _workarounds_version_url = <span class="stringliteral">&#39;https://raredevs.github.io/wring/workarounds_version.json&#39;</span></div>
 <div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span> </div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span><span class="keyword">def </span>__screen_width() -&gt; int:</div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>    <span class="keywordflow">return</span> QApplication.instance().primaryScreen().geometry().width()</div>
-<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span> </div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span> </div>
-<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span><span class="comment"># Keeps a dictionary of workarounds.</span></div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span><span class="comment"># Can use the following placeholders: res_width, res_height</span></div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>__workarounds: Dict[str, Dict[str, Dict[str, Dict[str, Union[str, Set]]]]] = {</div>
-<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>    <span class="comment"># XCOM2</span></div>
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>    <span class="stringliteral">&quot;3be3c4d681bc46b3b8b26c5df3ae0a18&quot;</span>: {</div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>        <span class="stringliteral">&quot;options&quot;</span>: {</div>
-<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>            <span class="stringliteral">&quot;override_exe&quot;</span>: {</div>
-<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>                <span class="stringliteral">&quot;value&quot;</span>: <span class="stringliteral">&quot;Binaries/Win64/XCom2.exe&quot;</span>,</div>
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>                <span class="stringliteral">&quot;os&quot;</span>: __os_all,</div>
-<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>            },</div>
-<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>        },</div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>    },</div>
-<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>    <span class="comment"># Civilization VI</span></div>
-<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>    <span class="stringliteral">&quot;Kinglet&quot;</span>: {</div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>        <span class="stringliteral">&quot;options&quot;</span>: {</div>
-<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>            <span class="stringliteral">&quot;override_exe&quot;</span>: {</div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>                <span class="stringliteral">&quot;value&quot;</span>: <span class="stringliteral">&quot;Base/Binaries/Win64EOS/CivilizationVI.exe&quot;</span>,</div>
-<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>                <span class="stringliteral">&quot;os&quot;</span>: __os_all,</div>
-<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>            },</div>
-<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>        },</div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    },</div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    <span class="comment"># Bioshock 2 Remastered</span></div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>    <span class="stringliteral">&quot;b22ce34b4ce0408c97a888554447479b&quot;</span>: {</div>
-<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>        <span class="stringliteral">&quot;options&quot;</span>: {</div>
-<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>            <span class="stringliteral">&quot;override_exe&quot;</span>: {</div>
-<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>                <span class="stringliteral">&quot;value&quot;</span>: <span class="stringliteral">&quot;Build/FinalEpic/Bioshock2HD.exe&quot;</span>,</div>
-<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>                <span class="stringliteral">&quot;os&quot;</span>: __os_all,</div>
-<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>            },</div>
-<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>        },</div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    },</div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>    <span class="comment"># Bioshock 1 Remastered</span></div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>    <span class="stringliteral">&quot;bc2c95c6ff564a16b26644f1d3ac3c55&quot;</span>: {</div>
-<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>        <span class="stringliteral">&quot;options&quot;</span>: {</div>
-<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>            <span class="stringliteral">&quot;override_exe&quot;</span>: {</div>
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>                <span class="stringliteral">&quot;value&quot;</span>: <span class="stringliteral">&quot;Build/FinalEpic/BioshockHD.exe&quot;</span>,</div>
-<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>                <span class="stringliteral">&quot;os&quot;</span>: __os_all,</div>
-<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>            },</div>
-<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>        },</div>
-<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>    },</div>
-<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>    <span class="comment"># Eternal Threads</span></div>
-<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>    <span class="stringliteral">&quot;ff1d9bf6b1304cb9a12b8754afa78ae5&quot;</span>: {</div>
-<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>        <span class="stringliteral">&quot;options&quot;</span>: {</div>
-<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>            <span class="stringliteral">&quot;override_exe&quot;</span>: {</div>
-<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>                <span class="stringliteral">&quot;value&quot;</span>: <span class="stringliteral">&quot;EternalThreadsBuild/EternalThreads.exe&quot;</span>,</div>
-<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>                <span class="stringliteral">&quot;os&quot;</span>: __os_compat,</div>
-<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>            },</div>
-<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>        },</div>
-<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>    },</div>
-<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>    <span class="comment"># Celeste</span></div>
-<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>    <span class="stringliteral">&quot;Salt&quot;</span>: {</div>
-<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>        <span class="stringliteral">&quot;options&quot;</span>: {</div>
-<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>            <span class="stringliteral">&quot;start_params&quot;</span>: {</div>
-<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>                <span class="stringliteral">&quot;value&quot;</span>: <span class="stringliteral">&quot;/gldevice:OpenGL&quot;</span>,</div>
-<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>                <span class="stringliteral">&quot;os&quot;</span>: __os_compat,</div>
-<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>            },</div>
-<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>        },</div>
-<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>    },</div>
-<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>    <span class="comment"># Borderlands: The Pre Sequel</span></div>
-<div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span>    <span class="stringliteral">&quot;Turkey&quot;</span>: {</div>
-<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>        <span class="stringliteral">&quot;options&quot;</span>: {</div>
-<div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>            <span class="stringliteral">&quot;start_params&quot;</span>: {</div>
-<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>                <span class="stringliteral">&quot;value&quot;</span>: <span class="stringliteral">&quot;-NoLauncher&quot;</span>,</div>
-<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>                <span class="stringliteral">&quot;os&quot;</span>: __os_compat,</div>
-<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>            },</div>
-<div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span>        },</div>
-<div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span>    },</div>
-<div class="line"><a id="l00087" name="l00087"></a><span class="lineno">   87</span>    <span class="comment"># Borderlands 2</span></div>
-<div class="line"><a id="l00088" name="l00088"></a><span class="lineno">   88</span>    <span class="stringliteral">&quot;Dodo&quot;</span>: {</div>
-<div class="line"><a id="l00089" name="l00089"></a><span class="lineno">   89</span>        <span class="stringliteral">&quot;options&quot;</span>: {</div>
-<div class="line"><a id="l00090" name="l00090"></a><span class="lineno">   90</span>            <span class="stringliteral">&quot;start_params&quot;</span>: {</div>
-<div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>                <span class="stringliteral">&quot;value&quot;</span>: <span class="stringliteral">&quot;-NoLauncher&quot;</span>,</div>
-<div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span>                <span class="stringliteral">&quot;os&quot;</span>: __os_compat,</div>
-<div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>            },</div>
-<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>            <span class="comment"># &quot;override_exe&quot;: { &quot;value&quot;: &quot;Binaries/Win32/Borderlands2.exe&quot;, &quot;os&quot;: __os_compat, },</span></div>
-<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>        },</div>
-<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>    },</div>
-<div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>    <span class="comment"># Tiny Tina&#39;s Assault on Dragon Keep: A Wonderlands One shot Adventure</span></div>
-<div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>    <span class="stringliteral">&quot;9e296d276ad447108f12c654c3341d59&quot;</span>: {</div>
-<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>        <span class="stringliteral">&quot;options&quot;</span>: {</div>
-<div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>            <span class="stringliteral">&quot;start_params&quot;</span>: {</div>
-<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>                <span class="stringliteral">&quot;value&quot;</span>: <span class="stringliteral">&quot;-NoLauncher&quot;</span>,</div>
-<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>                <span class="stringliteral">&quot;os&quot;</span>: __os_compat,</div>
-<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>            },</div>
-<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>        },</div>
-<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>    },</div>
-<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>    <span class="comment"># Brothers: A Tale of Two Sons</span></div>
-<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>    <span class="stringliteral">&quot;Tamarind&quot;</span>: {</div>
-<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>        <span class="stringliteral">&quot;options&quot;</span>: {</div>
-<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>            <span class="stringliteral">&quot;start_params&quot;</span>: {</div>
-<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>                <span class="comment"># value set at runtime</span></div>
-<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>                <span class="stringliteral">&quot;value&quot;</span>: <span class="stringliteral">&quot;ResX={res_width} ResY={res_height} -nomovies -nosplash&quot;</span>,</div>
-<div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span>                <span class="stringliteral">&quot;os&quot;</span>: __os_compat,</div>
-<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>            },</div>
-<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>            <span class="stringliteral">&quot;override_exe&quot;</span>: {</div>
-<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>                <span class="stringliteral">&quot;value&quot;</span>: <span class="stringliteral">&quot;Binaries/Win32/Brothers.exe&quot;</span>,</div>
-<div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>                <span class="stringliteral">&quot;os&quot;</span>: __os_compat,</div>
-<div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>            },</div>
-<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>        },</div>
-<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>    },</div>
-<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>    <span class="comment"># Borderlands: The Pre Sequel</span></div>
-<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>    <span class="stringliteral">&quot;9c203b6ed35846e8a4a9ff1e314f6593&quot;</span>: {</div>
-<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>        <span class="stringliteral">&quot;options&quot;</span>: {</div>
-<div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>            <span class="stringliteral">&quot;start_params&quot;</span>: {</div>
-<div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span>                <span class="stringliteral">&quot;value&quot;</span>: <span class="stringliteral">&quot;/autorun /ed /autoquit&quot;</span>,</div>
-<div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span>                <span class="stringliteral">&quot;os&quot;</span>: __os_compat,</div>
-<div class="line"><a id="l00126" name="l00126"></a><span class="lineno">  126</span>            },</div>
-<div class="line"><a id="l00127" name="l00127"></a><span class="lineno">  127</span>        },</div>
-<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>    },</div>
-<div class="line"><a id="l00129" name="l00129"></a><span class="lineno">  129</span>    <span class="comment"># F1® Manager 2024</span></div>
-<div class="line"><a id="l00130" name="l00130"></a><span class="lineno">  130</span>    <span class="stringliteral">&quot;03c9fe3b2869452ba8433ee7708a3e93&quot;</span>: {</div>
-<div class="line"><a id="l00131" name="l00131"></a><span class="lineno">  131</span>        <span class="stringliteral">&quot;options&quot;</span>: {</div>
-<div class="line"><a id="l00132" name="l00132"></a><span class="lineno">  132</span>            <span class="stringliteral">&quot;override_exe&quot;</span>: {</div>
-<div class="line"><a id="l00133" name="l00133"></a><span class="lineno">  133</span>                <span class="stringliteral">&quot;value&quot;</span>: <span class="stringliteral">&quot;F1Manager24/Binaries/Win64/F1Manage&quot;</span>,</div>
-<div class="line"><a id="l00134" name="l00134"></a><span class="lineno">  134</span>                <span class="stringliteral">&quot;os&quot;</span>: __os_all,</div>
-<div class="line"><a id="l00135" name="l00135"></a><span class="lineno">  135</span>            },</div>
-<div class="line"><a id="l00136" name="l00136"></a><span class="lineno">  136</span>        },</div>
-<div class="line"><a id="l00137" name="l00137"></a><span class="lineno">  137</span>    },</div>
-<div class="line"><a id="l00138" name="l00138"></a><span class="lineno">  138</span>    <span class="comment"># Cities Skylines</span></div>
-<div class="line"><a id="l00139" name="l00139"></a><span class="lineno">  139</span>    <span class="stringliteral">&quot;bcbc03d8812a44c18f41cf7d5f849265&quot;</span>: {</div>
-<div class="line"><a id="l00140" name="l00140"></a><span class="lineno">  140</span>        <span class="stringliteral">&quot;options&quot;</span>: {</div>
-<div class="line"><a id="l00141" name="l00141"></a><span class="lineno">  141</span>            <span class="stringliteral">&quot;override_exe&quot;</span>: {</div>
-<div class="line"><a id="l00142" name="l00142"></a><span class="lineno">  142</span>                <span class="stringliteral">&quot;value&quot;</span>: <span class="stringliteral">&quot;Cities.exe&quot;</span>,</div>
-<div class="line"><a id="l00143" name="l00143"></a><span class="lineno">  143</span>                <span class="stringliteral">&quot;os&quot;</span>: __os_all,</div>
-<div class="line"><a id="l00144" name="l00144"></a><span class="lineno">  144</span>            },</div>
-<div class="line"><a id="l00145" name="l00145"></a><span class="lineno">  145</span>        },</div>
-<div class="line"><a id="l00146" name="l00146"></a><span class="lineno">  146</span>    },</div>
-<div class="line"><a id="l00147" name="l00147"></a><span class="lineno">  147</span>}</div>
-<div class="line"><a id="l00148" name="l00148"></a><span class="lineno">  148</span> </div>
-<div class="line"><a id="l00149" name="l00149"></a><span class="lineno">  149</span> </div>
-<div class="line"><a id="l00150" name="l00150"></a><span class="lineno">  150</span><span class="keyword">def </span>__subst(text: str) -&gt; str:</div>
-<div class="line"><a id="l00151" name="l00151"></a><span class="lineno">  151</span>    <span class="keywordflow">return</span> text.format(</div>
-<div class="line"><a id="l00152" name="l00152"></a><span class="lineno">  152</span>        res_width=__screen_width(),</div>
-<div class="line"><a id="l00153" name="l00153"></a><span class="lineno">  153</span>        res_height=__screen_height(),</div>
-<div class="line"><a id="l00154" name="l00154"></a><span class="lineno">  154</span>    )</div>
-<div class="line"><a id="l00155" name="l00155"></a><span class="lineno">  155</span> </div>
-<div class="line"><a id="l00156" name="l00156"></a><span class="lineno">  156</span> </div>
-<div class="line"><a id="l00157" name="l00157"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1workarounds.html#a094d0c41a9fe2bb779d8f5954a355653">  157</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacerare_1_1utils_1_1workarounds.html#a094d0c41a9fe2bb779d8f5954a355653">apply_workarounds</a>(app_name: str):</div>
-<div class="line"><a id="l00158" name="l00158"></a><span class="lineno">  158</span>    <span class="keywordflow">if</span> workaround := __workarounds.get(app_name):</div>
-<div class="line"><a id="l00159" name="l00159"></a><span class="lineno">  159</span>        <span class="comment"># apply options</span></div>
-<div class="line"><a id="l00160" name="l00160"></a><span class="lineno">  160</span>        <span class="keywordflow">for</span> opt <span class="keywordflow">in</span> (options := workaround.get(<span class="stringliteral">&quot;options&quot;</span>, {})):</div>
-<div class="line"><a id="l00161" name="l00161"></a><span class="lineno">  161</span>            <span class="keywordflow">if</span> config.get_option(app_name, opt, <span class="keywordtype">None</span>) <span class="keywordflow">is</span> <span class="keywordflow">not</span> <span class="keywordtype">None</span>:</div>
-<div class="line"><a id="l00162" name="l00162"></a><span class="lineno">  162</span>                <span class="keywordflow">continue</span></div>
-<div class="line"><a id="l00163" name="l00163"></a><span class="lineno">  163</span>            <span class="keywordflow">if</span> platform.system() <span class="keywordflow">not</span> <span class="keywordflow">in</span> options[opt].get(<span class="stringliteral">&quot;os&quot;</span>, set()):</div>
-<div class="line"><a id="l00164" name="l00164"></a><span class="lineno">  164</span>                <span class="keywordflow">continue</span></div>
-<div class="line"><a id="l00165" name="l00165"></a><span class="lineno">  165</span>            config.set_option(app_name, opt, __subst(options[opt][<span class="stringliteral">&quot;value&quot;</span>]))</div>
-<div class="line"><a id="l00166" name="l00166"></a><span class="lineno">  166</span>        <span class="comment"># apply environment</span></div>
-<div class="line"><a id="l00167" name="l00167"></a><span class="lineno">  167</span>        <span class="keywordflow">for</span> var <span class="keywordflow">in</span> (environ := workaround.get(<span class="stringliteral">&quot;environ&quot;</span>, {})):</div>
-<div class="line"><a id="l00168" name="l00168"></a><span class="lineno">  168</span>            <span class="keywordflow">if</span> config.get_envvar(app_name, var, <span class="keywordtype">None</span>) <span class="keywordflow">is</span> <span class="keywordflow">not</span> <span class="keywordtype">None</span>:</div>
-<div class="line"><a id="l00169" name="l00169"></a><span class="lineno">  169</span>                <span class="keywordflow">continue</span></div>
-<div class="line"><a id="l00170" name="l00170"></a><span class="lineno">  170</span>            <span class="keywordflow">if</span> platform.system() <span class="keywordflow">not</span> <span class="keywordflow">in</span> environ[var].get(<span class="stringliteral">&quot;os&quot;</span>, set()):</div>
-<div class="line"><a id="l00171" name="l00171"></a><span class="lineno">  171</span>                <span class="keywordflow">continue</span></div>
-<div class="line"><a id="l00172" name="l00172"></a><span class="lineno">  172</span>            config.set_envvar(app_name, var, __subst(environ[var][<span class="stringliteral">&quot;value&quot;</span>]))</div>
-<div class="line"><a id="l00173" name="l00173"></a><span class="lineno">  173</span> </div>
-<div class="line"><a id="l00174" name="l00174"></a><span class="lineno">  174</span> </div>
-<div class="line"><a id="l00175" name="l00175"></a><span class="lineno">  175</span>__all__ = [<span class="stringliteral">&quot;apply_workarounds&quot;</span>]</div>
-<div class="ttc" id="anamespacerare_1_1utils_1_1workarounds_html_a094d0c41a9fe2bb779d8f5954a355653"><div class="ttname"><a href="namespacerare_1_1utils_1_1workarounds.html#a094d0c41a9fe2bb779d8f5954a355653">rare.utils.workarounds.apply_workarounds</a></div><div class="ttdeci">def apply_workarounds(str app_name)</div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00157">workarounds.py:157</a></div></div>
-<div class="ttc" id="anamespacerare_1_1utils_html"><div class="ttname"><a href="namespacerare_1_1utils.html">rare.utils</a></div><div class="ttdef"><b>Definition:</b> <a href="utils_2compat_2steam_8py_source.html#l00001">steam.py:1</a></div></div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ae64f0875afe3067b97ba370b354b9213">   17</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ae64f0875afe3067b97ba370b354b9213">__init__</a>(self):</div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a0b14e488ae28d98d262453f3e9cd6e4d">   18</a></span>        self.<a class="code hl_variable" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a0b14e488ae28d98d262453f3e9cd6e4d">logger</a>logger = getLogger(type(self).__name__)</div>
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>        self.<a class="code hl_variable" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#aabd21a9ca2f3f207471831ddfce16d29">_workarounds</a>_workarounds: dict[str, dict[str, dict[str, dict[str, str | tuple]]]] = {}</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>        self.<a class="code hl_variable" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a4b2e8e9136efc07f30d27582a3ad99ce">_active_download</a>_active_download: bool = <span class="keyword">False</span></div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span> </div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>    <span class="keyword">def </span>_download_workarounds(self) -&gt; bytes:</div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>        <span class="keywordflow">if</span> self.<a class="code hl_variable" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a4b2e8e9136efc07f30d27582a3ad99ce">_active_download</a>_active_download:</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>            <span class="keywordflow">return</span> b<span class="stringliteral">&#39;&#39;</span></div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>        self.<a class="code hl_variable" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a4b2e8e9136efc07f30d27582a3ad99ce">_active_download</a>_active_download = <span class="keyword">True</span></div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>        resp = requests.get(self.<a class="code hl_variable" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a587ac12a8fa5f5ed002213f382c08604">_workarounds_url</a>_workarounds_url)</div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>        self.<a class="code hl_variable" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a4b2e8e9136efc07f30d27582a3ad99ce">_active_download</a>_active_download = <span class="keyword">False</span></div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>        <span class="keywordflow">return</span> resp.content</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span> </div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ad3fc5e829e46a9bf8825ef113555017a">   30</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ad3fc5e829e46a9bf8825ef113555017a">load_workarounds</a>(self) -&gt; dict[str, dict[str, dict[str, dict[str, str | tuple]]]]:</div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>        <span class="keywordflow">if</span> self.<a class="code hl_variable" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#aabd21a9ca2f3f207471831ddfce16d29">_workarounds</a>_workarounds:</div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>            <span class="keywordflow">return</span> self.<a class="code hl_variable" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#aabd21a9ca2f3f207471831ddfce16d29">_workarounds</a>_workarounds</div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span> </div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>        <span class="keywordflow">try</span>:</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>            resp = requests.get(self.<a class="code hl_variable" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a7480e46c00a8c1b623b9a2a2b872f813">_workarounds_version_url</a>_workarounds_version_url, timeout=1)</div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>            data = resp.content.decode(<span class="stringliteral">&#39;utf-8&#39;</span>)</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>            remote_version = orjson.loads(data).<a class="code hl_function" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ad9819751cf5a772794ae63d0c12b084f">get</a>(<span class="stringliteral">&#39;version&#39;</span>, 1)</div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>        <span class="keywordflow">except</span> requests.exceptions.Timeout:</div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>            remote_version = 1</div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span> </div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        file = <a class="code hl_function" href="namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b">data_dir</a>().joinpath(<span class="stringliteral">&#39;workarounds.json&#39;</span>)</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span> </div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>        <span class="keywordflow">if</span> file.is_file():</div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>            json = orjson.loads(file.open(<span class="stringliteral">&#39;r&#39;</span>).read())</div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>            version = json.get(<span class="stringliteral">&#39;version&#39;</span>, 1)</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>            <span class="keywordflow">if</span> version &gt;= remote_version:</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>                self.<a class="code hl_variable" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#aabd21a9ca2f3f207471831ddfce16d29">_workarounds</a>_workarounds = json.get(<span class="stringliteral">&#39;workarounds&#39;</span>, {})</div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>        <span class="keywordflow">else</span>:</div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>            version = 0</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span> </div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>        <span class="keywordflow">if</span> <span class="keywordflow">not</span> file.is_file() <span class="keywordflow">or</span> version &lt; remote_version:</div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>            <span class="keywordflow">if</span> content := self.<a class="code hl_function" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ab216d948f8c5cf4d1a17c1e4dd2a441d">_download_workarounds</a>_download_workarounds():</div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>                data = content.decode(<span class="stringliteral">&#39;utf-8&#39;</span>)</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>                <span class="keyword">with</span> file.open(<span class="stringliteral">&#39;w&#39;</span>, encoding=<span class="stringliteral">&#39;utf-8&#39;</span>) <span class="keyword">as</span> fd:</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>                    fd.write(data)</div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>                json = orjson.loads(data)</div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>                self.<a class="code hl_variable" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#aabd21a9ca2f3f207471831ddfce16d29">_workarounds</a>_workarounds = json.get(<span class="stringliteral">&#39;workarounds&#39;</span>, {})</div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span> </div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>        <span class="keywordflow">return</span> self.<a class="code hl_variable" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#aabd21a9ca2f3f207471831ddfce16d29">_workarounds</a>_workarounds</div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span> </div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ad9819751cf5a772794ae63d0c12b084f">   61</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ad9819751cf5a772794ae63d0c12b084f">get</a>(self, app_name: str) -&gt; dict:</div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>        <span class="keywordflow">if</span> <span class="keywordflow">not</span> self.<a class="code hl_variable" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#aabd21a9ca2f3f207471831ddfce16d29">_workarounds</a>_workarounds:</div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>            self.<a class="code hl_function" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ad3fc5e829e46a9bf8825ef113555017a">load_workarounds</a>load_workarounds()</div>
+<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>        <span class="keywordflow">return</span> self.<a class="code hl_variable" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#aabd21a9ca2f3f207471831ddfce16d29">_workarounds</a>_workarounds.<a class="code hl_function" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ad9819751cf5a772794ae63d0c12b084f">get</a>(app_name, {})</div>
+<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span> </div>
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>    <span class="preprocessor">@staticmethod</span></div>
+<div class="line"><a id="l00067" name="l00067"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a8983d87443719f7103b732e34488a8e9">   67</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a8983d87443719f7103b732e34488a8e9">screen_height</a>() -&gt; int:</div>
+<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>        <span class="keywordflow">return</span> QApplication.instance().primaryScreen().geometry().height()</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span> </div>
+<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>    <span class="preprocessor">@staticmethod</span></div>
+<div class="line"><a id="l00071" name="l00071"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ac324ae6e4d274f7cc3b95d4d0343b50e">   71</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ac324ae6e4d274f7cc3b95d4d0343b50e">screen_width</a>() -&gt; int:</div>
+<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>        <span class="keywordflow">return</span> QApplication.instance().primaryScreen().geometry().width()</div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span> </div>
+<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>    <span class="preprocessor">@staticmethod</span></div>
+<div class="line"><a id="l00075" name="l00075"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a4acf9b94ec28f4b55cd1959cb3f016a4">   75</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a4acf9b94ec28f4b55cd1959cb3f016a4">wrapper_exe</a>() -&gt; str:</div>
+<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">str</a>(<a class="code hl_function" href="namespacerare_1_1utils_1_1wrapper__exe.html#a26cd5ff67bde843fb89fa0b317368037">wrapper_path</a>())</div>
+<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span> </div>
+<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>    <span class="preprocessor">@staticmethod</span></div>
+<div class="line"><a id="l00079" name="l00079"></a><span class="lineno"><a class="line" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#aa3987ec0b7199fbd119251776d840d88">   79</a></span>    <span class="keyword">def </span><a class="code hl_function" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#aa3987ec0b7199fbd119251776d840d88">subst</a>(text: str) -&gt; str:</div>
+<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>        <span class="keywordflow">return</span> text.format(</div>
+<div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>            res_width=Workarounds.screen_width(),</div>
+<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>            res_height=Workarounds.screen_height(),</div>
+<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>            wrapper_exe=Workarounds.wrapper_exe(),</div>
+<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>        )</div>
+<div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span> </div>
+<div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span> </div>
+<div class="line"><a id="l00087" name="l00087"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1workarounds.html#a82daffb3f560b022783e07ed7235107e">   87</a></span>workarounds = <a class="code hl_class" href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html">Workarounds</a>()</div>
+<div class="line"><a id="l00088" name="l00088"></a><span class="lineno">   88</span> </div>
+<div class="line"><a id="l00089" name="l00089"></a><span class="lineno">   89</span> </div>
+<div class="line"><a id="l00090" name="l00090"></a><span class="lineno"><a class="line" href="namespacerare_1_1utils_1_1workarounds.html#a094d0c41a9fe2bb779d8f5954a355653">   90</a></span><span class="keyword">def </span><a class="code hl_function" href="namespacerare_1_1utils_1_1workarounds.html#a094d0c41a9fe2bb779d8f5954a355653">apply_workarounds</a>(app_name: str):</div>
+<div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>    <span class="keywordflow">if</span> wa := workarounds.get(app_name):</div>
+<div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span>        <span class="comment"># apply options</span></div>
+<div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span>        <span class="keywordflow">for</span> opt <span class="keywordflow">in</span> (options := wa.get(<span class="stringliteral">&#39;options&#39;</span>, {})):</div>
+<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>            <span class="keywordflow">if</span> config.get_option(app_name, opt, <span class="keywordtype">None</span>) <span class="keywordflow">is</span> <span class="keywordflow">not</span> <span class="keywordtype">None</span>:</div>
+<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>                <span class="keywordflow">continue</span></div>
+<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>            <span class="keywordflow">if</span> platform.system() <span class="keywordflow">not</span> <span class="keywordflow">in</span> options[opt].get(<span class="stringliteral">&#39;os&#39;</span>, tuple()):</div>
+<div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>                <span class="keywordflow">continue</span></div>
+<div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>            config.set_option(app_name, opt, Workarounds.subst(options[opt][<span class="stringliteral">&#39;value&#39;</span>]))</div>
+<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>        <span class="comment"># apply environment</span></div>
+<div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>        <span class="keywordflow">for</span> var <span class="keywordflow">in</span> (environ := wa.get(<span class="stringliteral">&#39;environ&#39;</span>, {})):</div>
+<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>            <span class="keywordflow">if</span> config.get_envvar(app_name, var, <span class="keywordtype">None</span>) <span class="keywordflow">is</span> <span class="keywordflow">not</span> <span class="keywordtype">None</span>:</div>
+<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>                <span class="keywordflow">continue</span></div>
+<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>            <span class="keywordflow">if</span> platform.system() <span class="keywordflow">not</span> <span class="keywordflow">in</span> environ[var].get(<span class="stringliteral">&#39;os&#39;</span>, tuple()):</div>
+<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>                <span class="keywordflow">continue</span></div>
+<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>            config.set_envvar(app_name, var, Workarounds.subst(environ[var][<span class="stringliteral">&#39;value&#39;</span>]))</div>
+<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span> </div>
+<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span> </div>
+<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>__all__ = [<span class="stringliteral">&#39;apply_workarounds&#39;</span>, <span class="stringliteral">&#39;workarounds&#39;</span>]</div>
+<div class="ttc" id="aclassrare_1_1utils_1_1workarounds_1_1_workarounds_html"><div class="ttname"><a href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html">rare.utils.workarounds.Workarounds</a></div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00013">workarounds.py:13</a></div></div>
+<div class="ttc" id="aclassrare_1_1utils_1_1workarounds_1_1_workarounds_html_a0b14e488ae28d98d262453f3e9cd6e4d"><div class="ttname"><a href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a0b14e488ae28d98d262453f3e9cd6e4d">rare.utils.workarounds.Workarounds.logger</a></div><div class="ttdeci">logger</div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00018">workarounds.py:18</a></div></div>
+<div class="ttc" id="aclassrare_1_1utils_1_1workarounds_1_1_workarounds_html_a4acf9b94ec28f4b55cd1959cb3f016a4"><div class="ttname"><a href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a4acf9b94ec28f4b55cd1959cb3f016a4">rare.utils.workarounds.Workarounds.wrapper_exe</a></div><div class="ttdeci">str wrapper_exe()</div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00075">workarounds.py:75</a></div></div>
+<div class="ttc" id="aclassrare_1_1utils_1_1workarounds_1_1_workarounds_html_a4b2e8e9136efc07f30d27582a3ad99ce"><div class="ttname"><a href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a4b2e8e9136efc07f30d27582a3ad99ce">rare.utils.workarounds.Workarounds._active_download</a></div><div class="ttdeci">_active_download</div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00025">workarounds.py:25</a></div></div>
+<div class="ttc" id="aclassrare_1_1utils_1_1workarounds_1_1_workarounds_html_a587ac12a8fa5f5ed002213f382c08604"><div class="ttname"><a href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a587ac12a8fa5f5ed002213f382c08604">rare.utils.workarounds.Workarounds._workarounds_url</a></div><div class="ttdeci">string _workarounds_url</div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00014">workarounds.py:14</a></div></div>
+<div class="ttc" id="aclassrare_1_1utils_1_1workarounds_1_1_workarounds_html_a7480e46c00a8c1b623b9a2a2b872f813"><div class="ttname"><a href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a7480e46c00a8c1b623b9a2a2b872f813">rare.utils.workarounds.Workarounds._workarounds_version_url</a></div><div class="ttdeci">string _workarounds_version_url</div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00015">workarounds.py:15</a></div></div>
+<div class="ttc" id="aclassrare_1_1utils_1_1workarounds_1_1_workarounds_html_a8983d87443719f7103b732e34488a8e9"><div class="ttname"><a href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#a8983d87443719f7103b732e34488a8e9">rare.utils.workarounds.Workarounds.screen_height</a></div><div class="ttdeci">int screen_height()</div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00067">workarounds.py:67</a></div></div>
+<div class="ttc" id="aclassrare_1_1utils_1_1workarounds_1_1_workarounds_html_aa3987ec0b7199fbd119251776d840d88"><div class="ttname"><a href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#aa3987ec0b7199fbd119251776d840d88">rare.utils.workarounds.Workarounds.subst</a></div><div class="ttdeci">str subst(str text)</div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00079">workarounds.py:79</a></div></div>
+<div class="ttc" id="aclassrare_1_1utils_1_1workarounds_1_1_workarounds_html_aabd21a9ca2f3f207471831ddfce16d29"><div class="ttname"><a href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#aabd21a9ca2f3f207471831ddfce16d29">rare.utils.workarounds.Workarounds._workarounds</a></div><div class="ttdeci">_workarounds</div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00047">workarounds.py:47</a></div></div>
+<div class="ttc" id="aclassrare_1_1utils_1_1workarounds_1_1_workarounds_html_ab216d948f8c5cf4d1a17c1e4dd2a441d"><div class="ttname"><a href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ab216d948f8c5cf4d1a17c1e4dd2a441d">rare.utils.workarounds.Workarounds._download_workarounds</a></div><div class="ttdeci">bytes _download_workarounds(self)</div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00022">workarounds.py:22</a></div></div>
+<div class="ttc" id="aclassrare_1_1utils_1_1workarounds_1_1_workarounds_html_ac324ae6e4d274f7cc3b95d4d0343b50e"><div class="ttname"><a href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ac324ae6e4d274f7cc3b95d4d0343b50e">rare.utils.workarounds.Workarounds.screen_width</a></div><div class="ttdeci">int screen_width()</div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00071">workarounds.py:71</a></div></div>
+<div class="ttc" id="aclassrare_1_1utils_1_1workarounds_1_1_workarounds_html_ad3fc5e829e46a9bf8825ef113555017a"><div class="ttname"><a href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ad3fc5e829e46a9bf8825ef113555017a">rare.utils.workarounds.Workarounds.load_workarounds</a></div><div class="ttdeci">dict[str, dict[str, dict[str, dict[str, str|tuple]]]] load_workarounds(self)</div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00030">workarounds.py:30</a></div></div>
+<div class="ttc" id="aclassrare_1_1utils_1_1workarounds_1_1_workarounds_html_ad9819751cf5a772794ae63d0c12b084f"><div class="ttname"><a href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ad9819751cf5a772794ae63d0c12b084f">rare.utils.workarounds.Workarounds.get</a></div><div class="ttdeci">dict get(self, str app_name)</div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00061">workarounds.py:61</a></div></div>
+<div class="ttc" id="aclassrare_1_1utils_1_1workarounds_1_1_workarounds_html_ae64f0875afe3067b97ba370b354b9213"><div class="ttname"><a href="classrare_1_1utils_1_1workarounds_1_1_workarounds.html#ae64f0875afe3067b97ba370b354b9213">rare.utils.workarounds.Workarounds.__init__</a></div><div class="ttdeci">def __init__(self)</div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00017">workarounds.py:17</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_1_1compat_1_1wine_html_a4b99ff73a8a869319570237b5c57ab03"><div class="ttname"><a href="namespacerare_1_1utils_1_1compat_1_1wine.html#a4b99ff73a8a869319570237b5c57ab03">rare.utils.compat.wine.str</a></div><div class="ttdeci">str</div><div class="ttdef"><b>Definition:</b> <a href="utils_2compat_2wine_8py_source.html#l00009">wine.py:9</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_1_1paths_html"><div class="ttname"><a href="namespacerare_1_1utils_1_1paths.html">rare.utils.paths</a></div><div class="ttdef"><b>Definition:</b> <a href="paths_8py_source.html#l00001">paths.py:1</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_1_1paths_html_aa160c55be4d6aad43da3d35e8a1dc97b"><div class="ttname"><a href="namespacerare_1_1utils_1_1paths.html#aa160c55be4d6aad43da3d35e8a1dc97b">rare.utils.paths.data_dir</a></div><div class="ttdeci">Path data_dir()</div><div class="ttdef"><b>Definition:</b> <a href="paths_8py_source.html#l00060">paths.py:60</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_1_1workarounds_html_a094d0c41a9fe2bb779d8f5954a355653"><div class="ttname"><a href="namespacerare_1_1utils_1_1workarounds.html#a094d0c41a9fe2bb779d8f5954a355653">rare.utils.workarounds.apply_workarounds</a></div><div class="ttdeci">def apply_workarounds(str app_name)</div><div class="ttdef"><b>Definition:</b> <a href="workarounds_8py_source.html#l00090">workarounds.py:90</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_1_1wrapper__exe_html"><div class="ttname"><a href="namespacerare_1_1utils_1_1wrapper__exe.html">rare.utils.wrapper_exe</a></div><div class="ttdef"><b>Definition:</b> <a href="wrapper__exe_8py_source.html#l00001">wrapper_exe.py:1</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_1_1wrapper__exe_html_a26cd5ff67bde843fb89fa0b317368037"><div class="ttname"><a href="namespacerare_1_1utils_1_1wrapper__exe.html#a26cd5ff67bde843fb89fa0b317368037">rare.utils.wrapper_exe.wrapper_path</a></div><div class="ttdeci">Path wrapper_path()</div><div class="ttdef"><b>Definition:</b> <a href="wrapper__exe_8py_source.html#l00020">wrapper_exe.py:20</a></div></div>
+<div class="ttc" id="anamespacerare_1_1utils_html"><div class="ttname"><a href="namespacerare_1_1utils.html">rare.utils</a></div><div class="ttdef"><b>Definition:</b> <a href="miniproton_8py_source.html#l00001">miniproton.py:1</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

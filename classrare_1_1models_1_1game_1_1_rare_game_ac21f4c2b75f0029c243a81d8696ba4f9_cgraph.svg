@@ -48,7 +48,7 @@ if (edges && edges.length) {
 <script type="text/javascript">
 var viewWidth = 594;
 var viewHeight = 212;
-var sectionId = 'dynsection-46';
+var sectionId = 'dynsection-50';
 </script>
 <script xlink:href="svgpan.js"/>
 <svg id="graph" class="graph">
@@ -73,9 +73,9 @@ var sectionId = 'dynsection-46';
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game.html#a6b409b51197f0d632633fa18b045aeae" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="132,-184 132,-203 224,-203 224,-184 132,-184"/>
-<text text-anchor="middle" x="178" y="-191" font-family="Helvetica,sans-Serif" font-size="10.00">__update_pixmap</text>
+<g id="a_node2"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game.html#a5a5f3402ea879697cee13edefae79b5b" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="134.5,-184 134.5,-203 221.5,-203 221.5,-184 134.5,-184"/>
+<text text-anchor="middle" x="178" y="-191" font-family="Helvetica,sans-Serif" font-size="10.00">_update_pixmap</text>
 </a>
 </g>
 </g>
@@ -88,10 +88,10 @@ var sectionId = 'dynsection-46';
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a6b409b51197f0d632633fa18b045aeae" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a5a5f3402ea879697cee13edefae79b5b" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="112,-134.5 112,-164.5 244,-164.5 244,-134.5 112,-134.5"/>
 <text text-anchor="start" x="120" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareEos</text>
-<text text-anchor="middle" x="178" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">Overlay.__update_pixmap</text>
+<text text-anchor="middle" x="178" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">Overlay._update_pixmap</text>
 </a>
 </g>
 </g>

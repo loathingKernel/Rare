@@ -80,7 +80,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_view_container.html#a8e73e95efd0f85e048f1f10d0a330651" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_view_container.html#a1aa8bcd72c5fdddfd6d7d8cadc73f8d4" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="310,-90 310,-120 486,-120 486,-90 310,-90"/>
 <text text-anchor="start" x="318" y="-108" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.widgets.</text>
 <text text-anchor="middle" x="398" y="-97" font-family="Helvetica,sans-Serif" font-size="10.00">ViewContainer._add_widget</text>

@@ -27,7 +27,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html#ab2e839f79f74112bc4f6c85e4159e217" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html#a72db1637037e94e383fc8ef991b55974" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="147.58,-187 147.58,-206 223.58,-206 223.58,-187 147.58,-187"/>
 <text text-anchor="middle" x="185.58" y="-194" font-family="Helvetica,sans-Serif" font-size="10.00">__find_widget</text>
 </a>
@@ -42,7 +42,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#a40cbc229430213d2d834c3440098a875" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#a436c008704806331bb034d2c2e4d8c0a" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="89.58,-137.5 89.58,-167.5 281.58,-167.5 281.58,-137.5 89.58,-137.5"/>
 <text text-anchor="start" x="97.58" y="-155.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.downloads.groups.</text>
 <text text-anchor="middle" x="185.58" y="-144.5" font-family="Helvetica,sans-Serif" font-size="10.00">QueueGroup.__find_widget</text>
@@ -58,7 +58,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_library_widget_controller.html#a3e5644faa03dce0cb52a471bb244b83b" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_library_widget_controller.html#ad197a3a94ee3b2ebad61d64148903d25" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="96.08,-88.5 96.08,-118.5 275.08,-118.5 275.08,-88.5 96.08,-88.5"/>
 <text text-anchor="start" x="104.08" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.widgets.</text>
 <text text-anchor="middle" x="185.58" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">LibraryWidgetController.__find_widget</text>

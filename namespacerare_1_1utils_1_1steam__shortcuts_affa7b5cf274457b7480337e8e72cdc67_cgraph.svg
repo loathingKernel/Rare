@@ -48,7 +48,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="namespacerare_1_1utils_1_1steam__shortcuts.html#ac2593d9c656c0dbdf14dfc2650b610b4" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="namespacerare_1_1utils_1_1steam__shortcuts.html#a5ef27eb67561a61b170e35d9a472f8c1" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="321.5,-56.5 321.5,-75.5 385.5,-75.5 385.5,-56.5 321.5,-56.5"/>
 <text text-anchor="middle" x="353.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">find_steam</text>
 </a>
@@ -63,7 +63,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="namespacerare_1_1utils_1_1steam__shortcuts.html#a4c3f9257f10e48b9f0131228fdc352ae" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="namespacerare_1_1utils_1_1steam__shortcuts.html#a2580fc3fc897af8e19db9e783cfbf7e7" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="307,-0.5 307,-19.5 400,-19.5 400,-0.5 307,-0.5"/>
 <text text-anchor="middle" x="353.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">find_steam_users</text>
 </a>

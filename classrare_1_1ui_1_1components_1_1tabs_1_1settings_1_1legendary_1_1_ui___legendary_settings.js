@@ -10,7 +10,6 @@ var classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___lege
     [ "disable_https_label", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#afc37e4bb3af62664e47b125522d87d62", null ],
     [ "download_group", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a57e05da33a783a093897e25917b2ad60", null ],
     [ "download_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a3e477872da6c7732a3e898e70dbb9ec5", null ],
-    [ "exclude_entitlements_check", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a89a801b9cfd52d5d950122f7b32daf62", null ],
     [ "exclude_non_asset_check", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a677deb21ca7dde9f26913750ed96b6d7", null ],
     [ "fetch_macos_check", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#a930df1895ef89b6927cb132b9627e039", null ],
     [ "fetch_unreal_check", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_ui___legendary_settings.html#ab46d5732c217918184a9cf06de650fb7", null ],

@@ -1,29 +1,25 @@
 var dir_95eb7cbc278b6940b3a753cb740a708a =
 [
     [ "__init__.py", "models_2____init_____8py.html", null ],
-    [ "base_game.py", "base__game_8py.html", [
-      [ "RareSaveGame", "classrare_1_1models_1_1base__game_1_1_rare_save_game.html", null ],
-      [ "RareGameSignals", "classrare_1_1models_1_1base__game_1_1_rare_game_signals.html", "classrare_1_1models_1_1base__game_1_1_rare_game_signals" ],
-      [ "RareGameSignals.Progress", "classrare_1_1models_1_1base__game_1_1_rare_game_signals_1_1_progress.html", null ],
-      [ "RareGameSignals.Widget", "classrare_1_1models_1_1base__game_1_1_rare_game_signals_1_1_widget.html", null ],
-      [ "RareGameSignals.Download", "classrare_1_1models_1_1base__game_1_1_rare_game_signals_1_1_download.html", null ],
-      [ "RareGameSignals.Game", "classrare_1_1models_1_1base__game_1_1_rare_game_signals_1_1_game.html", null ],
-      [ "RareGameBase", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html", "classrare_1_1models_1_1base__game_1_1_rare_game_base" ],
-      [ "RareGameBase.State", "classrare_1_1models_1_1base__game_1_1_rare_game_base_1_1_state.html", null ],
-      [ "RareGameSlim", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html", "classrare_1_1models_1_1base__game_1_1_rare_game_slim" ]
-    ] ],
     [ "enumerations.py", "enumerations_8py.html", [
       [ "LibraryView", "classrare_1_1models_1_1enumerations_1_1_library_view.html", null ],
       [ "LibraryFilter", "classrare_1_1models_1_1enumerations_1_1_library_filter.html", null ],
       [ "LibraryOrder", "classrare_1_1models_1_1enumerations_1_1_library_order.html", null ],
       [ "DiscordRPCMode", "classrare_1_1models_1_1enumerations_1_1_discord_r_p_c_mode.html", null ]
     ] ],
-    [ "game.py", "models_2game_8py.html", [
-      [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", "classrare_1_1models_1_1game_1_1_rare_game" ],
-      [ "RareGame.Metadata", "classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html", "classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata" ],
-      [ "RareEosOverlay", "classrare_1_1models_1_1game_1_1_rare_eos_overlay.html", "classrare_1_1models_1_1game_1_1_rare_eos_overlay" ]
+    [ "game.py", "models_2game_8py.html", "models_2game_8py" ],
+    [ "game_slim.py", "game__slim_8py.html", [
+      [ "RareSaveGame", "classrare_1_1models_1_1game__slim_1_1_rare_save_game.html", null ],
+      [ "RareGameSignalsProgress", "classrare_1_1models_1_1game__slim_1_1_rare_game_signals_progress.html", null ],
+      [ "RareGameSignalsWidget", "classrare_1_1models_1_1game__slim_1_1_rare_game_signals_widget.html", null ],
+      [ "RareGameSignalsDownload", "classrare_1_1models_1_1game__slim_1_1_rare_game_signals_download.html", null ],
+      [ "RareGameSignalsGame", "classrare_1_1models_1_1game__slim_1_1_rare_game_signals_game.html", null ],
+      [ "RareGameSignals", "classrare_1_1models_1_1game__slim_1_1_rare_game_signals.html", "classrare_1_1models_1_1game__slim_1_1_rare_game_signals" ],
+      [ "RareGameBase", "classrare_1_1models_1_1game__slim_1_1_rare_game_base.html", "classrare_1_1models_1_1game__slim_1_1_rare_game_base" ],
+      [ "RareGameBase.State", "classrare_1_1models_1_1game__slim_1_1_rare_game_base_1_1_state.html", null ],
+      [ "RareGameSlim", "classrare_1_1models_1_1game__slim_1_1_rare_game_slim.html", "classrare_1_1models_1_1game__slim_1_1_rare_game_slim" ]
     ] ],
-    [ "image.py", "models_2image_8py.html", [
+    [ "image.py", "image_8py.html", [
       [ "ImageType", "classrare_1_1models_1_1image_1_1_image_type.html", null ],
       [ "ImageSize", "classrare_1_1models_1_1image_1_1_image_size.html", "classrare_1_1models_1_1image_1_1_image_size" ],
       [ "ImageSize.Preset", "classrare_1_1models_1_1image_1_1_image_size_1_1_preset.html", "classrare_1_1models_1_1image_1_1_image_size_1_1_preset" ]
@@ -49,11 +45,11 @@ var dir_95eb7cbc278b6940b3a753cb740a708a =
     ] ],
     [ "settings.py", "settings_8py.html", "settings_8py" ],
     [ "signals.py", "signals_8py.html", [
-      [ "GlobalSignals", "classrare_1_1models_1_1signals_1_1_global_signals.html", "classrare_1_1models_1_1signals_1_1_global_signals" ],
-      [ "GlobalSignals.ApplicationSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_application_signals.html", null ],
-      [ "GlobalSignals.GameSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_game_signals.html", null ],
-      [ "GlobalSignals.DownloadSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_download_signals.html", null ],
-      [ "GlobalSignals.DiscordRPCSignals", "classrare_1_1models_1_1signals_1_1_global_signals_1_1_discord_r_p_c_signals.html", null ]
+      [ "GlobalSignalsApplicationSignals", "classrare_1_1models_1_1signals_1_1_global_signals_application_signals.html", null ],
+      [ "GlobalSignalsGameSignals", "classrare_1_1models_1_1signals_1_1_global_signals_game_signals.html", null ],
+      [ "GlobalSignalsDownloadSignals", "classrare_1_1models_1_1signals_1_1_global_signals_download_signals.html", null ],
+      [ "GlobalSignalsDiscordRPCSignals", "classrare_1_1models_1_1signals_1_1_global_signals_discord_r_p_c_signals.html", null ],
+      [ "GlobalSignals", "classrare_1_1models_1_1signals_1_1_global_signals.html", "classrare_1_1models_1_1signals_1_1_global_signals" ]
     ] ],
     [ "steam.py", "models_2steam_8py.html", [
       [ "SteamUser", "classrare_1_1models_1_1steam_1_1_steam_user.html", "classrare_1_1models_1_1steam_1_1_steam_user" ],

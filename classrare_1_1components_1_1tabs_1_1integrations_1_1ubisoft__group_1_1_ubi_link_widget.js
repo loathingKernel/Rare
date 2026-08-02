@@ -2,7 +2,6 @@ var classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_li
 [
     [ "__init__", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html#a1d6f3962aaaa153fd695e8908852d68d", null ],
     [ "activate", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html#a8f9705707225e3a806138596d5edae0d", null ],
-    [ "worker_finished", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html#a4f1fc3fc743e9e74ae4d1c677928ef3f", null ],
     [ "args", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "game", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html#ab587deac2ae34c126e6222afedb790ea", null ],

@@ -150,25 +150,6 @@ var sectionId = 'dynsection-1';
 <path fill="none" stroke="midnightblue" d="M165.87,-238.8C156.13,-203.04 142.17,-151.75 131.57,-112.85"/>
 <polygon fill="none" stroke="midnightblue" points="162.49,-239.72 168.5,-248.45 169.25,-237.88 162.49,-239.72"/>
 </g>
-<!-- Node5 -->
-<g id="node5" class="node">
-<title>Node5</title>
-<g id="a_node5"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="156,-452.5 156,-509.5 199,-509.5 199,-452.5 156,-452.5"/>
-<text text-anchor="middle" x="177.5" y="-497.5" font-family="Helvetica,sans-Serif" font-size="10.00">object</text>
-<polyline fill="none" stroke="#bfbfbf" points="156,-490.5 199,-490.5 "/>
-<text text-anchor="middle" x="177.5" y="-478.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="#bfbfbf" points="156,-471.5 199,-471.5 "/>
-<text text-anchor="middle" x="177.5" y="-459.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-</a>
-</g>
-</g>
-<!-- Node5&#45;&gt;Node4 -->
-<g id="edge4" class="edge">
-<title>Node5&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M177.5,-442.06C177.5,-405.69 177.5,-351.35 177.5,-316.67"/>
-<polygon fill="none" stroke="midnightblue" points="174,-442.26 177.5,-452.26 181,-442.26 174,-442.26"/>
-</g>
 </g>
 </svg>
         <g id="navigator" transform="translate(0 0)" fill="#404254">

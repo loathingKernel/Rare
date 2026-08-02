@@ -73,9 +73,9 @@ var sectionId = 'dynsection-4';
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html#a563276b55376fdd9f495c321c5408906" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="99.31,-516 99.31,-546 243.31,-546 243.31,-516 99.31,-516"/>
-<text text-anchor="start" x="107.31" y="-534" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareGame.</text>
+<g id="a_node2"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game_metadata.html#a563276b55376fdd9f495c321c5408906" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="100.31,-516 100.31,-546 242.31,-546 242.31,-516 100.31,-516"/>
+<text text-anchor="start" x="108.31" y="-534" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareGame</text>
 <text text-anchor="middle" x="171.31" y="-523" font-family="Helvetica,sans-Serif" font-size="10.00">Metadata.__dict__</text>
 </a>
 </g>
@@ -174,7 +174,7 @@ var sectionId = 'dynsection-4';
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
-<g id="a_node8"><a xlink:href="classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#aca28781d9d67dfe93a3b27773d262c7a" target="_top" xlink:title=" ">
+<g id="a_node8"><a xlink:href="classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#a7b0e8da34b7587e4b1db5f065866e400" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="331.81,-516 331.81,-546 462.81,-546 462.81,-516 331.81,-516"/>
 <text text-anchor="start" x="339.81" y="-534" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tray</text>
 <text text-anchor="middle" x="397.31" y="-523" font-family="Helvetica,sans-Serif" font-size="10.00">_icon.TrayIcon.last_played</text>
@@ -184,8 +184,8 @@ var sectionId = 'dynsection-4';
 <!-- Node2&#45;&gt;Node8 -->
 <g id="edge13" class="edge">
 <title>Node2&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M243.49,-531C268.37,-531 296.37,-531 321.54,-531"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="321.76,-534.5 331.76,-531 321.76,-527.5 321.76,-534.5"/>
+<path fill="none" stroke="midnightblue" d="M242.57,-531C267.6,-531 295.88,-531 321.3,-531"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="321.63,-534.5 331.63,-531 321.63,-527.5 321.63,-534.5"/>
 </g>
 <!-- Node9 -->
 <g id="node9" class="node">
@@ -206,7 +206,7 @@ var sectionId = 'dynsection-4';
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game.html#a72dad49f74d9c9ba67eca7e2ead920e4" target="_top" xlink:title=" ">
+<g id="a_node10"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game.html#a7fee042eaeb31559fbc0231562996ed4" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="315.81,-583.5 315.81,-602.5 478.81,-602.5 478.81,-583.5 315.81,-583.5"/>
 <text text-anchor="middle" x="397.31" y="-590.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareGame.tags</text>
 </a>

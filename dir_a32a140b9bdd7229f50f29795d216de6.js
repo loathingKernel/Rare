@@ -15,5 +15,8 @@ var dir_a32a140b9bdd7229f50f29795d216de6 =
       [ "AvailableGameDlcWidget", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_available_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_available_game_dlc_widget" ],
       [ "GameDlcs", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlcs.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlcs" ]
     ] ],
+    [ "environ.py", "library_2details_2environ_8py.html", [
+      [ "LocalEnvironSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1environ_1_1_local_environ_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1environ_1_1_local_environ_settings" ]
+    ] ],
     [ "game.py", "components_2tabs_2library_2details_2game_8py.html", "components_2tabs_2library_2details_2game_8py" ]
 ];

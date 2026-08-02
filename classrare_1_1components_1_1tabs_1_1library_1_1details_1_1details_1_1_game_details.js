@@ -10,8 +10,11 @@ var classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_de
     [ "args", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a8187411843a6284ffb964ef3fb9fcab3", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#ab65a1cfe05166d06195718a9587d7b86", null ],
     [ "image", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a42cb5f5737262947250c709931232c69", null ],
+    [ "implements_scrollarea", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a667d39fdfabe75662c24e6268ad500fd", null ],
+    [ "net_manager", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a9a30227fbf38304173ae5e7a81cfa0f9", null ],
     [ "rcore", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a1d6ec79bbcf8bfd8b30c3e5be0b67f34", null ],
     [ "rgame", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a29f3c8f8d4ae84548a9e5b962851f8a0", null ],
     [ "steam_grade_ratings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#afa2b5e28d4bdac9d3b7877b8211c608f", null ],
-    [ "ui", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#ac492f8de2d00b6c4282e766bfadaf2e7", null ]
+    [ "ui", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#ac492f8de2d00b6c4282e766bfadaf2e7", null ],
+    [ "version", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a4c7a521b8f1a0769c09bfa4a1fca7dab", null ]
 ];

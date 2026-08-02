@@ -6,7 +6,7 @@ var classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog_1_1_ui___
     [ "button_hspacer", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog_1_1_ui___login_dialog.html#aed02564f9827653598c2046d326b4f88", null ],
     [ "button_layout", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog_1_1_ui___login_dialog.html#af54cbe3db384197ecbe2cfc1fe3f589e", null ],
     [ "exit_button", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog_1_1_ui___login_dialog.html#a01ed4983d4144490d59215550670a5f2", null ],
-    [ "login_stack_layout", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog_1_1_ui___login_dialog.html#a8a2501a694cd2834f33165b505b4a779", null ],
+    [ "info_label", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog_1_1_ui___login_dialog.html#ad633d67fbb6ec00cdc19542664b8f254", null ],
     [ "login_vspacer_bottom", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog_1_1_ui___login_dialog.html#a4325ee5362ccc43304c8b0b4b8ab3b9e", null ],
     [ "login_vspacer_top", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog_1_1_ui___login_dialog.html#a079580436811b4399f1f5f8d1480d884", null ],
     [ "main_layout", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1login__dialog_1_1_ui___login_dialog.html#a8bca68c145928164b86a7af9df216eea", null ],

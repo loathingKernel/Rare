@@ -2,10 +2,9 @@ var classrare_1_1components_1_1tabs_1_1library_1_1_games_library =
 [
     [ "__init__", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#ae2e90028fa77149a1e0a7c0cc813c13d", null ],
     [ "add_library_widget", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#a18eb918c38e326a54666699b7ba4b686", null ],
-    [ "filter_games", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#ab87762a230ea4fd6f70a415a62244bae", null ],
-    [ "order_games", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#acca591e42eb0bf05aae8327471a5181a", null ],
-    [ "scroll_to_top", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#a966f165d3a88b1a67bc3d7b79a945151", null ],
-    [ "search_games", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#a96832ac5e6314bf44f73c4428d0c8297", null ],
+    [ "filter_games", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#a0dff21f09031b1a9d78c8b26380a8d73", null ],
+    [ "order_games", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#aac0a993c772561fd6658b9e7ffa834c9", null ],
+    [ "search_games", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#aa7b54cd0de0e98126e6386a1da9c97f3", null ],
     [ "setup_game_list", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#a37be1d1b33c53f64209fe3f0f70984a5", null ],
     [ "show_game_info", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#a09ad02746b43edc7bbeade971378aa4e", null ],
     [ "show_library", "classrare_1_1components_1_1tabs_1_1library_1_1_games_library.html#aba88734701cc6f24791c9f59330562a7", null ],

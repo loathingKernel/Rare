@@ -1,7 +1,8 @@
 <map id="egl_appdata" name="egl_appdata">
-<area shape="rect" id="node1" title=" " alt="" coords="529,126,621,153"/>
-<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html#a2422559ea8b74645b65ce4a4914b9e9e" title=" " alt="" coords="249,29,479,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html#a68905053d85216bc0bf76efd19426dba" title=" " alt="" coords="247,119,481,160"/>
-<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html#af47ca18f596d12a7379ef5947216be6e" title=" " alt="" coords="249,208,479,249"/>
-<area shape="rect" id="node5" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#a3f486d5b6ccd5fd3970d366db181efaf" title=" " alt="" coords="5,208,199,249"/>
+<area shape="rect" id="node1" title=" " alt="" coords="800,126,892,153"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html#a2f3a0ed9092c191a1449330b29d1fe93" title=" " alt="" coords="519,29,750,71"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html#a68905053d85216bc0bf76efd19426dba" title=" " alt="" coords="517,119,752,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html#af47ca18f596d12a7379ef5947216be6e" title=" " alt="" coords="519,208,750,249"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1login_1_1login__frame_1_1_login_frame.html#af47ca18f596d12a7379ef5947216be6e" title=" " alt="" coords="247,179,469,220"/>
+<area shape="rect" id="node6" href="$classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html#a3f486d5b6ccd5fd3970d366db181efaf" title=" " alt="" coords="5,208,199,249"/>
 </map>

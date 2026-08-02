@@ -1,5 +1,6 @@
 var namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1details =
 [
+    [ "AchievementWidget", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_achievement_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_achievement_widget" ],
     [ "GameDetails", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details" ],
     [ "GameTagAddDialog", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_add_dialog.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_add_dialog" ],
     [ "GameTagCheckBox", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_check_box.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_check_box" ],

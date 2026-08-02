@@ -42,9 +42,9 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_signals.html#a0f737db16078ef206ae669481138ff3f" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="90.02,-253.5 90.02,-283.5 232.02,-283.5 232.02,-253.5 90.02,-253.5"/>
-<text text-anchor="start" x="98.02" y="-271.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.base_game.Rare</text>
+<g id="a_node3"><a xlink:href="classrare_1_1models_1_1game__slim_1_1_rare_game_signals.html#a0f737db16078ef206ae669481138ff3f" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="91.52,-253.5 91.52,-283.5 230.52,-283.5 230.52,-253.5 91.52,-253.5"/>
+<text text-anchor="start" x="99.52" y="-271.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game_slim.Rare</text>
 <text text-anchor="middle" x="161.02" y="-260.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameSignals.deleteLater</text>
 </a>
 </g>
@@ -52,15 +52,15 @@
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M43.16,-247.49C52.83,-249.23 65.81,-251.56 79.61,-254.04"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="79.3,-257.55 89.76,-255.87 80.54,-250.66 79.3,-257.55"/>
+<path fill="none" stroke="midnightblue" d="M43.16,-247.49C53.21,-249.3 66.83,-251.75 81.23,-254.34"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="80.83,-257.82 91.29,-256.14 82.06,-250.93 80.83,-257.82"/>
 </g>
 <!-- Node15 -->
 <g id="node15" class="node">
 <title>Node15</title>
-<g id="a_node15"><a xlink:href="classrare_1_1models_1_1base__game_1_1_rare_game_base.html#a0f737db16078ef206ae669481138ff3f" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="311.52,-186.5 311.52,-216.5 453.52,-216.5 453.52,-186.5 311.52,-186.5"/>
-<text text-anchor="start" x="319.52" y="-204.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.base_game.Rare</text>
+<g id="a_node15"><a xlink:href="classrare_1_1models_1_1game__slim_1_1_rare_game_base.html#a0f737db16078ef206ae669481138ff3f" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="313.02,-186.5 313.02,-216.5 452.02,-216.5 452.02,-186.5 313.02,-186.5"/>
+<text text-anchor="start" x="321.02" y="-204.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game_slim.Rare</text>
 <text text-anchor="middle" x="382.52" y="-193.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameBase.deleteLater</text>
 </a>
 </g>
@@ -68,8 +68,8 @@
 <!-- Node1&#45;&gt;Node15 -->
 <g id="edge25" class="edge">
 <title>Node1&#45;&gt;Node15</title>
-<path fill="none" stroke="midnightblue" d="M43.16,-242.48C88.48,-237 216.32,-221.51 301.23,-211.22"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="301.86,-214.67 311.37,-210 301.02,-207.72 301.86,-214.67"/>
+<path fill="none" stroke="midnightblue" d="M43.16,-242.48C88.74,-236.96 217.81,-221.33 302.71,-211.05"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="303.33,-214.5 312.84,-209.82 302.49,-207.55 303.33,-214.5"/>
 </g>
 <!-- Node16 -->
 <g id="node16" class="node">
@@ -186,8 +186,8 @@
 <!-- Node3&#45;&gt;Node12 -->
 <g id="edge19" class="edge">
 <title>Node3&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M232.07,-268.5C256.01,-268.5 282.85,-268.5 307.11,-268.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="307.34,-272 317.34,-268.5 307.34,-265 307.34,-272"/>
+<path fill="none" stroke="midnightblue" d="M230.57,-268.5C254.89,-268.5 282.37,-268.5 307.15,-268.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="307.23,-272 317.23,-268.5 307.23,-265 307.23,-272"/>
 </g>
 <!-- Node4&#45;&gt;Node4 -->
 <g id="edge13" class="edge">
@@ -279,7 +279,7 @@
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" target="_top" xlink:title=" ">
+<g id="a_node10"><a xlink:href="namespacerare_1_1components.html#a834af784d39059674a5f70e690b62216" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="577.52,-444 577.52,-463 687.52,-463 687.52,-444 577.52,-444"/>
 <text text-anchor="middle" x="632.52" y="-451" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.start</text>
 </a>
@@ -389,8 +389,8 @@
 <!-- Node15&#45;&gt;Node13 -->
 <g id="edge27" class="edge">
 <title>Node15&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M453.59,-201.5C485.77,-201.5 523.97,-201.5 556.71,-201.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="557.14,-205 567.14,-201.5 557.14,-198 557.14,-205"/>
+<path fill="none" stroke="midnightblue" d="M452.27,-201.5C484.88,-201.5 523.89,-201.5 557.18,-201.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="557.32,-205 567.32,-201.5 557.32,-198 557.32,-205"/>
 </g>
 <!-- Node15&#45;&gt;Node14 -->
 <g id="edge28" class="edge">
@@ -437,7 +437,7 @@
 <!-- Node19 -->
 <g id="node19" class="node">
 <title>Node19</title>
-<g id="a_node19"><a xlink:href="namespacerare_1_1shared_1_1workers_1_1uninstall.html#a85ac017babd1ab175067f7e550fc0fe7" target="_top" xlink:title=" ">
+<g id="a_node19"><a xlink:href="namespacerare_1_1shared_1_1workers_1_1uninstall.html#a40dc0bd349691a7ec88cd6016d209a85" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="279.02,-773 279.02,-792 486.02,-792 486.02,-773 279.02,-773"/>
 <text text-anchor="middle" x="382.52" y="-780" font-family="Helvetica,sans-Serif" font-size="10.00">rare.shared.workers.uninstall.uninstall_game</text>
 </a>
@@ -474,7 +474,7 @@
 <!-- Node21 -->
 <g id="node21" class="node">
 <title>Node21</title>
-<g id="a_node21"><a xlink:href="namespacerare_1_1utils_1_1paths.html#a87c539910fdff3dd0e2b1ee7c12bd1b7" target="_top" xlink:title=" ">
+<g id="a_node21"><a xlink:href="namespacerare_1_1utils_1_1paths.html#a213aebc7e66b96c69dc36d6c72ca39a9" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="574.52,-868.5 574.52,-898.5 690.52,-898.5 690.52,-868.5 574.52,-868.5"/>
 <text text-anchor="start" x="582.52" y="-886.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.paths.desktop</text>
 <text text-anchor="middle" x="632.52" y="-875.5" font-family="Helvetica,sans-Serif" font-size="10.00">_link_types</text>

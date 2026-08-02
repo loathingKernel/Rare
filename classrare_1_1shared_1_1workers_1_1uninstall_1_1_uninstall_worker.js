@@ -1,6 +1,5 @@
 var classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker =
 [
-    [ "Signals", "classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker_1_1_signals.html", null ],
     [ "__init__", "classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html#aff3a43020e76e9c18dc9f60d3155b06f", null ],
     [ "run_real", "classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html#af7b7791c46880f0718ec315e290a9f28", null ],
     [ "core", "classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html#ab65a1cfe05166d06195718a9587d7b86", null ],

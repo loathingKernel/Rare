@@ -1,8 +1,10 @@
 <map id="remove_option" name="remove_option">
-<area shape="rect" id="node1" title=" " alt="" coords="533,67,640,93"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1config__helper.html#aadcc062faeadaa8c5563719ca3d57aa9" title=" " alt="" coords="226,29,325,56"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1config__helper.html#a16e3dc3b4659116dec694e9463110d8c" title=" " alt="" coords="375,104,485,131"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1config__helper.html#a65e3011dfa9ba230763642affd6e5d49" title=" " alt="" coords="27,29,155,56"/>
-<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1config__helper.html#a1fb4424b1c4e801a4ee948eee66cf3f1" title=" " alt="" coords="224,104,327,131"/>
-<area shape="rect" id="node6" href="$namespacerare_1_1utils_1_1config__helper.html#ab0aad77d3b5586c319bcb3cff4302246" title=" " alt="" coords="5,104,176,131"/>
+<area shape="rect" id="node1" title=" " alt="" coords="585,161,692,188"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1utils_1_1config__helper.html#aadcc062faeadaa8c5563719ca3d57aa9" title=" " alt="" coords="423,79,521,105"/>
+<area shape="rect" id="node6" href="$namespacerare_1_1utils_1_1config__helper.html#a7c4038b12f53ec8bab096447d22dec49" title=" " alt="" coords="407,154,537,195"/>
+<area shape="rect" id="node7" href="$namespacerare_1_1utils_1_1config__helper.html#a16e3dc3b4659116dec694e9463110d8c" title=" " alt="" coords="417,244,527,271"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1config__helper.html#a1fb4424b1c4e801a4ee948eee66cf3f1" title=" " alt="" coords="240,53,343,80"/>
+<area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1config__helper.html#a65e3011dfa9ba230763642affd6e5d49" title=" " alt="" coords="27,104,155,131"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1config__helper.html#ab0aad77d3b5586c319bcb3cff4302246" title=" " alt="" coords="5,29,176,56"/>
+<area shape="rect" id="node8" href="$namespacerare_1_1utils_1_1config__helper.html#a07b8c5874874d25a8d5921fc51a2c640" title=" " alt="" coords="224,237,359,278"/>
 </map>

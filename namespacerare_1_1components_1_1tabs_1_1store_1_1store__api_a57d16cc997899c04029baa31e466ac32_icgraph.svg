@@ -27,7 +27,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#a32aa3c42cf98f0e9d0453a4bc4e44323" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#aacac400540ba4756b9c9b721134e61ad" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="8,-335.5 8,-365.5 166,-365.5 166,-335.5 8,-335.5"/>
 <text text-anchor="start" x="16" y="-353.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.store</text>
 <text text-anchor="middle" x="87" y="-342.5" font-family="Helvetica,sans-Serif" font-size="10.00">_api.StoreAPI.add_to_wishlist</text>
@@ -59,7 +59,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#a3e99ce72716c2ed5b1ffa31978cda89e" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#a2005f172bfd59e01bd37993c5003a13d" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="8,-201.5 8,-231.5 166,-231.5 166,-201.5 8,-201.5"/>
 <text text-anchor="start" x="16" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.store</text>
 <text text-anchor="middle" x="87" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">_api.StoreAPI.get_free</text>
@@ -75,7 +75,7 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#ac03f0aa2ce57e8219c6905266e8ecbae" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#afb3523cea5243f93578bfe1b25a5cb30" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="8,-134.5 8,-164.5 166,-164.5 166,-134.5 8,-134.5"/>
 <text text-anchor="start" x="16" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.store</text>
 <text text-anchor="middle" x="87" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">_api.StoreAPI.get_wishlist</text>
@@ -91,7 +91,7 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#a87a6830ada3436fa4a8a516f6d8bc38c" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#a00fdc8487c5f28f7ef9532a8b981f910" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-67.5 0,-97.5 174,-97.5 174,-67.5 0,-67.5"/>
 <text text-anchor="start" x="8" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.store</text>
 <text text-anchor="middle" x="87" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">_api.StoreAPI.remove_from_wishlist</text>
@@ -107,7 +107,7 @@
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#afcc6226cfadd09bf93a5e363a79e34ea" target="_top" xlink:title=" ">
+<g id="a_node7"><a xlink:href="classrare_1_1components_1_1tabs_1_1store_1_1store__api_1_1_store_a_p_i.html#a949baaf157208fb1e4092707cbde7619" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="8,-0.5 8,-30.5 166,-30.5 166,-0.5 8,-0.5"/>
 <text text-anchor="start" x="16" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.store.store</text>
 <text text-anchor="middle" x="87" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_api.StoreAPI.search_game</text>

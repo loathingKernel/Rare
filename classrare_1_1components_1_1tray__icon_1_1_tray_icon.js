@@ -1,7 +1,7 @@
 var classrare_1_1components_1_1tray__icon_1_1_tray_icon =
 [
     [ "__init__", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#ae2e90028fa77149a1e0a7c0cc813c13d", null ],
-    [ "last_played", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#aca28781d9d67dfe93a3b27773d262c7a", null ],
+    [ "last_played", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#a7b0e8da34b7587e4b1db5f065866e400", null ],
     [ "notify", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#ae358f46dfc79b96228a3e1d14a77d103", null ],
     [ "remove_button", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#aaa7f7921a97c5cee53c3e882133c3ce0", null ],
     [ "update_actions", "classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#a34f4910ec773ae8e2d8a116f14104a72", null ],

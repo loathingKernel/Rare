@@ -4,9 +4,11 @@ var namespacerare_1_1commands_1_1launcher =
     [ "console_dialog", "namespacerare_1_1commands_1_1launcher_1_1console__dialog.html", "namespacerare_1_1commands_1_1launcher_1_1console__dialog" ],
     [ "lgd_helper", "namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html", "namespacerare_1_1commands_1_1launcher_1_1lgd__helper" ],
     [ "PreLaunch", "classrare_1_1commands_1_1launcher_1_1_pre_launch.html", "classrare_1_1commands_1_1launcher_1_1_pre_launch" ],
+    [ "PreLaunchSignals", "classrare_1_1commands_1_1launcher_1_1_pre_launch_signals.html", null ],
     [ "RareLauncher", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html", "classrare_1_1commands_1_1launcher_1_1_rare_launcher" ],
     [ "RareLauncherException", "classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception.html", "classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception" ],
     [ "SyncCheckWorker", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker.html", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker" ],
+    [ "SyncCheckWorkerSignals", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker_signals.html", null ],
     [ "launcher", "namespacerare_1_1commands_1_1launcher.html#adfc6158c24f1489fab203c59148d8e7c", null ],
     [ "DETACHED_APP_NAMES", "namespacerare_1_1commands_1_1launcher.html#ac401e1a8757aba5d526538753354728f", null ]
 ];

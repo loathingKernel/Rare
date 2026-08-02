@@ -144,7 +144,7 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html#ab2e839f79f74112bc4f6c85e4159e217" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html#a72db1637037e94e383fc8ef991b55974" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="485,-502.5 485,-532.5 677,-532.5 677,-502.5 485,-502.5"/>
 <text text-anchor="start" x="493" y="-520.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.downloads.groups.</text>
 <text text-anchor="middle" x="581" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">UpdateGroup.__find_widget</text>
@@ -160,7 +160,7 @@
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#a40cbc229430213d2d834c3440098a875" target="_top" xlink:title=" ">
+<g id="a_node7"><a xlink:href="classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#a436c008704806331bb034d2c2e4d8c0a" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="485,-453.5 485,-483.5 677,-483.5 677,-453.5 485,-453.5"/>
 <text text-anchor="start" x="493" y="-471.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.downloads.groups.</text>
 <text text-anchor="middle" x="581" y="-460.5" font-family="Helvetica,sans-Serif" font-size="10.00">QueueGroup.__find_widget</text>
@@ -176,7 +176,7 @@
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
-<g id="a_node8"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_library_widget_controller.html#a3e5644faa03dce0cb52a471bb244b83b" target="_top" xlink:title=" ">
+<g id="a_node8"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_library_widget_controller.html#ad197a3a94ee3b2ebad61d64148903d25" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="491.5,-404.5 491.5,-434.5 670.5,-434.5 670.5,-404.5 491.5,-404.5"/>
 <text text-anchor="start" x="499.5" y="-422.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.widgets.</text>
 <text text-anchor="middle" x="581" y="-411.5" font-family="Helvetica,sans-Serif" font-size="10.00">LibraryWidgetController.__find_widget</text>
@@ -220,7 +220,7 @@
 <!-- Node12 -->
 <g id="node12" class="node">
 <title>Node12</title>
-<g id="a_node12"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit.html#a9ff4a771b55b705e2653927926385052" target="_top" xlink:title=" ">
+<g id="a_node12"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_line_edit.html#a04be570d077ec9e0fc582d0c8ffa1648" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="218,-167.5 218,-197.5 436,-197.5 436,-167.5 218,-167.5"/>
 <text text-anchor="start" x="226" y="-185.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.widgets.overlay.</text>
 <text text-anchor="middle" x="327" y="-174.5" font-family="Helvetica,sans-Serif" font-size="10.00">OverlayLineEdit.setValue</text>
@@ -236,7 +236,7 @@
 <!-- Node22 -->
 <g id="node22" class="node">
 <title>Node22</title>
-<g id="a_node22"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html#a9ff4a771b55b705e2653927926385052" target="_top" xlink:title=" ">
+<g id="a_node22"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_combo_box.html#a04be570d077ec9e0fc582d0c8ffa1648" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="218,-100.5 218,-130.5 436,-130.5 436,-100.5 218,-100.5"/>
 <text text-anchor="start" x="226" y="-118.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.widgets.overlay.</text>
 <text text-anchor="middle" x="327" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">OverlayComboBox.setValue</text>
@@ -252,7 +252,7 @@
 <!-- Node23 -->
 <g id="node23" class="node">
 <title>Node23</title>
-<g id="a_node23"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_check_box.html#a9ff4a771b55b705e2653927926385052" target="_top" xlink:title=" ">
+<g id="a_node23"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_check_box.html#a04be570d077ec9e0fc582d0c8ffa1648" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="218,-33.5 218,-63.5 436,-63.5 436,-33.5 218,-33.5"/>
 <text text-anchor="start" x="226" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.settings.widgets.overlay.</text>
 <text text-anchor="middle" x="327" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">OverlayCheckBox.setValue</text>

@@ -28,7 +28,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#ab5cb6ac1450dcc74ff2e38691e0bdbd9" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#aa55ed66ebe9b351cb560e2b6441e7f21" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="171,-106 171,-125 257,-125 257,-106 171,-106"/>
 <text text-anchor="middle" x="214" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">set_error_labels</text>
 </a>
@@ -59,7 +59,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#ab5cb6ac1450dcc74ff2e38691e0bdbd9" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1dialogs_1_1move_1_1_move_dialog.html#aa55ed66ebe9b351cb560e2b6441e7f21" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="139,-0.5 139,-30.5 289,-30.5 289,-0.5 139,-0.5"/>
 <text text-anchor="start" x="147" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.dialogs.move.</text>
 <text text-anchor="middle" x="214" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">MoveDialog.set_error_labels</text>

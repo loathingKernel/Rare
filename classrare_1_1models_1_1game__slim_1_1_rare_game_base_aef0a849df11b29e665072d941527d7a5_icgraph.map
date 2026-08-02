@@ -1,0 +1,12 @@
+<map id="is_dlc" name="is_dlc">
+<area shape="rect" id="node1" title="Property to report if Game is a dlc." alt="" coords="1361,171,1417,198"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1a4bfcf7c05fd421c0ca97ef40937cf8" title="Sets the verification status of a game." alt="" coords="1080,29,1307,71"/>
+<area shape="rect" id="node7" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1e1c6eede56b1ffa8660ed06f0b41647" title=" " alt="" coords="1079,119,1307,160"/>
+<area shape="rect" id="node9" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a590836cea8227c1cb3994dabf184ecab" title="Sets the installation status of a game." alt="" coords="1088,208,1299,249"/>
+<area shape="rect" id="node10" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a57ae42bf2cdbf9fc08a1a94eaabaa93b" title=" " alt="" coords="1073,298,1313,325"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a4431ce8cf18e5dd3414d8882e585bd8d" title=" " alt="" coords="803,29,1016,71"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a6d3bed9f11ad3349384adff7a65f7932" title=" " alt="" coords="515,37,745,63"/>
+<area shape="rect" id="node5" href="$classrare_1_1components_1_1dialogs_1_1launch_1_1_launch_dialog.html#aa3fe4f510c683950f9a38eb445106504" title=" " alt="" coords="260,29,467,71"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1dialogs_1_1launch_1_1_launch_dialog.html#a6c3ea5ef9b9848bf1214c66978e3d59d" title=" " alt="" coords="5,29,212,71"/>
+<area shape="rect" id="node8" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a974efcc254c209206208ddd4d9f391a8" title=" " alt="" coords="793,119,1025,160"/>
+</map>

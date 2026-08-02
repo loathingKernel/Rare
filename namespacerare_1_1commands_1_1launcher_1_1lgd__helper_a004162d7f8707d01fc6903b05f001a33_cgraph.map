@@ -1,5 +1,6 @@
 <map id="get_game_params" name="get_game_params">
-<area shape="rect" id="node1" title=" " alt="" coords="5,37,135,63"/>
-<area shape="rect" id="node2" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#a1143cdeef4568dea440a5f8f5aa9ddb2" title=" " alt="" coords="183,37,301,63"/>
-<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1paths.html#a42d71bade593ac6ab28a7ed393dcd9b5" title="Setup per&#45;game shader cache if shader pre&#45;caching is disabled." alt="" coords="349,29,496,71"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,82,135,109"/>
+<area shape="rect" id="node2" href="$namespacerare_1_1commands_1_1launcher_1_1lgd__helper.html#aa8150c68e696a3c586b5db6a14d6d93f" title=" " alt="" coords="183,82,301,109"/>
+<area shape="rect" id="node3" href="$namespacerare_1_1utils_1_1compat_1_1utils.html#a802fc4d019df9d0ca92171411e5362c8" title=" " alt="" coords="349,29,532,71"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1paths.html#abf4d4eeab932904cb78cf5a0bbebfcde" title="Setup per&#45;game shader cache if shader pre&#45;caching is disabled." alt="" coords="367,119,514,160"/>
 </map>

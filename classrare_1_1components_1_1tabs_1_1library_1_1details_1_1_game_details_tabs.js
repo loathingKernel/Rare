@@ -13,6 +13,8 @@ var classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs 
     [ "details_tab", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs.html#a13547da11b25ac5b352676aeea826c37", null ],
     [ "dlcs_index", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs.html#a122575887a2066621aad806e227f53bd", null ],
     [ "dlcs_tab", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs.html#a59e7a9f744ec8ceeea5287ff9cd4612f", null ],
+    [ "environ_index", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs.html#ad23efcc0186ebd20192bc589e0a03d5f", null ],
+    [ "environ_tab", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs.html#a49cbd55c5da5ecb1cbd9b0f6640679bd", null ],
     [ "game_meta_index", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs.html#aef1486e3aac175d1f07de7321c51978a", null ],
     [ "game_meta_view", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs.html#a35ce377fedc9ad3c3a97ff2772ad4a1f", null ],
     [ "game_settings_index", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1_game_details_tabs.html#ae8ae8049edaf0668f0d1adadb1ea9442", null ],

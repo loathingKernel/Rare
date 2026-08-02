@@ -95,22 +95,16 @@ $(document).ready(function(){initNavTree('classrare_1_1utils_1_1singleton_1_1_si
 <p>Class that can be instantiated only once per machine.  
  <a href="classrare_1_1utils_1_1singleton_1_1_single_instance.html#details">More...</a></p>
 <div class="dynheader">
-Inheritance diagram for SingleInstance:</div>
-<div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classrare_1_1utils_1_1singleton_1_1_single_instance__inherit__graph.svg" width="119" height="272"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
-</div>
-<div class="dynheader">
 Collaboration diagram for SingleInstance:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classrare_1_1utils_1_1singleton_1_1_single_instance__coll__graph.svg" width="119" height="272"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classrare_1_1utils_1_1singleton_1_1_single_instance__coll__graph.svg" width="119" height="147"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aa9b9a747972be9d371b995ae7a7ef006"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classrare_1_1utils_1_1singleton_1_1_single_instance.html#aa9b9a747972be9d371b995ae7a7ef006">__init__</a> (self, flavor_id=&quot;&quot;, <a class="el" href="classrare_1_1utils_1_1singleton_1_1_single_instance.html#aaaebdd954f4a06fcd46d79cfab420c7c">lockfile</a>=&quot;&quot;)</td></tr>
-<tr class="separator:aa9b9a747972be9d371b995ae7a7ef006"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92ff03ae041ae9b7589f77f3a53f642c"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classrare_1_1utils_1_1singleton_1_1_single_instance.html#a92ff03ae041ae9b7589f77f3a53f642c">__init__</a> (self, flavor_id='', <a class="el" href="classrare_1_1utils_1_1singleton_1_1_single_instance.html#aaaebdd954f4a06fcd46d79cfab420c7c">lockfile</a>='')</td></tr>
+<tr class="separator:a92ff03ae041ae9b7589f77f3a53f642c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a41a65d7030dd1006b177d0bc24e1a12b"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classrare_1_1utils_1_1singleton_1_1_single_instance.html#a41a65d7030dd1006b177d0bc24e1a12b">__del__</a> (self)</td></tr>
 <tr class="separator:a41a65d7030dd1006b177d0bc24e1a12b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -127,19 +121,22 @@ Public Attributes</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Class that can be instantiated only once per machine. </p>
-<pre class="fragment">If you want to prevent your script from running in parallel just instantiate SingleInstance() class. If is there another instance already running it will throw a `SingleInstanceException`.
+<pre class="fragment">If you want to prevent your script from running in parallel just instantiate SingleInstance() class. If is there
+another instance already running it will throw a `SingleInstanceException`.
 
 
 This option is very useful if you have scripts executed by crontab at small amounts of time.
 
 Remember that this works by creating a lock file with a filename based on the full path to the script file.
 
-Providing a flavor_id will augment the filename with the provided flavor_id, allowing you to create multiple singleton instances from the same file. This is particularly useful if you want specific functions to have their own singleton instances.
+Providing a flavor_id will augment the filename with the provided flavor_id, allowing you to create multiple
+singleton instances from the same file. This is particularly useful if you want specific functions to have their
+own singleton instances.
 </pre> 
 <p class="definition">Definition at line <a class="el" href="singleton_8py_source.html#l00019">19</a> of file <a class="el" href="singleton_8py_source.html">singleton.py</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aa9b9a747972be9d371b995ae7a7ef006" name="aa9b9a747972be9d371b995ae7a7ef006"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa9b9a747972be9d371b995ae7a7ef006">&#9670;&nbsp;</a></span>__init__()</h2>
+<a id="a92ff03ae041ae9b7589f77f3a53f642c" name="a92ff03ae041ae9b7589f77f3a53f642c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a92ff03ae041ae9b7589f77f3a53f642c">&#9670;&nbsp;</a></span>__init__()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -154,13 +151,13 @@ Providing a flavor_id will augment the filename with the provided flavor_id, all
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>flavor_id</em> = <code>&quot;&quot;</code>, </td>
+          <td class="paramname"><em>flavor_id</em> = <code>''</code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>lockfile</em> = <code>&quot;&quot;</code>&#160;</td>
+          <td class="paramname"><em>lockfile</em> = <code>''</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -170,17 +167,17 @@ Providing a flavor_id will augment the filename with the provided flavor_id, all
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="singleton_8py_source.html#l00032">32</a> of file <a class="el" href="singleton_8py_source.html">singleton.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="singleton_8py_source.html#l00035">35</a> of file <a class="el" href="singleton_8py_source.html">singleton.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classrare_1_1utils_1_1singleton_1_1_single_instance_aa9b9a747972be9d371b995ae7a7ef006_cgraph.svg" width="78" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classrare_1_1utils_1_1singleton_1_1_single_instance_a92ff03ae041ae9b7589f77f3a53f642c_cgraph.svg" width="78" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classrare_1_1utils_1_1singleton_1_1_single_instance_aa9b9a747972be9d371b995ae7a7ef006_icgraph.svg" width="78" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classrare_1_1utils_1_1singleton_1_1_single_instance_a92ff03ae041ae9b7589f77f3a53f642c_icgraph.svg" width="78" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 
@@ -202,7 +199,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="singleton_8py_source.html#l00069">69</a> of file <a class="el" href="singleton_8py_source.html">singleton.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="singleton_8py_source.html#l00072">72</a> of file <a class="el" href="singleton_8py_source.html">singleton.py</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -231,7 +228,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="singleton_8py_source.html#l00051">51</a> of file <a class="el" href="singleton_8py_source.html">singleton.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="singleton_8py_source.html#l00054">54</a> of file <a class="el" href="singleton_8py_source.html">singleton.py</a>.</p>
 
 </div>
 </div>
@@ -247,7 +244,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="singleton_8py_source.html#l00060">60</a> of file <a class="el" href="singleton_8py_source.html">singleton.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="singleton_8py_source.html#l00063">63</a> of file <a class="el" href="singleton_8py_source.html">singleton.py</a>.</p>
 
 </div>
 </div>
@@ -263,7 +260,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="singleton_8py_source.html#l00033">33</a> of file <a class="el" href="singleton_8py_source.html">singleton.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="singleton_8py_source.html#l00036">36</a> of file <a class="el" href="singleton_8py_source.html">singleton.py</a>.</p>
 
 </div>
 </div>
@@ -279,7 +276,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="singleton_8py_source.html#l00035">35</a> of file <a class="el" href="singleton_8py_source.html">singleton.py</a>.</p>
+<p class="definition">Definition at line <a class="el" href="singleton_8py_source.html#l00038">38</a> of file <a class="el" href="singleton_8py_source.html">singleton.py</a>.</p>
 
 </div>
 </div>

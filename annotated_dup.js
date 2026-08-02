@@ -27,9 +27,11 @@ var annotated_dup =
             [ "LaunchParams", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_params.html", "classrare_1_1commands_1_1launcher_1_1lgd__helper_1_1_launch_params" ]
           ] ],
           [ "PreLaunch", "classrare_1_1commands_1_1launcher_1_1_pre_launch.html", "classrare_1_1commands_1_1launcher_1_1_pre_launch" ],
+          [ "PreLaunchSignals", "classrare_1_1commands_1_1launcher_1_1_pre_launch_signals.html", null ],
           [ "RareLauncher", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html", "classrare_1_1commands_1_1launcher_1_1_rare_launcher" ],
           [ "RareLauncherException", "classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception.html", "classrare_1_1commands_1_1launcher_1_1_rare_launcher_exception" ],
-          [ "SyncCheckWorker", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker.html", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker" ]
+          [ "SyncCheckWorker", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker.html", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker" ],
+          [ "SyncCheckWorkerSignals", "classrare_1_1commands_1_1launcher_1_1_sync_check_worker_signals.html", null ]
         ] ]
       ] ],
       [ "components", "namespacerare_1_1components.html", [
@@ -59,6 +61,9 @@ var annotated_dup =
             ] ],
             [ "import_login", "namespacerare_1_1components_1_1dialogs_1_1login_1_1import__login.html", [
               [ "ImportLogin", "classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html", "classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login" ]
+            ] ],
+            [ "login_frame", "namespacerare_1_1components_1_1dialogs_1_1login_1_1login__frame.html", [
+              [ "LoginFrame", "classrare_1_1components_1_1dialogs_1_1login_1_1login__frame_1_1_login_frame.html", "classrare_1_1components_1_1dialogs_1_1login_1_1login__frame_1_1_login_frame" ]
             ] ],
             [ "LandingPage", "classrare_1_1components_1_1dialogs_1_1login_1_1_landing_page.html", "classrare_1_1components_1_1dialogs_1_1login_1_1_landing_page" ],
             [ "LoginDialog", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog.html", "classrare_1_1components_1_1dialogs_1_1login_1_1_login_dialog" ]
@@ -113,6 +118,7 @@ var annotated_dup =
             ] ],
             [ "eos_group", "namespacerare_1_1components_1_1tabs_1_1integrations_1_1eos__group.html", [
               [ "CheckForUpdateWorker", "classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_check_for_update_worker.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_check_for_update_worker" ],
+              [ "CheckForUpdateWorkerSignals", "classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_check_for_update_worker_signals.html", null ],
               [ "EosGroup", "classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_eos_group.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_eos_group" ],
               [ "EosPrefixWidget", "classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_eos_prefix_widget.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1eos__group_1_1_eos_prefix_widget" ]
             ] ],
@@ -120,11 +126,14 @@ var annotated_dup =
               [ "ImportedGame", "classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_imported_game.html", null ],
               [ "ImportGroup", "classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_group.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_group" ],
               [ "ImportResult", "classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_result.html", null ],
-              [ "ImportWorker", "classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_worker.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_worker" ]
+              [ "ImportWorker", "classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_worker.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_worker" ],
+              [ "ImportWorkerSignals", "classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_worker_signals.html", null ]
             ] ],
             [ "ubisoft_group", "namespacerare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group.html", [
               [ "UbiConnectWorker", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker" ],
+              [ "UbiConnectWorkerSignals", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_connect_worker_signals.html", null ],
               [ "UbiGetInfoWorker", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker" ],
+              [ "UbiGetInfoWorkerSignals", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_get_info_worker_signals.html", null ],
               [ "UbiLinkWidget", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubi_link_widget" ],
               [ "UbisoftGroup", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group.html", "classrare_1_1components_1_1tabs_1_1integrations_1_1ubisoft__group_1_1_ubisoft_group" ]
             ] ],
@@ -147,6 +156,7 @@ var annotated_dup =
                 [ "LocalWineSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_wine_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_wine_settings" ]
               ] ],
               [ "details", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1details.html", [
+                [ "AchievementWidget", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_achievement_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_achievement_widget" ],
                 [ "GameDetails", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details" ],
                 [ "GameTagAddDialog", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_add_dialog.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_add_dialog" ],
                 [ "GameTagCheckBox", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_check_box.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_check_box" ]
@@ -157,8 +167,10 @@ var annotated_dup =
                 [ "GameDlcWidget", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_game_dlc_widget" ],
                 [ "InstalledGameDlcWidget", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_installed_game_dlc_widget.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1dlcs_1_1_installed_game_dlc_widget" ]
               ] ],
+              [ "environ", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1environ.html", [
+                [ "LocalEnvironSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1environ_1_1_local_environ_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1environ_1_1_local_environ_settings" ]
+              ] ],
               [ "game", "namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1game.html", [
-                [ "LocalEnvVars", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_env_vars.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_env_vars" ],
                 [ "LocalGameSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_game_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_game_settings" ],
                 [ "LocalLaunchSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_launch_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_launch_settings" ],
                 [ "LocalWrapperSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_wrapper_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_wrapper_settings" ]
@@ -209,6 +221,10 @@ var annotated_dup =
             [ "debug", "namespacerare_1_1components_1_1tabs_1_1settings_1_1debug.html", [
               [ "DebugSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1debug_1_1_debug_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1debug_1_1_debug_settings" ]
             ] ],
+            [ "environ", "namespacerare_1_1components_1_1tabs_1_1settings_1_1environ.html", [
+              [ "EnvironSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1environ_1_1_environ_settings_base.html", "classrare_1_1components_1_1tabs_1_1settings_1_1environ_1_1_environ_settings_base" ],
+              [ "GlobalEnvironSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1environ_1_1_global_environ_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1environ_1_1_global_environ_settings" ]
+            ] ],
             [ "game", "namespacerare_1_1components_1_1tabs_1_1settings_1_1game.html", [
               [ "GameSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_game_settings_base.html", "classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_game_settings_base" ],
               [ "GlobalGameSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_global_game_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1game_1_1_global_game_settings" ],
@@ -216,7 +232,8 @@ var annotated_dup =
             ] ],
             [ "legendary", "namespacerare_1_1components_1_1tabs_1_1settings_1_1legendary.html", [
               [ "LegendarySettings", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_legendary_settings" ],
-              [ "RefreshGameMetaWorker", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker" ]
+              [ "RefreshGameMetaWorker", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker.html", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker" ],
+              [ "RefreshGameMetaWorkerSignals", "classrare_1_1components_1_1tabs_1_1settings_1_1legendary_1_1_refresh_game_meta_worker_signals.html", null ]
             ] ],
             [ "rare", "namespacerare_1_1components_1_1tabs_1_1settings_1_1rare.html", [
               [ "RareSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1rare_1_1_rare_settings" ]
@@ -225,12 +242,9 @@ var annotated_dup =
               [ "discord_rpc", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1discord__rpc.html", [
                 [ "DiscordRPCSettings", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1discord__rpc_1_1_discord_r_p_c_settings.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1discord__rpc_1_1_discord_r_p_c_settings" ]
               ] ],
-              [ "env_vars", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars.html", [
-                [ "EnvVars", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars_1_1_env_vars" ]
-              ] ],
-              [ "env_vars_model", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model.html", [
-                [ "EnvVarsTableModel", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_env_vars_table_model" ],
-                [ "MainDialog", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_main_dialog.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model_1_1_main_dialog" ]
+              [ "envvars", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1envvars.html", [
+                [ "EnvVars", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1envvars_1_1_env_vars.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1envvars_1_1_env_vars" ],
+                [ "EnvVarsTableModel", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1envvars_1_1_env_vars_table_model.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1envvars_1_1_env_vars_table_model" ]
               ] ],
               [ "launch", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch.html", [
                 [ "LaunchSettingsBase", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base" ]
@@ -340,12 +354,11 @@ var annotated_dup =
               [ "groups", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets_1_1groups.html", [
                 [ "StoreGroup", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1groups_1_1_store_group.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1groups_1_1_store_group" ]
               ] ],
-              [ "image", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image.html", [
-                [ "IconWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image_1_1_icon_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image_1_1_icon_widget" ],
-                [ "LoadingImageWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image_1_1_loading_image_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1image_1_1_loading_image_widget" ]
+              [ "icon_widget", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets_1_1icon__widget.html", [
+                [ "IconWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1icon__widget_1_1_icon_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1icon__widget_1_1_icon_widget" ]
               ] ],
               [ "items", "namespacerare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items.html", [
-                [ "ItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_item_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_item_widget" ],
+                [ "ItemWidgetSpinner", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_item_widget_spinner.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_item_widget_spinner" ],
                 [ "SearchItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_search_item_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_search_item_widget" ],
                 [ "StoreItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_store_item_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_store_item_widget" ],
                 [ "WishlistItemWidget", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_wishlist_item_widget.html", "classrare_1_1components_1_1tabs_1_1store_1_1widgets_1_1items_1_1_wishlist_item_widget" ]
@@ -421,12 +434,6 @@ var annotated_dup =
         ] ]
       ] ],
       [ "models", "namespacerare_1_1models.html", [
-        [ "base_game", "namespacerare_1_1models_1_1base__game.html", [
-          [ "RareGameBase", "classrare_1_1models_1_1base__game_1_1_rare_game_base.html", "classrare_1_1models_1_1base__game_1_1_rare_game_base" ],
-          [ "RareGameSignals", "classrare_1_1models_1_1base__game_1_1_rare_game_signals.html", "classrare_1_1models_1_1base__game_1_1_rare_game_signals" ],
-          [ "RareGameSlim", "classrare_1_1models_1_1base__game_1_1_rare_game_slim.html", "classrare_1_1models_1_1base__game_1_1_rare_game_slim" ],
-          [ "RareSaveGame", "classrare_1_1models_1_1base__game_1_1_rare_save_game.html", null ]
-        ] ],
         [ "enumerations", "namespacerare_1_1models_1_1enumerations.html", [
           [ "DiscordRPCMode", "classrare_1_1models_1_1enumerations_1_1_discord_r_p_c_mode.html", null ],
           [ "LibraryFilter", "classrare_1_1models_1_1enumerations_1_1_library_filter.html", null ],
@@ -435,7 +442,18 @@ var annotated_dup =
         ] ],
         [ "game", "namespacerare_1_1models_1_1game.html", [
           [ "RareEosOverlay", "classrare_1_1models_1_1game_1_1_rare_eos_overlay.html", "classrare_1_1models_1_1game_1_1_rare_eos_overlay" ],
-          [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", "classrare_1_1models_1_1game_1_1_rare_game" ]
+          [ "RareGame", "classrare_1_1models_1_1game_1_1_rare_game.html", "classrare_1_1models_1_1game_1_1_rare_game" ],
+          [ "RareGameMetadata", "classrare_1_1models_1_1game_1_1_rare_game_metadata.html", "classrare_1_1models_1_1game_1_1_rare_game_metadata" ]
+        ] ],
+        [ "game_slim", "namespacerare_1_1models_1_1game__slim.html", [
+          [ "RareGameBase", "classrare_1_1models_1_1game__slim_1_1_rare_game_base.html", "classrare_1_1models_1_1game__slim_1_1_rare_game_base" ],
+          [ "RareGameSignals", "classrare_1_1models_1_1game__slim_1_1_rare_game_signals.html", "classrare_1_1models_1_1game__slim_1_1_rare_game_signals" ],
+          [ "RareGameSignalsDownload", "classrare_1_1models_1_1game__slim_1_1_rare_game_signals_download.html", null ],
+          [ "RareGameSignalsGame", "classrare_1_1models_1_1game__slim_1_1_rare_game_signals_game.html", null ],
+          [ "RareGameSignalsProgress", "classrare_1_1models_1_1game__slim_1_1_rare_game_signals_progress.html", null ],
+          [ "RareGameSignalsWidget", "classrare_1_1models_1_1game__slim_1_1_rare_game_signals_widget.html", null ],
+          [ "RareGameSlim", "classrare_1_1models_1_1game__slim_1_1_rare_game_slim.html", "classrare_1_1models_1_1game__slim_1_1_rare_game_slim" ],
+          [ "RareSaveGame", "classrare_1_1models_1_1game__slim_1_1_rare_save_game.html", null ]
         ] ],
         [ "image", "namespacerare_1_1models_1_1image.html", [
           [ "ImageSize", "classrare_1_1models_1_1image_1_1_image_size.html", "classrare_1_1models_1_1image_1_1_image_size" ],
@@ -465,7 +483,11 @@ var annotated_dup =
           [ "Settings", "classrare_1_1models_1_1settings_1_1_settings.html", null ]
         ] ],
         [ "signals", "namespacerare_1_1models_1_1signals.html", [
-          [ "GlobalSignals", "classrare_1_1models_1_1signals_1_1_global_signals.html", "classrare_1_1models_1_1signals_1_1_global_signals" ]
+          [ "GlobalSignals", "classrare_1_1models_1_1signals_1_1_global_signals.html", "classrare_1_1models_1_1signals_1_1_global_signals" ],
+          [ "GlobalSignalsApplicationSignals", "classrare_1_1models_1_1signals_1_1_global_signals_application_signals.html", null ],
+          [ "GlobalSignalsDiscordRPCSignals", "classrare_1_1models_1_1signals_1_1_global_signals_discord_r_p_c_signals.html", null ],
+          [ "GlobalSignalsDownloadSignals", "classrare_1_1models_1_1signals_1_1_global_signals_download_signals.html", null ],
+          [ "GlobalSignalsGameSignals", "classrare_1_1models_1_1signals_1_1_global_signals_game_signals.html", null ]
         ] ],
         [ "steam", "namespacerare_1_1models_1_1steam.html", [
           [ "SteamShortcut", "classrare_1_1models_1_1steam_1_1_steam_shortcut.html", "classrare_1_1models_1_1steam_1_1_steam_shortcut" ],
@@ -494,22 +516,25 @@ var annotated_dup =
             [ "CloudSyncWorkerSignals", "classrare_1_1shared_1_1workers_1_1cloud__sync_1_1_cloud_sync_worker_signals.html", null ]
           ] ],
           [ "fetch", "namespacerare_1_1shared_1_1workers_1_1fetch.html", [
-            [ "EntitlementsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_entitlements_worker" ],
             [ "FetchWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker" ],
+            [ "FetchWorkerSignals", "classrare_1_1shared_1_1workers_1_1fetch_1_1_fetch_worker_signals.html", null ],
             [ "GamesDlcsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_games_dlcs_worker" ],
-            [ "SteamAppIdsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_steam_app_ids_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_steam_app_ids_worker" ]
+            [ "RuntimeAssetsWorker", "classrare_1_1shared_1_1workers_1_1fetch_1_1_runtime_assets_worker.html", "classrare_1_1shared_1_1workers_1_1fetch_1_1_runtime_assets_worker" ]
           ] ],
           [ "install", "namespacerare_1_1shared_1_1workers_1_1install.html", [
-            [ "InstallInfoWorker", "classrare_1_1shared_1_1workers_1_1install_1_1_install_info_worker.html", "classrare_1_1shared_1_1workers_1_1install_1_1_install_info_worker" ]
+            [ "InstallInfoWorker", "classrare_1_1shared_1_1workers_1_1install_1_1_install_info_worker.html", "classrare_1_1shared_1_1workers_1_1install_1_1_install_info_worker" ],
+            [ "InstallInfoWorkerSignals", "classrare_1_1shared_1_1workers_1_1install_1_1_install_info_worker_signals.html", null ]
           ] ],
           [ "move", "namespacerare_1_1shared_1_1workers_1_1move.html", [
             [ "MoveInfoWorker", "classrare_1_1shared_1_1workers_1_1move_1_1_move_info_worker.html", "classrare_1_1shared_1_1workers_1_1move_1_1_move_info_worker" ],
+            [ "MoveInfoWorkerSignals", "classrare_1_1shared_1_1workers_1_1move_1_1_move_info_worker_signals.html", null ],
             [ "MovePathEditReasons", "classrare_1_1shared_1_1workers_1_1move_1_1_move_path_edit_reasons.html", null ],
             [ "MoveWorker", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker.html", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker" ],
             [ "MoveWorkerSignals", "classrare_1_1shared_1_1workers_1_1move_1_1_move_worker_signals.html", null ]
           ] ],
           [ "uninstall", "namespacerare_1_1shared_1_1workers_1_1uninstall.html", [
-            [ "UninstallWorker", "classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html", "classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker" ]
+            [ "UninstallWorker", "classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker.html", "classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker" ],
+            [ "UninstallWorkerSignals", "classrare_1_1shared_1_1workers_1_1uninstall_1_1_uninstall_worker_signals.html", null ]
           ] ],
           [ "verify", "namespacerare_1_1shared_1_1workers_1_1verify.html", [
             [ "VerifyWorker", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker.html", "classrare_1_1shared_1_1workers_1_1verify_1_1_verify_worker" ],
@@ -518,11 +543,13 @@ var annotated_dup =
           [ "wine_resolver", "namespacerare_1_1shared_1_1workers_1_1wine__resolver.html", [
             [ "OriginWineWorker", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_origin_wine_worker.html", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_origin_wine_worker" ],
             [ "WinePathResolver", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver.html", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver" ],
+            [ "WinePathResolverSignals", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver_signals.html", null ],
             [ "WineSavePathResolver", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_save_path_resolver.html", "classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_save_path_resolver" ]
           ] ],
           [ "worker", "namespacerare_1_1shared_1_1workers_1_1worker.html", [
             [ "QueueWorker", "classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker.html", "classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker" ],
             [ "QueueWorkerInfo", "classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_info.html", null ],
+            [ "QueueWorkerSignals", "classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_signals.html", null ],
             [ "QueueWorkerState", "classrare_1_1shared_1_1workers_1_1worker_1_1_queue_worker_state.html", null ],
             [ "Worker", "classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html", "classrare_1_1shared_1_1workers_1_1worker_1_1_worker" ]
           ] ]
@@ -657,7 +684,8 @@ var annotated_dup =
             [ "SteamAntiCheat", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_anti_cheat.html", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_anti_cheat" ],
             [ "SteamBase", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_base.html", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_base" ],
             [ "SteamRuntime", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_runtime.html", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_runtime" ],
-            [ "SteamVerb", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_verb.html", null ]
+            [ "SteamVerb", "classrare_1_1utils_1_1compat_1_1steam_1_1_steam_verb.html", null ],
+            [ "UmuRuntime", "classrare_1_1utils_1_1compat_1_1steam_1_1_umu_runtime.html", null ]
           ] ],
           [ "wine", "namespacerare_1_1utils_1_1compat_1_1wine.html", [
             [ "WineRunner", "classrare_1_1utils_1_1compat_1_1wine_1_1_wine_runner.html", null ],
@@ -674,16 +702,24 @@ var annotated_dup =
         [ "misc", "namespacerare_1_1utils_1_1misc.html", [
           [ "ExitCodes", "classrare_1_1utils_1_1misc_1_1_exit_codes.html", null ]
         ] ],
-        [ "qt_requests", "namespacerare_1_1utils_1_1qt__requests.html", [
-          [ "QtRequests", "classrare_1_1utils_1_1qt__requests_1_1_qt_requests.html", "classrare_1_1utils_1_1qt__requests_1_1_qt_requests" ],
-          [ "RequestQueueItem", "classrare_1_1utils_1_1qt__requests_1_1_request_queue_item.html", "classrare_1_1utils_1_1qt__requests_1_1_request_queue_item" ]
+        [ "qrequests", "namespacerare_1_1utils_1_1qrequests.html", [
+          [ "QRequests", "classrare_1_1utils_1_1qrequests_1_1_q_requests.html", "classrare_1_1utils_1_1qrequests_1_1_q_requests" ],
+          [ "RequestQueueItem", "classrare_1_1utils_1_1qrequests_1_1_request_queue_item.html", "classrare_1_1utils_1_1qrequests_1_1_request_queue_item" ]
         ] ],
         [ "singleton", "namespacerare_1_1utils_1_1singleton.html", [
           [ "SingleInstance", "classrare_1_1utils_1_1singleton_1_1_single_instance.html", "classrare_1_1utils_1_1singleton_1_1_single_instance" ],
           [ "SingleInstanceException", "classrare_1_1utils_1_1singleton_1_1_single_instance_exception.html", null ]
         ] ],
+        [ "slot_adapters", "namespacerare_1_1utils_1_1slot__adapters.html", [
+          [ "CallableAction", "classrare_1_1utils_1_1slot__adapters_1_1_callable_action.html", "classrare_1_1utils_1_1slot__adapters_1_1_callable_action" ],
+          [ "CallableSlotAdapter", "classrare_1_1utils_1_1slot__adapters_1_1_callable_slot_adapter.html", "classrare_1_1utils_1_1slot__adapters_1_1_callable_slot_adapter" ]
+        ] ],
         [ "steam_grades", "namespacerare_1_1utils_1_1steam__grades.html", [
-          [ "ProtondbRatings", "classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html", "classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings" ]
+          [ "ProtondbRatings", "classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings.html", "classrare_1_1utils_1_1steam__grades_1_1_protondb_ratings" ],
+          [ "SteamGrades", "classrare_1_1utils_1_1steam__grades_1_1_steam_grades.html", "classrare_1_1utils_1_1steam__grades_1_1_steam_grades" ]
+        ] ],
+        [ "workarounds", "namespacerare_1_1utils_1_1workarounds.html", [
+          [ "Workarounds", "classrare_1_1utils_1_1workarounds_1_1_workarounds.html", "classrare_1_1utils_1_1workarounds_1_1_workarounds" ]
         ] ]
       ] ],
       [ "widgets", "namespacerare_1_1widgets.html", [
@@ -708,11 +744,14 @@ var annotated_dup =
           [ "FlowLayout", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout.html", "classrare_1_1widgets_1_1flow__layout_1_1_flow_layout" ]
         ] ],
         [ "image_widget", "namespacerare_1_1widgets_1_1image__widget.html", [
-          [ "ImageWidget", "classrare_1_1widgets_1_1image__widget_1_1_image_widget.html", "classrare_1_1widgets_1_1image__widget_1_1_image_widget" ]
+          [ "ImageWidget", "classrare_1_1widgets_1_1image__widget_1_1_image_widget.html", "classrare_1_1widgets_1_1image__widget_1_1_image_widget" ],
+          [ "LoadingImageWidget", "classrare_1_1widgets_1_1image__widget_1_1_loading_image_widget.html", "classrare_1_1widgets_1_1image__widget_1_1_loading_image_widget" ],
+          [ "LoadingSpinnerImageWidget", "classrare_1_1widgets_1_1image__widget_1_1_loading_spinner_image_widget.html", "classrare_1_1widgets_1_1image__widget_1_1_loading_spinner_image_widget" ]
         ] ],
         [ "indicator_edit", "namespacerare_1_1widgets_1_1indicator__edit.html", [
           [ "ColumnCompleter", "classrare_1_1widgets_1_1indicator__edit_1_1_column_completer.html", "classrare_1_1widgets_1_1indicator__edit_1_1_column_completer" ],
           [ "EditFuncRunnable", "classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable.html", "classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable" ],
+          [ "EditFuncRunnableSignals", "classrare_1_1widgets_1_1indicator__edit_1_1_edit_func_runnable_signals.html", null ],
           [ "IndicatorLineEdit", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit.html", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_line_edit" ],
           [ "IndicatorReasons", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons.html", null ],
           [ "IndicatorReasonsCommon", "classrare_1_1widgets_1_1indicator__edit_1_1_indicator_reasons_common.html", null ],

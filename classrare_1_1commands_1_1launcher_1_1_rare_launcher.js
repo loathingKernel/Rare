@@ -1,7 +1,8 @@
 var classrare_1_1commands_1_1launcher_1_1_rare_launcher =
 [
     [ "__init__", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ad583e24cdbdf0a44a67396b9c7df2a94", null ],
-    [ "check_saves_finished", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ad47de7ec8f6313187cfd8f81dd9584fc", null ],
+    [ "check_saves", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#aa3ae950f2368e1eb219c4a440f2e1a4d", null ],
+    [ "check_saves_finished", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a94125cd5af91eae728aa292a06ec3c72", null ],
     [ "error_occurred", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ac2d7fc08d8189d84d207151df722ee19", null ],
     [ "launch_game", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a5c2392a014391172392b0fa297732117", null ],
     [ "new_server_connection", "classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ae31d0e5ce3a3d715ce7b75021b1dc8bc", null ],

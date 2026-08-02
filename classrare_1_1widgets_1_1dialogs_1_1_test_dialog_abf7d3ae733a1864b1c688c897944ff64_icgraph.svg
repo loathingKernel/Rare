@@ -122,7 +122,7 @@ var sectionId = 'dynsection-17';
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_add_dialog.html#a6a730109dd49a13c63a0dd41c0575915" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_tag_add_dialog.html#aa5146082c704d12614c037d47609edbb" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="194,-279 194,-309 395,-309 395,-279 194,-279"/>
 <text text-anchor="start" x="202" y="-297" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.details.details.</text>
 <text text-anchor="middle" x="294.5" y="-286" font-family="Helvetica,sans-Serif" font-size="10.00">GameTagAddDialog.__init__</text>
@@ -138,7 +138,7 @@ var sectionId = 'dynsection-17';
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1components_1_1dialogs_1_1uninstall_1_1_uninstall_dialog.html#afface21f92e0fa969e78ba5a3b83a9e8" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="classrare_1_1components_1_1dialogs_1_1uninstall_1_1_uninstall_dialog.html#a1ab64382ac70d8ee9cb03d369c76cfdf" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="213.5,-212 213.5,-242 375.5,-242 375.5,-212 213.5,-212"/>
 <text text-anchor="start" x="221.5" y="-230" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.dialogs.uninstall.</text>
 <text text-anchor="middle" x="294.5" y="-219" font-family="Helvetica,sans-Serif" font-size="10.00">UninstallDialog.__init__</text>

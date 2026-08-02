@@ -1,6 +1,6 @@
 var classrare_1_1models_1_1steam_1_1_steam_user =
 [
-    [ "__init__", "classrare_1_1models_1_1steam_1_1_steam_user.html#ad78dad563a5e37c9c87c9512d6575903", null ],
+    [ "__init__", "classrare_1_1models_1_1steam_1_1_steam_user.html#aca871ab2bcdf74dfa665fe81b1b9bf34", null ],
     [ "__dict__", "classrare_1_1models_1_1steam_1_1_steam_user.html#a563276b55376fdd9f495c321c5408906", null ],
     [ "__repr__", "classrare_1_1models_1_1steam_1_1_steam_user.html#a9a47563093dfc5ba12274b66e368920c", null ],
     [ "account_name", "classrare_1_1models_1_1steam_1_1_steam_user.html#afef455279a7b142e525be6d7c0cf2d62", null ],

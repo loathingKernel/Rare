@@ -1,6 +1,6 @@
 var classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog =
 [
-    [ "__init__", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#aed3118300d9861522fd881d155aae6c6", null ],
+    [ "__init__", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#a2881d853608f3eed55d0a87fb82a6491", null ],
     [ "accept_handler", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#a5786ae567b9d7f6957dfb2ae04f22e63", null ],
     [ "action_handler", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#a91c6c5717fad488963fe42e9bc046c11", null ],
     [ "check_incompatible_platform", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#a3fc9ab71229d482b71c558b61036253e", null ],
@@ -10,8 +10,8 @@ var classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog =
     [ "get_options", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#a004987011909ef3b326e6d95f6393ec0", null ],
     [ "reject_handler", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#ad19ad97d4c365a238e29bf69deae4636", null ],
     [ "reset_install_dir", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#ad8b9aca3b4569ed7e3fb941651cc2c6a", null ],
-    [ "set_error_labels", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#ab5cb6ac1450dcc74ff2e38691e0bdbd9", null ],
-    [ "set_size_labels", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#aee793814073e1655a8bc6d62815192bb", null ],
+    [ "set_error_labels", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#aa55ed66ebe9b351cb560e2b6441e7f21", null ],
+    [ "set_size_labels", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#ac6e39495a0085bb5a4b89798294059f0", null ],
     [ "showEvent", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#af997cabd23f14f71f7f87c986ccd582c", null ],
     [ "advanced", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#a5ec6fa53e931faae02de724c82c37c76", null ],
     [ "core", "classrare_1_1components_1_1dialogs_1_1install_1_1dialog_1_1_install_dialog.html#ab65a1cfe05166d06195718a9587d7b86", null ],

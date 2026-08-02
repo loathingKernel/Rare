@@ -11,7 +11,7 @@ var searchData=
   ['queued_5fcontainer_8',['queued_container',['../classrare_1_1components_1_1main__window_1_1_rare_window.html#a977caf497a400fbd3c5aea459be200f4',1,'rare::components::main_window::RareWindow']]],
   ['queued_5flabel_9',['queued_label',['../classrare_1_1components_1_1main__window_1_1_rare_window.html#a5e45985d54fe11d8761b81078631b732',1,'rare::components::main_window::RareWindow']]],
   ['queued_5fscroll_10',['queued_scroll',['../classrare_1_1components_1_1main__window_1_1_rare_window.html#a5fabd01ac61f0bdfc79b6eef6d945fcd',1,'rare::components::main_window::RareWindow']]],
-  ['quit_11',['quit',['../classrare_1_1models_1_1signals_1_1_global_signals_1_1_application_signals.html#aabe3caba392c94aba7bb55af66802b05',1,'rare::models::signals::GlobalSignals::ApplicationSignals']]],
+  ['quit_11',['quit',['../classrare_1_1models_1_1signals_1_1_global_signals_application_signals.html#aabe3caba392c94aba7bb55af66802b05',1,'rare::models::signals::GlobalSignalsApplicationSignals']]],
   ['quit_5fbutton_12',['quit_button',['../classrare_1_1components_1_1tabs_1_1account_1_1_account_widget.html#af3cf0562cbf1ee08a01ac2070681629a',1,'rare::components::tabs::account::AccountWidget']]],
-  ['qurl_13',['QUrl',['../classrare_1_1utils_1_1qt__requests_1_1_request_queue_item.html#a2072eb59be7c7c036c3c41b479bd2015',1,'rare::utils::qt_requests::RequestQueueItem']]]
+  ['qurl_13',['QUrl',['../classrare_1_1utils_1_1qrequests_1_1_request_queue_item.html#a2072eb59be7c7c036c3c41b479bd2015',1,'rare::utils::qrequests::RequestQueueItem']]]
 ];

@@ -1,7 +1,6 @@
 <map id="connect_to_server" name="connect_to_server">
-<area shape="rect" id="node1" title=" " alt="" coords="5,93,135,120"/>
-<area shape="rect" id="node2" href="$classrare_1_1shared_1_1game__process_1_1_game_process.html#a338ef53462f094c2696fc3f6f6691d85" title=" " alt="" coords="245,5,312,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a12f955916793905678dcf3873dc5878b" title=" " alt="" coords="183,57,375,98"/>
-<area shape="rect" id="node4" href="$classrare_1_1shared_1_1game__process_1_1_game_process.html#a12f955916793905678dcf3873dc5878b" title=" " alt="" coords="219,123,338,149"/>
-<area shape="rect" id="node5" href="$namespacerare_1_1components.html#a019ee207f5c041fb0d2e61f76eafa958" title=" " alt="" coords="205,197,352,224"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,135,83"/>
+<area shape="rect" id="node2" href="$classrare_1_1shared_1_1game__process_1_1_game_process.html#a338ef53462f094c2696fc3f6f6691d85" title=" " alt="" coords="223,5,289,32"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1game__process_1_1_game_process.html#a12f955916793905678dcf3873dc5878b" title=" " alt="" coords="197,56,315,83"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1components.html#a834af784d39059674a5f70e690b62216" title=" " alt="" coords="183,131,329,157"/>
 </map>

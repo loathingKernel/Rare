@@ -73,17 +73,17 @@ var sectionId = 'dynsection-8';
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a9123e445e36538192ad6245feb9f61f1" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="140,-154.37 140,-173.37 260,-173.37 260,-154.37 140,-154.37"/>
-<text text-anchor="middle" x="200" y="-161.37" font-family="Helvetica,sans-Serif" font-size="10.00">__update_current_value</text>
+<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_overlay_settings.html#a8a57a3bbd15129eee14710a45268362e" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="142.5,-154.37 142.5,-173.37 257.5,-173.37 257.5,-154.37 142.5,-154.37"/>
+<text text-anchor="middle" x="200" y="-161.37" font-family="Helvetica,sans-Serif" font-size="10.00">_update_current_value</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M39.22,-80.37C49.45,-96.46 72.49,-128.87 101,-144.87 109.93,-149.88 119.97,-153.59 130.11,-156.33"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="129.31,-159.74 139.85,-158.68 130.94,-152.93 129.31,-159.74"/>
+<path fill="none" stroke="midnightblue" d="M39.22,-80.37C49.45,-96.46 72.49,-128.87 101,-144.87 110.6,-150.26 121.48,-154.14 132.4,-156.94"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="131.88,-160.41 142.41,-159.21 133.43,-153.58 131.88,-160.41"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">

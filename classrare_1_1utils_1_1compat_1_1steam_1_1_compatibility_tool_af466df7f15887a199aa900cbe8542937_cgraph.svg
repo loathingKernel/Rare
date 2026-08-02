@@ -27,7 +27,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1utils_1_1compat_1_1steam_1_1_steam_base.html#a55f8c74dfa2cfeb7ba352f5bf799009f" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1utils_1_1compat_1_1steam_1_1_steam_base.html#ae6aaefbfe8c4e407f63ed3acf884bfe2" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="92,-0.5 92,-30.5 217,-30.5 217,-0.5 92,-0.5"/>
 <text text-anchor="start" x="100" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.compat.steam.</text>
 <text text-anchor="middle" x="154.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">SteamBase.required_tool</text>

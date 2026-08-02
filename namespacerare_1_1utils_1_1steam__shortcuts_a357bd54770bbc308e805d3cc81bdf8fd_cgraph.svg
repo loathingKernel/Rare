@@ -89,7 +89,7 @@ var sectionId = 'dynsection-2';
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
-<g id="a_node8"><a xlink:href="namespacerare_1_1utils_1_1paths.html#a5aae2af81c71e81b5a7ce0c16db5ba19" target="_top" xlink:title=" ">
+<g id="a_node8"><a xlink:href="namespacerare_1_1utils_1_1paths.html#a68cd3e1fc788f308126c93413a0f312c" target="_top" xlink:title="Returns the command list to invoke Rare for different platforms and packaging solutions When used wit...">
 <polygon fill="white" stroke="black" points="154.5,-78.38 154.5,-108.38 249.5,-108.38 249.5,-78.38 154.5,-78.38"/>
 <text text-anchor="start" x="162.5" y="-96.38" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.paths.get</text>
 <text text-anchor="middle" x="202" y="-85.38" font-family="Helvetica,sans-Serif" font-size="10.00">_rare_executable</text>
@@ -105,7 +105,7 @@ var sectionId = 'dynsection-2';
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="namespacerare_1_1utils_1_1steam__shortcuts.html#ad6816d9b344d6df0048278ae71945d05" target="_top" xlink:title=" ">
+<g id="a_node9"><a xlink:href="namespacerare_1_1utils_1_1steam__shortcuts.html#af95b63560420af4140353e3eff6287b6" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="141,-21.88 141,-40.88 263,-40.88 263,-21.88 141,-21.88"/>
 <text text-anchor="middle" x="202" y="-28.88" font-family="Helvetica,sans-Serif" font-size="10.00">remove_steam_shortcut</text>
 </a>

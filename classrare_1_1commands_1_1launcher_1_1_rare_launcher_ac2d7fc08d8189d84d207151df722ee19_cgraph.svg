@@ -153,32 +153,32 @@
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ad6acab567ee6df6a65b0d93623c08d18" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="325,-38.5 325,-57.5 388,-57.5 388,-38.5 325,-38.5"/>
-<text text-anchor="middle" x="356.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">__proc_kill</text>
+<g id="a_node7"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#aee41db83ecf818a04ed03866a5920ca4" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="327.5,-38.5 327.5,-57.5 385.5,-57.5 385.5,-38.5 327.5,-38.5"/>
+<text text-anchor="middle" x="356.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">_proc_kill</text>
 </a>
 </g>
 </g>
 <!-- Node6&#45;&gt;Node7 -->
 <g id="edge13" class="edge">
 <title>Node6&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M201.66,-30.86C227.59,-33.75 278.37,-39.41 314.5,-43.43"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="314.4,-46.94 324.73,-44.57 315.17,-39.98 314.4,-46.94"/>
+<path fill="none" stroke="midnightblue" d="M201.66,-30.86C228.2,-33.81 280.78,-39.67 317.02,-43.71"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="316.91,-47.22 327.23,-44.85 317.68,-40.26 316.91,-47.22"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
-<g id="a_node8"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ac2ff56cbc5075514d1e49aeb071a7b6d" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="321,-0.5 321,-19.5 392,-19.5 392,-0.5 321,-0.5"/>
-<text text-anchor="middle" x="356.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">__proc_term</text>
+<g id="a_node8"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a61bac4612297d7c28aba4933cd25c0b8" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="324,-0.5 324,-19.5 389,-19.5 389,-0.5 324,-0.5"/>
+<text text-anchor="middle" x="356.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_proc_term</text>
 </a>
 </g>
 </g>
 <!-- Node6&#45;&gt;Node8 -->
 <g id="edge14" class="edge">
 <title>Node6&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M201.66,-27.14C226.67,-24.36 274.82,-18.99 310.62,-15"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="311.27,-18.45 320.82,-13.86 310.5,-11.49 311.27,-18.45"/>
+<path fill="none" stroke="midnightblue" d="M201.66,-27.14C227.36,-24.28 277.48,-18.69 313.54,-14.68"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="314.21,-18.12 323.77,-13.54 313.44,-11.17 314.21,-18.12"/>
 </g>
 </g>
 </svg>

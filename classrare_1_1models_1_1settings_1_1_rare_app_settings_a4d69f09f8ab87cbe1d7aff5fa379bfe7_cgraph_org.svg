@@ -65,7 +65,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html#ab2e839f79f74112bc4f6c85e4159e217" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_update_group.html#a72db1637037e94e383fc8ef991b55974" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="326,-147.5 326,-177.5 518,-177.5 518,-147.5 326,-147.5"/>
 <text text-anchor="start" x="334" y="-165.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.downloads.groups.</text>
 <text text-anchor="middle" x="422" y="-154.5" font-family="Helvetica,sans-Serif" font-size="10.00">UpdateGroup.__find_widget</text>
@@ -81,7 +81,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#a40cbc229430213d2d834c3440098a875" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1components_1_1tabs_1_1downloads_1_1groups_1_1_queue_group.html#a436c008704806331bb034d2c2e4d8c0a" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="326,-98.5 326,-128.5 518,-128.5 518,-98.5 326,-98.5"/>
 <text text-anchor="start" x="334" y="-116.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.downloads.groups.</text>
 <text text-anchor="middle" x="422" y="-105.5" font-family="Helvetica,sans-Serif" font-size="10.00">QueueGroup.__find_widget</text>
@@ -97,7 +97,7 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_library_widget_controller.html#a3e5644faa03dce0cb52a471bb244b83b" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1_library_widget_controller.html#ad197a3a94ee3b2ebad61d64148903d25" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="332.5,-49.5 332.5,-79.5 511.5,-79.5 511.5,-49.5 332.5,-49.5"/>
 <text text-anchor="start" x="340.5" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.library.widgets.</text>
 <text text-anchor="middle" x="422" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">LibraryWidgetController.__find_widget</text>

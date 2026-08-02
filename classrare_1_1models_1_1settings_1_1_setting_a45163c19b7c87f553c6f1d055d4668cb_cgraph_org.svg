@@ -27,9 +27,9 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game_1_1_metadata.html#a563276b55376fdd9f495c321c5408906" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="99.81,-516 99.81,-546 243.81,-546 243.81,-516 99.81,-516"/>
-<text text-anchor="start" x="107.81" y="-534" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareGame.</text>
+<g id="a_node2"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game_metadata.html#a563276b55376fdd9f495c321c5408906" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="100.81,-516 100.81,-546 242.81,-546 242.81,-516 100.81,-516"/>
+<text text-anchor="start" x="108.81" y="-534" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareGame</text>
 <text text-anchor="middle" x="171.81" y="-523" font-family="Helvetica,sans-Serif" font-size="10.00">Metadata.__dict__</text>
 </a>
 </g>
@@ -128,7 +128,7 @@
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
-<g id="a_node8"><a xlink:href="classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#aca28781d9d67dfe93a3b27773d262c7a" target="_top" xlink:title=" ">
+<g id="a_node8"><a xlink:href="classrare_1_1components_1_1tray__icon_1_1_tray_icon.html#a7b0e8da34b7587e4b1db5f065866e400" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="332.31,-516 332.31,-546 463.31,-546 463.31,-516 332.31,-516"/>
 <text text-anchor="start" x="340.31" y="-534" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tray</text>
 <text text-anchor="middle" x="397.81" y="-523" font-family="Helvetica,sans-Serif" font-size="10.00">_icon.TrayIcon.last_played</text>
@@ -138,8 +138,8 @@
 <!-- Node2&#45;&gt;Node8 -->
 <g id="edge13" class="edge">
 <title>Node2&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M243.99,-531C268.87,-531 296.87,-531 322.04,-531"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="322.26,-534.5 332.26,-531 322.26,-527.5 322.26,-534.5"/>
+<path fill="none" stroke="midnightblue" d="M243.07,-531C268.1,-531 296.38,-531 321.8,-531"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="322.13,-534.5 332.13,-531 322.13,-527.5 322.13,-534.5"/>
 </g>
 <!-- Node9 -->
 <g id="node9" class="node">
@@ -160,7 +160,7 @@
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game.html#a72dad49f74d9c9ba67eca7e2ead920e4" target="_top" xlink:title=" ">
+<g id="a_node10"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game.html#a7fee042eaeb31559fbc0231562996ed4" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="316.31,-583.5 316.31,-602.5 479.31,-602.5 479.31,-583.5 316.31,-583.5"/>
 <text text-anchor="middle" x="397.81" y="-590.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareGame.tags</text>
 </a>

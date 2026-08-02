@@ -1,4 +1,5 @@
 <map id="ImportLogin" name="ImportLogin">
-<area shape="rect" id="node1" title=" " alt="" coords="5,131,149,413"/>
-<area shape="rect" id="node2" title=" " alt="" coords="43,5,112,83"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,329,149,539"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1dialogs_1_1login_1_1login__frame_1_1_login_frame.html" title=" " alt="" coords="32,131,123,281"/>
+<area shape="rect" id="node3" title=" " alt="" coords="43,5,112,83"/>
 </map>

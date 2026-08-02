@@ -27,7 +27,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="namespacerare_1_1utils_1_1compat_1_1steam.html#a59bb31db08829a184890f1668b1c6ea2" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="namespacerare_1_1utils_1_1compat_1_1steam.html#abb71912ca54d0db38267aa6e368061ac" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-19.5 121,-19.5 121,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="60.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">get_steam_environment</text>
 </a>

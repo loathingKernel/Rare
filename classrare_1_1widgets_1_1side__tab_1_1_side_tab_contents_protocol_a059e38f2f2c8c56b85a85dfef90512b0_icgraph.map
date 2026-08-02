@@ -1,5 +1,6 @@
 <map id="set_title" name="set_title">
-<area shape="rect" id="node1" title=" " alt="" coords="327,82,395,109"/>
+<area shape="rect" id="node1" title=" " alt="" coords="327,126,395,153"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1compat_1_1_local_compat_settings.html#a1d7fb6f66483b4e5b1ab0c32220c829e" title=" " alt="" coords="5,29,279,71"/>
-<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_game_settings.html#a1d7fb6f66483b4e5b1ab0c32220c829e" title=" " alt="" coords="11,119,273,160"/>
+<area shape="rect" id="node3" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1environ_1_1_local_environ_settings.html#a1d7fb6f66483b4e5b1ab0c32220c829e" title=" " alt="" coords="6,119,278,160"/>
+<area shape="rect" id="node4" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1game_1_1_local_game_settings.html#a1d7fb6f66483b4e5b1ab0c32220c829e" title=" " alt="" coords="11,208,273,249"/>
 </map>

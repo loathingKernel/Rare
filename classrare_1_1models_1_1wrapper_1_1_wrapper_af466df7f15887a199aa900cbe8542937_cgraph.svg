@@ -64,7 +64,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1models_1_1wrapper_1_1_wrapper.html#ad3fabe8877b6b9dfe91dabda33dabcae" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1models_1_1wrapper_1_1_wrapper.html#acf7efedbea665602b0bd1fb6e5cf4f1b" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="285.5,-202 285.5,-221 344.5,-221 344.5,-202 285.5,-202"/>
 <text text-anchor="middle" x="315" y="-209" font-family="Helvetica,sans-Serif" font-size="10.00">command</text>
 </a>
@@ -79,7 +79,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classrare_1_1utils_1_1compat_1_1steam_1_1_steam_base.html#ab565bcec98b68d45e7ff83175c3c0550" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classrare_1_1utils_1_1compat_1_1steam_1_1_steam_base.html#a7a025fcfe0026d722003d8dac93807f2" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="255.5,-134.5 255.5,-164.5 374.5,-164.5 374.5,-134.5 255.5,-134.5"/>
 <text text-anchor="start" x="263.5" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.compat.steam.</text>
 <text text-anchor="middle" x="315" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">SteamBase.command</text>
@@ -95,7 +95,7 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classrare_1_1utils_1_1compat_1_1steam_1_1_proton_tool.html#ab565bcec98b68d45e7ff83175c3c0550" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="classrare_1_1utils_1_1compat_1_1steam_1_1_proton_tool.html#a7a025fcfe0026d722003d8dac93807f2" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="255.5,-67.5 255.5,-97.5 374.5,-97.5 374.5,-67.5 255.5,-67.5"/>
 <text text-anchor="start" x="263.5" y="-85.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.compat.steam.</text>
 <text text-anchor="middle" x="315" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">ProtonTool.command</text>
@@ -111,7 +111,7 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classrare_1_1utils_1_1compat_1_1steam_1_1_compatibility_tool.html#ab565bcec98b68d45e7ff83175c3c0550" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="classrare_1_1utils_1_1compat_1_1steam_1_1_compatibility_tool.html#a7a025fcfe0026d722003d8dac93807f2" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="247,-0.5 247,-30.5 383,-30.5 383,-0.5 247,-0.5"/>
 <text text-anchor="start" x="255" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.utils.compat.steam.</text>
 <text text-anchor="middle" x="315" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">CompatibilityTool.command</text>

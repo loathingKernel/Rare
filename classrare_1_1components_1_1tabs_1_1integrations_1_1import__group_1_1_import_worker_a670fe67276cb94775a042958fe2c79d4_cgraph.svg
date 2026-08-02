@@ -73,32 +73,32 @@ var sectionId = 'dynsection-4';
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_worker.html#a415bd94ee880e38a4ac64b6c0ef888c7" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="137.16,-441 137.16,-460 220.16,-460 220.16,-441 137.16,-441"/>
-<text text-anchor="middle" x="178.66" y="-448" font-family="Helvetica,sans-Serif" font-size="10.00">__import_game</text>
+<g id="a_node2"><a xlink:href="classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_worker.html#a3f29dbcaf650a56c466d3f51588bb4b5" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="139.66,-441 139.66,-460 217.66,-460 217.66,-441 139.66,-441"/>
+<text text-anchor="middle" x="178.66" y="-448" font-family="Helvetica,sans-Serif" font-size="10.00">_import_game</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M29.09,-259.17C27.85,-289.57 28.46,-384.07 79.66,-431.5 92.3,-443.2 109.89,-448.68 126.69,-451.01"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="126.69,-454.53 137,-452.08 127.41,-447.56 126.69,-454.53"/>
+<path fill="none" stroke="midnightblue" d="M29.09,-259.17C27.85,-289.57 28.46,-384.07 79.66,-431.5 92.95,-443.81 111.72,-449.23 129.28,-451.34"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="129.16,-454.85 139.43,-452.23 129.77,-447.87 129.16,-454.85"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_worker.html#a32df06b73c0effecf57cd612b79d2cdf" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="143.66,-403 143.66,-422 213.66,-422 213.66,-403 143.66,-403"/>
-<text text-anchor="middle" x="178.66" y="-410" font-family="Helvetica,sans-Serif" font-size="10.00">__try_import</text>
+<g id="a_node3"><a xlink:href="classrare_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_import_worker.html#ab36359108753bf1a77846fe4c93eb986" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="146.16,-403 146.16,-422 211.16,-422 211.16,-403 146.16,-403"/>
+<text text-anchor="middle" x="178.66" y="-410" font-family="Helvetica,sans-Serif" font-size="10.00">_try_import</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M29.91,-259.36C31.13,-285.62 38.27,-357.62 79.66,-393.5 94.36,-406.24 115.01,-411.46 133.56,-413.31"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="133.38,-416.8 143.6,-414.01 133.87,-409.82 133.38,-416.8"/>
+<path fill="none" stroke="midnightblue" d="M29.91,-259.36C31.13,-285.62 38.27,-357.62 79.66,-393.5 94.99,-406.78 116.77,-411.89 135.91,-413.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="135.73,-417.02 145.92,-414.09 136.13,-410.03 135.73,-417.02"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
@@ -135,7 +135,7 @@ var sectionId = 'dynsection-4';
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="namespacerare_1_1components_1_1tabs_1_1integrations_1_1import__group.html#a2bddabe370da2d3f9b22f90f5aa555d3" target="_top" xlink:title=" ">
+<g id="a_node7"><a xlink:href="namespacerare_1_1components_1_1tabs_1_1integrations_1_1import__group.html#a23a9759dde74154a6253bc07acc53073" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="83.16,-201.5 83.16,-231.5 274.16,-231.5 274.16,-201.5 83.16,-201.5"/>
 <text text-anchor="start" x="91.16" y="-219.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.tabs.integrations.import</text>
 <text text-anchor="middle" x="178.66" y="-208.5" font-family="Helvetica,sans-Serif" font-size="10.00">_group.find_app_name</text>

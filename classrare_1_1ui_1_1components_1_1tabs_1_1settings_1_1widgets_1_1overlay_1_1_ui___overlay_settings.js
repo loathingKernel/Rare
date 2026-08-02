@@ -4,12 +4,12 @@ var classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_
     [ "setupUi", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#a7547d9286fbf1bdd60e08571b1daa0d0", null ],
     [ "current_value_info", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#a68d3d70086d40f1a4318caaa6a17eb6a", null ],
     [ "current_value_label", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#a9071de83c25294190c2fbd7b180bc6c2", null ],
-    [ "hspacer", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#a8bf24cc7a46ce13cf72b8526d1086d51", null ],
+    [ "left_options_form", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#af2cce47bdbdea1fce2ecde459dcefba3", null ],
     [ "main_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#a8bca68c145928164b86a7af9df216eea", null ],
-    [ "options_form", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#ad7f7427392a8e3a94143156fdf61fba0", null ],
     [ "options_grid", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#ae814ae1293510ef9e49d6bbc334691ca", null ],
     [ "options_group", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#a9a22f11937f06cb2ddcfd5ea13ea6004", null ],
     [ "options_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#a7021d70ec5cfe0f6c737fe98467b68c1", null ],
     [ "overlay_state_combo", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#a10c8c23bbc123cbcbc46653ba35e55d6", null ],
-    [ "overlay_state_label", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#a7c3328b15922255515acb8670417cf2d", null ]
+    [ "overlay_state_label", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#a7c3328b15922255515acb8670417cf2d", null ],
+    [ "right_options_form", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay_1_1_ui___overlay_settings.html#a50741266a09f9c9de857271cc5d0f426", null ]
 ];

@@ -1,8 +1,7 @@
 var namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets =
 [
     [ "discord_rpc", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1discord__rpc.html", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1discord__rpc" ],
-    [ "env_vars", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars.html", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars" ],
-    [ "env_vars_model", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model.html", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1env__vars__model" ],
+    [ "envvars", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1envvars.html", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1envvars" ],
     [ "launch", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch.html", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch" ],
     [ "overlay", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay.html", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1overlay" ],
     [ "proton", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton.html", "namespacerare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1proton" ],

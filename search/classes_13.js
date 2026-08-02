@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['widget_0',['Widget',['../classrare_1_1models_1_1base__game_1_1_rare_game_signals_1_1_widget.html',1,'rare::models::base_game::RareGameSignals']]],
-  ['winepathresolver_1',['WinePathResolver',['../classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver.html',1,'rare::shared::workers::wine_resolver']]],
+  ['winepathresolver_0',['WinePathResolver',['../classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver.html',1,'rare::shared::workers::wine_resolver']]],
+  ['winepathresolversignals_1',['WinePathResolverSignals',['../classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_path_resolver_signals.html',1,'rare::shared::workers::wine_resolver']]],
   ['winerunner_2',['WineRunner',['../classrare_1_1utils_1_1compat_1_1wine_1_1_wine_runner.html',1,'rare::utils::compat::wine']]],
   ['wineruntime_3',['WineRuntime',['../classrare_1_1utils_1_1compat_1_1wine_1_1_wine_runtime.html',1,'rare::utils::compat::wine']]],
   ['winesavepathresolver_4',['WineSavePathResolver',['../classrare_1_1shared_1_1workers_1_1wine__resolver_1_1_wine_save_path_resolver.html',1,'rare::shared::workers::wine_resolver']]],
@@ -14,15 +14,16 @@ var searchData=
   ['wishlistorder_11',['WishlistOrder',['../classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_order.html',1,'rare::components::tabs::store::wishlist']]],
   ['wishlistpage_12',['WishlistPage',['../classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_page.html',1,'rare::components::tabs::store::wishlist']]],
   ['wishlistwidget_13',['WishlistWidget',['../classrare_1_1components_1_1tabs_1_1store_1_1wishlist_1_1_wishlist_widget.html',1,'rare::components::tabs::store::wishlist']]],
-  ['worker_14',['Worker',['../classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html',1,'rare::shared::workers::worker']]],
-  ['wrapper_15',['Wrapper',['../classrare_1_1models_1_1wrapper_1_1_wrapper.html',1,'rare::models::wrapper']]],
-  ['wrapperadddialog_16',['WrapperAddDialog',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_add_dialog.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
-  ['wrappercontainer_17',['WrapperContainer',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_container.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
-  ['wrappereditdialog_18',['WrapperEditDialog',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_edit_dialog.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
-  ['wrapperentry_19',['WrapperEntry',['../classrare_1_1shared_1_1wrappers_1_1_wrapper_entry.html',1,'rare::shared::wrappers']]],
-  ['wrappers_20',['Wrappers',['../classrare_1_1shared_1_1wrappers_1_1_wrappers.html',1,'rare::shared::wrappers']]],
-  ['wrappersettings_21',['WrapperSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
-  ['wrappersettingsscroll_22',['WrapperSettingsScroll',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings_scroll.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
-  ['wrappertype_23',['WrapperType',['../classrare_1_1models_1_1wrapper_1_1_wrapper_type.html',1,'rare::models::wrapper']]],
-  ['wrapperwidget_24',['WrapperWidget',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_widget.html',1,'rare::components::tabs::settings::widgets::wrappers']]]
+  ['workarounds_14',['Workarounds',['../classrare_1_1utils_1_1workarounds_1_1_workarounds.html',1,'rare::utils::workarounds']]],
+  ['worker_15',['Worker',['../classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html',1,'rare::shared::workers::worker']]],
+  ['wrapper_16',['Wrapper',['../classrare_1_1models_1_1wrapper_1_1_wrapper.html',1,'rare::models::wrapper']]],
+  ['wrapperadddialog_17',['WrapperAddDialog',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_add_dialog.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
+  ['wrappercontainer_18',['WrapperContainer',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_container.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
+  ['wrappereditdialog_19',['WrapperEditDialog',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_edit_dialog.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
+  ['wrapperentry_20',['WrapperEntry',['../classrare_1_1shared_1_1wrappers_1_1_wrapper_entry.html',1,'rare::shared::wrappers']]],
+  ['wrappers_21',['Wrappers',['../classrare_1_1shared_1_1wrappers_1_1_wrappers.html',1,'rare::shared::wrappers']]],
+  ['wrappersettings_22',['WrapperSettings',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
+  ['wrappersettingsscroll_23',['WrapperSettingsScroll',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_settings_scroll.html',1,'rare::components::tabs::settings::widgets::wrappers']]],
+  ['wrappertype_24',['WrapperType',['../classrare_1_1models_1_1wrapper_1_1_wrapper_type.html',1,'rare::models::wrapper']]],
+  ['wrapperwidget_25',['WrapperWidget',['../classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1wrappers_1_1_wrapper_widget.html',1,'rare::components::tabs::settings::widgets::wrappers']]]
 ];

@@ -27,7 +27,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1components_1_1dialogs_1_1install_1_1selective_1_1_install_tag_check_box.html#acf3a93e2b0705f28b833cc1031b949a6" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classrare_1_1components_1_1dialogs_1_1install_1_1selective_1_1_install_tag_check_box.html#a7aaaf63c9033a97d9b3acf04a9af0ff1" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="113,-213 113,-243 306,-243 306,-213 113,-213"/>
 <text text-anchor="start" x="121" y="-231" font-family="Helvetica,sans-Serif" font-size="10.00">rare.components.dialogs.install.selective.</text>
 <text text-anchor="middle" x="209.5" y="-220" font-family="Helvetica,sans-Serif" font-size="10.00">InstallTagCheckBox.isChecked</text>
@@ -98,7 +98,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game.html#a72dad49f74d9c9ba67eca7e2ead920e4" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game.html#a7fee042eaeb31559fbc0231562996ed4" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="342,-218.5 342,-237.5 505,-237.5 505,-218.5 342,-218.5"/>
 <text text-anchor="middle" x="423.5" y="-225.5" font-family="Helvetica,sans-Serif" font-size="10.00">rare.models.game.RareGame.tags</text>
 </a>

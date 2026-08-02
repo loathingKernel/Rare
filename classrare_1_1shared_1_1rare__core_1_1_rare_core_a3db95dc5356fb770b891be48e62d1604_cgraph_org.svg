@@ -42,7 +42,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a49e55db05eec4eb1ddc6bf3d5609f390" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a8e64518038ab0b09353afea1615ff23e" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="108.5,-404 108.5,-423 230.5,-423 230.5,-404 108.5,-404"/>
 <text text-anchor="middle" x="169.5" y="-411" font-family="Helvetica,sans-Serif" font-size="10.00">__add_games_and_dlcs</text>
 </a>
@@ -118,7 +118,7 @@
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a79c176b5faed55afa14f43bf9096caf5" target="_top" xlink:title=" ">
+<g id="a_node9"><a xlink:href="classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a83fa357b6bb7ec9467f4ebb05da0c804" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="140,-166 140,-185 199,-185 199,-166 140,-166"/>
 <text text-anchor="middle" x="169.5" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">get_game</text>
 </a>

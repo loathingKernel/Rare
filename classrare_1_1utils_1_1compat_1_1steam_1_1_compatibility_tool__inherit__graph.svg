@@ -16,7 +16,7 @@
 <polygon fill="#bfbfbf" stroke="black" points="0,-0.5 0,-79.5 91,-79.5 91,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="45.5" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">CompatibilityTool</text>
 <polyline fill="none" stroke="black" points="0,-60.5 91,-60.5 "/>
-<text text-anchor="start" x="8" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ SteamRuntime</text>
+<text text-anchor="start" x="8" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ UmuRuntime</text>
 <polyline fill="none" stroke="black" points="0,-41.5 91,-41.5 "/>
 <text text-anchor="start" x="8" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ __bool__()</text>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ name()</text>

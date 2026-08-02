@@ -48,7 +48,7 @@ if (edges && edges.length) {
 <script type="text/javascript">
 var viewWidth = 632;
 var viewHeight = 57;
-var sectionId = 'dynsection-35';
+var sectionId = 'dynsection-41';
 </script>
 <script xlink:href="svgpan.js"/>
 <svg id="graph" class="graph">
@@ -94,7 +94,7 @@ var sectionId = 'dynsection-35';
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game.html#a52f719d3dd964e44c5550f2f79aacb7e" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classrare_1_1models_1_1game_1_1_rare_game.html#a6d3bed9f11ad3349384adff7a65f7932" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="382,-6 382,-25 427,-25 427,-6 382,-6"/>
 <text text-anchor="middle" x="404.5" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">launch</text>
 </a>

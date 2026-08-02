@@ -1,0 +1,33 @@
+<map id="create" name="create">
+<area shape="rect" id="node1" title=" " alt="" coords="19,1260,78,1287"/>
+<area shape="rect" id="node2" href="$classrare_1_1models_1_1steam_1_1_steam_shortcut.html#a2b241541c8c8e2763e2e648c726d6245" title=" " alt="" coords="221,29,333,56"/>
+<area shape="rect" id="node3" href="$classrare_1_1models_1_1game_1_1_rare_game_metadata.html#ae38252a12e16ac9644d9bed8c71a2474" title=" " alt="" coords="182,105,372,146"/>
+<area shape="rect" id="node4" href="$classrare_1_1models_1_1wrapper_1_1_wrapper.html#ae38252a12e16ac9644d9bed8c71a2474" title=" " alt="" coords="154,195,400,221"/>
+<area shape="rect" id="node5" href="$classrare_1_1shared_1_1wrappers_1_1_wrapper_entry.html#ae38252a12e16ac9644d9bed8c71a2474" title=" " alt="" coords="180,270,374,311"/>
+<area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_system_detail_item.html#a0f9e5898108139b863167c7f5a29e9f2" title=" " alt="" coords="136,359,418,401"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_system_detail.html#adbcd605550a9a88682a036794c320045" title=" " alt="" coords="136,449,418,490"/>
+<area shape="rect" id="node8" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_system_details.html#a49802cd90cd149ca671d2fc4a5f5d744" title=" " alt="" coords="136,538,418,579"/>
+<area shape="rect" id="node9" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_product_about.html#a4639cd4b9c444c8bf061a87b4bdd72cd" title=" " alt="" coords="136,627,418,669"/>
+<area shape="rect" id="node10" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_product_detail.html#a76860c1e9ec785c21642c5cd346a3253" title=" " alt="" coords="136,717,418,758"/>
+<area shape="rect" id="node11" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1diesel_1_1_diesel_product.html#aa9570528e39311fac2a237d233ca2111" title=" " alt="" coords="136,806,418,847"/>
+<area shape="rect" id="node12" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_image_url_model.html#a8ff52e75bcd58482d61fc9bb4e85abfc" title=" " alt="" coords="126,895,428,937"/>
+<area shape="rect" id="node13" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_total_price_model.html#a3c1161fd3427984e717fd39c9443aacd" title=" " alt="" coords="126,985,428,1026"/>
+<area shape="rect" id="node14" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_get_price_res_model.html#a611b9afe4613f773084bde1759271ef6" title=" " alt="" coords="126,1074,428,1115"/>
+<area shape="rect" id="node15" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_promotional_offer_model.html#ab025e76a7066dbf50593340a3724e5c1" title=" " alt="" coords="126,1163,428,1205"/>
+<area shape="rect" id="node17" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_promotions_model.html#a5c1cbd0ceee3846b15b0d656de5130ae" title=" " alt="" coords="126,1253,428,1294"/>
+<area shape="rect" id="node18" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_catalog_offer_model.html#a354c4b2ff100ee448da4e4e6fb670889" title=" " alt="" coords="126,1342,428,1383"/>
+<area shape="rect" id="node19" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_wishlist_item_model.html#ae58a388a5ef0d84302ea71ae818a65a4" title=" " alt="" coords="126,1431,428,1473"/>
+<area shape="rect" id="node20" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_paging_model.html#ae04e1bcf7df9ea96b8ac381a41900222" title=" " alt="" coords="126,1521,428,1562"/>
+<area shape="rect" id="node21" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_search_store_model.html#aac34024a7e2f59ec57f2415b3ca7c666" title=" " alt="" coords="126,1610,428,1651"/>
+<area shape="rect" id="node22" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_catalog_model.html#a0882c6c6d13ee3be6225359a5340fc0c" title=" " alt="" coords="126,1699,428,1741"/>
+<area shape="rect" id="node23" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_wishlist_items_model.html#abdcbd115220eae12405a6f96b60d2807" title=" " alt="" coords="126,1789,428,1830"/>
+<area shape="rect" id="node24" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_remove_from_wishlist_model.html#a610f550aa1f070ade41d55614af49573" title=" " alt="" coords="126,1878,428,1919"/>
+<area shape="rect" id="node25" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_add_to_wishlist_model.html#a2278c6ef96613cd92538215e8b55260d" title=" " alt="" coords="126,1967,428,2009"/>
+<area shape="rect" id="node26" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_wishlist_model.html#adcff3a42a58e833f056650a92eb7117b" title=" " alt="" coords="126,2057,428,2098"/>
+<area shape="rect" id="node27" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_data_model.html#adcd17fae4c465e94a3a30e345e802c22" title=" " alt="" coords="126,2146,428,2187"/>
+<area shape="rect" id="node28" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_error_model.html#a6fc0dd9c4dfb644b2f6ba38bf7b77d56" title=" " alt="" coords="126,2235,428,2277"/>
+<area shape="rect" id="node29" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_extensions_model.html#a999720c4dd0c9e42989984e5615c2267" title=" " alt="" coords="126,2325,428,2366"/>
+<area shape="rect" id="node30" href="$classrare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1response_1_1_response_model.html#add1da93499deea28c7ca6712b47f7e6f" title=" " alt="" coords="126,2414,428,2455"/>
+<area shape="rect" id="node31" href="$classrare_1_1models_1_1steam_1_1_steam_shortcut.html#a4b37c64e0ecde54f58e7841ebcb5f57c" title=" " alt="" coords="239,2504,315,2531"/>
+<area shape="rect" id="node16" href="$namespacerare_1_1components_1_1tabs_1_1store_1_1api_1_1models_1_1utils.html#a44e22acfab98b4847b3493b14c38c489" title=" " alt="" coords="476,1349,814,1376"/>
+</map>

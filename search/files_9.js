@@ -1,8 +1,8 @@
 var searchData=
 [
   ['icon_5fgame_5fwidget_2epy_0',['icon_game_widget.py',['../icon__game__widget_8py.html',1,'']]],
-  ['icon_5fwidget_2epy_1',['icon_widget.py',['../icon__widget_8py.html',1,'']]],
-  ['image_2epy_2',['image.py',['../components_2tabs_2store_2widgets_2image_8py.html',1,'(Global Namespace)'],['../models_2image_8py.html',1,'(Global Namespace)']]],
+  ['icon_5fwidget_2epy_1',['icon_widget.py',['../library_2widgets_2icon__widget_8py.html',1,'(Global Namespace)'],['../store_2widgets_2icon__widget_8py.html',1,'(Global Namespace)']]],
+  ['image_2epy_2',['image.py',['../image_8py.html',1,'']]],
   ['image_5fmanager_2epy_3',['image_manager.py',['../image__manager_8py.html',1,'']]],
   ['image_5fwidget_2epy_4',['image_widget.py',['../image__widget_8py.html',1,'']]],
   ['import_5fgroup_2epy_5',['import_group.py',['../components_2tabs_2integrations_2import__group_8py.html',1,'(Global Namespace)'],['../ui_2components_2tabs_2integrations_2import__group_8py.html',1,'(Global Namespace)']]],

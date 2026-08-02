@@ -27,32 +27,32 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ad6acab567ee6df6a65b0d93623c08d18" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="112.33,-106 112.33,-125 175.33,-125 175.33,-106 112.33,-106"/>
-<text text-anchor="middle" x="143.83" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">__proc_kill</text>
+<g id="a_node2"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#aee41db83ecf818a04ed03866a5920ca4" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="114.83,-106 114.83,-125 172.83,-125 172.83,-106 114.83,-106"/>
+<text text-anchor="middle" x="143.83" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">_proc_kill</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M40.75,-83.96C50.99,-87.78 64.34,-92.62 76.33,-96.5 84.7,-99.21 93.74,-101.92 102.36,-104.42"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="101.66,-107.86 112.24,-107.24 103.58,-101.13 101.66,-107.86"/>
+<path fill="none" stroke="midnightblue" d="M40.75,-83.96C50.99,-87.78 64.34,-92.62 76.33,-96.5 85.47,-99.46 95.4,-102.42 104.73,-105.1"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="103.97,-108.53 114.55,-107.88 105.88,-101.79 103.97,-108.53"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#ac2ff56cbc5075514d1e49aeb071a7b6d" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="108.33,-68 108.33,-87 179.33,-87 179.33,-68 108.33,-68"/>
-<text text-anchor="middle" x="143.83" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">__proc_term</text>
+<g id="a_node3"><a xlink:href="classrare_1_1commands_1_1launcher_1_1_rare_launcher.html#a61bac4612297d7c28aba4933cd25c0b8" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="111.33,-68 111.33,-87 176.33,-87 176.33,-68 111.33,-68"/>
+<text text-anchor="middle" x="143.83" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00">_proc_term</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M40.37,-77.5C55.17,-77.5 77.54,-77.5 97.61,-77.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="97.85,-81 107.85,-77.5 97.85,-74 97.85,-81"/>
+<path fill="none" stroke="midnightblue" d="M40.37,-77.5C56,-77.5 80.09,-77.5 100.98,-77.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="101.24,-81 111.24,-77.5 101.24,-74 101.24,-81"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">

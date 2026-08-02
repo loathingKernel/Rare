@@ -1,6 +1,9 @@
 var classrare_1_1lgndr_1_1core_1_1_legendary_core =
 [
     [ "__init__", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a4ee122c130dd6755d8cecc348c37be3b", null ],
+    [ "auth_code", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a0096a9c8ad0f4403211cc904de663d6f", null ],
+    [ "auth_ex_token", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a03c83bd250c29393df37c4345e0395ea", null ],
+    [ "auth_import", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html#aa81847f392455e684a2d27bddcdf0170", null ],
     [ "default_platform", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a3ae4fe315e7d530f77daf1e8d63468e3", null ],
     [ "egl_export", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html#af7515f96f174207e59d14b1e1c288aad", null ],
     [ "egl_import", "classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a08d2eefda81bf752cd327bd12a87a039", null ],

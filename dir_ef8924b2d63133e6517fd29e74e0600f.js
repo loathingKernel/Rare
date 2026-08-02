@@ -8,9 +8,14 @@ var dir_ef8924b2d63133e6517fd29e74e0600f =
     [ "metrics.py", "metrics_8py.html", "metrics_8py" ],
     [ "misc.py", "misc_8py.html", "misc_8py" ],
     [ "paths.py", "paths_8py.html", "paths_8py" ],
-    [ "qt_requests.py", "qt__requests_8py.html", "qt__requests_8py" ],
+    [ "qrequests.py", "qrequests_8py.html", "qrequests_8py" ],
     [ "singleton.py", "singleton_8py.html", "singleton_8py" ],
+    [ "slot_adapters.py", "slot__adapters_8py.html", [
+      [ "CallableSlotAdapter", "classrare_1_1utils_1_1slot__adapters_1_1_callable_slot_adapter.html", "classrare_1_1utils_1_1slot__adapters_1_1_callable_slot_adapter" ],
+      [ "CallableAction", "classrare_1_1utils_1_1slot__adapters_1_1_callable_action.html", "classrare_1_1utils_1_1slot__adapters_1_1_callable_action" ]
+    ] ],
     [ "steam_grades.py", "steam__grades_8py.html", "steam__grades_8py" ],
     [ "steam_shortcuts.py", "steam__shortcuts_8py.html", "steam__shortcuts_8py" ],
-    [ "workarounds.py", "workarounds_8py.html", "workarounds_8py" ]
+    [ "workarounds.py", "workarounds_8py.html", "workarounds_8py" ],
+    [ "wrapper_exe.py", "wrapper__exe_8py.html", "wrapper__exe_8py" ]
 ];

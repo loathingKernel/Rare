@@ -1,0 +1,12 @@
+<map id="sdl_data" name="sdl_data">
+<area shape="rect" id="node1" title=" " alt="" coords="10,254,81,280"/>
+<area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1integrations_1_1egl__sync__group_1_1_e_g_l_sync_list_item.html#a9c470cc60eae203f55455d0e0d7f5712" title=" " alt="" coords="129,138,393,180"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="904,225,1078,266"/>
+<area shape="rect" id="node5" href="$classrare_1_1models_1_1game_1_1_rare_game.html#a1e914552c775e095849d4c5e6e6840bd" title="Property to report if an InstalledGame has updates available." alt="" coords="216,228,306,255"/>
+<area shape="rect" id="node10" href="$classrare_1_1models_1_1game_1_1_rare_eos_overlay.html#a1e914552c775e095849d4c5e6e6840bd" title=" " alt="" coords="441,304,617,345"/>
+<area shape="rect" id="node4" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a5d3220537164bdcd6c040b54ef85f656" title=" " alt="" coords="1132,110,1312,152"/>
+<area shape="rect" id="node6" href="$classrare_1_1models_1_1game_1_1_rare_game.html#adf94568f84b36f0c783d76df96936a8b" title="Property to report the remote version of an InstalledGame." alt="" coords="474,174,584,200"/>
+<area shape="rect" id="node7" href="$classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a3ae4fe315e7d530f77daf1e8d63468e3" title=" " alt="" coords="674,166,841,208"/>
+<area shape="rect" id="node8" href="$classrare_1_1models_1_1game__slim_1_1_rare_game_base.html#a3ae4fe315e7d530f77daf1e8d63468e3" title=" " alt="" coords="665,77,850,118"/>
+<area shape="rect" id="node9" href="$classrare_1_1models_1_1game__slim_1_1_rare_game_base.html#ab30564b64fbce0c0011c5cad85c5aba6" title="Property that holds the platforms a game is available for." alt="" coords="898,77,1084,118"/>
+</map>

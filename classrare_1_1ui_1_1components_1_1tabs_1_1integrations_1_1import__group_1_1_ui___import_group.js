@@ -15,7 +15,7 @@ var classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_u
     [ "import_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_ui___import_group.html#af89030da487d640a8762d1d144b33fe6", null ],
     [ "path_edit_label", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_ui___import_group.html#ab595b3a09d61e8606a4a686262cf8aee", null ],
     [ "platform_combo", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_ui___import_group.html#a957be94fd0dde80f452e09970ecd09d6", null ],
+    [ "platform_info", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_ui___import_group.html#ab5f117f98da39458cff35ceef8724862", null ],
     [ "platform_label", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_ui___import_group.html#a269a9f964e2db334958caf6986f750ec", null ],
-    [ "platform_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_ui___import_group.html#a9ec109776dbf1bf2649bbd3301fad805", null ],
-    [ "platform_tooltip", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_ui___import_group.html#a24140980919a312cd579c1ea5244835e", null ]
+    [ "platform_layout", "classrare_1_1ui_1_1components_1_1tabs_1_1integrations_1_1import__group_1_1_ui___import_group.html#a9ec109776dbf1bf2649bbd3301fad805", null ]
 ];

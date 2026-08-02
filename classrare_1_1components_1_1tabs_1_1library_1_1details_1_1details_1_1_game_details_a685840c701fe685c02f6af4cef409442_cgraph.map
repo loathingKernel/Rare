@@ -1,8 +1,15 @@
 <map id="hideEvent" name="hideEvent">
-<area shape="rect" id="node1" title=" " alt="" coords="7,171,86,197"/>
+<area shape="rect" id="node1" title=" " alt="" coords="7,253,86,280"/>
 <area shape="rect" id="node2" href="$classrare_1_1components_1_1tabs_1_1library_1_1details_1_1details_1_1_game_details.html#a8e830fc7e80a44be82d86c2234671aa3" title=" " alt="" coords="202,5,333,32"/>
-<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a673cb72b40e8c1b2dfab6dbc0e0e39e4" title=" " alt="" coords="181,81,354,122"/>
-<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1misc.html#a3544b31f50ff739b7e8bb4ab751026b7" title=" " alt="" coords="181,171,353,197"/>
+<area shape="rect" id="node3" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a6fd4772e3099e911c4878bd2cb9eba27" title=" " alt="" coords="181,81,354,122"/>
+<area shape="rect" id="node4" href="$namespacerare_1_1utils_1_1misc.html#a45a62163c9dafb97279370bca32ef055" title=" " alt="" coords="181,171,353,197"/>
 <area shape="rect" id="node5" href="$namespacerare_1_1utils_1_1misc.html#a75e1dd7e1c0a66c6cccfd8f5511fc81a" title=" " alt="" coords="201,246,333,287"/>
 <area shape="rect" id="node6" href="$classrare_1_1components_1_1tabs_1_1library_1_1widgets_1_1game__widget_1_1_game_widget.html#aa660d748bc3a0c7c2dfaa15cee8e6ba6" title=" " alt="" coords="134,335,401,377"/>
+<area shape="rect" id="node7" href="$classrare_1_1components_1_1tabs_1_1downloads_1_1widgets_1_1_update_widget.html#a1e436b61f937ea687fa3897d286899cf" title=" " alt="" coords="136,425,399,466"/>
+<area shape="rect" id="node8" href="$classrare_1_1models_1_1game__slim_1_1_rare_game_base.html#a1e436b61f937ea687fa3897d286899cf" title="Reports the currently installed version of the Game." alt="" coords="175,514,360,555"/>
+<area shape="rect" id="node9" href="$classrare_1_1lgndr_1_1core_1_1_legendary_core.html#a3ae4fe315e7d530f77daf1e8d63468e3" title=" " alt="" coords="458,469,625,510"/>
+<area shape="rect" id="node10" href="$classrare_1_1models_1_1game__slim_1_1_rare_game_base.html#a3ae4fe315e7d530f77daf1e8d63468e3" title=" " alt="" coords="449,558,634,599"/>
+<area shape="rect" id="node11" href="$classrare_1_1shared_1_1rare__core_1_1_rare_core.html#a405e1a4f20f16120f872ccd2654a1d56" title=" " alt="" coords="688,513,861,554"/>
+<area shape="rect" id="node13" href="$classrare_1_1models_1_1game__slim_1_1_rare_game_base.html#ab30564b64fbce0c0011c5cad85c5aba6" title="Property that holds the platforms a game is available for." alt="" coords="682,602,867,643"/>
+<area shape="rect" id="node12" href="$classrare_1_1shared_1_1workers_1_1worker_1_1_worker.html#a5d3220537164bdcd6c040b54ef85f656" title=" " alt="" coords="915,513,1095,554"/>
 </map>

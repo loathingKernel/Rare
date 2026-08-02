@@ -1,9 +1,10 @@
 var classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base =
 [
-    [ "__init__", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#a6f2ac2d0739ee4b03fbdb60274a2d1b5", null ],
+    [ "__init__", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#ad97d948cec589e77b8e4b9ae78590590", null ],
     [ "showEvent", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#a5b6a943cccc85daffddbc61bb1b9345d", null ],
     [ "tool_enabled", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#a910d37cae5a6d27a585d02b2727dbb77", null ],
     [ "core", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#ab65a1cfe05166d06195718a9587d7b86", null ],
+    [ "lgd_wrapper", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#a0dc4bfb8bb09061840273cff05304867", null ],
     [ "main_layout", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#a8bca68c145928164b86a7af9df216eea", null ],
     [ "prelaunch_args", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#ad61f7fee8712793f832f4f1991110b27", null ],
     [ "prelaunch_check", "classrare_1_1components_1_1tabs_1_1settings_1_1widgets_1_1launch_1_1_launch_settings_base.html#a8a8ca1f3eccecc7e4facf58ec6cca29c", null ],

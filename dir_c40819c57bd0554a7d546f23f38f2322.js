@@ -9,5 +9,8 @@ var dir_c40819c57bd0554a7d546f23f38f2322 =
     ] ],
     [ "import_login.py", "components_2dialogs_2login_2import__login_8py.html", [
       [ "ImportLogin", "classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login.html", "classrare_1_1components_1_1dialogs_1_1login_1_1import__login_1_1_import_login" ]
+    ] ],
+    [ "login_frame.py", "login__frame_8py.html", [
+      [ "LoginFrame", "classrare_1_1components_1_1dialogs_1_1login_1_1login__frame_1_1_login_frame.html", "classrare_1_1components_1_1dialogs_1_1login_1_1login__frame_1_1_login_frame" ]
     ] ]
 ];

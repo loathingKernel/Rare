@@ -2,6 +2,8 @@ var classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1landing__page_1_1_ui___
 [
     [ "retranslateUi", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1landing__page_1_1_ui___landing_page.html#a2a3925b8959fc912b76a38fd94909207", null ],
     [ "setupUi", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1landing__page_1_1_ui___landing_page.html#a2c5de4ae718a094fef8b292b2d712740", null ],
+    [ "form_layout", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1landing__page_1_1_ui___landing_page.html#a08dd9bd29112881a4bd6b1fe843781bb", null ],
+    [ "form_widget", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1landing__page_1_1_ui___landing_page.html#afe30c49fd680e03f54797aa7616b9a63", null ],
     [ "login_browser_label", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1landing__page_1_1_ui___landing_page.html#a7effefa56701d5dfb22d4334adc2520b", null ],
     [ "login_browser_radio", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1landing__page_1_1_ui___landing_page.html#a49c199809e64c02d944692f570b73a86", null ],
     [ "login_import_label", "classrare_1_1ui_1_1components_1_1dialogs_1_1login_1_1landing__page_1_1_ui___landing_page.html#a6801efbf130af7c340f9810e5caf7b99", null ],

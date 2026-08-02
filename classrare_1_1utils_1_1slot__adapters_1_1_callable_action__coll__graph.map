@@ -1,0 +1,4 @@
+<map id="CallableAction" name="CallableAction">
+<area shape="rect" id="node1" title="An action that calls a python callable." alt="" coords="5,131,111,208"/>
+<area shape="rect" id="node2" title=" " alt="" coords="23,5,93,83"/>
+</map>

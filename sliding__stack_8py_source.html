@@ -164,7 +164,7 @@ $(document).ready(function(){initNavTree('sliding__stack_8py_source.html',''); i
 <div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>        offsetx, offsety = self.frameRect().width(), self.frameRect().height()</div>
 <div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>        self.widget(_next).setGeometry(self.frameRect())</div>
 <div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span> </div>
-<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>        <span class="keywordflow">if</span> <span class="keywordflow">not</span> self.<a class="code hl_variable" href="classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#a34518feaad73f07364a04379a3dab183">m_direction</a>m_direction == Qt.Orientation.Horizontal:</div>
+<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>        <span class="keywordflow">if</span> self.<a class="code hl_variable" href="classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#a34518feaad73f07364a04379a3dab183">m_direction</a>m_direction != Qt.Orientation.Horizontal:</div>
 <div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span>            <span class="keywordflow">if</span> _now &lt; _next:</div>
 <div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>                offsetx, offsety = 0, -offsety</div>
 <div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>            <span class="keywordflow">else</span>:</div>
@@ -186,10 +186,10 @@ $(document).ready(function(){initNavTree('sliding__stack_8py_source.html',''); i
 <div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span> </div>
 <div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>        animgroup = QParallelAnimationGroup(self, finished=self.<a class="code hl_function" href="classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#ad33b03cf3496c64ea301895641933e64">animationDoneSlot</a>animationDoneSlot)</div>
 <div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span> </div>
-<div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>        <span class="keywordflow">for</span> index, start, end <span class="keywordflow">in</span> zip((_now, _next), (pnow, pnext - offset), (pnow + offset, pnext)):</div>
+<div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>        <span class="keywordflow">for</span> index, start, end <span class="keywordflow">in</span> zip((_now, _next), (pnow, pnext - offset), (pnow + offset, pnext), strict=<span class="keyword">False</span>):</div>
 <div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>            animation = QPropertyAnimation(</div>
 <div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>                self.widget(index),</div>
-<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>                b<span class="stringliteral">&quot;pos&quot;</span>,</div>
+<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>                b<span class="stringliteral">&#39;pos&#39;</span>,</div>
 <div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>                duration=self.<a class="code hl_variable" href="classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#aa0e22d4fa9997310a6a5b3e22ad31650">m_speed</a>m_speed,</div>
 <div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>                easingCurve=self.<a class="code hl_variable" href="classrare_1_1widgets_1_1sliding__stack_1_1_sliding_stacked_widget.html#aed011fbe20d8757e2f5b07d7c7b684d6">m_animationtype</a>m_animationtype,</div>
 <div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>                startValue=start,</div>

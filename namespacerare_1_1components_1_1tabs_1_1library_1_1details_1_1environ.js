@@ -1,0 +1,4 @@
+var namespacerare_1_1components_1_1tabs_1_1library_1_1details_1_1environ =
+[
+    [ "LocalEnvironSettings", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1environ_1_1_local_environ_settings.html", "classrare_1_1components_1_1tabs_1_1library_1_1details_1_1environ_1_1_local_environ_settings" ]
+];

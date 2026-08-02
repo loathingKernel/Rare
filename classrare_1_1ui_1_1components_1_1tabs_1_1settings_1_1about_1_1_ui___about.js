@@ -12,8 +12,8 @@ var classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about_1_1_ui___about =
     [ "license", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about_1_1_ui___about.html#a4e659be027e258b72df12349200a263e", null ],
     [ "license_label", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about_1_1_ui___about.html#a4732247a38362adef031355ebc50e715", null ],
     [ "open_browser", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about_1_1_ui___about.html#a93e0be5e6a22537ffa776e3c206a9cee", null ],
+    [ "update_field", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about_1_1_ui___about.html#a572c612dafee242ae0838eded7100c23", null ],
     [ "update_label", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about_1_1_ui___about.html#a035c13a496b4e80731c25be7729d8f25", null ],
-    [ "update_lbl", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about_1_1_ui___about.html#a439669f104d5c1caa4bb3d3d5d6439b4", null ],
     [ "version", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about_1_1_ui___about.html#a4c7a521b8f1a0769c09bfa4a1fca7dab", null ],
     [ "version_label", "classrare_1_1ui_1_1components_1_1tabs_1_1settings_1_1about_1_1_ui___about.html#a5c07bdc1035f798d04980b02065e62ca", null ]
 ];
