@@ -7,14 +7,16 @@ from typing import Any
 
 import requests
 
-from rare import __version__
-
 INNOSETUP_VERSION = '7.0.2'
 USER_AGENT = 'Rare-IS-Builder / 1.0 https://github.com/RareDevs/Rare'
 
 GITHUB_HEADERS = {'Accept': 'application/vnd.github+json', 'User-Agent': USER_AGENT, 'X-GitHub-Api-Version': '2026-03-10'}
 MY_DIR = Path(__file__).parent
 REPO_ROOT = MY_DIR.parent.parent
+
+BUNDLE_ARCH = os.environ.get('BUNDLE_ARCH', 'x86_64')
+BUNDLE_DIR = os.environ.get('BUNDLE_DIR', 'Rare.build')
+__version__ = os.environ.get('BUNDLE_VERSION', '0.0.0.0')
 
 
 def install_innosetup() -> None:
@@ -79,12 +81,12 @@ def main():
         if iscc_path is None:
             raise RuntimeError('Did not find "iscc" executable after installation')
 
-    installer_files = list((REPO_ROOT / 'build').glob('exe.win*'))
-    if not installer_files:
-        raise RuntimeError(f'Did not find an "exe.win..." folder in {REPO_ROOT / "build"}. Did you run "freeze.py build_exe"?')
-    if len(installer_files) > 1:
-        print(f'Warning: Found multiple executable directories in {REPO_ROOT / "build"}. Choosing {installer_files[0]}')
-    files_dir = installer_files[0]
+    # installer_files = list((REPO_ROOT / 'build').glob('exe.win*'))
+    # if not installer_files:
+    #     raise RuntimeError(f'Did not find an "exe.win..." folder in {REPO_ROOT / "build"}. Did you run "freeze.py build_exe"?')
+    # if len(installer_files) > 1:
+    #     print(f'Warning: Found multiple executable directories in {REPO_ROOT / "build"}. Choosing {installer_files[0]}')
+    # files_dir = installer_files[0]
 
     subprocess.run(
         [
@@ -92,8 +94,8 @@ def main():
             f'/dAppVersion={__version__}',
             f'/dNumericVersion={try_make_numeric(__version__)}',
             f'/dSourceDir={REPO_ROOT}',
-            f'/dFilesDir={files_dir}',
-            MY_DIR / 'setup.iss',
+            f'/dFilesDir={REPO_ROOT / BUNDLE_DIR}',
+            MY_DIR / f'setup-{BUNDLE_ARCH}.iss',
         ],
         check=True,
     )
