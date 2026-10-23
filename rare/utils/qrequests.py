@@ -73,7 +73,7 @@ class QRequests(QObject):
             QNetworkRequest.Attribute.RedirectPolicyAttribute,
             QNetworkRequest.RedirectPolicy.NoLessSafeRedirectPolicy,
         )
-        # request.setAttribute(QNetworkRequest.Attribute.Http2AllowedAttribute, False)
+        request.setAttribute(QNetworkRequest.Attribute.Http2AllowedAttribute, False)
         if self._cache is not None:
             request.setAttribute(
                 QNetworkRequest.Attribute.CacheLoadControlAttribute,
