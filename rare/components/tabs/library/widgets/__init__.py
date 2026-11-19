@@ -239,6 +239,7 @@ class LibraryWidgetController(QObject):
         self.rcore.completed.connect(self.refresh_game_view)
         self.signals.game.installed.connect(self.update_game_view)
         self.signals.game.uninstalled.connect(self.update_game_view)
+        self.signals.application.update_library.connect(self.update_game_view)
 
     def add_game(self, rgame: RareGame):
         return self.add_widget(rgame)

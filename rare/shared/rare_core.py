@@ -307,9 +307,11 @@ class RareCore(QObject):
         rgame.signals.game.uninstalled.connect(self.__signals.game.uninstalled)
 
         rgame.signals.game.launched.connect(self.__signals.application.update_tray)
+        rgame.signals.game.launched.connect(self.__signals.application.update_library)
         rgame.signals.game.launched.connect(self.__signals.discord_rpc.update_presence)
 
         rgame.signals.game.finished.connect(self.__signals.application.update_tray)
+        rgame.signals.game.finished.connect(self.__signals.application.update_library)
         rgame.signals.game.finished.connect(self.__signals.discord_rpc.remove_presence)
 
         self.__library[rgame.app_name] = rgame

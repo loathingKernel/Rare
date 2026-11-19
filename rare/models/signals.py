@@ -16,6 +16,8 @@ class GlobalSignalsApplicationSignals(QObject):
     # change_translation = Signal(str)
     # none
     update_game_tags = Signal()
+    # none
+    update_library = Signal()
 
 
 class GlobalSignalsGameSignals(QObject):
